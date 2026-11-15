@@ -17,7 +17,8 @@
 | **Estratégia de publicação** | GitHub Pages a partir da branch `main`, com caminhos relativos compatíveis com subdiretórios. |
 | **Repositório remoto** | `https://github.com/x3x31/XLearn.git` |
 | **Versão atual** | `0.52.0` (REQ-056 — verificação automática de disponibilidade do apelido no cadastro) |
-| **Data da última atualização** | 2026-11-10 |
+| **Próxima versão planejada** | `0.53.0` (REQ-057) e `0.54.0` (REQ-058) |
+| **Data da última atualização** | 2026-11-15 |
 
 ---
 
@@ -42,7 +43,7 @@ A interface é em português brasileiro e prioriza telas pequenas, com navegaç�
 
 ## C. Especificações funcionais
 
-Legenda dos estados possíveis: `PENDENTE`, `EM DESENVOLVIMENTO`, `IMPLEMENTADO`, `VALIDADO`, `BLOQUEADO`. Os requisitos REQ-001 a REQ-056 estão `IMPLEMENTADO`, conforme a coluna Status abaixo.
+Legenda dos estados possíveis: `PENDENTE`, `EM DESENVOLVIMENTO`, `IMPLEMENTADO`, `VALIDADO`, `BLOQUEADO`. Os requisitos REQ-001 a REQ-056 estão `IMPLEMENTADO`; REQ-057 e REQ-058 estão `PENDENTE`, conforme a coluna Status abaixo.
 
 ### Fase 1 — Base funcional
 
@@ -190,6 +191,13 @@ Legenda dos estados possíveis: `PENDENTE`, `EM DESENVOLVIMENTO`, `IMPLEMENTADO`
 |---|---|---|---|---|
 | REQ-056 | Verificação automática de apelido | No modo “Criar conta”, ao sair do campo Apelido, o app deve consultar o servidor e informar de forma acessível se o apelido está disponível. Apelido em uso deve ser anunciado e bloquear o envio; falha de rede ou de configuração não pode impedir o cadastro, apenas avisar que a verificação não foi possível. A consulta deve devolver somente verdadeiro/falso, sem expor e-mails, IDs ou a lista de apelidos. | Alta | IMPLEMENTADO |
 
+### Fase 19 — Recuperação de conta e conquistas remotas
+
+| ID | Nome | Descrição | Prioridade | Status |
+|---|---|---|---|---|
+| REQ-057 | Recuperação de moedas, nível e temporada no login | Ao entrar em uma conta existente, recuperar do Supabase as moedas, o nível e os dias ativos da temporada a partir de `season_scores`, usando os dados remotos quando forem diferentes dos locais. A recuperação deve ocorrer antes de renderizar o estado da conta, manter os dias ativos remotos como base e não criar nem alterar o schema do ranking. | Alta | PENDENTE |
+| REQ-058 | Sincronização de conquistas com o Supabase | Persistir no Supabase as conquistas desbloqueadas e coletadas de cada conta, em tabela privada protegida por RLS, e carregá-las no login. A mesclagem deve preservar a união dos desbloqueios, a primeira data de desbloqueio, o status de coleta e a recompensa, sem duplicar moedas; exclusões devem ser propagadas e repetidas quando a rede voltar. | Alta | PENDENTE |
+
 ### Critérios de aceitação gerais
 
 - Nenhuma prova deve ser cadastrada manualmente no código: a fonte é o manifesto gerado.
@@ -209,6 +217,12 @@ Legenda dos estados possíveis: `PENDENTE`, `EM DESENVOLVIMENTO`, `IMPLEMENTADO`
 - “Apagar progresso” deve remover o progresso local, atualizar a tela e excluir a pontuação da conta no Supabase; falhas de rede devem ficar pendentes e ser repetidas ao reconectar.
 - As moedas devem desaparecer em alturas aleatórias durante a queda, e coletas consecutivas devem reutilizar a mesma camada e tocar o som novamente, sem animações sobrepostas.
 - Ao sair do campo Apelido no cadastro, o app deve informar se o apelido está disponível; apelido em uso bloqueia o envio e falhas de rede apenas avisam, sem impedir o cadastro.
+- No login de uma conta existente, as moedas, o nível e os dias ativos da temporada devem ser recuperados de `season_scores`; em caso de diferença, os dados remotos prevalecem e a recuperação não pode exigir alteração no schema do ranking.
+- A recuperação de temporada deve usar os dias ativos remotos como base e continuar contando apenas os novos dias locais, sem apagar a pontuação remota.
+- Conquistas desbloqueadas e coletadas devem ser carregadas no login e mescladas por união, preservando a primeira data de desbloqueio, o status de coleta e a recompensa sem duplicar moedas.
+- Conquistas de uma conta não podem aparecer em outra conta nem no modo visitante; a tabela remota deve ser privada e protegida por RLS.
+- “Apagar progresso” deve excluir também as conquistas remotas da conta; falhas de rede devem ficar pendentes e ser repetidas ao reconectar.
+- Importar backup deve mesclar as conquistas com as remotas por padrão, preservando a união; a substituição remota fica fora desta fase.
 - A progressão deve ocorrer em commits funcionais independentes, com push após cada entrega.
 
 ---
@@ -232,7 +246,7 @@ XLearn/
 └── .git/
 ```
 
-Arquitetura atual (estado final, após REQ-033, REQ-027 e REQ-028):
+Arquitetura atual (estado após REQ-056, com a Fase 19 planejada):
 
 ```
 XLearn/
@@ -269,7 +283,8 @@ XLearn/
 │   ├── manifest.json         # IMPLEMENTADO: gerado, não editar à mão
 │   └── *.md                  # 10 materiais de estudo preservados
 ├── supabase/
-│   └── schema.sql            # NOVO: tabela, view, índices, grants, RLS e políticas do ranking
+│   ├── schema.sql            # NOVO: tabelas, views, índices, grants, RLS, políticas e RPCs
+│   └── migrations/           # migrations aplicadas e, na Fase 19, a tabela user_achievements
 ├── specs/                    # DOC-001: especificação normativa em nove documentos temáticos
 │   ├── README.md             # índice, estado resumido e convenções
 │   ├── 01-visao-geral.md     # problema, escopo, personas, princípios e glossário
@@ -399,6 +414,8 @@ Campos reais: `schema_version`, `material_id`, `bank`, `subject`, `topic`, `requ
 | Conquistas pendentes na home | `renderHomeAchievements()` filtra `listAchievements` por `achievementClaim(...).collectible` e insere a seção logo após a visão rápida, com a mesma grade e o mesmo botão acessível da tela de progresso. Ao coletar, `collectAchievement` mantém a seção renderizada durante os 1300 ms da cascata, aguarda a animação e só então chama `render()`; sem pendências, a seção deixa de existir e o foco vai para a próxima conquista, para a própria seção ou para o conteúdo da home. A cascata usa uma camada `position: fixed` no centro da viewport (`top/left: 50%`) e distribui as moedas por `--x`, `--drift` e `--delay`. | Torna as recompensas visíveis sem exigir que o estudante abra a tela de progresso e evita que o item desapareça antes da comemoração. O centro fixo impede que a animação seja cortada ou deslocada em telas pequenas e mantém a comemoração independente do layout do cartão. |
 | Cabeçalho fixo da prova | A `.quiz-head` de `renderQuiz` usa `position: sticky` com `top: var(--topbar-height)`, `z-index: 30`, fundo translúcido com `backdrop-filter`, borda inferior e margens negativas equivalentes ao padding do conteúdo (16 px no mobile e 24 px em telas maiores). O bloco contém o título, o contador de progresso e o cronômetro, que continuam acessíveis durante a rolagem. | Mantém o tempo e o avanço visíveis sem criar uma segunda barra fixa, sem cobrir o topo do app e sem exigir posicionamento absoluto que quebraria o fluxo do documento ou a rolagem em telas pequenas. |
 | Campos de explicação | `normalizeQuestion` monta `explanation` apenas com `resolution` e `theoreticalContent`; `bank_approach`, `study_tip` e `review_summary` não são lidos. `renderFeedback` exibe a resolução, o bloco opcional “Aula completa” e o comentário de cada alternativa, sem seções de banca, dica ou resumo. | Alinha o app ao novo formato de geração dos estudos, reduz o payload em memória e evita depender de campos que deixarão de existir. Materiais antigos continuam carregando porque os campos extras são simplesmente ignorados. |
+| Recuperação de moedas, nível e temporada | No login de uma conta existente, o app consulta o próprio registro em `season_scores` e aplica ao estado local `coins`, `level_number`/`level_name` e `active_days` quando os dados remotos forem diferentes. A recuperação usa `season.recovered` para guardar o snapshot remoto e o dia de referência; `activeDaysInSeason` soma apenas os dias locais posteriores. Não há alteração de schema, RPC ou política de ranking nesta fase. | O placar remoto já é a fonte autoritativa da temporada e cobre exatamente moedas, nível e dias ativos; reconstruir esses dados localmente a partir do histórico seria incompleto. O baseline evita contar duas vezes os dias antigos. |
+| Conquistas remotas | A Fase 19 cria `public.user_achievements` com chave `(user_id, achievement_id)`, timestamps de desbloqueio/coleta, recompensa e `updated_at`, protegida por RLS de leitura/escrita apenas para `auth.uid() = user_id`. `js/cloud.js` ganha fetch/save/delete; o app mescla por união com o estado local, mantém a coleta mais antiga e envia as mudanças em segundo plano. Exclusões usam fila pendente e são processadas antes de novas buscas. | Conquistas não existem no ranking e precisam de persistência própria para acompanhar a conta; a união e a regra de coleta preservam progresso local e evitam pagar a mesma recompensa duas vezes. |
 | Conta Supabase | `js/cloud.js` fala diretamente com GoTrue (`/auth/v1/signup`, `/auth/v1/token`, `/auth/v1/user`, `/auth/v1/logout`) e PostgREST (`/rest/v1/season_scores`, `/rest/v1/season_leaderboard`) via `fetch`, sem SDK ou dependência de runtime. O cadastro tenta entrar primeiro e cria a conta se as credenciais não existirem; apelido, e-mail e senha são validados no cliente e no servidor. A sessão (access token, refresh token, validade, `user_id` e apelido) fica em `meta/cloudAuth`; a senha nunca é armazenada. Tokens são renovados antes de expirar e erros de autenticação limpam a sessão local. | Mantém o projeto em JavaScript puro, reduz o shell e deixa o fluxo testável com `fetch` simulado. A renovação evita interromper o estudo e a sessão persistida atende à temporada inteira. |
 | Ranking da temporada | `supabase/schema.sql` cria `season_scores` com PK `(user_id, season_id)`, apelido, nível, moedas, dias ativos e `updated_at`, além da view `season_leaderboard` com `row_number()` por moedas, dias ativos e antiguidade. RLS permite leitura pública e escrita apenas de `auth.uid() = user_id`; o e-mail permanece em `auth.users`. O app consulta o top 5 e a linha do próprio usuário, destaca “Você” quando aparecer no top 5 e mostra a posição separada quando estiver fora. | Ranking auditável, sem perfis fictícios e sem expor e-mail. A view concentra a ordenação para que todos os clientes vejam a mesma posição. |
 | Sincronização e offline | O placar é montado a partir de `summarizeSeason` (estágio, moedas da temporada e dias ativos) e enviado com `POST` + `Prefer: resolution=merge-duplicates`. O envio é agendado após respostas, conclusão de sessão, coleta de conquistas e boot, com debounce; ao abrir a home, o app tenta sincronizar e então atualiza o ranking. Falhas de rede não bloqueiam o estudo, mantêm o placar local e são reenviadas quando `online` volta. O ranking consultado é cacheado em `meta/cloudRank` para exibição offline. | O ranking reflete o mesmo ledger local já usado pelo personagem, sem criar uma segunda contabilidade. Cache e debounce evitam chamadas excessivas e permitem estudar sem internet. |
@@ -536,7 +553,7 @@ Campos reais: `schema_version`, `material_id`, `bank`, `subject`, `topic`, `requ
 
 ## I. Situação dos requisitos e dependências
 
-Os requisitos REQ-001 a REQ-056 estão implementados. A fase 9, a fase 10 (conta Supabase, sessão sazonal, sincronização de nível/moedas e ranking global da Temporada 1), a fase 11 (identidade na barra superior), a fase 12 (login e cadastro separados, rolagem ao apagar progresso e restrições do visitante), a fase 13 (cards da home restritos à conta e ordem definida), a fase 14 (isolamento dos dados de estudo por conta), a fase 15 (atualização local da home após a coleta), a fase 16 (cascata de moedas ampliada e som sincronizado), a fase 17 (exclusão remota do progresso e cascata contínua) e a fase 18 (disponibilidade de apelido no cadastro) estão concluídas. O DOC-001 consolidou a especificação normativa em `specs/`, sem alterar código de produção. O schema remoto foi aplicado, a confirmação de e-mail está desativada e a validação final em produção permanece como próxima tarefa.
+Os requisitos REQ-001 a REQ-056 estão implementados. A fase 9, a fase 10 (conta Supabase, sessão sazonal, sincronização de nível/moedas e ranking global da Temporada 1), a fase 11 (identidade na barra superior), a fase 12 (login e cadastro separados, rolagem ao apagar progresso e restrições do visitante), a fase 13 (cards da home restritos à conta e ordem definida), a fase 14 (isolamento dos dados de estudo por conta), a fase 15 (atualização local da home após a coleta), a fase 16 (cascata de moedas ampliada e som sincronizado), a fase 17 (exclusão remota do progresso e cascata contínua) e a fase 18 (disponibilidade de apelido no cadastro) estão concluídas. A fase 19 (REQ-057 e REQ-058) está registrada e permanece pendente. O DOC-001 consolidou a especificação normativa em `specs/`, sem alterar código de produção. O schema remoto foi aplicado, a confirmação de e-mail está desativada e a validação final em produção permanece como próxima tarefa.
 
 Dependências principais:
 
@@ -568,6 +585,8 @@ Dependências principais:
 - REQ-054 depende de REQ-022 (exclusão de progresso), REQ-041/REQ-042 (conta e sincronização), do cache de ranking de REQ-043 e do escopo ativo de REQ-051.
 - REQ-055 depende de REQ-033/REQ-037 (coleta e cascata), de REQ-053 (posicionamento e som) e de `js/sound.js` (Web Audio).
 - REQ-056 depende de REQ-041/REQ-045 (conta, cadastro e cliente `js/cloud.js`), da função RPC `nickname_available` no schema e do estado acessível da modal de conta.
+- REQ-057 depende de REQ-042 (placar em `season_scores`), de REQ-051 (escopo por conta) e do login de REQ-041/REQ-045.
+- REQ-058 depende de REQ-015/REQ-033 (conquistas e coleta), de REQ-041/REQ-051 (conta e escopo), da nova tabela `public.user_achievements` e da integração de `js/cloud.js` com `js/db.js` e `js/app.js`.
 
 ---
 
@@ -583,6 +602,9 @@ Dependências principais:
 | Schema do ranking aplicado no remoto | O projeto `qskeuqmlxbipiwsxyglv` já contém `season_scores`, `season_leaderboard`, índice, trigger e políticas RLS | A migration `supabase/migrations/20261107000000_season_ranking.sql` foi aplicada; o schema local `supabase/schema.sql` permanece como fonte canônica para novos ambientes. |
 | Exclusão remota requer a migration de `DELETE` | Sem a política `season_scores_delete_own` e o `GRANT DELETE`, o botão “Apagar progresso” limpa o local mas o placar remoto permanece e a exclusão fica pendente | A migration `supabase/migrations/20261110000000_score_delete.sql` precisa ser aplicada no projeto já existente; o app repete a exclusão ao reconectar e informa o estado no toast. |
 | Verificação de apelido requer a RPC no Supabase | Sem a função `public.nickname_available(text)`, o cadastro segue normalmente, mas o campo Apelido não consegue confirmar disponibilidade e mostra o aviso de verificação indisponível | A migration `supabase/migrations/20261110001000_nickname_available.sql` precisa ser aplicada no projeto existente; a função é `SECURITY DEFINER`, devolve apenas `true`/`false` e não expõe e-mails ou a lista de apelidos. |
+| Recuperação limitada ao placar da temporada | Progresso, SRS, tentativas, sessões e XP não são recuperados no login; apenas moedas, nível e dias ativos da temporada vêm de `season_scores` | Decisão de REQ-057: esses dados continuam locais ao dispositivo. Se a linha remota já foi sobrescrita com pontuação menor, o valor anterior não pode ser reconstruído apenas pelo Supabase. |
+| Conquistas remotas exigem migration | Sem `public.user_achievements`, o app mantém as conquistas locais, mas não consegue carregá-las em outro dispositivo nem sincronizar coletas | A migration `supabase/migrations/20261115000000_user_achievements.sql` precisa ser aplicada no projeto existente; a ausência da tabela deve falhar de forma não bloqueante e preservar o estudo offline. |
+| Importação de conquistas com estado remoto | Um backup antigo pode não conter conquistas que já existem na conta, e a substituição remota poderia apagar desbloqueios de outro dispositivo | Decisão inicial de REQ-058: a importação mescla por união com o estado remoto e preserva a primeira data/coleta; substituição remota fica fora desta fase. |
 | Confirmação de e-mail do Supabase | O fluxo desejado exige login imediato após o cadastro | `mailer_autoconfirm` está `true` no projeto remoto; o cadastro retornou sessão e `email_confirmado: true` no teste real. Se a opção for reativada, o app orienta a confirmar o e-mail. |
 | Pontuação enviada pelo cliente | Um usuário autenticado pode adulterar o próprio nível/moedas no payload | As políticas RLS impedem gravar em nome de outra conta, mas não validam a veracidade do placar. A limitação será registrada no README; uma validação autoritativa exigiria função/RPC no servidor. |
 | Sessão local em `meta/cloudAuth` | Tokens ficam no IndexedDB do dispositivo | A senha nunca é armazenada; o backup exclui `cloudAuth`. Sair da conta apaga a sessão local e revoga o refresh token quando há rede. |
@@ -591,8 +613,9 @@ Dependências principais:
 
 ## K. Testes
 
-### Verificação atual (2026-11-10)
+### Verificação atual (2026-11-15)
 
+- REQ-057 e REQ-058 registrados como `PENDENTE`; a implementação da Fase 19 ainda não foi iniciada. Nenhum código de produção foi alterado por esta atualização.
 - REQ-056 implementado; a fase 18 está concluída. As fases 9 a 17 continuam concluídas.
 - REQ-045: a modal de conta passou a abrir no modo “Entrar”, com apenas e-mail e senha, e a alternar para “Criar conta” por abas acessíveis. `submitCloudLogin` valida o apelido somente no cadastro, usa `signIn` no login e `signUp` no cadastro, sem criação automática de conta. Credenciais inválidas orientam a criar conta; e-mail já cadastrado orienta a entrar. O campo de apelido fica oculto e não obrigatório no login, e o `autocomplete` alterna entre `current-password` e `new-password`. Teste DOM com `happy-dom`/`fake-indexeddb` (21 verificações): abas com `role="tab"`/`aria-selected`/`aria-controls`, campo Apelido oculto no login e obrigatório no cadastro, títulos e rótulos por modo, login inválido sem chamada a `/auth/v1/signup`, e-mail existente orientando “Entrar”, cadastro válido conectando a conta e enviando o apelido, além do erro limpo ao trocar de aba. `node --check js/app.js` e `npm run check` passaram.
 - REQ-046: teste DOM com `happy-dom` (6 verificações) confirmou que, com a página em `scrollY = 320`, clicar em “Apagar progresso” não chamou `scrollTo({ top: 0 })`, restaurou a posição 320, exibiu “Apagar todo o progresso?”, moveu o foco para o título com `preventScroll` e chamou `scrollIntoView({ block: "nearest" })`. `node --check js/app.js` e `npm run check` passaram.
@@ -630,7 +653,7 @@ Dependências principais:
 - Toasts corrigidos e acima da modal: a animação `toast-rise` preserva `translate(-50%, …)` em todos os quadros, mantendo as mensagens centralizadas horizontalmente em qualquer tela; a modal usa `z-index` inferior ao dos toasts.
 - `npm run check`: 10 materiais válidos, 1.250 questões, 0 erros e 0 avisos.
 - `node --check` em todos os `js/*.js`, `service-worker.js` e `scripts/*.mjs`: sem erros de sintaxe.
-- `service-worker.js` em `v30`, com 31 caminhos no app shell (incluindo `js/cloud.js` e `js/cloud-config.js`), todos presentes no repositório.
+- `service-worker.js` em `v31`, com 31 caminhos no app shell (incluindo `js/cloud.js` e `js/cloud-config.js`), todos presentes no repositório.
 - `questoes/manifest.json` válido e coerente com os 10 materiais; `package.json` sem dependências de execução.
 
 ### Especificação (DOC-001)
@@ -720,13 +743,13 @@ As verificações abaixo são registros históricos de cada entrega; números e 
 
 ## L. Próxima tarefa recomendada
 
-**Validar as fases 10 e 11 em produção, manter as specs e preparar a continuidade da temporada.**
+**Implementar a Fase 19 — recuperação de conta e conquistas remotas.**
 
 Ordem prevista:
 
-1. Abrir `https://x3x31.github.io/XLearn/` em um navegador real e repetir o fluxo com uma conta de teste: login pela modal, início de prova, resposta de uma questão e UPSERT em `season_scores`. O backend já foi validado por REST; falta conferir a experiência completa no navegador.
-2. Verificar o top 5 da home, a posição do próprio usuário fora do top 5, o cartão da conta em `#/config`, a sincronização manual e a saída da conta. Conferir também a barra superior: apelido no lugar da assinatura, botão de sair ao lado das configurações, ausência da contagem de questões e estados Online/Offline/Visitante.
-3. Testar o modo offline: estudar sem rede, confirmar que o app não bloqueia a sessão e que o placar é reenviado ao reconectar.
-4. Remover a conta de teste criada no navegador e conferir que o ranking remoto não expõe e-mail nem tokens. O token administrativo usado na validação automatizada já foi removido de `/tmp/opencode/sbp_token`; recomenda-se revogá-lo no painel Supabase.
-5. Manter `specs/` sincronizada com o código: toda mudança de requisito deve atualizar o documento temático afetado e `PROJECT_STATUS.md` no mesmo commit.
+1. REQ-057: recuperar `coins`, `level_number`/`level_name` e `active_days` de `season_scores` no login, com snapshot em `season.recovered` e baseline de dias ativos; atualizar testes e este documento; commit/push.
+2. REQ-058: criar `public.user_achievements` e a migration, adicionar fetch/save/delete a `js/cloud.js`, mesclar conquistas no login e sincronizar mudanças; atualizar testes e este documento; commit/push.
+3. Aplicar a migration de conquistas no projeto remoto e validar login/recuperação em produção com uma conta de teste.
+4. Manter `specs/` e `README.md` sincronizados com cada requisito, no mesmo commit.
+5. Validar as fases 10 e 11 em produção, conforme a pendência anterior, após a Fase 19.
 6. Planejar a Temporada 2 (novo `seasonId`, período e faixas) antes de 04/12/2026, mantendo o congelamento da Temporada 1 e a possibilidade de arquivar o placar anterior.
