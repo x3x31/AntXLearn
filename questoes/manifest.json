@@ -1,50 +1,50 @@
 {
   "schemaVersion": 1,
   "generator": "scripts/build-manifest.mjs",
-  "generatedAt": "2026-11-15T08:30:00Z",
+  "generatedAt": "2026-11-15T09:00:00Z",
   "summary": {
-    "materials": 22,
-    "validMaterials": 13,
+    "materials": 21,
+    "validMaterials": 21,
     "invalidMaterials": 0,
-    "questions": 6862,
+    "questions": 3767,
     "errors": 0,
-    "warnings": 17
+    "warnings": 15
+  },
+  "files": [
+    {
+      "path": "questoes/ESTUDO_LINGUA_PORTUGUESA.md",
+      "file": "ESTUDO_LINGUA_PORTUGUESA.md",
+      "title": "Língua Portuguesa",
+      "materialId": "MAT-LP",
+      "bank": null,
+      "subject": "Língua Portuguesa",
+      "topic": "Todos os tópicos de Língua Portuguesa da apostila",
+      "language": "pt-BR",
+      "questionCount": 643,
+      "declaredQuestions": 643,
+      "sizeBytes": 2216368,
+      "sha256": "84fc6c7e3b2202eb2fc5d6ca58ee201b97b14aef428cb57744df38463fa1fbe6",
+      "valid": true,
+      "errors": [],
+      "warnings": []
     },
-    "files": [
-        {
-            "path": "questoes/ESTUDO_LINGUA_PORTUGUESA.md",
-            "file": "ESTUDO_LINGUA_PORTUGUESA.md",
-            "title": "Língua Portuguesa",
-            "materialId": "MAT-LP",
-            "bank": null,
-            "subject": "Língua Portuguesa",
-            "topic": "Todos os tópicos de Língua Portuguesa da apostila",
-            "language": "pt-BR",
-            "questionCount": 643,
-            "declaredQuestions": 643,
-            "sizeBytes": 2216368,
-            "sha256": "84fc6c7e3b2202eb2fc5d6ca58ee201b97b14aef428cb57744df38463fa1fbe6",
-            "valid": true,
-            "errors": [],
-            "warnings": []
-        },
-        {
-            "path": "questoes/ESTUDO_LEGISLACAO.md",
-            "file": "ESTUDO_LEGISLACAO.md",
-            "title": "Legislação",
-            "materialId": "MAT-LEG",
-            "bank": null,
-            "subject": "Legislação",
-            "topic": "Legislação municipal e Lei de Improbidade Administrativa",
-            "language": "pt-BR",
-            "questionCount": 221,
-            "declaredQuestions": 221,
-            "sizeBytes": 766643,
-            "sha256": "6aad0bc35115fb51157dfbc1f3abc2297d4dc9fe1deb3fbb78b74584941d7c81",
-            "valid": true,
-            "errors": [],
-            "warnings": []
-        },
+    {
+      "path": "questoes/ESTUDO_LEGISLACAO.md",
+      "file": "ESTUDO_LEGISLACAO.md",
+      "title": "Legislação",
+      "materialId": "MAT-LEG",
+      "bank": null,
+      "subject": "Legislação",
+      "topic": "Legislação municipal e Lei de Improbidade Administrativa",
+      "language": "pt-BR",
+      "questionCount": 221,
+      "declaredQuestions": 221,
+      "sizeBytes": 766643,
+      "sha256": "6aad0bc35115fb51157dfbc1f3abc2297d4dc9fe1deb3fbb78b74584941d7c81",
+      "valid": true,
+      "errors": [],
+      "warnings": []
+    },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_1.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_1.md",
@@ -56,13 +56,11 @@
       "language": "pt-BR",
       "questionCount": 161,
       "declaredQuestions": 161,
-      "sizeBytes": null,
-      "sha256": "f312677f4fab2d43b77c58fefe2a6f9bdf3b1fc64bdc80148eaeb4e84957e879",
-      "valid": null,
+      "sizeBytes": 1462098,
+      "sha256": "48065326b5667a344dd712b4a2d39d5c5813f891f766219e8dc0e222fc5140ab",
+      "valid": true,
       "errors": [],
-      "warnings": [
-        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
-      ]
+      "warnings": []
     },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_2.md",
@@ -73,14 +71,14 @@
       "subject": "Conhecimentos Específicos 2",
       "topic": "Algoritmos e Estrutura de Dados",
       "language": "pt-BR",
-      "questionCount": 239,
+      "questionCount": 240,
       "declaredQuestions": 239,
-      "sizeBytes": null,
-      "sha256": "c38bb358b5e5206a716d43ddfb9ff0eb9c9ed6d8b9963cb0a74e2662437244af",
-      "valid": null,
+      "sizeBytes": 1661066,
+      "sha256": "d5d5885a3a4cedb4721c94c153dc7645e5162da645451dba7a26c942cdd819be",
+      "valid": true,
       "errors": [],
       "warnings": [
-        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
+        "Metadado declaredQuestions (239) diverge da quantidade de blocos JSON encontrados (240)."
       ]
     },
     {
@@ -92,14 +90,14 @@
       "subject": "Conhecimentos Específicos 3",
       "topic": "Banco de Dados",
       "language": "pt-BR",
-      "questionCount": 195,
+      "questionCount": 196,
       "declaredQuestions": 195,
-      "sizeBytes": null,
-      "sha256": "055428836a9b1635a047ce80537b9070451ef99c531abd6aa9b4c1a7ec6a0343",
-      "valid": null,
+      "sizeBytes": 1595208,
+      "sha256": "cb1160f6bb55be44f12a8a770165f2afe4ea6a70fe8ef6c74de6720b6f0cc990",
+      "valid": true,
       "errors": [],
       "warnings": [
-        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
+        "Metadado declaredQuestions (195) diverge da quantidade de blocos JSON encontrados (196)."
       ]
     },
     {
@@ -111,14 +109,14 @@
       "subject": "Conhecimentos Específicos 4",
       "topic": "Engenharia de Software",
       "language": "pt-BR",
-      "questionCount": 196,
+      "questionCount": 197,
       "declaredQuestions": 196,
-      "sizeBytes": null,
-      "sha256": "4bc55f3ee4848c4e59ceafad9fe3eb0b22f8d28b4ed9dea1dffc453963d245ff",
-      "valid": null,
+      "sizeBytes": 1560638,
+      "sha256": "009fe91e9756483a643de751614ffd965ad1b945bb41e1101e84813c2eafed80",
+      "valid": true,
       "errors": [],
       "warnings": [
-        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
+        "Metadado declaredQuestions (196) diverge da quantidade de blocos JSON encontrados (197)."
       ]
     },
     {
@@ -130,14 +128,14 @@
       "subject": "Conhecimentos Específicos 5",
       "topic": "Teste, Qualidade e Gestão de Software",
       "language": "pt-BR",
-      "questionCount": 208,
+      "questionCount": 209,
       "declaredQuestions": 208,
-      "sizeBytes": null,
-      "sha256": "81d76e18694006cdc29f7df36f246c08a095bcdfcafd770f1bc62ae4fc3c0d16",
-      "valid": null,
+      "sizeBytes": 1844362,
+      "sha256": "924a291bf96fc64c87de68f5620995bdecc4b45a91991b38ca20afce06ced557",
+      "valid": true,
       "errors": [],
       "warnings": [
-        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
+        "Metadado declaredQuestions (208) diverge da quantidade de blocos JSON encontrados (209)."
       ]
     },
     {
@@ -149,14 +147,14 @@
       "subject": "Conhecimentos Específicos 6",
       "topic": "Metodologias Ágeis e UML",
       "language": "pt-BR",
-      "questionCount": 65,
+      "questionCount": 66,
       "declaredQuestions": 65,
-      "sizeBytes": null,
-      "sha256": "c2d5c25a6368532528be384fa212a66e020b0471e29b8e27f0dfbb170eb073ae",
-      "valid": null,
+      "sizeBytes": 652623,
+      "sha256": "2d0a63bce1a6ea1d46e785d5e01467cf15bab4a0d22c03534b2a55f4d7e8ccc2",
+      "valid": true,
       "errors": [],
       "warnings": [
-        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
+        "Metadado declaredQuestions (65) diverge da quantidade de blocos JSON encontrados (66)."
       ]
     },
     {
@@ -168,14 +166,14 @@
       "subject": "Conhecimentos Específicos 7",
       "topic": "Redes de Computadores e Sistemas Operacionais",
       "language": "pt-BR",
-      "questionCount": 193,
+      "questionCount": 194,
       "declaredQuestions": 193,
-      "sizeBytes": null,
-      "sha256": "8ad1e9e805606fe21c40b4bc6598ec8cdcaeec42569041b4a4eedbbbb3ed0f07",
-      "valid": null,
+      "sizeBytes": 1617493,
+      "sha256": "3ece070b5f383e9551e26db01876d4b61850cb188dba1ed48ded75cbe1a4d93d",
+      "valid": true,
       "errors": [],
       "warnings": [
-        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
+        "Metadado declaredQuestions (193) diverge da quantidade de blocos JSON encontrados (194)."
       ]
     },
     {
@@ -187,14 +185,14 @@
       "subject": "Conhecimentos Específicos 8",
       "topic": "Javascript, Typescrpt, Node.js e LGPD",
       "language": "pt-BR",
-      "questionCount": 185,
+      "questionCount": 186,
       "declaredQuestions": 185,
-      "sizeBytes": null,
-      "sha256": "4f8fab09dc9875f1c6ad4def6ac6e9d75a8d1d372132dfb641c204662d0a4e6a",
-      "valid": null,
+      "sizeBytes": 1346365,
+      "sha256": "faddbd5e2ff3be463267bb65e7d0a501bd1f67a80348c2222d42ce1466144b96",
+      "valid": true,
       "errors": [],
       "warnings": [
-        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
+        "Metadado declaredQuestions (185) diverge da quantidade de blocos JSON encontrados (186)."
       ]
     },
     {
@@ -206,195 +204,195 @@
       "subject": "Conhecimentos Específicos 9",
       "topic": "React, React Native e Nestjs",
       "language": "pt-BR",
-      "questionCount": 1653,
+      "questionCount": 204,
       "declaredQuestions": 1653,
-      "sizeBytes": null,
-      "sha256": "44065eb3c9706adbac388ad1b13429f8ed67ad302631ecdccbac13bbe0b125d2",
-      "valid": null,
+      "sizeBytes": 1498396,
+      "sha256": "4788427b1b44c33b4f2582a1910faae8963f8645b3f855460da7e992a7696039",
+      "valid": true,
       "errors": [],
       "warnings": [
-        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
+        "Metadado declaredQuestions (1653) diverge da quantidade de blocos JSON encontrados (204)."
       ]
     },
-		{
-            "path": "questoes/ESTUDO_BANCO_DE_DADOS_COMPERVE_50_QUESTOES.md",
-            "file": "ESTUDO_BANCO_DE_DADOS_COMPERVE_50_QUESTOES.md",
-            "title": "Banco de Dados",
-            "materialId": "MAT-BD-COMPERVE-001",
-            "bank": "COMPERVE",
-            "subject": "Banco de Dados",
-            "topic": "Conceitos, modelos, projeto conceitual, lógico e físico, linguagens de consulta, bancos distribuídos, SGBDs e SQL",
-            "language": "pt-BR",
-            "questionCount": 50,
-            "declaredQuestions": 50,
-            "sizeBytes": 220419,
-            "sha256": "a5a8f79679af072af22d4399975a0e43eadca317f8933f63bab2eac767596f63",
-            "valid": true,
-            "errors": [],
-            "warnings": []
-        },
-        {
-            "path": "questoes/ESTUDO_LEGISLACAO_COMPERVE_100_QUESTOES.md",
-            "file": "ESTUDO_LEGISLACAO_COMPERVE_100_QUESTOES.md",
-            "title": "Legislação",
-            "materialId": "MAT-LEG-COMPERVE-001",
-            "bank": "COMPERVE",
-            "subject": "Legislação",
-            "topic": "Regimento Interno da Câmara Municipal de Mossoró, Lei Orgânica do Município de Mossoró e Lei nº 8.429/1992",
-            "language": "pt-BR",
-            "questionCount": 100,
-            "declaredQuestions": 100,
-            "sizeBytes": 365079,
-            "sha256": "95b4043297619f96c6dc10f862c107efa059d132285780797af2d1afd7ddcb96",
-            "valid": true,
-            "errors": [],
-            "warnings": []
-        },
-        {
-            "path": "questoes/ESTUDO_CONHECIMENTO_LINGUISTICO_COMPERVE_100_QUESTOES.md",
-            "file": "ESTUDO_CONHECIMENTO_LINGUISTICO_COMPERVE_100_QUESTOES.md",
-            "title": "Conhecimento Linguístico",
-            "materialId": "MAT-001",
-            "bank": "COMPERVE",
-            "subject": "Conhecimento Linguístico",
-            "topic": "Variação linguística; classes de palavras; norma-padrão; período simples e composto; pontuação; relações semânticas",
-            "language": "pt-BR",
-            "questionCount": 100,
-            "declaredQuestions": 100,
-            "sizeBytes": 507370,
-            "sha256": "f16e37db348478703f5f858cc2c0cbce030229f4cc97da7c956ddec9977423f7",
-            "valid": true,
-            "errors": [],
-            "warnings": []
-        },
-        {
-            "path": "questoes/ESTUDO_ENGENHARIA_DE_SOFTWARE_COMPERVE_100_QUESTOES.md",
-            "file": "ESTUDO_ENGENHARIA_DE_SOFTWARE_COMPERVE_100_QUESTOES.md",
-            "title": "Engenharia de Software",
-            "materialId": "MAT-ENGSOFT-COMPERVE-001",
-            "bank": "COMPERVE",
-            "subject": "Engenharia de Software",
-            "topic": "Padrões GoF; processos e ciclo de vida; métodos estruturados e orientados a objetos; planejamento; requisitos; análise e projeto; gestão de configuração; testes; qualidade; manutenção; desenvolvimento baseado em componentes; ferramentas CASE; gestão de projetos; Scrum; UML 2.0",
-            "language": "pt-BR",
-            "questionCount": 100,
-            "declaredQuestions": 100,
-            "sizeBytes": 427273,
-            "sha256": "0bc2251e6acb37ed150877527f3a8d1950cb0de8294a2e0c087cd9c9b00d96e4",
-            "valid": true,
-            "errors": [],
-            "warnings": []
-        },
-        {
-            "path": "questoes/ESTUDO_ORGANIZACAO_DO_TEXTO_COMPERVE_100_QUESTOES.md",
-            "file": "ESTUDO_ORGANIZACAO_DO_TEXTO_COMPERVE_100_QUESTOES.md",
-            "title": "Organização do Texto",
-            "materialId": "MAT-ORG-TEXTO-COMPERVE-001",
-            "bank": "COMPERVE",
-            "subject": "Organização do Texto",
-            "topic": "Propósito comunicativo; tipos de texto (dialogal, descritivo, narrativo, injuntivo, explicativo e argumentativo); gêneros discursivos; mecanismos coesivos; fatores de coerência textual; progressão temática; paragrafação; citação do discurso alheio; informações implícitas; linguagem denotativa e conotativa",
-            "language": "pt-BR",
-            "questionCount": 100,
-            "declaredQuestions": 100,
-            "sizeBytes": 501413,
-            "sha256": "b95402065baed132ef94c0cdc694b9821e2f62fc4532006c5bea10744b2130ea",
-            "valid": true,
-            "errors": [],
-            "warnings": []
-        },
-        {
-            "path": "questoes/ESTUDO_SISTEMAS_OPERACIONAIS_COMPERVE_100_QUESTOES.md",
-            "file": "ESTUDO_SISTEMAS_OPERACIONAIS_COMPERVE_100_QUESTOES.md",
-            "title": "Sistemas Operacionais",
-            "materialId": "MAT-SO",
-            "bank": "COMPERVE",
-            "subject": "Sistemas Operacionais",
-            "topic": "Utilização e configuração de sistemas Windows, Unix e Linux e suas distribuições",
-            "language": "pt-BR",
-            "questionCount": 100,
-            "declaredQuestions": 100,
-            "sizeBytes": 731428,
-            "sha256": "fb06a0adf2a35a1fae48916811e128ed313e2c889cf6d574431c07957ae19844",
-            "valid": true,
-            "errors": [],
-            "warnings": []
-        },
-        {
-            "path": "questoes/ESTUDO_REDES_DE_COMPUTADORES_COMPERVE_100_QUESTOES.md",
-            "file": "ESTUDO_REDES_DE_COMPUTADORES_COMPERVE_100_QUESTOES.md",
-            "title": "Redes de Computadores",
-            "materialId": "MAT-REDES-COMPERVE-001",
-            "bank": "COMPERVE",
-            "subject": "Redes de Computadores",
-            "topic": "Conceitos básicos, tipos de redes e protocolos de comunicação (HTTP, SSH, IMAP, SMTP, TCP/IP e UDP)",
-            "language": "pt-BR",
-            "questionCount": 100,
-            "declaredQuestions": 100,
-            "sizeBytes": 466402,
-            "sha256": "cf93814c60c759427e0f9bb4f2eb84285a07ba50e9b7f37cc8cc02b129b7fbb9",
-            "valid": true,
-            "errors": [],
-            "warnings": [
-                "As questões originais não foram comparadas com gabaritos oficiais, ausentes do corpus."
-            ]
-        },
-        {
-            "path": "questoes/ESTUDO_LINGUAGENS_DE_PROGRAMACAO_COMPERVE_400_QUESTOES.md",
-            "file": "ESTUDO_LINGUAGENS_DE_PROGRAMACAO_COMPERVE_400_QUESTOES.md",
-            "title": "Linguagens de Programação",
-            "materialId": "MAT-LP-COMPERVE-400",
-            "bank": "COMPERVE",
-            "subject": "Linguagens de Programação",
-            "topic": "Java; JavaScript (ECMAScript 2020); TypeScript 5.4; Node.js 20.14; React 18; React Native 0.74; NestJS 10.3.9",
-            "language": "pt-BR",
-            "questionCount": 400,
-            "declaredQuestions": 400,
-            "sizeBytes": 1873393,
-            "sha256": "c23242f1722c7ea498cabb95555be80efc58c54fedbe04b0a10f0954234d8c6a",
-            "valid": true,
-            "errors": [],
-            "warnings": [
-                "As questões originais foram extraídas de caderno sem gabarito oficial anexado ao corpus; respostas conferidas tecnicamente, mas não confrontadas com gabarito oficial."
-            ]
-        },
-        {
-            "path": "questoes/ESTUDO_LGPD_COMPERVE_100_QUESTOES.md",
-            "file": "ESTUDO_LGPD_COMPERVE_100_QUESTOES.md",
-            "title": "LGPD",
-            "materialId": "MAT-LGPD-COMPERVE-001",
-            "bank": "COMPERVE",
-            "subject": "Segurança da Informação",
-            "topic": "Segurança de dados — Lei Geral de Proteção de Dados Pessoais (LGPD), Lei nº 13.709/2018",
-            "language": "pt-BR",
-            "questionCount": 100,
-            "declaredQuestions": 100,
-            "sizeBytes": 501510,
-            "sha256": "401febec7bb8e6986aacca516f75a538e76758906b5e3c031056ba5a1c039131",
-            "valid": true,
-            "errors": [],
-            "warnings": [
-                "Gabaritos das questões originais foram conferidos pela interpretação dos dispositivos legais; o corpus não continha os gabaritos oficiais correspondentes.",
-                "Validação estrutural e de consistência realizada; recomenda-se revisão jurídica especializada final das questões inéditas antes de uso como material oficial de avaliação."
-            ]
-        },
-        {
-            "path": "questoes/ESTUDO_CONCEITOS_BASICOS_SOFTWARE_HARDWARE_COMPERVE_100_QUESTOES.md",
-            "file": "ESTUDO_CONCEITOS_BASICOS_SOFTWARE_HARDWARE_COMPERVE_100_QUESTOES.md",
-            "title": "Conceitos Básicos de Software e Hardware",
-            "materialId": "MAT-SH-COMPERVE-100",
-            "bank": "COMPERVE",
-            "subject": "Conceitos Básicos de Software e Hardware",
-            "topic": "Definição, tipos, funções e características de software e hardware",
-            "language": "pt-BR",
-            "questionCount": 100,
-            "declaredQuestions": 100,
-            "sizeBytes": 685535,
-            "sha256": "1689d923c4e089317a2e51c192bef71c243c4776feaa4af4edfc0b9583043699",
-            "valid": true,
-            "errors": [],
-            "warnings": [
-                "Auditoria estrutural automatizada; revisão pedagógica realizada por consistência de conteúdo e distinção conceitual, não equivale a parecer técnico independente.",
-                "Questões originais sem gabaritos oficiais no corpus foram verificadas pelo conteúdo técnico; páginas não informadas quando não confirmadas."
-            ]
-        }
-    ]
+    {
+      "path": "questoes/ESTUDO_BANCO_DE_DADOS_COMPERVE_50_QUESTOES.md",
+      "file": "ESTUDO_BANCO_DE_DADOS_COMPERVE_50_QUESTOES.md",
+      "title": "Banco de Dados",
+      "materialId": "MAT-BD-COMPERVE-001",
+      "bank": "COMPERVE",
+      "subject": "Banco de Dados",
+      "topic": "Conceitos, modelos, projeto conceitual, lógico e físico, linguagens de consulta, bancos distribuídos, SGBDs e SQL",
+      "language": "pt-BR",
+      "questionCount": 50,
+      "declaredQuestions": 50,
+      "sizeBytes": 220419,
+      "sha256": "a5a8f79679af072af22d4399975a0e43eadca317f8933f63bab2eac767596f63",
+      "valid": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "path": "questoes/ESTUDO_LEGISLACAO_COMPERVE_100_QUESTOES.md",
+      "file": "ESTUDO_LEGISLACAO_COMPERVE_100_QUESTOES.md",
+      "title": "Legislação",
+      "materialId": "MAT-LEG-COMPERVE-001",
+      "bank": "COMPERVE",
+      "subject": "Legislação",
+      "topic": "Regimento Interno da Câmara Municipal de Mossoró, Lei Orgânica do Município de Mossoró e Lei nº 8.429/1992",
+      "language": "pt-BR",
+      "questionCount": 100,
+      "declaredQuestions": 100,
+      "sizeBytes": 365079,
+      "sha256": "95b4043297619f96c6dc10f862c107efa059d132285780797af2d1afd7ddcb96",
+      "valid": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "path": "questoes/ESTUDO_CONHECIMENTO_LINGUISTICO_COMPERVE_100_QUESTOES.md",
+      "file": "ESTUDO_CONHECIMENTO_LINGUISTICO_COMPERVE_100_QUESTOES.md",
+      "title": "Conhecimento Linguístico",
+      "materialId": "MAT-001",
+      "bank": "COMPERVE",
+      "subject": "Conhecimento Linguístico",
+      "topic": "Variação linguística; classes de palavras; norma-padrão; período simples e composto; pontuação; relações semânticas",
+      "language": "pt-BR",
+      "questionCount": 100,
+      "declaredQuestions": 100,
+      "sizeBytes": 507370,
+      "sha256": "f16e37db348478703f5f858cc2c0cbce030229f4cc97da7c956ddec9977423f7",
+      "valid": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "path": "questoes/ESTUDO_ENGENHARIA_DE_SOFTWARE_COMPERVE_100_QUESTOES.md",
+      "file": "ESTUDO_ENGENHARIA_DE_SOFTWARE_COMPERVE_100_QUESTOES.md",
+      "title": "Engenharia de Software",
+      "materialId": "MAT-ENGSOFT-COMPERVE-001",
+      "bank": "COMPERVE",
+      "subject": "Engenharia de Software",
+      "topic": "Padrões GoF; processos e ciclo de vida; métodos estruturados e orientados a objetos; planejamento; requisitos; análise e projeto; gestão de configuração; testes; qualidade; manutenção; desenvolvimento baseado em componentes; ferramentas CASE; gestão de projetos; Scrum; UML 2.0",
+      "language": "pt-BR",
+      "questionCount": 100,
+      "declaredQuestions": 100,
+      "sizeBytes": 427273,
+      "sha256": "0bc2251e6acb37ed150877527f3a8d1950cb0de8294a2e0c087cd9c9b00d96e4",
+      "valid": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "path": "questoes/ESTUDO_ORGANIZACAO_DO_TEXTO_COMPERVE_100_QUESTOES.md",
+      "file": "ESTUDO_ORGANIZACAO_DO_TEXTO_COMPERVE_100_QUESTOES.md",
+      "title": "Organização do Texto",
+      "materialId": "MAT-ORG-TEXTO-COMPERVE-001",
+      "bank": "COMPERVE",
+      "subject": "Organização do Texto",
+      "topic": "Propósito comunicativo; tipos de texto (dialogal, descritivo, narrativo, injuntivo, explicativo e argumentativo); gêneros discursivos; mecanismos coesivos; fatores de coerência textual; progressão temática; paragrafação; citação do discurso alheio; informações implícitas; linguagem denotativa e conotativa",
+      "language": "pt-BR",
+      "questionCount": 100,
+      "declaredQuestions": 100,
+      "sizeBytes": 501413,
+      "sha256": "b95402065baed132ef94c0cdc694b9821e2f62fc4532006c5bea10744b2130ea",
+      "valid": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "path": "questoes/ESTUDO_SISTEMAS_OPERACIONAIS_COMPERVE_100_QUESTOES.md",
+      "file": "ESTUDO_SISTEMAS_OPERACIONAIS_COMPERVE_100_QUESTOES.md",
+      "title": "Sistemas Operacionais",
+      "materialId": "MAT-SO",
+      "bank": "COMPERVE",
+      "subject": "Sistemas Operacionais",
+      "topic": "Utilização e configuração de sistemas Windows, Unix e Linux e suas distribuições",
+      "language": "pt-BR",
+      "questionCount": 100,
+      "declaredQuestions": 100,
+      "sizeBytes": 731428,
+      "sha256": "fb06a0adf2a35a1fae48916811e128ed313e2c889cf6d574431c07957ae19844",
+      "valid": true,
+      "errors": [],
+      "warnings": []
+    },
+    {
+      "path": "questoes/ESTUDO_REDES_DE_COMPUTADORES_COMPERVE_100_QUESTOES.md",
+      "file": "ESTUDO_REDES_DE_COMPUTADORES_COMPERVE_100_QUESTOES.md",
+      "title": "Redes de Computadores",
+      "materialId": "MAT-REDES-COMPERVE-001",
+      "bank": "COMPERVE",
+      "subject": "Redes de Computadores",
+      "topic": "Conceitos básicos, tipos de redes e protocolos de comunicação (HTTP, SSH, IMAP, SMTP, TCP/IP e UDP)",
+      "language": "pt-BR",
+      "questionCount": 100,
+      "declaredQuestions": 100,
+      "sizeBytes": 466402,
+      "sha256": "cf93814c60c759427e0f9bb4f2eb84285a07ba50e9b7f37cc8cc02b129b7fbb9",
+      "valid": true,
+      "errors": [],
+      "warnings": [
+        "As questões originais não foram comparadas com gabaritos oficiais, ausentes do corpus."
+      ]
+    },
+    {
+      "path": "questoes/ESTUDO_LINGUAGENS_DE_PROGRAMACAO_COMPERVE_400_QUESTOES.md",
+      "file": "ESTUDO_LINGUAGENS_DE_PROGRAMACAO_COMPERVE_400_QUESTOES.md",
+      "title": "Linguagens de Programação",
+      "materialId": "MAT-LP-COMPERVE-400",
+      "bank": "COMPERVE",
+      "subject": "Linguagens de Programação",
+      "topic": "Java; JavaScript (ECMAScript 2020); TypeScript 5.4; Node.js 20.14; React 18; React Native 0.74; NestJS 10.3.9",
+      "language": "pt-BR",
+      "questionCount": 400,
+      "declaredQuestions": 400,
+      "sizeBytes": 1873393,
+      "sha256": "c23242f1722c7ea498cabb95555be80efc58c54fedbe04b0a10f0954234d8c6a",
+      "valid": true,
+      "errors": [],
+      "warnings": [
+        "As questões originais foram extraídas de caderno sem gabarito oficial anexado ao corpus; respostas conferidas tecnicamente, mas não confrontadas com gabarito oficial."
+      ]
+    },
+    {
+      "path": "questoes/ESTUDO_LGPD_COMPERVE_100_QUESTOES.md",
+      "file": "ESTUDO_LGPD_COMPERVE_100_QUESTOES.md",
+      "title": "LGPD",
+      "materialId": "MAT-LGPD-COMPERVE-001",
+      "bank": "COMPERVE",
+      "subject": "Segurança da Informação",
+      "topic": "Segurança de dados — Lei Geral de Proteção de Dados Pessoais (LGPD), Lei nº 13.709/2018",
+      "language": "pt-BR",
+      "questionCount": 100,
+      "declaredQuestions": 100,
+      "sizeBytes": 501510,
+      "sha256": "401febec7bb8e6986aacca516f75a538e76758906b5e3c031056ba5a1c039131",
+      "valid": true,
+      "errors": [],
+      "warnings": [
+        "Gabaritos das questões originais foram conferidos pela interpretação dos dispositivos legais; o corpus não continha os gabaritos oficiais correspondentes.",
+        "Validação estrutural e de consistência realizada; recomenda-se revisão jurídica especializada final das questões inéditas antes de uso como material oficial de avaliação."
+      ]
+    },
+    {
+      "path": "questoes/ESTUDO_CONCEITOS_BASICOS_SOFTWARE_HARDWARE_COMPERVE_100_QUESTOES.md",
+      "file": "ESTUDO_CONCEITOS_BASICOS_SOFTWARE_HARDWARE_COMPERVE_100_QUESTOES.md",
+      "title": "Conceitos Básicos de Software e Hardware",
+      "materialId": "MAT-SH-COMPERVE-100",
+      "bank": "COMPERVE",
+      "subject": "Conceitos Básicos de Software e Hardware",
+      "topic": "Definição, tipos, funções e características de software e hardware",
+      "language": "pt-BR",
+      "questionCount": 100,
+      "declaredQuestions": 100,
+      "sizeBytes": 685535,
+      "sha256": "1689d923c4e089317a2e51c192bef71c243c4776feaa4af4edfc0b9583043699",
+      "valid": true,
+      "errors": [],
+      "warnings": [
+        "Auditoria estrutural automatizada; revisão pedagógica realizada por consistência de conteúdo e distinção conceitual, não equivale a parecer técnico independente.",
+        "Questões originais sem gabaritos oficiais no corpus foram verificadas pelo conteúdo técnico; páginas não informadas quando não confirmadas."
+      ]
+    }
+  ]
 }
