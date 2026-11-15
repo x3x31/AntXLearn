@@ -286,6 +286,7 @@ O apelido é público. O app orienta o usuário a não usar dados pessoais e inf
 - `meta/cloudRank` guarda top 5, posição própria e data.
 - Não guarda e-mail nem token.
 - É exibido offline com indicação de cache/estado.
+- No login, a própria linha do ranking é usada apenas para recuperar moedas, dias ativos e estágio da temporada no escopo da conta; nenhum dado de outra conta é importado.
 
 ## 9. Segurança da cadeia de suprimentos
 

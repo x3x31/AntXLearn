@@ -139,6 +139,7 @@ Caches de outros aplicativos no mesmo domínio não são tocados.
 - Primeira visita antes da instalação do service worker.
 - Abrir material nunca acessado no dispositivo.
 - Cadastro, login, renovação de sessão e sincronização do placar.
+- Recuperação de moedas e dias ativos da temporada no login.
 - Atualização do ranking global.
 - Instalação da PWA a partir do navegador, quando o manifesto ainda não foi baixado.
 
@@ -148,6 +149,7 @@ Caches de outros aplicativos no mesmo domínio não são tocados.
 - Offline, a topbar mostra `Offline` e uma faixa no topo explica que respostas continuam funcionando.
 - Iniciar uma prova sem conta offline prossegue com aviso; a conta pode ser criada depois.
 - Respostas e sessões são gravadas localmente mesmo com a conta ausente.
+- Ao entrar na conta com rede, o app consulta a própria pontuação da temporada e recupera moedas, dias ativos e estágio; o remoto prevalece e a sincronização do placar só começa depois da recuperação.
 - Ao reconectar:
   - a faixa desaparece;
   - um toast informa “Conexão restaurada”;

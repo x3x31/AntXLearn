@@ -33,6 +33,11 @@ import {
 const DB_NAME = "xlearn";
 const DB_VERSION = 1;
 
+function nonNegativeInteger(value) {
+  const number = Number(value);
+  return Number.isFinite(number) && number > 0 ? Math.trunc(number) : 0;
+}
+
 /**
  * Escopo local dos dados de estudo.
  *
@@ -617,6 +622,113 @@ export async function getWallet() {
  */
 export async function getSeason(now = new Date()) {
   return normalizeSeason(await getMeta("season"), now);
+}
+
+export async function recoverSeasonFromScore(score, { now = new Date() } = {}) {
+  const seasonId = typeof score?.seasonId === "string" ? score.seasonId.trim() : "";
+  if (!seasonId) return { applied: false, reason: "missing_season" };
+
+  const coins = nonNegativeInteger(score?.coins);
+  const activeDays = nonNegativeInteger(score?.activeDays);
+  const levelNumber = nonNegativeInteger(score?.levelNumber) || null;
+  const levelName =
+    typeof score?.levelName === "string" && score.levelName ? score.levelName : null;
+  const parsedNow = now instanceof Date ? now : new Date(now);
+  const nowDate = Number.isFinite(parsedNow.getTime()) ? parsedNow : new Date();
+  const remoteDate = score?.updatedAt ? new Date(score.updatedAt) : null;
+  const baselineDate =
+    remoteDate && Number.isFinite(remoteDate.getTime()) && remoteDate <= nowDate
+      ? remoteDate
+      : nowDate;
+  const dayKey = localDayKey(baselineDate);
+  const recoveredAt = nowDate.toISOString();
+
+  const db = await openDatabase();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction("meta", "readwrite");
+    const store = tx.objectStore("meta");
+    const seasonRequest = store.get(scopeMetaKey("season"));
+    const walletRequest = store.get(scopeMetaKey("wallet"));
+    let seasonReady = false;
+    let walletReady = false;
+    let applied = false;
+    let result = null;
+
+    const apply = () => {
+      if (applied || !seasonReady || !walletReady) return;
+      applied = true;
+
+      const season = normalizeSeason(seasonRequest.result?.value, nowDate);
+      if (season.id !== seasonId) {
+        result = { applied: false, reason: "season_mismatch", season };
+        return;
+      }
+
+      const wallet = normalizeWallet(walletRequest.result?.value);
+      const previous = season.recovered;
+      const unchangedRecovered =
+        previous &&
+        previous.coins === coins &&
+        previous.activeDays === activeDays &&
+        previous.levelNumber === levelNumber &&
+        previous.levelName === levelName &&
+        previous.dayKey === dayKey;
+
+      const recovered = {
+        coins,
+        activeDays,
+        levelNumber,
+        levelName,
+        dayKey,
+        at: recoveredAt,
+      };
+      const seasonChanged = season.coinsEarned !== coins || !unchangedRecovered;
+      const walletChanged = wallet.balance !== coins || wallet.earned !== coins;
+
+      const nextSeason = seasonChanged
+        ? { ...season, coinsEarned: coins, recovered, updatedAt: recoveredAt }
+        : season;
+      const nextWallet = walletChanged
+        ? { ...wallet, balance: coins, earned: coins, updatedAt: recoveredAt }
+        : wallet;
+
+      if (seasonChanged) {
+        store.put({
+          key: scopeMetaKey("season"),
+          value: nextSeason,
+          updatedAt: nextSeason.updatedAt,
+        });
+      }
+      if (walletChanged) {
+        store.put({
+          key: scopeMetaKey("wallet"),
+          value: nextWallet,
+          updatedAt: nextWallet.updatedAt,
+        });
+      }
+
+      result = {
+        applied: true,
+        changed: seasonChanged || walletChanged,
+        season: nextSeason,
+        wallet: nextWallet,
+        recovered,
+      };
+    };
+
+    seasonRequest.onsuccess = () => {
+      seasonReady = true;
+      apply();
+    };
+    walletRequest.onsuccess = () => {
+      walletReady = true;
+      apply();
+    };
+
+    tx.oncomplete = () => resolve(result);
+    tx.onerror = () => reject(tx.error || new Error("Falha ao recuperar a temporada."));
+    tx.onabort = () => reject(tx.error || new Error("Recuperação da temporada cancelada."));
+  });
 }
 
 /**

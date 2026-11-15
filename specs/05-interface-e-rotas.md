@@ -312,6 +312,7 @@ O gate cobre `config`, `progresso`, `simulado` e `revisoes` inclusive quando a r
 - Fechamento por `Escape` e botão com rótulo “Fechar login”; foco preso e restaurado.
 - O texto de privacidade informa que e-mail não aparece no ranking.
 - O login troca o escopo de estudo para a conta; o cadastro faz o mesmo ao receber sessão. A modal não mistura dados de estudo entre contas.
+- Com rede, a entrada na conta recupera do ranking a própria pontuação da temporada (moedas, dias ativos e estágio) antes de permitir novo envio de placar (REQ-057).
 - Se o cliente Supabase não estiver configurado, a modal não abre: o app avisa e segue para o estudo quando aplicável.
 
 ## 14. Estados globais

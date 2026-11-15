@@ -16,8 +16,8 @@
 | **Ambiente de execução** | Navegador moderno (Chrome/Edge/Firefox/Safari atuais), prioritariamente Android. Hospedagem estática. |
 | **Estratégia de publicação** | GitHub Pages a partir da branch `main`, com caminhos relativos compatíveis com subdiretórios. |
 | **Repositório remoto** | `https://github.com/x3x31/XLearn.git` |
-| **Versão atual** | `0.52.0` (REQ-056 — verificação automática de disponibilidade do apelido no cadastro) |
-| **Próxima versão planejada** | `0.53.0` (REQ-057) e `0.54.0` (REQ-058) |
+| **Versão atual** | `0.53.0` (REQ-057 — recuperação de moedas e dias ativos da temporada no login) |
+| **Próxima versão planejada** | `0.54.0` (REQ-058) |
 | **Data da última atualização** | 2026-11-15 |
 
 ---
@@ -35,7 +35,7 @@ O XLearn lê os materiais da pasta `questoes/`, gera um manifesto JSON com os ar
 7. **Simulados por assunto** que montam uma prova a partir das disciplinas do acervo, com resumo próprio e histórico separado do estudo normal; o cronômetro de prova fica desligado nesse modo.
 8. **Configurações** que alteram efetivamente o comportamento: tamanho da sessão, ordem das questões, intervalos de revisão, meta diária, cronômetro de prova, tema, fonte, animações, som, exportação/importação e exclusão de dados.
 9. **PWA offline** com manifesto, service worker, cache de recursos e das provas já acessadas, além de indicador de conexão.
-10. **Conta e ranking da temporada** com cadastro/login por apelido, e-mail e senha via Supabase Auth, sessão persistida em IndexedDB, envio do nível e das moedas da temporada e ranking público por moedas. Sem conexão, o estudo continua normalmente e a sincronização ocorre quando a rede volta.
+10. **Conta e ranking da temporada** com cadastro/login por apelido, e-mail e senha via Supabase Auth, sessão persistida em IndexedDB, recuperação de moedas e dias ativos da temporada ao entrar na conta ou abrir o app com escopo vazio, envio do nível e das moedas da temporada e ranking público por moedas. Sem conexão, o estudo continua normalmente e a sincronização ocorre quando a rede volta.
 
 A interface é em português brasileiro e prioriza telas pequenas, com navegação inferior em dispositivos móveis e layout expandido em telas maiores.
 
@@ -43,7 +43,7 @@ A interface é em português brasileiro e prioriza telas pequenas, com navegaç�
 
 ## C. Especificações funcionais
 
-Legenda dos estados possíveis: `PENDENTE`, `EM DESENVOLVIMENTO`, `IMPLEMENTADO`, `VALIDADO`, `BLOQUEADO`. Os requisitos REQ-001 a REQ-056 estão `IMPLEMENTADO`; REQ-057 e REQ-058 estão `PENDENTE`, conforme a coluna Status abaixo.
+Legenda dos estados possíveis: `PENDENTE`, `EM DESENVOLVIMENTO`, `IMPLEMENTADO`, `VALIDADO`, `BLOQUEADO`. Os requisitos REQ-001 a REQ-057 estão `IMPLEMENTADO`; REQ-058 está `PENDENTE`, conforme a coluna Status abaixo.
 
 ### Fase 1 — Base funcional
 
@@ -191,11 +191,11 @@ Legenda dos estados possíveis: `PENDENTE`, `EM DESENVOLVIMENTO`, `IMPLEMENTADO`
 |---|---|---|---|---|
 | REQ-056 | Verificação automática de apelido | No modo “Criar conta”, ao sair do campo Apelido, o app deve consultar o servidor e informar de forma acessível se o apelido está disponível. Apelido em uso deve ser anunciado e bloquear o envio; falha de rede ou de configuração não pode impedir o cadastro, apenas avisar que a verificação não foi possível. A consulta deve devolver somente verdadeiro/falso, sem expor e-mails, IDs ou a lista de apelidos. | Alta | IMPLEMENTADO |
 
-### Fase 19 — Recuperação de conta e conquistas remotas
+### Fase 19 — Recuperação do placar e conquistas remotas
 
 | ID | Nome | Descrição | Prioridade | Status |
 |---|---|---|---|---|
-| REQ-057 | Recuperação de moedas, nível e temporada no login | Ao entrar em uma conta existente, recuperar do Supabase as moedas, o nível e os dias ativos da temporada a partir de `season_scores`, usando os dados remotos quando forem diferentes dos locais. A recuperação deve ocorrer antes de renderizar o estado da conta, manter os dias ativos remotos como base e não criar nem alterar o schema do ranking. | Alta | PENDENTE |
+| REQ-057 | Recuperação de moedas e dias ativos no login | Ao entrar em uma conta existente ou abrir o app com sessão persistida e escopo vazio, recuperar do Supabase as moedas e os dias ativos da temporada a partir de `season_scores`, usando os dados remotos quando forem diferentes dos locais. A recuperação deve ocorrer antes de renderizar o estado da conta e antes de agendar novo envio de placar, manter os dias ativos remotos como base e não criar nem alterar o schema do ranking. | Alta | IMPLEMENTADO |
 | REQ-058 | Sincronização de conquistas com o Supabase | Persistir no Supabase as conquistas desbloqueadas e coletadas de cada conta, em tabela privada protegida por RLS, e carregá-las no login. A mesclagem deve preservar a união dos desbloqueios, a primeira data de desbloqueio, o status de coleta e a recompensa, sem duplicar moedas; exclusões devem ser propagadas e repetidas quando a rede voltar. | Alta | PENDENTE |
 
 ### Critérios de aceitação gerais
@@ -246,7 +246,7 @@ XLearn/
 └── .git/
 ```
 
-Arquitetura atual (estado após REQ-056, com a Fase 19 planejada):
+Arquitetura atual (estado após REQ-057, com REQ-058 planejado):
 
 ```
 XLearn/
@@ -284,11 +284,11 @@ XLearn/
 │   └── *.md                  # 10 materiais de estudo preservados
 ├── supabase/
 │   ├── schema.sql            # NOVO: tabelas, views, índices, grants, RLS, políticas e RPCs
-│   └── migrations/           # migrations aplicadas e, na Fase 19, a tabela user_achievements
+│   └── migrations/           # migrations aplicadas e, em REQ-058, a tabela user_achievements
 ├── specs/                    # DOC-001: especificação normativa em nove documentos temáticos
 │   ├── README.md             # índice, estado resumido e convenções
 │   ├── 01-visao-geral.md     # problema, escopo, personas, princípios e glossário
-│   ├── 02-requisitos.md      # REQ-001..REQ-050, NFRs e regras de negócio
+│   ├── 02-requisitos.md      # REQ-001..REQ-057, NFRs e regras de negócio
 │   ├── 03-arquitetura.md     # camadas, módulos, fluxos e ADRs
 │   ├── 04-modelo-de-dados.md # IndexedDB, backup e schema Supabase
 │   ├── 05-interface-e-rotas.md
@@ -486,6 +486,7 @@ Campos reais: `schema_version`, `material_id`, `bank`, `subject`, `topic`, `requ
 | 0.50.0 | REQ-053 | Cascata de moedas ampliada para 28–48 moedas espalhadas pela largura da tela, caindo do topo por trás da barra superior até cerca de 1/3 da viewport, com início opaco, fim transparente e som contínuo durante todo o tempo visível; service worker `v29` | `d40846f` | 2026-11-10 |
 | 0.51.0 | REQ-054, REQ-055 | “Apagar progresso” apaga o escopo local, atualiza a tela e exclui a pontuação no Supabase com política/GRANT próprios e fila de repetição offline; cascata reutiliza uma única camada e cada moeda some em altura e ritmo aleatórios, com continuidade e som repetido em coletas consecutivas; service worker `v30` | `da03a14` | 2026-11-10 |
 | 0.52.0 | REQ-056 | Verificação automática de disponibilidade do apelido ao sair do campo no cadastro, com RPC `nickname_available` restrita a verdadeiro/falso; apelido em uso bloqueia o envio, estado acessível em `aria-live` e falha de rede não impede o cadastro; service worker `v31` | `4efe857` | 2026-11-10 |
+| 0.53.0 | REQ-057 | Recuperação de moedas e dias ativos da temporada no login: `season.recovered` como baseline, `recoverSeasonFromScore` transacional, consulta da própria linha em `season_scores`, precedência do remoto e envio de placar adiado até o fim da recuperação; service worker `v32` | `—` | 2026-11-15 |
 
 ---
 
@@ -546,6 +547,7 @@ Campos reais: `schema_version`, `material_id`, `bank`, `subject`, `topic`, `requ
 - **REQ-054 — Exclusão do progresso local e remoto:** `clearProgressData` passou a ler cada store com `getAll()` e apagar somente os registros do escopo ativo, devolvendo a contagem removida. `confirmProgressReset` cancela a sincronização agendada, aguarda a sincronização em andamento, limpa o IndexedDB, reinicia o estado da sessão e de simulados, invalida o cache de “Sua posição” e só então chama `deleteRemoteScore`. `js/cloud.js` ganhou `deleteScore(base, seasonId)`, que envia `DELETE /rest/v1/season_scores?user_id=eq.<id>&season_id=eq.<temporada>`; a política `season_scores_delete_own` e o `GRANT DELETE` foram adicionados ao schema e à migration `20261110000000_score_delete.sql`. Se a rede falhar, a intenção fica em `meta/cloudPendingDelete` e `syncScoreNow` a executa antes de qualquer novo envio; o evento `online` repete a exclusão. O toast informa se o placar remoto foi removido, ficou pendente ou falhou, sem impedir a limpeza local e a navegação para a home. Service worker `v30`.
 - **REQ-055 — Cascata contínua com desaparecimento aleatório:** `playCoinCascade` passou a manter uma única camada ativa (`activeCoinCascade`), reutilizada por coletas consecutivas: cada nova leva acrescenta moedas à mesma camada até o limite de 140, atualiza o instante de limpeza e agenda novamente `playCoinRain` pelo tempo da nova onda. Cada moeda recebe `--fall`, `--fade`, `--distance`, `--delay`, `--drift`, `--size` e `--x` aleatórios; o fade termina antes da queda e a opacidade vai de `0` a `1` e de volta a `0`, de modo que as moedas somem em alturas diferentes, sem parar em uma linha fixa. A camada continua fixa no topo, atrás da barra superior, e a animação respeita `prefers-reduced-motion`. Service worker `v30`.
 - **REQ-056 — Verificação automática de apelido:** o campo Apelido do modo “Criar conta” agora dispara `checkNicknameAvailability` ao perder o foco. `js/cloud.js` chama a RPC `POST /rest/v1/rpc/nickname_available` com `{ candidate }`, e a função `public.nickname_available(text)` no schema responde apenas `true`/`false`, comparando `lower(btrim(...))` com `auth.users.raw_user_meta_data->>'nickname'`; sem rede ou com a RPC ausente, o cadastro continua permitido. A modal mostra o estado em `#login-nickname-status` (`role="status"`, `aria-live="polite"`), marca `aria-invalid` e desabilita o envio quando o apelido está em uso; o envio também repete a verificação quando o campo ainda não foi confirmado. A migration `20261110001000_nickname_available.sql` precisa ser aplicada em bancos existentes. Service worker `v31`.
+- **REQ-057 — Recuperação de moedas e dias ativos no login:** `js/season.js` passou a normalizar e preservar `season.recovered` (`coins`, `activeDays`, `levelNumber`, `levelName`, `dayKey`, `at`) e `activeDaysInSeason` soma o baseline remoto apenas aos dias locais posteriores a `dayKey`, limitado ao total de dias da temporada. `js/db.js` ganhou `recoverSeasonFromScore`, que lê temporada e carteira na mesma transação, substitui `season.coinsEarned`, `wallet.balance` e `wallet.earned` quando o `seasonId` coincide e é idempotente quando os valores não mudam. `js/app.js` consulta `fetchOwnRank` no login explícito e, no boot, apenas quando o escopo está vazio e ainda não possui `season.recovered`; a sincronização automática é adiada com `refreshProgress({ sync: false })` até a recuperação terminar, evitando que um escopo vazio sobrescreva o placar remoto. A recuperação não importa progresso, SRS, XP, sessões, tentativas, simulados nem conquistas. Service worker `v32`.
 - **REQ-027 — Testes abrangentes finais:** campanha executada ao término da fase 8 com 12 suítes temporárias, fora do repositório, em Node com DOM simulado (`happy-dom`), IndexedDB em memória (`fake-indexeddb`), Cache API e rede simuladas. A cobertura unitária validou manifesto (10 materiais/1250 questões), parser e correção por ID em todas as questões, embaralhamento estável, SRS, gamificação, moedas, ranking, cronômetro, simulados, backup, configurações, cache e isolamento de materiais malformados/manifesto inválido. As suítes de integração percorreram configurações e efeitos reais, sessão normal, cronômetro com pausa/retomada e expiração, SRS automático/manual, fila de revisões, estatísticas, XP, meta, sequência, ranking, acessibilidade, exportação/importação, restauração, exclusão de dados, simulados, coleta de conquistas e service worker. A campanha encontrou e corrigiu um defeito real: `renderStudy` aplicava spread em `renderMaterialGrid()`, que devolve um único elemento, e a rota `#/estudar` não renderizava; a chamada passou a ser inserida diretamente no array. Todas as suítes e `npm run check` passaram após a correção.
 - **REQ-028 — Documentação de uso:** `README.md` reúne visão geral, funcionalidades, requisitos, execução local por servidor HTTP, publicação no GitHub Pages, instalação como PWA em Android/iOS/desktop, rotas e uso das telas, configurações, cronômetro, simulados, economia de moedas e personagens, revisões, formato completo dos materiais com exemplo, geração/validação do manifesto, modelo de dados local, backup/importação/exclusão, estrutura do projeto, comandos de validação e limitações conhecidas. O documento também explica a correção por identificador, o funcionamento offline e a ausência de sincronização ou ranking global.
 
@@ -553,7 +555,7 @@ Campos reais: `schema_version`, `material_id`, `bank`, `subject`, `topic`, `requ
 
 ## I. Situação dos requisitos e dependências
 
-Os requisitos REQ-001 a REQ-056 estão implementados. A fase 9, a fase 10 (conta Supabase, sessão sazonal, sincronização de nível/moedas e ranking global da Temporada 1), a fase 11 (identidade na barra superior), a fase 12 (login e cadastro separados, rolagem ao apagar progresso e restrições do visitante), a fase 13 (cards da home restritos à conta e ordem definida), a fase 14 (isolamento dos dados de estudo por conta), a fase 15 (atualização local da home após a coleta), a fase 16 (cascata de moedas ampliada e som sincronizado), a fase 17 (exclusão remota do progresso e cascata contínua) e a fase 18 (disponibilidade de apelido no cadastro) estão concluídas. A fase 19 (REQ-057 e REQ-058) está registrada e permanece pendente. O DOC-001 consolidou a especificação normativa em `specs/`, sem alterar código de produção. O schema remoto foi aplicado, a confirmação de e-mail está desativada e a validação final em produção permanece como próxima tarefa.
+Os requisitos REQ-001 a REQ-057 estão implementados e REQ-058 permanece pendente. A fase 9, a fase 10 (conta Supabase, sessão sazonal, sincronização de nível/moedas e ranking global da Temporada 1), a fase 11 (identidade na barra superior), a fase 12 (login e cadastro separados, rolagem ao apagar progresso e restrições do visitante), a fase 13 (cards da home restritos à conta e ordem definida), a fase 14 (isolamento dos dados de estudo por conta), a fase 15 (atualização local da home após a coleta), a fase 16 (cascata de moedas ampliada e som sincronizado), a fase 17 (exclusão remota do progresso e cascata contínua), a fase 18 (disponibilidade de apelido no cadastro) e a recuperação de placar da fase 19 (REQ-057) estão concluídas; a sincronização de conquistas (REQ-058) permanece pendente. O DOC-001 consolidou a especificação normativa em `specs/`, sem alterar código de produção. O schema remoto foi aplicado, a confirmação de e-mail está desativada e a validação final em produção permanece como próxima tarefa.
 
 Dependências principais:
 
@@ -602,7 +604,7 @@ Dependências principais:
 | Schema do ranking aplicado no remoto | O projeto `qskeuqmlxbipiwsxyglv` já contém `season_scores`, `season_leaderboard`, índice, trigger e políticas RLS | A migration `supabase/migrations/20261107000000_season_ranking.sql` foi aplicada; o schema local `supabase/schema.sql` permanece como fonte canônica para novos ambientes. |
 | Exclusão remota requer a migration de `DELETE` | Sem a política `season_scores_delete_own` e o `GRANT DELETE`, o botão “Apagar progresso” limpa o local mas o placar remoto permanece e a exclusão fica pendente | A migration `supabase/migrations/20261110000000_score_delete.sql` precisa ser aplicada no projeto já existente; o app repete a exclusão ao reconectar e informa o estado no toast. |
 | Verificação de apelido requer a RPC no Supabase | Sem a função `public.nickname_available(text)`, o cadastro segue normalmente, mas o campo Apelido não consegue confirmar disponibilidade e mostra o aviso de verificação indisponível | A migration `supabase/migrations/20261110001000_nickname_available.sql` precisa ser aplicada no projeto existente; a função é `SECURITY DEFINER`, devolve apenas `true`/`false` e não expõe e-mails ou a lista de apelidos. |
-| Recuperação limitada ao placar da temporada | Progresso, SRS, tentativas, sessões e XP não são recuperados no login; apenas moedas, nível e dias ativos da temporada vêm de `season_scores` | Decisão de REQ-057: esses dados continuam locais ao dispositivo. Se a linha remota já foi sobrescrita com pontuação menor, o valor anterior não pode ser reconstruído apenas pelo Supabase. |
+| Recuperação limitada ao placar da temporada | Progresso, SRS, tentativas, sessões e XP não são recuperados no login; apenas moedas e dias ativos da temporada vêm de `season_scores` | Implementado em REQ-057: esses dados continuam locais ao dispositivo. Como o remoto prevalece, uma linha remota desatualizada pode reduzir o placar local; o envio seguinte volta a sincronizar o estado recuperado. |
 | Conquistas remotas exigem migration | Sem `public.user_achievements`, o app mantém as conquistas locais, mas não consegue carregá-las em outro dispositivo nem sincronizar coletas | A migration `supabase/migrations/20261115000000_user_achievements.sql` precisa ser aplicada no projeto existente; a ausência da tabela deve falhar de forma não bloqueante e preservar o estudo offline. |
 | Importação de conquistas com estado remoto | Um backup antigo pode não conter conquistas que já existem na conta, e a substituição remota poderia apagar desbloqueios de outro dispositivo | Decisão inicial de REQ-058: a importação mescla por união com o estado remoto e preserva a primeira data/coleta; substituição remota fica fora desta fase. |
 | Confirmação de e-mail do Supabase | O fluxo desejado exige login imediato após o cadastro | `mailer_autoconfirm` está `true` no projeto remoto; o cadastro retornou sessão e `email_confirmado: true` no teste real. Se a opção for reativada, o app orienta a confirmar o e-mail. |
@@ -615,8 +617,9 @@ Dependências principais:
 
 ### Verificação atual (2026-11-15)
 
-- REQ-057 e REQ-058 registrados como `PENDENTE`; a implementação da Fase 19 ainda não foi iniciada. Nenhum código de produção foi alterado por esta atualização.
+- REQ-057 implementado; a recuperação de placar da fase 19 está concluída. REQ-058 permanece `PENDENTE`.
 - REQ-056 implementado; a fase 18 está concluída. As fases 9 a 17 continuam concluídas.
+- REQ-057: teste temporário com `fake-indexeddb` validou `activeDaysInSeason` com baseline remoto, normalização de `season.recovered`, recuperação transacional de moedas/carteira, idempotência de uma segunda recuperação e rejeição de temporada divergente sem alterar o ledger. `node --check js/season.js`, `node --check js/db.js`, `node --check js/app.js`, `node --check service-worker.js`, `npm run check` e `git diff --check` passaram.
 - REQ-045: a modal de conta passou a abrir no modo “Entrar”, com apenas e-mail e senha, e a alternar para “Criar conta” por abas acessíveis. `submitCloudLogin` valida o apelido somente no cadastro, usa `signIn` no login e `signUp` no cadastro, sem criação automática de conta. Credenciais inválidas orientam a criar conta; e-mail já cadastrado orienta a entrar. O campo de apelido fica oculto e não obrigatório no login, e o `autocomplete` alterna entre `current-password` e `new-password`. Teste DOM com `happy-dom`/`fake-indexeddb` (21 verificações): abas com `role="tab"`/`aria-selected`/`aria-controls`, campo Apelido oculto no login e obrigatório no cadastro, títulos e rótulos por modo, login inválido sem chamada a `/auth/v1/signup`, e-mail existente orientando “Entrar”, cadastro válido conectando a conta e enviando o apelido, além do erro limpo ao trocar de aba. `node --check js/app.js` e `npm run check` passaram.
 - REQ-046: teste DOM com `happy-dom` (6 verificações) confirmou que, com a página em `scrollY = 320`, clicar em “Apagar progresso” não chamou `scrollTo({ top: 0 })`, restaurou a posição 320, exibiu “Apagar todo o progresso?”, moveu o foco para o título com `preventScroll` e chamou `scrollIntoView({ block: "nearest" })`. `node --check js/app.js` e `npm run check` passaram.
 - REQ-047: testes DOM com `happy-dom`/`fake-indexeddb` (21 + 10 verificações) confirmaram que o visitante vê apenas Início e Provas no menu, não vê o botão de configurações nem os atalhos de simulado/progresso, e recebe a área de conta em `#/config`, `#/progresso`, `#/simulado` e `#/revisoes` sem o conteúdo restrito. Ao iniciar uma prova, o visitante recebe “1 / 1” com a primeira questão do arquivo; o feedback abre o modo “Criar conta” com explicação e não a modal de feedback; o resumo mostra o aviso de visitante, oculta o gabarito e oferece “Criar conta para continuar”. Em uma sessão antiga de duas questões, “Próxima questão” abriu o cadastro e manteve “1 / 2”; após criar a conta, o menu completo e as configurações apareceram, o feedback abriu normalmente e o avanço chegou a “2 / 2”. `node --check js/app.js` e `npm run check` passaram.
@@ -629,6 +632,7 @@ Dependências principais:
 - REQ-054: quatro suítes temporárias com `fake-indexeddb` e `happy-dom` confirmaram que `clearProgressData` apaga apenas o escopo ativo e devolve as contagens; o fluxo real responde uma questão, clica em “Apagar progresso” e verifica que progresso, sessões, tentativas, estatísticas, carteira e temporada foram zerados, a home foi atualizada e um `DELETE` foi enviado a `season_scores` com `user_id=eq.<conta>` e `season_id=eq.<temporada>`, deixando `meta/cloudPendingDelete` vazio. Com a rede desligada, nenhum `DELETE` é tentado, a intenção fica pendente com conta e temporada e é repetida quando o evento `online` dispara, limpando a fila após o sucesso. `node --check js/app.js`, `node --check js/db.js`, `node --check js/cloud.js`, `node --check service-worker.js`, `npm run check` e `git diff --check` passaram.
 - REQ-055: teste DOM com `happy-dom`/`fake-indexeddb` coletou duas conquistas em sequência e confirmou que existe uma única camada `.coin-cascade`, ainda conectada ao documento, com 28 moedas na primeira coleta e 56 na segunda. Cada moeda tem `--fade` e `--fall` próprios, o fade sempre termina antes da queda, as distâncias finais variam e o som é agendado novamente na segunda coleta. `node --check js/app.js`, `node --check js/sound.js`, `node --check js/db.js`, `node --check service-worker.js`, `npm run check` e `git diff --check` passaram.
 - REQ-056: teste DOM com `happy-dom`/`fake-indexeddb` abriu o cadastro, digitou “Nova” e confirmou que a RPC `nickname_available` foi chamada com `{ candidate: "Nova" }` após o `blur`, exibindo “está disponível” em `role="status"` sem bloquear o envio. Com resposta `false`, o status mudou para “já está em uso”, o campo recebeu `aria-invalid="true"` e o botão foi desabilitado; o envio do formulário mostrou o erro e não chamou `/auth/v1/signup`. Com falha de rede, o aviso apareceu e o envio continuou permitido. Campo vazio não chamou a RPC e a troca de aba limpou o status. `node --check js/app.js`, `node --check js/cloud.js`, `node --check service-worker.js`, `npm run check` e `git diff --check` passaram.
+- REQ-057: suíte com `fake-indexeddb` confirmou que `recoverSeasonFromScore` grava moedas na temporada e na carteira, usa o dia de `updated_at` remoto como baseline, preserva `season.recovered` e é idempotente na repetição. `activeDaysInSeason` contou a atividade do mesmo dia quando o remoto foi atualizado antes, ignorou o dia do baseline, limitou o total aos dias da temporada e tratou `updated_at` ausente sem voltar para 1970. Temporada divergente foi recusada sem alterar o ledger. Um segundo harness com `happy-dom`/`fake-indexeddb` abriu o app com sessão persistida e escopo vazio, confirmou que a home aguardou `fetchOwnRank` antes de qualquer `POST` em `season_scores`, recuperou 120 moedas e 4 dias ativos e exibiu o apelido e a temporada. `node --check js/app.js`, `node --check js/db.js`, `node --check js/season.js`, `node --check service-worker.js`, `npm run check` e `git diff --check` passaram.
 - Fase 10: `supabase/schema.sql` e a migration `supabase/migrations/20261107000000_season_ranking.sql` contêm `season_scores`, view `season_leaderboard`, índice de ordenação, trigger de `updated_at`, grants e políticas RLS; `js/cloud-config.js` e `js/cloud.js` foram criados com validação, sessão, cliente REST, erros em pt-BR e normalização do ranking.
 - O schema foi aplicado no projeto remoto `qskeuqmlxbipiwsxyglv`; a consulta REST a `season_scores` e `season_leaderboard` respondeu `200`, e um `INSERT` anônimo foi recusado com `401`/`42501`, confirmando a RLS. O primeiro participante real (`x3x31`) já aparece no ranking com 15 moedas e 1 dia ativo.
 - Validação de produção em 2026-11-07: o GitHub Pages serviu `js/app.js` com o ranking, o cartão da conta e o gate, além de `js/cloud.js`, `js/cloud-config.js` e do service worker `v19`. Um cadastro real temporário pelo endpoint público retornou sessão com `email_confirmado: true`; o UPSERT autenticado em `season_scores` respondeu `201` e a linha apareceu em `season_leaderboard` na 1ª posição com nível e moedas corretos. A view expôs apenas `position`, `user_id`, `season_id`, `nickname`, `level_number`, `level_name`, `coins`, `active_days` e `updated_at` — sem e-mail. Um `INSERT` anônimo foi recusado com `401`/`42501`. A conta e a linha de teste foram removidas, restando somente o participante real.
@@ -653,13 +657,13 @@ Dependências principais:
 - Toasts corrigidos e acima da modal: a animação `toast-rise` preserva `translate(-50%, …)` em todos os quadros, mantendo as mensagens centralizadas horizontalmente em qualquer tela; a modal usa `z-index` inferior ao dos toasts.
 - `npm run check`: 10 materiais válidos, 1.250 questões, 0 erros e 0 avisos.
 - `node --check` em todos os `js/*.js`, `service-worker.js` e `scripts/*.mjs`: sem erros de sintaxe.
-- `service-worker.js` em `v31`, com 31 caminhos no app shell (incluindo `js/cloud.js` e `js/cloud-config.js`), todos presentes no repositório.
+- `service-worker.js` em `v32`, com 31 caminhos no app shell (incluindo `js/cloud.js` e `js/cloud-config.js`), todos presentes no repositório.
 - `questoes/manifest.json` válido e coerente com os 10 materiais; `package.json` sem dependências de execução.
 
 ### Especificação (DOC-001)
 
 - `specs/README.md` e os nove documentos temáticos foram criados a partir do estado real do repositório em 2026-11-09: rotas, home de logado e visitante, gate de conta, parser, manifesto, service worker `v27`, schema Supabase, backup e matriz de testes.
-- A especificação documenta REQ-001 a REQ-053, as decisões de arquitetura, as regras de negócio, os riscos residuais e a Definition of Done vigente.
+- A especificação documenta REQ-001 a REQ-057 (com REQ-058 pendente), as decisões de arquitetura, as regras de negócio, os riscos residuais e a Definition of Done vigente.
 - `PROJECT_STATUS.md` permanece como fonte operacional de versão, requisitos e histórico; `README.md` é o guia de uso e aponta para `specs/README.md`.
 - A validação da documentação incluiu `node --check js/app.js`, `node --check service-worker.js`, `npm run check` (10 materiais, 1.250 questões, 0 erros e 0 avisos), conferência dos links internos e `git diff --check`.
 - As specs não alteram código de produção; o service worker foi elevado para `v27` no REQ-051, para `v28` no REQ-052 e para `v29` no REQ-053.
@@ -743,13 +747,13 @@ As verificações abaixo são registros históricos de cada entrega; números e 
 
 ## L. Próxima tarefa recomendada
 
-**Implementar a Fase 19 — recuperação de conta e conquistas remotas.**
+**Implementar REQ-058 — sincronização de conquistas com o Supabase.**
 
 Ordem prevista:
 
-1. REQ-057: recuperar `coins`, `level_number`/`level_name` e `active_days` de `season_scores` no login, com snapshot em `season.recovered` e baseline de dias ativos; atualizar testes e este documento; commit/push.
-2. REQ-058: criar `public.user_achievements` e a migration, adicionar fetch/save/delete a `js/cloud.js`, mesclar conquistas no login e sincronizar mudanças; atualizar testes e este documento; commit/push.
-3. Aplicar a migration de conquistas no projeto remoto e validar login/recuperação em produção com uma conta de teste.
-4. Manter `specs/` e `README.md` sincronizados com cada requisito, no mesmo commit.
+1. Criar `public.user_achievements` e a migration `20261115000000_user_achievements.sql`, com RLS privada, chave `(user_id, achievement_id)` e trigger de `updated_at`.
+2. Adicionar fetch/save/delete de conquistas a `js/cloud.js`, mesclar por união em `js/db.js` e sincronizar mudanças em `js/app.js`, incluindo coleta, login, logout, importação e exclusão offline.
+3. Atualizar testes, `PROJECT_STATUS.md`, specs e `README.md`; elevar o service worker para `v33`; commit/push.
+4. Aplicar a migration de conquistas no projeto remoto e validar login/recuperação em produção com uma conta de teste.
 5. Validar as fases 10 e 11 em produção, conforme a pendência anterior, após a Fase 19.
 6. Planejar a Temporada 2 (novo `seasonId`, período e faixas) antes de 04/12/2026, mantendo o congelamento da Temporada 1 e a possibilidade de arquivar o placar anterior.

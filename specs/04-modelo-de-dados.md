@@ -147,6 +147,7 @@ O banco é único por dispositivo, mas os dados de estudo são separados por esc
   startsAt: "2026-11-05",
   endsAt: "2026-12-04",
   coinsEarned: 0,
+  recovered: null,
   createdAt: "2026-11-05T00:00:00.000Z",
   updatedAt: "2026-11-05T00:00:00.000Z"
 }
@@ -155,6 +156,9 @@ O banco é único por dispositivo, mas os dados de estudo são separados por esc
 - `coinsEarned` é o ledger da temporada, separado de `wallet.earned`.
 - Quando a temporada termina, o registro é preservado e `applySeasonCoins` deixa de somar.
 - Uma nova temporada configurada reinicia o ledger no primeiro pagamento.
+- `recovered` registra a última recuperação remota: `{ coins, activeDays, levelNumber, levelName, dayKey, at }`.
+- A recuperação substitui `season.coinsEarned`, `wallet.balance` e `wallet.earned` pelos valores remotos e usa `dayKey` (dia local de `updated_at` remoto, limitado a hoje) como corte para contar apenas dias ativos locais posteriores à última atualização remota.
+- Em divergência, o placar remoto prevalece; a recuperação não importa progresso, SRS, XP, sessões, tentativas, simulados nem conquistas.
 
 #### `meta/simulados`
 
@@ -445,7 +449,17 @@ GET /rest/v1/season_leaderboard?season_id=eq.2026-1&user_id=eq.<uuid>&select=...
 
 O top é limitado a **5** na home; a posição própria é consultada separadamente quando o usuário não aparece no top.
 
-### 4.6 RPC `public.nickname_available`
+### 4.6 Recuperação do placar no login
+
+- O login explícito consulta `fetchOwnRank(seasonId, userId)` e aplica o resultado no escopo da conta.
+- O boot com sessão persistida só recupera quando o escopo local está vazio e ainda não possui `season.recovered`.
+- A recuperação só ocorre online; sem rede, o app mantém o estado local e tenta novamente em outro login/boot.
+- O resultado remoto substitui moedas da temporada, dias ativos e o estágio exibido. `level_number` e `level_name` ficam registrados em `season.recovered`, mas a interface continua derivando o estágio de moedas + dias ativos.
+- `activeDaysInSeason` soma `season.recovered.activeDays` aos dias locais com resposta posterior a `season.recovered.dayKey`, limitado ao total de dias da temporada. Assim, a atividade do mesmo dia continua contando quando o remoto foi atualizado em um dia anterior.
+- A recuperação não altera progresso, SRS, XP, sessões, tentativas, simulados nem conquistas.
+- A sincronização de placar é adiada até a recuperação terminar, para que um escopo recém-aberto não sobrescreva o remoto com dados vazios.
+
+### 4.7 RPC `public.nickname_available`
 
 ```http
 POST /rest/v1/rpc/nickname_available
@@ -464,6 +478,7 @@ Resposta: `true` ou `false`. A função é `stable`, `security definer`, usa `se
 | Responder | Grava sessão, tentativa, progresso, estatísticas, gamificação, carteira e temporada |
 | Concluir sessão | Marca `finishedAt`, paga bônus uma única vez e atualiza resumo |
 | Coletar conquista | Grava `claimedAchievements` e soma moedas uma única vez |
+| Entrar na conta | Consulta a própria pontuação da temporada e recupera moedas, dias ativos e estágio; o remoto prevalece sobre o local |
 | Exportar | Lê os quatro stores, mantém apenas o escopo ativo, canonicaliza chaves/IDs e remove `cloudAuth`, `cloudProfile`, `cloudRank` e `storageScopedOnce` |
 | Importar | Valida e substitui apenas estudo + configurações globais do escopo ativo; preserva sessão, cache do ranking, marcador de migração e demais contas |
 | Limpar cache | Remove apenas caches `xlearn*`; não toca no IndexedDB |

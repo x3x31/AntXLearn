@@ -160,6 +160,7 @@ Características:
 | DB-006 | Voltar a uma conta restaura exatamente as recompensas coletadas e pendentes |
 | DB-007 | Migração única dos dados legados para o primeiro escopo ativado |
 | DB-008 | Sessões e tentativas recebem IDs/chaves com prefixo de escopo |
+| DB-009 | Login recupera moedas, dias ativos e estágio do placar remoto; o remoto prevalece e a sincronização não sobrescreve o remoto antes da recuperação |
 | BKP-001 | Envelope, versão e resumo |
 | BKP-002 | Rejeita formato, versão e chave inválidos |
 | BKP-003 | Exportação exclui `cloudAuth`, `cloudProfile`, `cloudRank` e `storageScopedOnce` |
@@ -249,6 +250,7 @@ Características:
 | `test-054` | Exclusão local e remota, fila offline e retry sem recriar placar | 4 suítes |
 | `test-055` | Cascata contínua, fade aleatório e som repetido | 1 suíte |
 | `test-056` | Apelido disponível/em uso no blur, bloqueio e tolerância a erro | 1 suíte |
+| `test-057` | Recuperação de moedas/dias ativos no login, baseline e precedência remota | 2 suítes |
 
 Essas suítes também confirmaram:
 
@@ -258,7 +260,7 @@ Essas suítes também confirmaram:
 - `node --check service-worker.js`;
 - `npm run check` com 10 materiais e 1.250 questões;
 - `git diff --check`;
-- service worker `v31`.
+- service worker `v32`.
 
 A suíte do REQ-051 cobriu `guest`, `u:A` e `u:B` com `fake-indexeddb`: recompensas, progresso, sessões, tentativas, estatísticas, temporada e simulados ficaram isolados; a migração legada ocorreu uma única vez e só no primeiro escopo; o backup do escopo ativo saiu com chaves e IDs canônicos, sem dados privados; a importação e a exclusão não tocaram nas outras contas. O teste DOM com `happy-dom` percorreu o login real de Alice, a coleta de “Primeiro passo”, o logout, o login de Bruno (sem saldo, coleta ou pendências da Alice) e o retorno à Alice com o saldo preservado e apenas “Primeiro acerto” pendente.
 
@@ -271,6 +273,8 @@ A suíte do REQ-054 cobriu IndexedDB com `fake-indexeddb` e DOM com `happy-dom`:
 A suíte do REQ-055 confirmou que coletas consecutivas reutilizam a mesma camada `.coin-cascade`, acrescentam moedas sem criar uma segunda camada, limitam o total a 140 e sorteiam `--fall`, `--fade`, `--distance`, `--delay`, `--drift`, `--size` e `--x` por moeda. A inspeção do CSS confirmou o fade em altura aleatória antes do fim da queda, e o som foi reagendado a cada onda.
 
 A suíte do REQ-056 abriu o cadastro com `happy-dom`, digitou um apelido e confirmou que a RPC `nickname_available` foi chamada com `{ candidate }` após o `blur`. A resposta `true` exibiu o status “está disponível” sem bloquear o envio; a resposta `false` exibiu “já está em uso”, marcou `aria-invalid="true"` e desabilitou o botão, e o envio do formulário não chamou `/auth/v1/signup`. Uma falha de rede exibiu o aviso e manteve o cadastro permitido. Campo vazio não chamou a RPC, e a troca de aba limpou o status.
+
+A suíte do REQ-057 usou `fake-indexeddb` para recuperar uma pontuação remota em um escopo de conta vazio: `recoverSeasonFromScore` gravou moedas na temporada e na carteira, registrou `season.recovered` com o `dayKey` do dia de `updated_at` remoto e foi idempotente na repetição. `activeDaysInSeason` somou o baseline remoto apenas aos dias posteriores ao corte, contou a atividade local do mesmo dia quando o remoto foi atualizado antes, limitou o total aos dias da temporada e ignorou dias anteriores. Uma segunda chamada com temporada divergente foi recusada sem alterar o ledger. A suíte também confirmou que `normalizeSeason` preserva o snapshot e que a recuperação é aplicada antes de a sincronização de placar ser agendada.
 
 ## 6. Campanha final registrada (REQ-027)
 
@@ -342,8 +346,9 @@ A campanha final executou 12 suítes temporárias, todas aprovadas:
 2. Conferir apelido na topbar e botão de sair.
 3. Responder questões e confirmar UPSERT em `season_scores`.
 4. Conferir top 5 e posição própria.
-5. Sair e confirmar que o ranking continua visível para visitante.
-6. Confirmar que e-mail e tokens não aparecem no ranking nem no backup.
+5. Entrar novamente em uma conta com placar remoto e escopo local vazio; confirmar que moedas, dias ativos e estágio exibidos são recuperados antes de um novo envio.
+6. Sair e confirmar que o ranking continua visível para visitante.
+7. Confirmar que e-mail e tokens não aparecem no ranking nem no backup.
 
 ## 8. Definition of Done
 

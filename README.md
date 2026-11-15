@@ -20,7 +20,7 @@ O projeto usa apenas HTML5, CSS3, JavaScript puro (ES Modules), IndexedDB, Cache
 - **Simulados:** montagem por assunto e quantidade de questões, com resumo próprio por disciplina.
 - **Cronômetro opcional:** contagem regressiva de 5 a 120 minutos nas provas, exibida em um cabeçalho fixo com o contador de questões, com pausa automática ao trocar de aba, pausa enquanto o feedback está aberto e encerramento ao zerar.
 - **Gamificação:** temporada com evolução por moedas acumuladas e dias ativos, meta diária, sequência de estudos, conquistas e ranking local.
-- **Conta e ranking global:** login opcional por e-mail e senha ou cadastro com apelido, e-mail e senha para enviar nível e moedas ao ranking da Temporada 1, com verificação automática de disponibilidade do apelido ao sair do campo, top 5 na tela inicial, posição do próprio usuário, sessão persistente, apelido e saída rápida na barra superior e sincronização automática quando a conexão volta.
+- **Conta e ranking global:** login opcional por e-mail e senha ou cadastro com apelido, e-mail e senha para enviar nível e moedas ao ranking da Temporada 1, com verificação automática de disponibilidade do apelido ao sair do campo, recuperação de moedas e dias ativos da temporada ao entrar em uma conta ou abrir o app com escopo vazio, top 5 na tela inicial, posição do próprio usuário, sessão persistente, apelido e saída rápida na barra superior e sincronização automática quando a conexão volta.
 - **Moedas e personagem:** recompensas por acerto, sessão e meta; coleta manual das moedas das conquistas, com pendências destacadas na tela inicial e cascata de moedas vinda do topo, sincronizada com o som, ao coletar; personagem com cinco estágios que evolui apenas dentro da temporada e congela ao término.
 - **Som e ludicidade:** efeitos gerados via Web Audio, com volume configurável e respeito a animações reduzidas.
 - **Acessibilidade:** navegação por teclado, foco visível, link de pular, rótulos ARIA, contraste e alvos de toque adequados.
@@ -249,7 +249,7 @@ Os dados ficam no IndexedDB do navegador, no banco `xlearn`:
 
 O estudo é separado por **escopo**: `guest` para o visitante e `u:<userId>` para cada conta. Progresso, sessões, tentativas, estatísticas, temporada, gamificação, carteira, simulados, conquistas e recompensas coletadas de um escopo nunca aparecem em outro. Configurações de estudo, aparência, som, sessão do Supabase e cache do ranking continuam globais.
 
-Sem conta, nenhum dado de estudo é enviado a servidores; com conta, apenas apelido, estágio e moedas acumuladas da temporada seguem para o ranking. Limpar os dados do site no navegador apaga todo o banco local; por isso, faça backups periódicos.
+Sem conta, nenhum dado de estudo é enviado a servidores; com conta, apenas apelido, estágio e moedas acumuladas da temporada seguem para o ranking. Ao entrar na conta, o app lê a própria pontuação da temporada para recuperar moedas, dias ativos e estágio; em divergência, o placar remoto prevalece sobre o escopo local. Limpar os dados do site no navegador apaga todo o banco local; por isso, faça backups periódicos.
 
 Em **Configurações → Dados**:
 
@@ -325,7 +325,7 @@ A campanha final de testes está registrada em `PROJECT_STATUS.md`. Os testes au
 - **Ranking local × global:** o ranking local em `#/progresso` representa apenas aquele navegador/dispositivo. O ranking global da Temporada 1 depende de uma conta Supabase e mostra somente apelido, nível e moedas.
 - **Conta necessária para o estudo completo:** sem conta, o modo visitante permite responder apenas à primeira questão de cada prova e não abre Configurações, Progresso, Simulado nem Revisões; o feedback e o avanço levam ao cadastro. A sessão da conta fica no IndexedDB e não é transferida pelo backup.
 - **Placar enviado pelo cliente:** o app calcula e envia o próprio nível/moedas. As políticas RLS impedem gravar em nome de outra conta, mas não atestam a veracidade do placar.
-- **Dados por navegador:** trocar de navegador, limpar o armazenamento ou usar outro dispositivo não transfere o progresso automaticamente. O backup JSON contempla apenas o escopo ativo; para levar outra conta, entre nela e exporte um backup separado.
+- **Dados por navegador:** trocar de navegador, limpar o armazenamento ou usar outro dispositivo não transfere o progresso automaticamente. Ao entrar na conta, apenas moedas, dias ativos e estágio da temporada são recuperados do ranking; progresso, revisões, sessões, tentativas, simulados e conquistas permanecem locais. O backup JSON contempla apenas o escopo ativo; para levar outra conta, entre nela e exporte um backup separado.
 - **Offline parcial:** o app shell fica disponível após a primeira visita, mas cada prova só fica offline depois de ser acessada uma vez. A pontuação pendente é reenviada quando a conexão volta.
 - **Service worker:** exige HTTPS ou `localhost`.
 - **Som:** depende de suporte a Web Audio e é liberado após o primeiro gesto do usuário, conforme a política dos navegadores.

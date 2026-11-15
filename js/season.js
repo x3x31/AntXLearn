@@ -77,6 +77,19 @@ function timestamp(now) {
   return now instanceof Date ? now.toISOString() : new Date(now).toISOString();
 }
 
+function normalizeRecovered(raw = null) {
+  if (!raw || typeof raw !== "object") return null;
+  const dayKey = parseDayKey(raw.dayKey) ? raw.dayKey : null;
+  return {
+    coins: nonNegative(raw.coins),
+    activeDays: nonNegative(raw.activeDays),
+    levelNumber: nonNegative(raw.levelNumber) || null,
+    levelName: typeof raw.levelName === "string" && raw.levelName ? raw.levelName : null,
+    dayKey,
+    at: typeof raw.at === "string" ? raw.at : null,
+  };
+}
+
 function parseDayKey(key) {
   const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec(String(key || ""));
   if (!match) return null;
@@ -135,6 +148,7 @@ export function createSeason(now = new Date()) {
     startsAt: config.startsAt,
     endsAt: config.endsAt,
     coinsEarned: 0,
+    recovered: null,
     createdAt: timestamp(now),
     updatedAt: timestamp(now),
   };
@@ -159,6 +173,7 @@ export function normalizeSeason(raw = null, now = new Date()) {
         startsAt: raw.startsAt,
         endsAt: raw.endsAt,
         coinsEarned: nonNegative(raw.coinsEarned),
+        recovered: normalizeRecovered(raw.recovered),
         createdAt: typeof raw.createdAt === "string" ? raw.createdAt : null,
         updatedAt: typeof raw.updatedAt === "string" ? raw.updatedAt : null,
       };
@@ -222,10 +237,15 @@ export function seasonStatus(season, now = new Date()) {
  */
 export function activeDaysInSeason(daily = {}, season) {
   if (!isSeasonConfig(season)) return 0;
-  return Object.keys(daily || {}).filter((key) => {
+  const recovered = normalizeRecovered(season.recovered);
+  const baselineDay = recovered?.dayKey || null;
+  const activeDays = Object.keys(daily || {}).filter((key) => {
     if (key < season.startsAt || key > season.endsAt) return false;
+    if (baselineDay && key <= baselineDay) return false;
     return (daily[key]?.answered || 0) > 0;
   }).length;
+  const totalDays = seasonStatus(season).totalDays;
+  return Math.min(totalDays, (recovered?.activeDays || 0) + activeDays);
 }
 
 /**

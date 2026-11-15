@@ -121,8 +121,9 @@ O estado persistente vive em IndexedDB ([04 — Modelo de dados](04-modelo-de-da
 2. `app.js` aplica preferências visuais, registra listeners, abre o IndexedDB e carrega dados locais.
 3. Carrega o manifesto via `questions.js`.
 4. Restaura sessão normal, simulado e conta (`meta/cloudAuth`).
-5. Consulta ranking em cache e tenta sincronizar/atualizar conforme conectividade.
-6. Renderiza a rota atual (padrão `#/inicio`).
+5. Consulta ranking em cache e, com sessão persistida em escopo vazio, recupera a própria pontuação da temporada antes de agendar a sincronização.
+6. Tenta sincronizar/atualizar o ranking conforme conectividade.
+7. Renderiza a rota atual (padrão `#/inicio`).
 
 ### 5.2 Carregamento de materiais
 
@@ -183,14 +184,16 @@ O estado persistente vive em IndexedDB ([04 — Modelo de dados](04-modelo-de-da
 
 1. `cloudClient.signIn` ou `signUp` valida credenciais e retorna sessão.
 2. A sessão é persistida em `meta/cloudAuth` (sem senha).
-3. `summarizeSeason` fornece estágio, moedas e dias ativos.
-4. `saveScore` envia UPSERT para `season_scores` com `user_id` da sessão.
-5. `fetchLeaderboard` consulta a view `season_leaderboard` (top 5).
-6. `fetchOwnRank` consulta a posição do usuário fora do top 5.
-7. O resultado é cacheado em `meta/cloudRank`.
-8. Falhas de rede não bloqueiam o estudo e são reenviadas ao reconectar.
-9. “Apagar progresso” remove a pontuação da temporada via `DELETE` em `season_scores`; se a rede falhar, a intenção fica em `meta/cloudPendingDelete` e é repetida antes de qualquer novo envio.
-10. No cadastro, o `blur` do apelido chama a RPC `nickname_available`; a resposta booleana só bloqueia o envio quando o apelido está em uso, e falhas de rede não impedem o cadastro.
+3. A troca de escopo carrega os dados da conta sem agendar envio de placar.
+4. Com rede, `fetchOwnRank` recupera a própria pontuação da temporada e `recoverSeasonFromScore` aplica moedas, dias ativos e estágio no escopo da conta; o remoto prevalece.
+5. `summarizeSeason` fornece estágio, moedas e dias ativos já recuperados; só então a sincronização de placar é agendada.
+6. `saveScore` envia UPSERT para `season_scores` com `user_id` da sessão.
+7. `fetchLeaderboard` consulta a view `season_leaderboard` (top 5).
+8. `fetchOwnRank` também consulta a posição do usuário fora do top 5.
+9. O resultado é cacheado em `meta/cloudRank`.
+10. Falhas de rede não bloqueiam o estudo e são reenviadas ao reconectar.
+11. “Apagar progresso” remove a pontuação da temporada via `DELETE` em `season_scores`; se a rede falhar, a intenção fica em `meta/cloudPendingDelete` e é repetida antes de qualquer novo envio.
+12. No cadastro, o `blur` do apelido chama a RPC `nickname_available`; a resposta booleana só bloqueia o envio quando o apelido está em uso, e falhas de rede não impedem o cadastro.
 
 ### 5.9 Atualização do PWA
 

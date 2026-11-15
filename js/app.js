@@ -31,6 +31,7 @@ import {
   listAttempts,
   progressKey,
   recordAnswer,
+  recoverSeasonFromScore,
   saveSession,
   saveSettingsRecord,
   saveSimuladoHistory,
@@ -986,7 +987,7 @@ async function loadPersistedSettings() {
   }
 }
 
-async function refreshProgress() {
+async function refreshProgress({ sync = true } = {}) {
   try {
     const [progress, gamification, stats, recentAttempts, wallet, season] = await Promise.all([
       getProgressSummary(),
@@ -1014,10 +1015,35 @@ async function refreshProgress() {
     state.reviewQueue = { groups: [], counts: { overdue: 0, upcoming: 0 } };
   }
   updateNav();
-  scheduleScoreSync();
+  if (sync) scheduleScoreSync();
 }
 
 /* Isolamento por conta ------------------------------------------------------ */
+
+async function recoverCloudScore() {
+  if (!cloudClient || !state.cloud.session) return { applied: false, skipped: true };
+  if (!isOnline()) return { applied: false, offline: true };
+
+  const seasonId = state.season?.id || SEASON_1.id;
+  try {
+    const session = await ensureCloudSession();
+    if (!session) return { applied: false, unauthenticated: true };
+    const score = await cloudClient.fetchOwnRank(seasonId, session.userId, { session });
+    if (!score) return { applied: false, missing: true };
+    const recovery = await recoverSeasonFromScore(score);
+    if (recovery?.applied) state.cloud.rank = { ...state.cloud.rank, me: score };
+    return recovery || { applied: false };
+  } catch (error) {
+    if (error instanceof CloudError && error.network) {
+      state.cloud.syncStatus = "offline";
+    } else if (error instanceof CloudError && error.tableMissing) {
+      state.cloud.syncStatus = "unconfigured";
+    } else {
+      console.warn("XLearn: falha ao recuperar a temporada.", error);
+    }
+    return { applied: false, error };
+  }
+}
 
 /**
  * Descarta o estado de estudo em memória antes de trocar de escopo. Os dados
@@ -1047,11 +1073,16 @@ function resetStudyState() {
  * Ativa o escopo da conta (`u:<id>`) ou do visitante e recarrega somente os
  * dados daquele escopo. Usado no login, no logout e quando a sessão expira.
  */
-async function switchStudyScope(userId) {
+async function switchStudyScope(userId, { recover = false } = {}) {
   await activateStorageScope(scopeForUser(userId));
   resetStudyState();
   await restoreActiveSession();
-  await refreshProgress();
+  await refreshProgress({ sync: false });
+  if (recover && userId) {
+    const recovery = await recoverCloudScore();
+    if (recovery?.applied) await refreshProgress({ sync: false });
+  }
+  scheduleScoreSync();
   updateTopbarIdentity();
   render();
 }
@@ -2478,7 +2509,7 @@ async function submitCloudLogin(event) {
     }
 
     await persistCloudSession(session);
-    await switchStudyScope(session.userId);
+    await switchStudyScope(session.userId, { recover: true });
     const pending = state.loginModal?.pendingStart || null;
     modal.busy = false;
     modal.error = null;
@@ -2634,7 +2665,15 @@ async function initialize() {
   );
   await loadCatalog({ quiet: true });
   await restoreActiveSession();
-  await refreshProgress();
+  await refreshProgress({ sync: false });
+  if (state.cloud.session?.userId && !state.season?.recovered) {
+    const current = summarizeSeason(state.season || createSeason(), state.stats?.daily || {});
+    if ((Number(current.season.coinsEarned) || 0) === 0 && current.activeDays === 0) {
+      const recovery = await recoverCloudScore();
+      if (recovery?.applied) await refreshProgress({ sync: false });
+    }
+  }
+  scheduleScoreSync();
   render();
   if (currentRoute() === "inicio") refreshHomeRanking();
 }
