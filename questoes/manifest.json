@@ -1,24 +1,78 @@
 {
     "schemaVersion": 1,
     "generator": "scripts/build-manifest.mjs",
-    "generatedAt": "2026-11-02T09:00:00Z",
+    "generatedAt": "2026-11-15T00:00:00Z",
     "summary": {
-        "materials": 10,
-        "validMaterials": 10,
+        "materials": 13,
+        "validMaterials": 13,
         "invalidMaterials": 0,
-        "questions": 1250,
+        "questions": 3767,
         "errors": 0,
-        "warnings": 6
+        "warnings": 8
     },
     "files": [
         {
+            "path": "ESTUDO_LINGUA_PORTUGUESA.md",
+            "file": "ESTUDO_LINGUA_PORTUGUESA.md",
+            "title": "Língua Portuguesa",
+            "materialId": "MAT-LP",
+            "bank": null,
+            "subject": "Língua Portuguesa",
+            "topic": "Todos os tópicos de Língua Portuguesa da apostila",
+            "language": "pt-BR",
+            "questionCount": 643,
+            "declaredQuestions": 643,
+            "sizeBytes": 2216368,
+            "sha256": "84fc6c7e3b2202eb2fc5d6ca58ee201b97b14aef428cb57744df38463fa1fbe6",
+            "valid": true,
+            "errors": [],
+            "warnings": []
+        },
+        {
+            "path": "ESTUDO_LEGISLACAO.md",
+            "file": "ESTUDO_LEGISLACAO.md",
+            "title": "Legislação",
+            "materialId": "MAT-LEG",
+            "bank": null,
+            "subject": "Legislação",
+            "topic": "Legislação municipal e Lei de Improbidade Administrativa",
+            "language": "pt-BR",
+            "questionCount": 221,
+            "declaredQuestions": 221,
+            "sizeBytes": 766643,
+            "sha256": "6aad0bc35115fb51157dfbc1f3abc2297d4dc9fe1deb3fbb78b74584941d7c81",
+            "valid": true,
+            "errors": [],
+            "warnings": []
+        },
+        {
+            "path": "ESTUDO_CONHECIMENTOS_ESPECIFICOS.md",
+            "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS.md",
+            "title": "Conhecimentos Específicos",
+            "materialId": "MAT-ESP",
+            "bank": null,
+            "subject": "Conhecimentos Específicos",
+            "topic": "Conteúdo integral de Conhecimentos Específicos",
+            "language": "pt-BR",
+            "questionCount": 1653,
+            "declaredQuestions": 1653,
+            "sizeBytes": 14470220,
+            "sha256": "d1137abbf16126f3531df710ef00d3e5ccb994682901339a23ac6faa711b46d6",
+            "valid": true,
+            "errors": [],
+            "warnings": [
+                "A questão 269 aparece sem enunciado no PDF de origem; foram preservadas somente as alternativas visíveis, sem reconstrução do comando.",
+                "A questão 1510 possui quatro alternativas no documento original; nenhuma quinta alternativa foi inventada."
+            ]
+        },
+		{
             "path": "questoes/ESTUDO_BANCO_DE_DADOS_COMPERVE_50_QUESTOES.md",
             "file": "ESTUDO_BANCO_DE_DADOS_COMPERVE_50_QUESTOES.md",
             "title": "Banco de Dados",
             "materialId": "MAT-BD-COMPERVE-001",
             "bank": "COMPERVE",
             "subject": "Banco de Dados",
-            "topic": "Conceitos, modelos, projeto conceitual, l\u00f3gico e f\u00edsico, linguagens de consulta, bancos distribu\u00eddos, SGBDs e SQL",
+            "topic": "Conceitos, modelos, projeto conceitual, lógico e físico, linguagens de consulta, bancos distribuídos, SGBDs e SQL",
             "language": "pt-BR",
             "questionCount": 50,
             "declaredQuestions": 50,
@@ -31,11 +85,11 @@
         {
             "path": "questoes/ESTUDO_LEGISLACAO_COMPERVE_100_QUESTOES.md",
             "file": "ESTUDO_LEGISLACAO_COMPERVE_100_QUESTOES.md",
-            "title": "Legisla\u00e7\u00e3o",
+            "title": "Legislação",
             "materialId": "MAT-LEG-COMPERVE-001",
             "bank": "COMPERVE",
-            "subject": "Legisla\u00e7\u00e3o",
-            "topic": "Regimento Interno da C\u00e2mara Municipal de Mossor\u00f3, Lei Org\u00e2nica do Munic\u00edpio de Mossor\u00f3 e Lei n\u00ba 8.429/1992",
+            "subject": "Legislação",
+            "topic": "Regimento Interno da Câmara Municipal de Mossoró, Lei Orgânica do Município de Mossoró e Lei nº 8.429/1992",
             "language": "pt-BR",
             "questionCount": 100,
             "declaredQuestions": 100,
@@ -48,11 +102,11 @@
         {
             "path": "questoes/ESTUDO_CONHECIMENTO_LINGUISTICO_COMPERVE_100_QUESTOES.md",
             "file": "ESTUDO_CONHECIMENTO_LINGUISTICO_COMPERVE_100_QUESTOES.md",
-            "title": "Conhecimento Lingu\u00edstico",
+            "title": "Conhecimento Linguístico",
             "materialId": "MAT-001",
             "bank": "COMPERVE",
-            "subject": "Conhecimento Lingu\u00edstico",
-            "topic": "Varia\u00e7\u00e3o lingu\u00edstica; classes de palavras; norma-padr\u00e3o; per\u00edodo simples e composto; pontua\u00e7\u00e3o; rela\u00e7\u00f5es sem\u00e2nticas",
+            "subject": "Conhecimento Linguístico",
+            "topic": "Variação linguística; classes de palavras; norma-padrão; período simples e composto; pontuação; relações semânticas",
             "language": "pt-BR",
             "questionCount": 100,
             "declaredQuestions": 100,
@@ -69,7 +123,7 @@
             "materialId": "MAT-ENGSOFT-COMPERVE-001",
             "bank": "COMPERVE",
             "subject": "Engenharia de Software",
-            "topic": "Padr\u00f5es GoF; processos e ciclo de vida; m\u00e9todos estruturados e orientados a objetos; planejamento; requisitos; an\u00e1lise e projeto; gest\u00e3o de configura\u00e7\u00e3o; testes; qualidade; manuten\u00e7\u00e3o; desenvolvimento baseado em componentes; ferramentas CASE; gest\u00e3o de projetos; Scrum; UML 2.0",
+            "topic": "Padrões GoF; processos e ciclo de vida; métodos estruturados e orientados a objetos; planejamento; requisitos; análise e projeto; gestão de configuração; testes; qualidade; manutenção; desenvolvimento baseado em componentes; ferramentas CASE; gestão de projetos; Scrum; UML 2.0",
             "language": "pt-BR",
             "questionCount": 100,
             "declaredQuestions": 100,
@@ -82,11 +136,11 @@
         {
             "path": "questoes/ESTUDO_ORGANIZACAO_DO_TEXTO_COMPERVE_100_QUESTOES.md",
             "file": "ESTUDO_ORGANIZACAO_DO_TEXTO_COMPERVE_100_QUESTOES.md",
-            "title": "Organiza\u00e7\u00e3o do Texto",
+            "title": "Organização do Texto",
             "materialId": "MAT-ORG-TEXTO-COMPERVE-001",
             "bank": "COMPERVE",
-            "subject": "Organiza\u00e7\u00e3o do Texto",
-            "topic": "Prop\u00f3sito comunicativo; tipos de texto (dialogal, descritivo, narrativo, injuntivo, explicativo e argumentativo); g\u00eaneros discursivos; mecanismos coesivos; fatores de coer\u00eancia textual; progress\u00e3o tem\u00e1tica; paragrafa\u00e7\u00e3o; cita\u00e7\u00e3o do discurso alheio; informa\u00e7\u00f5es impl\u00edcitas; linguagem denotativa e conotativa",
+            "subject": "Organização do Texto",
+            "topic": "Propósito comunicativo; tipos de texto (dialogal, descritivo, narrativo, injuntivo, explicativo e argumentativo); gêneros discursivos; mecanismos coesivos; fatores de coerência textual; progressão temática; paragrafação; citação do discurso alheio; informações implícitas; linguagem denotativa e conotativa",
             "language": "pt-BR",
             "questionCount": 100,
             "declaredQuestions": 100,
@@ -103,7 +157,7 @@
             "materialId": "MAT-SO",
             "bank": "COMPERVE",
             "subject": "Sistemas Operacionais",
-            "topic": "Utiliza\u00e7\u00e3o e configura\u00e7\u00e3o de sistemas Windows, Unix e Linux e suas distribui\u00e7\u00f5es",
+            "topic": "Utilização e configuração de sistemas Windows, Unix e Linux e suas distribuições",
             "language": "pt-BR",
             "questionCount": 100,
             "declaredQuestions": 100,
@@ -120,7 +174,7 @@
             "materialId": "MAT-REDES-COMPERVE-001",
             "bank": "COMPERVE",
             "subject": "Redes de Computadores",
-            "topic": "Conceitos b\u00e1sicos, tipos de redes e protocolos de comunica\u00e7\u00e3o (HTTP, SSH, IMAP, SMTP, TCP/IP e UDP)",
+            "topic": "Conceitos básicos, tipos de redes e protocolos de comunicação (HTTP, SSH, IMAP, SMTP, TCP/IP e UDP)",
             "language": "pt-BR",
             "questionCount": 100,
             "declaredQuestions": 100,
@@ -129,16 +183,16 @@
             "valid": true,
             "errors": [],
             "warnings": [
-                "As quest\u00f5es originais n\u00e3o foram comparadas com gabaritos oficiais, ausentes do corpus."
+                "As questões originais não foram comparadas com gabaritos oficiais, ausentes do corpus."
             ]
         },
         {
             "path": "questoes/ESTUDO_LINGUAGENS_DE_PROGRAMACAO_COMPERVE_400_QUESTOES.md",
             "file": "ESTUDO_LINGUAGENS_DE_PROGRAMACAO_COMPERVE_400_QUESTOES.md",
-            "title": "Linguagens de Programa\u00e7\u00e3o",
+            "title": "Linguagens de Programação",
             "materialId": "MAT-LP-COMPERVE-400",
             "bank": "COMPERVE",
-            "subject": "Linguagens de Programa\u00e7\u00e3o",
+            "subject": "Linguagens de Programação",
             "topic": "Java; JavaScript (ECMAScript 2020); TypeScript 5.4; Node.js 20.14; React 18; React Native 0.74; NestJS 10.3.9",
             "language": "pt-BR",
             "questionCount": 400,
@@ -148,7 +202,7 @@
             "valid": true,
             "errors": [],
             "warnings": [
-                "As quest\u00f5es originais foram extra\u00eddas de caderno sem gabarito oficial anexado ao corpus; respostas conferidas tecnicamente, mas n\u00e3o confrontadas com gabarito oficial."
+                "As questões originais foram extraídas de caderno sem gabarito oficial anexado ao corpus; respostas conferidas tecnicamente, mas não confrontadas com gabarito oficial."
             ]
         },
         {
@@ -157,8 +211,8 @@
             "title": "LGPD",
             "materialId": "MAT-LGPD-COMPERVE-001",
             "bank": "COMPERVE",
-            "subject": "Seguran\u00e7a da Informa\u00e7\u00e3o",
-            "topic": "Seguran\u00e7a de dados \u2014 Lei Geral de Prote\u00e7\u00e3o de Dados Pessoais (LGPD), Lei n\u00ba 13.709/2018",
+            "subject": "Segurança da Informação",
+            "topic": "Segurança de dados — Lei Geral de Proteção de Dados Pessoais (LGPD), Lei nº 13.709/2018",
             "language": "pt-BR",
             "questionCount": 100,
             "declaredQuestions": 100,
@@ -167,18 +221,18 @@
             "valid": true,
             "errors": [],
             "warnings": [
-                "Gabaritos das quest\u00f5es originais foram conferidos pela interpreta\u00e7\u00e3o dos dispositivos legais; o corpus n\u00e3o continha os gabaritos oficiais correspondentes.",
-                "Valida\u00e7\u00e3o estrutural e de consist\u00eancia realizada; recomenda-se revis\u00e3o jur\u00eddica especializada final das quest\u00f5es in\u00e9ditas antes de uso como material oficial de avalia\u00e7\u00e3o."
+                "Gabaritos das questões originais foram conferidos pela interpretação dos dispositivos legais; o corpus não continha os gabaritos oficiais correspondentes.",
+                "Validação estrutural e de consistência realizada; recomenda-se revisão jurídica especializada final das questões inéditas antes de uso como material oficial de avaliação."
             ]
         },
         {
             "path": "questoes/ESTUDO_CONCEITOS_BASICOS_SOFTWARE_HARDWARE_COMPERVE_100_QUESTOES.md",
             "file": "ESTUDO_CONCEITOS_BASICOS_SOFTWARE_HARDWARE_COMPERVE_100_QUESTOES.md",
-            "title": "Conceitos B\u00e1sicos de Software e Hardware",
+            "title": "Conceitos Básicos de Software e Hardware",
             "materialId": "MAT-SH-COMPERVE-100",
             "bank": "COMPERVE",
-            "subject": "Conceitos B\u00e1sicos de Software e Hardware",
-            "topic": "Defini\u00e7\u00e3o, tipos, fun\u00e7\u00f5es e caracter\u00edsticas de software e hardware",
+            "subject": "Conceitos Básicos de Software e Hardware",
+            "topic": "Definição, tipos, funções e características de software e hardware",
             "language": "pt-BR",
             "questionCount": 100,
             "declaredQuestions": 100,
@@ -187,8 +241,8 @@
             "valid": true,
             "errors": [],
             "warnings": [
-                "Auditoria estrutural automatizada; revis\u00e3o pedag\u00f3gica realizada por consist\u00eancia de conte\u00fado e distin\u00e7\u00e3o conceitual, n\u00e3o equivale a parecer t\u00e9cnico independente.",
-                "Quest\u00f5es originais sem gabaritos oficiais no corpus foram verificadas pelo conte\u00fado t\u00e9cnico; p\u00e1ginas n\u00e3o informadas quando n\u00e3o confirmadas."
+                "Auditoria estrutural automatizada; revisão pedagógica realizada por consistência de conteúdo e distinção conceitual, não equivale a parecer técnico independente.",
+                "Questões originais sem gabaritos oficiais no corpus foram verificadas pelo conteúdo técnico; páginas não informadas quando não confirmadas."
             ]
         }
     ]
