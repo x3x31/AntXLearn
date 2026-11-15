@@ -12,7 +12,7 @@
     },
     "files": [
         {
-            "path": "ESTUDO_LINGUA_PORTUGUESA.md",
+            "path": "questoes/ESTUDO_LINGUA_PORTUGUESA.md",
             "file": "ESTUDO_LINGUA_PORTUGUESA.md",
             "title": "Língua Portuguesa",
             "materialId": "MAT-LP",
@@ -29,7 +29,7 @@
             "warnings": []
         },
         {
-            "path": "ESTUDO_LEGISLACAO.md",
+            "path": "questoes/ESTUDO_LEGISLACAO.md",
             "file": "ESTUDO_LEGISLACAO.md",
             "title": "Legislação",
             "materialId": "MAT-LEG",
@@ -46,7 +46,7 @@
             "warnings": []
         },
         {
-            "path": "ESTUDO_CONHECIMENTOS_ESPECIFICOS.md",
+            "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS.md",
             "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS.md",
             "title": "Conhecimentos Específicos",
             "materialId": "MAT-ESP",
