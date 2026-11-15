@@ -486,7 +486,7 @@ Campos reais: `schema_version`, `material_id`, `bank`, `subject`, `topic`, `requ
 | 0.50.0 | REQ-053 | Cascata de moedas ampliada para 28–48 moedas espalhadas pela largura da tela, caindo do topo por trás da barra superior até cerca de 1/3 da viewport, com início opaco, fim transparente e som contínuo durante todo o tempo visível; service worker `v29` | `d40846f` | 2026-11-10 |
 | 0.51.0 | REQ-054, REQ-055 | “Apagar progresso” apaga o escopo local, atualiza a tela e exclui a pontuação no Supabase com política/GRANT próprios e fila de repetição offline; cascata reutiliza uma única camada e cada moeda some em altura e ritmo aleatórios, com continuidade e som repetido em coletas consecutivas; service worker `v30` | `da03a14` | 2026-11-10 |
 | 0.52.0 | REQ-056 | Verificação automática de disponibilidade do apelido ao sair do campo no cadastro, com RPC `nickname_available` restrita a verdadeiro/falso; apelido em uso bloqueia o envio, estado acessível em `aria-live` e falha de rede não impede o cadastro; service worker `v31` | `4efe857` | 2026-11-10 |
-| 0.53.0 | REQ-057 | Recuperação de moedas e dias ativos da temporada no login: `season.recovered` como baseline, `recoverSeasonFromScore` transacional, consulta da própria linha em `season_scores`, precedência do remoto e envio de placar adiado até o fim da recuperação; service worker `v32` | `—` | 2026-11-15 |
+| 0.53.0 | REQ-057 | Recuperação de moedas e dias ativos da temporada no login: `season.recovered` como baseline, `recoverSeasonFromScore` transacional, consulta da própria linha em `season_scores`, precedência do remoto e envio de placar adiado até o fim da recuperação; service worker `v32` | `088f688` | 2026-11-15 |
 
 ---
 
