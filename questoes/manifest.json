@@ -1,14 +1,15 @@
 {
-    "schemaVersion": 1,
-    "generator": "scripts/build-manifest.mjs",
-    "generatedAt": "2026-11-15T00:00:00Z",
-    "summary": {
-        "materials": 13,
-        "validMaterials": 13,
-        "invalidMaterials": 0,
-        "questions": 3767,
-        "errors": 0,
-        "warnings": 8
+  "schemaVersion": 1,
+  "generator": "scripts/build-manifest.mjs",
+  "generatedAt": "2026-11-15T08:11:00Z",
+  "summary": {
+    "materials": 22,
+    "validMaterials": 13,
+    "invalidMaterials": 0,
+    "questions": 6862,
+    "errors": 0,
+    "warnings": 17,
+    "pendingValidation": 9
     },
     "files": [
         {
