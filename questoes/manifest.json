@@ -1,15 +1,14 @@
 {
   "schemaVersion": 1,
   "generator": "scripts/build-manifest.mjs",
-  "generatedAt": "2026-11-15T08:11:00Z",
+  "generatedAt": "2026-11-15T08:30:00Z",
   "summary": {
     "materials": 22,
     "validMaterials": 13,
     "invalidMaterials": 0,
     "questions": 6862,
     "errors": 0,
-    "warnings": 17,
-    "pendingValidation": 9
+    "warnings": 17
     },
     "files": [
         {
@@ -49,7 +48,7 @@
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_1.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_1.md",
-      "title": "Conhecimentos Específicos 1",
+      "title": "Conhecimentos Específicos 1 — Conceitos Básicos de Hardware e Software",
       "materialId": "MAT-ESP",
       "bank": null,
       "subject": "Conhecimentos Específicos 1",
@@ -57,23 +56,18 @@
       "language": "pt-BR",
       "questionCount": 161,
       "declaredQuestions": 161,
-      "requestedQuestions": 161,
-      "originalQuestions": 161,
-      "generatedQuestions": 0,
-      "createdAt": "2026-11-15",
       "sizeBytes": null,
-      "sha256": null,
+      "sha256": "f312677f4fab2d43b77c58fefe2a6f9bdf3b1fc64bdc80148eaeb4e84957e879",
       "valid": null,
-      "validationStatus": "pending_file_verification",
       "errors": [],
       "warnings": [
-        "Metadados registrados conforme informações fornecidas; o arquivo .md não estava disponível para inspeção nesta atualização. Tamanho, SHA-256 e validação estrutural não foram verificados."
+        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
       ]
     },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_2.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_2.md",
-      "title": "Conhecimentos Específicos 2",
+      "title": "Conhecimentos Específicos 2 — Algoritmos e Estrutura de Dados",
       "materialId": "MAT-ESP",
       "bank": null,
       "subject": "Conhecimentos Específicos 2",
@@ -81,23 +75,18 @@
       "language": "pt-BR",
       "questionCount": 239,
       "declaredQuestions": 239,
-      "requestedQuestions": 239,
-      "originalQuestions": 339,
-      "generatedQuestions": 0,
-      "createdAt": "2026-11-15",
       "sizeBytes": null,
-      "sha256": null,
+      "sha256": "c38bb358b5e5206a716d43ddfb9ff0eb9c9ed6d8b9963cb0a74e2662437244af",
       "valid": null,
-      "validationStatus": "pending_file_verification",
       "errors": [],
       "warnings": [
-        "Metadados registrados conforme informações fornecidas; o arquivo .md não estava disponível para inspeção nesta atualização. Tamanho, SHA-256 e validação estrutural não foram verificados. Os metadados informam 339 questões originais e 239 solicitadas; ambos os valores foram preservados."
+        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
       ]
     },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_3.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_3.md",
-      "title": "Conhecimentos Específicos 3",
+      "title": "Conhecimentos Específicos 3 — Banco de Dados",
       "materialId": "MAT-ESP",
       "bank": null,
       "subject": "Conhecimentos Específicos 3",
@@ -105,23 +94,18 @@
       "language": "pt-BR",
       "questionCount": 195,
       "declaredQuestions": 195,
-      "requestedQuestions": 195,
-      "originalQuestions": 195,
-      "generatedQuestions": 0,
-      "createdAt": "2026-11-15",
       "sizeBytes": null,
-      "sha256": null,
+      "sha256": "055428836a9b1635a047ce80537b9070451ef99c531abd6aa9b4c1a7ec6a0343",
       "valid": null,
-      "validationStatus": "pending_file_verification",
       "errors": [],
       "warnings": [
-        "Metadados registrados conforme informações fornecidas; o arquivo .md não estava disponível para inspeção nesta atualização. Tamanho, SHA-256 e validação estrutural não foram verificados."
+        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
       ]
     },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_4.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_4.md",
-      "title": "Conhecimentos Específicos 4",
+      "title": "Conhecimentos Específicos 4 — Engenharia de Software",
       "materialId": "MAT-ESP",
       "bank": null,
       "subject": "Conhecimentos Específicos 4",
@@ -129,23 +113,18 @@
       "language": "pt-BR",
       "questionCount": 196,
       "declaredQuestions": 196,
-      "requestedQuestions": 196,
-      "originalQuestions": 196,
-      "generatedQuestions": 0,
-      "createdAt": "2026-11-15",
       "sizeBytes": null,
-      "sha256": null,
+      "sha256": "4bc55f3ee4848c4e59ceafad9fe3eb0b22f8d28b4ed9dea1dffc453963d245ff",
       "valid": null,
-      "validationStatus": "pending_file_verification",
       "errors": [],
       "warnings": [
-        "Metadados registrados conforme informações fornecidas; o arquivo .md não estava disponível para inspeção nesta atualização. Tamanho, SHA-256 e validação estrutural não foram verificados."
+        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
       ]
     },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_5.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_5.md",
-      "title": "Conhecimentos Específicos 5",
+      "title": "Conhecimentos Específicos 5 — Teste, Qualidade e Gestão de Software",
       "materialId": "MAT-ESP",
       "bank": null,
       "subject": "Conhecimentos Específicos 5",
@@ -153,23 +132,18 @@
       "language": "pt-BR",
       "questionCount": 208,
       "declaredQuestions": 208,
-      "requestedQuestions": 208,
-      "originalQuestions": 208,
-      "generatedQuestions": 0,
-      "createdAt": "2026-11-15",
       "sizeBytes": null,
-      "sha256": null,
+      "sha256": "81d76e18694006cdc29f7df36f246c08a095bcdfcafd770f1bc62ae4fc3c0d16",
       "valid": null,
-      "validationStatus": "pending_file_verification",
       "errors": [],
       "warnings": [
-        "Metadados registrados conforme informações fornecidas; o arquivo .md não estava disponível para inspeção nesta atualização. Tamanho, SHA-256 e validação estrutural não foram verificados."
+        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
       ]
     },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_6.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_6.md",
-      "title": "Conhecimentos Específicos 6",
+      "title": "Conhecimentos Específicos 6 — Metodologias Ágeis e UML",
       "materialId": "MAT-ESP",
       "bank": null,
       "subject": "Conhecimentos Específicos 6",
@@ -177,23 +151,18 @@
       "language": "pt-BR",
       "questionCount": 65,
       "declaredQuestions": 65,
-      "requestedQuestions": 65,
-      "originalQuestions": 65,
-      "generatedQuestions": 0,
-      "createdAt": "2026-11-15",
       "sizeBytes": null,
-      "sha256": null,
+      "sha256": "c2d5c25a6368532528be384fa212a66e020b0471e29b8e27f0dfbb170eb073ae",
       "valid": null,
-      "validationStatus": "pending_file_verification",
       "errors": [],
       "warnings": [
-        "Metadados registrados conforme informações fornecidas; o arquivo .md não estava disponível para inspeção nesta atualização. Tamanho, SHA-256 e validação estrutural não foram verificados."
+        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
       ]
     },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_7.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_7.md",
-      "title": "Conhecimentos Específicos 7",
+      "title": "Conhecimentos Específicos 7 — Redes de Computadores e Sistemas Operacionais",
       "materialId": "MAT-ESP",
       "bank": null,
       "subject": "Conhecimentos Específicos 7",
@@ -201,23 +170,18 @@
       "language": "pt-BR",
       "questionCount": 193,
       "declaredQuestions": 193,
-      "requestedQuestions": 193,
-      "originalQuestions": 193,
-      "generatedQuestions": 0,
-      "createdAt": "2026-11-15",
       "sizeBytes": null,
-      "sha256": null,
+      "sha256": "8ad1e9e805606fe21c40b4bc6598ec8cdcaeec42569041b4a4eedbbbb3ed0f07",
       "valid": null,
-      "validationStatus": "pending_file_verification",
       "errors": [],
       "warnings": [
-        "Metadados registrados conforme informações fornecidas; o arquivo .md não estava disponível para inspeção nesta atualização. Tamanho, SHA-256 e validação estrutural não foram verificados."
+        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
       ]
     },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_8.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_8.md",
-      "title": "Conhecimentos Específicos 8",
+      "title": "Conhecimentos Específicos 8 — Javascript, Typescrpt, Node.js e LGPD",
       "materialId": "MAT-ESP",
       "bank": null,
       "subject": "Conhecimentos Específicos 8",
@@ -225,23 +189,18 @@
       "language": "pt-BR",
       "questionCount": 185,
       "declaredQuestions": 185,
-      "requestedQuestions": 185,
-      "originalQuestions": 185,
-      "generatedQuestions": 0,
-      "createdAt": "2026-11-15",
       "sizeBytes": null,
-      "sha256": null,
+      "sha256": "4f8fab09dc9875f1c6ad4def6ac6e9d75a8d1d372132dfb641c204662d0a4e6a",
       "valid": null,
-      "validationStatus": "pending_file_verification",
       "errors": [],
       "warnings": [
-        "Metadados registrados conforme informações fornecidas; o arquivo .md não estava disponível para inspeção nesta atualização. Tamanho, SHA-256 e validação estrutural não foram verificados."
+        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
       ]
     },
     {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_9.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_9.md",
-      "title": "Conhecimentos Específicos 9",
+      "title": "Conhecimentos Específicos 9 — React, React Native e Nestjs",
       "materialId": "MAT-ESP",
       "bank": null,
       "subject": "Conhecimentos Específicos 9",
@@ -249,17 +208,12 @@
       "language": "pt-BR",
       "questionCount": 1653,
       "declaredQuestions": 1653,
-      "requestedQuestions": 1653,
-      "originalQuestions": 1653,
-      "generatedQuestions": 0,
-      "createdAt": "2026-11-15",
       "sizeBytes": null,
-      "sha256": null,
+      "sha256": "44065eb3c9706adbac388ad1b13429f8ed67ad302631ecdccbac13bbe0b125d2",
       "valid": null,
-      "validationStatus": "pending_file_verification",
       "errors": [],
       "warnings": [
-        "Metadados registrados conforme informações fornecidas; o arquivo .md não estava disponível para inspeção nesta atualização. Tamanho, SHA-256 e validação estrutural não foram verificados."
+        "Arquivo .md não disponibilizado nesta conversa; tamanho, SHA-256 e validade não puderam ser verificados."
       ]
     },
 		{
