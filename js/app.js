@@ -48,7 +48,7 @@ import {
   listAchievements,
 } from "./gamification.js";
 import { COIN_RULES, createWallet } from "./coins.js";
-import { SEASON_1, createSeason, summarizeSeason } from "./season.js";
+import { SEASON_1, SEASON_STAGES, createSeason, summarizeSeason } from "./season.js";
 import {
   buildReviewQueue,
   computeSchedule,
@@ -1372,11 +1372,23 @@ async function forgetCachedOwnRank(userId) {
   }
 }
 
+function resetSeasonScorePayload(seasonId = state.season?.id || SEASON_1.id) {
+  const stage = SEASON_STAGES[0] || { name: "Curioso" };
+  return {
+    seasonId,
+    nickname: normalizeNickname(state.cloud.session?.nickname) || "Estudante",
+    levelNumber: 1,
+    levelName: stage.name || "Curioso",
+    coins: 0,
+    activeDays: 0,
+  };
+}
+
 /**
- * Remove a pontuação da conta na temporada. Se a rede falhar, guarda a
- * intenção para que a exclusão seja repetida quando a conexão voltar.
+ * Zera a pontuação da conta na temporada no Supabase. Se a rede falhar, guarda
+ * a intenção para repetição quando a conexão voltar.
  */
-async function deleteRemoteScore({
+async function resetRemoteScore({
   userId = state.cloud.session?.userId,
   seasonId = state.season?.id || SEASON_1.id,
 } = {}) {
@@ -1397,7 +1409,10 @@ async function deleteRemoteScore({
   }
 
   try {
-    const deleted = await cloudClient.deleteScore(session, targetSeasonId);
+    const saved = await cloudClient.saveScore(
+      session,
+      resetSeasonScorePayload(targetSeasonId)
+    );
     const pending = state.cloud.pendingDelete;
     if (
       pending?.userId === targetUserId &&
@@ -1406,7 +1421,7 @@ async function deleteRemoteScore({
       await clearPendingScoreDeletion();
     }
     await forgetCachedOwnRank(targetUserId);
-    return { ok: true, deleted };
+    return { ok: true, saved };
   } catch (error) {
     if (error instanceof CloudError && error.tableMissing) {
       return { ok: false, error };
@@ -1558,13 +1573,13 @@ async function syncScoreNow({ refreshRankingAfter = true } = {}) {
     try {
       if (!state.cloud.session) return null;
 
-      // Uma exclusão feita offline é concluída antes de qualquer novo envio.
+      // Uma exclusão/redefinição feita offline é concluída antes de qualquer novo envio.
       if (state.cloud.pendingDelete) {
         const pending = state.cloud.pendingDelete;
         if (pending.userId !== state.cloud.session.userId) {
           await clearPendingScoreDeletion();
         } else {
-          const deletion = await deleteRemoteScore(pending);
+          const deletion = await resetRemoteScore(pending);
           if (!deletion.ok) {
             if (deletion.offline) {
               state.cloud.pendingSync = true;
@@ -5360,7 +5375,7 @@ async function confirmProgressReset() {
 
     if (userId) {
       remoteAchievements = await deleteRemoteAchievements({ userId });
-      remote = await deleteRemoteScore({ userId });
+      remote = await resetRemoteScore({ userId });
     }
 
     const remotePending = remote.offline || remoteAchievements.offline;
