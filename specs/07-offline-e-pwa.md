@@ -128,7 +128,7 @@ Caches de outros aplicativos no mesmo domínio não são tocados.
 - Navegação entre rotas já carregadas.
 - Catálogo a partir do manifesto em cache.
 - Estudo de materiais já acessados ao menos uma vez.
-- Respostas, sessões, progresso, tentativas, SRS, moedas, XP, conquistas e temporada — todos em IndexedDB.
+- Respostas, sessões, progresso, tentativas, SRS, moedas, XP, conquistas e temporada — todos em IndexedDB; com conta e rede, conquistas podem ser sincronizadas (REQ-058).
 - Simulados e revisões já disponíveis localmente.
 - Exportação de backup.
 - Consulta ao último ranking em cache (`meta/cloudRank`).
@@ -155,7 +155,7 @@ Caches de outros aplicativos no mesmo domínio não são tocados.
   - um toast informa “Conexão restaurada”;
   - o placar pendente é reenviado;
   - se a rota for `inicio`, o ranking é atualizado.
-- Falhas do Supabase não bloqueiam o estudo.
+- Falhas do Supabase ou ausência da tabela `user_achievements` não bloqueiam o estudo; sincronização/exclusão de conquistas fica pendente e é repetida ao reconectar.
 
 ### 3.4 Sessão expirada
 

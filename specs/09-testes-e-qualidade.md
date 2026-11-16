@@ -449,3 +449,12 @@ wc -l js/*.js css/styles.css
 10. `PROJECT_STATUS.md` e as specs afetadas são atualizados antes do commit.
 11. O service worker é versionado a cada mudança de shell.
 12. O commit é enviado ao remoto e o hash é registrado.
+
+
+### 4.10 Conquistas sincronizadas (REQ-058)
+
+| ID | Cenário |
+|---|---|
+| ACH-058-01 | Merge preserva união, primeira data de unlock/claim e coleta, sem duplicar moedas |
+| ACH-058-02 | Load/sync com conta mescla remoto/local e agenda envio quando necessário |
+| ACH-058-03 | Apagar progresso/importação/saída tratam exclusão e sincronização; pendências offline são repetidas |

@@ -191,9 +191,10 @@ O estado persistente vive em IndexedDB ([04 — Modelo de dados](04-modelo-de-da
 7. `fetchLeaderboard` consulta a view `season_leaderboard` (top 5).
 8. `fetchOwnRank` também consulta a posição do usuário fora do top 5.
 9. O resultado é cacheado em `meta/cloudRank`.
-10. Falhas de rede não bloqueiam o estudo e são reenviadas ao reconectar.
-11. “Apagar progresso” remove a pontuação da temporada via `DELETE` em `season_scores`; se a rede falhar, a intenção fica em `meta/cloudPendingDelete` e é repetida antes de qualquer novo envio.
-12. No cadastro, o `blur` do apelido chama a RPC `nickname_available`; a resposta booleana só bloqueia o envio quando o apelido está em uso, e falhas de rede não impedem o cadastro.
+10. Conquistas da conta são carregadas/mescladas de `user_achievements` (união, primeira data/coleta, sem duplicar moedas) e reenviadas quando necessário; exclusões pendentes são processadas antes do fetch/merge.
+11. Falhas de rede não bloqueiam o estudo e são reenviadas ao reconectar.
+12. "Apagar progresso" remove a pontuação da temporada (`season_scores`) e as conquistas (`user_achievements`); sem rede, as intenções ficam em `meta/cloudPendingDelete` e `meta/cloudPendingAchievementDelete` e são repetidas antes de novos envios.
+13. No cadastro, o `blur` do apelido chama a RPC `nickname_available`; a resposta booleana só bloqueia o envio quando o apelido está em uso, e falhas de rede não impedem o cadastro.
 
 ### 5.9 Atualização do PWA
 

@@ -150,11 +150,12 @@ Este documento consolida os requisitos do XLearn. A coluna **Status** reflete 20
 |---|---|---|---|---|
 | REQ-056 | Verificação automática de apelido | No modo “Criar conta”, ao sair do campo Apelido, o app DEVE consultar o servidor e informar de forma acessível se o apelido está disponível. Apelido em uso DEVE ser anunciado e bloquear o envio; falha de rede ou de configuração NÃO PODE impedir o cadastro, apenas avisar que a verificação não foi possível. A consulta DEVE devolver somente verdadeiro/falso, sem expor e-mails, IDs ou a lista de apelidos. | Alta | IMPLEMENTADO |
 
-### Fase 19 — Recuperação do placar no login
+### Fase 19 - Recuperação do placar e sincronização de conquistas
 
 | ID | Nome | Regra | Prioridade | Status |
 |---|---|---|---|---|
 | REQ-057 | Recuperação de moedas e dias ativos no login | Ao entrar em uma conta ou abrir o app com sessão persistida e escopo local vazio, o app DEVE consultar a própria pontuação da temporada no Supabase e restaurar moedas da temporada, dias ativos e estágio exibido. Em caso de divergência, os dados remotos prevalecem sobre os locais; a recuperação NÃO DEVE importar progresso, SRS, XP, sessões, tentativas, simulados nem conquistas. | Alta | IMPLEMENTADO |
+| REQ-058 | Sincronização de conquistas com o Supabase | Com conta conectada, o app DEVE persistir em `public.user_achievements` (RLS por usuário) as conquistas desbloqueadas e coletadas e carregá-las ao entrar/abrir a conta. A mesclagem DEVE preservar a união dos desbloqueios, a primeira data de desbloqueio/coleta e a coleta, sem duplicar moedas nem pagar recompensa duas vezes. Em "Apagar progresso" e exclusões, o remoto DEVE ser removido; sem rede, a exclusão e o envio DEVEM ficar pendentes e ser repetidos ao reconectar. A importação de backup DEVE mesclar conquistas por união com o estado da conta. | Alta | IMPLEMENTADO |
 
 ## 2. Requisitos não funcionais
 
@@ -237,10 +238,10 @@ Este documento consolida os requisitos do XLearn. A coluna **Status** reflete 20
 | Documento | Requisitos cobertos |
 |---|---|
 | [01 — Visão geral](01-visao-geral.md) | Escopo, personas e princípios de todos os requisitos |
-| [03 — Arquitetura](03-arquitetura.md) | REQ-001 a REQ-057, com ênfase em REQ-008, REQ-024, REQ-032, REQ-041 a REQ-043, REQ-051, REQ-054 e REQ-057 |
-| [04 — Modelo de dados](04-modelo-de-dados.md) | REQ-008 a REQ-010, REQ-015, REQ-021, REQ-030, REQ-033, REQ-034, REQ-041 a REQ-043, REQ-051, REQ-054, REQ-056 e REQ-057 |
-| [05 — Interface e rotas](05-interface-e-rotas.md) | REQ-004, REQ-005, REQ-007, REQ-017, REQ-026, REQ-036 a REQ-057 |
+| [03 — Arquitetura](03-arquitetura.md) | REQ-001 a REQ-058, com ênfase em REQ-008, REQ-024, REQ-032, REQ-041 a REQ-043, REQ-051, REQ-054, REQ-057 e REQ-058 |
+| [04 — Modelo de dados](04-modelo-de-dados.md) | REQ-008 a REQ-010, REQ-015, REQ-021, REQ-030, REQ-033, REQ-034, REQ-041 a REQ-043, REQ-051, REQ-054, REQ-056, REQ-057 e REQ-058 |
+| [05 — Interface e rotas](05-interface-e-rotas.md) | REQ-004, REQ-005, REQ-007, REQ-017, REQ-026, REQ-036 a REQ-058 |
 | [06 — Conteúdo e parser](06-conteudo-e-parser.md) | REQ-001 a REQ-003, REQ-006, REQ-007, REQ-039 |
-| [07 — Offline e PWA](07-offline-e-pwa.md) | REQ-023 a REQ-025 e REQ-057 |
-| [08 — Segurança e privacidade](08-seguranca-e-privacidade.md) | REQ-021, REQ-041 a REQ-043, REQ-045, REQ-051 e REQ-057 |
+| [07 — Offline e PWA](07-offline-e-pwa.md) | REQ-023 a REQ-025, REQ-057 e REQ-058 |
+| [08 — Segurança e privacidade](08-seguranca-e-privacidade.md) | REQ-021, REQ-041 a REQ-043, REQ-045, REQ-051, REQ-057 e REQ-058 |
 | [09 — Testes e qualidade](09-testes-e-qualidade.md) | REQ-027 e validação de todos os requisitos |

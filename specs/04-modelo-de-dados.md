@@ -51,6 +51,7 @@ O banco é único por dispositivo, mas os dados de estudo são separados por esc
 | `cloudProfile` | Objeto \| `null` | Perfil local da conta e estado de sincronização (global) |
 | `cloudRank` | Objeto | Cache do ranking consultado (temporada, top, posição própria, data) (global) |
 | `cloudPendingDelete` | Objeto \| `null` | Exclusão de placar remoto pendente: `{ userId, seasonId }` (global) |
+| `cloudPendingAchievementDelete` | Objeto \| `null` | Exclusão de conquistas remotas pendente: `{ userId }` (global) |
 | `storageScopedOnce` | Booleano | Marcador local da migração única de escopo |
 
 `cloudAuth`, `cloudProfile`, `cloudRank`, `cloudPendingDelete` e `storageScopedOnce` são gravados por `app.js` via `getMeta`/`setMeta`, não por regras de domínio, e permanecem globais ao escopo ativo.
@@ -470,6 +471,22 @@ apikey: <publishable_key>
 ```
 
 Resposta: `true` ou `false`. A função é `stable`, `security definer`, usa `set search_path = ''` e lê somente `auth.users.raw_user_meta_data->>'nickname'`, comparando `lower(btrim(...))`. Ela valida o comprimento de 2–24 caracteres e não devolve e-mails, UUIDs ou listas. `anon` e `authenticated` recebem `execute`. No banco existente, a migration `20261110001000_nickname_available.sql` aplica a função e os grants.
+
+
+### 4.8 Tabela `public.user_achievements` (REQ-058)
+
+| Coluna | Tipo | Regra |
+|---|---|---|
+| `user_id` | `uuid` | FK `auth.users(id)`, `on delete cascade` |
+| `achievement_id` | `text` | 1-80 chars |
+| `unlocked_at` | `timestamptz` | data do desbloqueio |
+| `claimed_at` | `timestamptz` | data da coleta (nullable) |
+| `reward_coins` | `integer` | `>= 0` |
+| `updated_at` | `timestamptz` | atualizado por trigger |
+
+- PK `(user_id, achievement_id)`, índice `(user_id, updated_at desc)`.
+- RLS: apenas o próprio `user_id` pode `select/insert/update/delete` (`authenticated`), sem acesso `anon`.
+- Mesclagem local: união de desbloqueios, menor/primeira data vence para unlock/claim, se coletado em qualquer lado permanece coletado, sem duplicar moedas nem pagar recompensa duas vezes; exclusões remotas propagadas com pendência offline.
 
 ## 5. Ciclo de vida dos dados
 

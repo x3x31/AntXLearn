@@ -297,7 +297,7 @@ O gate cobre `config`, `progresso`, `simulado` e `revisoes` inclusive quando a r
 - Conta: apelido, e-mail mascarado/identificação, estado de sincronização e saída.
 - Dados: exportar backup, importar backup com confirmação, apagar progresso com confirmação.
 - Armazenamento: limpar caches do app sem apagar o IndexedDB.
-- “Apagar progresso” preserva a rolagem e foca `#reset-confirm-title` com `preventScroll` (REQ-046). Ao confirmar, apaga os dados do escopo ativo, atualiza a tela e exclui a pontuação da temporada no Supabase; sem rede, a exclusão fica pendente em `meta/cloudPendingDelete` e é repetida ao reconectar (REQ-054).
+- “Apagar progresso” preserva a rolagem e foca `#reset-confirm-title` com `preventScroll` (REQ-046). Ao confirmar, apaga os dados do escopo ativo, atualiza a tela e exclui no Supabase a pontuação da temporada e as conquistas sincronizadas; sem rede, as exclusões ficam pendentes (`meta/cloudPendingDelete`, `meta/cloudPendingAchievementDelete`) e são repetidas ao reconectar (REQ-054, REQ-058).
 
 ## 13. Modal de conta
 

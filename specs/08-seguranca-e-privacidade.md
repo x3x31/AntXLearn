@@ -17,7 +17,7 @@ O XLearn é uma aplicação estática sem backend próprio. A superfície remota
 |---|---|---|---|
 | Respostas, sessões, tentativas | IndexedDB local | Pessoal | Sim |
 | Progresso, SRS, estatísticas | IndexedDB local | Pessoal | Sim |
-| XP, conquistas, carteira, temporada | IndexedDB local | Pessoal | Sim |
+| XP, conquistas, carteira, temporada | IndexedDB local e, com conta, conquistas em `public.user_achievements` (RLS por usuário) | Pessoal | Sim (escopo ativo) |
 | Configurações | IndexedDB `meta/settings` | Baixa | Sim |
 | Apelido | `meta/cloudProfile`, `cloudAuth` e ranking | Pública | Excluído junto com `cloudAuth` |
 | E-mail | `meta/cloudAuth` | Pessoal | **Não** |

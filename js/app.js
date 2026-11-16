@@ -32,6 +32,8 @@ import {
   progressKey,
   recordAnswer,
   recoverSeasonFromScore,
+  getAchievementSnapshot,
+  mergeAchievementsFromCloud,
   saveSession,
   saveSettingsRecord,
   saveSimuladoHistory,
@@ -151,6 +153,10 @@ const state = {
     lastSyncAt: null,
     pendingSync: false,
     pendingDelete: null,
+    pendingAchievementDelete: null,
+    achievementSyncPromise: null,
+    achievementSyncTimer: null,
+    pendingAchievementSync: false,
     refreshing: null,
   },
 };
@@ -160,6 +166,7 @@ const CLOUD_STORAGE = Object.freeze({
   profile: "cloudProfile",
   rank: "cloudRank",
   pendingDelete: "cloudPendingDelete",
+  pendingAchievementDelete: "cloudPendingAchievementDelete",
 });
 const CLOUD_SYNC_DELAY_MS = 2500;
 
@@ -770,7 +777,7 @@ function updateConnectionStatus({ announce = false } = {}) {
     toast("Conexão restaurada. Seus dados continuam salvos neste dispositivo.", "success");
   }
   if (online && state.cloud.ready) {
-    scheduleScoreSync({ immediate: true });
+    scheduleCloudSync({ immediate: true });
     if (state.route === "inicio") refreshHomeRanking();
   }
 }
@@ -1015,7 +1022,7 @@ async function refreshProgress({ sync = true } = {}) {
     state.reviewQueue = { groups: [], counts: { overdue: 0, upcoming: 0 } };
   }
   updateNav();
-  if (sync) scheduleScoreSync();
+  if (sync) scheduleCloudSync();
 }
 
 /* Isolamento por conta ------------------------------------------------------ */
@@ -1081,8 +1088,9 @@ async function switchStudyScope(userId, { recover = false } = {}) {
   if (recover && userId) {
     const recovery = await recoverCloudScore();
     if (recovery?.applied) await refreshProgress({ sync: false });
+    await loadCloudAchievements({ syncAfter: true });
   }
-  scheduleScoreSync();
+  scheduleCloudSync();
   updateTopbarIdentity();
   render();
 }
@@ -1147,17 +1155,25 @@ function normalizePendingScoreDeletion(raw) {
   return { userId, seasonId };
 }
 
+function normalizePendingAchievementDeletion(raw) {
+  if (!raw || typeof raw !== "object") return null;
+  const userId = typeof raw.userId === "string" ? raw.userId.trim() : "";
+  if (!userId) return null;
+  return { userId };
+}
+
 async function loadCloudState() {
   if (!cloudClient) {
     state.cloud.ready = true;
     return;
   }
   try {
-    const [auth, profile, rank, pendingDelete] = await Promise.all([
+    const [auth, profile, rank, pendingDelete, pendingAchievementDelete] = await Promise.all([
       getMeta(CLOUD_STORAGE.auth),
       getMeta(CLOUD_STORAGE.profile),
       getMeta(CLOUD_STORAGE.rank),
       getMeta(CLOUD_STORAGE.pendingDelete),
+      getMeta(CLOUD_STORAGE.pendingAchievementDelete),
     ]);
     state.cloud.session = normalizeStoredCloudSession(auth);
     state.cloud.profile = {
@@ -1168,6 +1184,7 @@ async function loadCloudState() {
     };
     state.cloud.rank = normalizeCachedRank(rank);
     state.cloud.pendingDelete = normalizePendingScoreDeletion(pendingDelete);
+    state.cloud.pendingAchievementDelete = normalizePendingAchievementDeletion(pendingAchievementDelete);
   } catch (error) {
     warnStorageOnce(error);
   } finally {
@@ -1194,6 +1211,8 @@ async function clearCloudSession() {
   state.cloud.syncStatus = "idle";
   state.cloud.syncError = null;
   state.cloud.pendingSync = false;
+  state.cloud.pendingAchievementSync = false;
+  if (state.cloud.achievementSyncTimer) { window.clearTimeout(state.cloud.achievementSyncTimer); state.cloud.achievementSyncTimer = null; }
   if (state.cloud.rank?.me) state.cloud.rank = { ...state.cloud.rank, me: null };
   try {
     await setMeta(CLOUD_STORAGE.auth, null);
@@ -1283,6 +1302,65 @@ async function clearPendingScoreDeletion() {
   }
 }
 
+async function rememberPendingAchievementDeletion(userId) {
+  const pending = { userId };
+  state.cloud.pendingAchievementDelete = pending;
+  try {
+    await setMeta(CLOUD_STORAGE.pendingAchievementDelete, pending);
+  } catch (error) {
+    warnStorageOnce(error);
+  }
+  return pending;
+}
+
+async function clearPendingAchievementDeletion() {
+  state.cloud.pendingAchievementDelete = null;
+  try {
+    await setMeta(CLOUD_STORAGE.pendingAchievementDelete, null);
+  } catch (error) {
+    warnStorageOnce(error);
+  }
+}
+
+async function deleteRemoteAchievements({ userId = state.cloud.session?.userId } = {}) {
+  const targetUserId = typeof userId === "string" ? userId.trim() : "";
+  if (!cloudClient || !targetUserId) return { ok: false, skipped: true };
+  if (!isOnline()) {
+    await rememberPendingAchievementDeletion(targetUserId);
+    return { ok: false, offline: true };
+  }
+  const session = await ensureCloudSession();
+  if (!session || session.userId !== targetUserId) {
+    await rememberPendingAchievementDeletion(targetUserId);
+    return { ok: false, offline: true, unauthenticated: true };
+  }
+  try {
+    const deleted = await cloudClient.deleteAchievements(session);
+    const pending = state.cloud.pendingAchievementDelete;
+    if (pending?.userId === targetUserId) await clearPendingAchievementDeletion();
+    return { ok: true, deleted };
+  } catch (error) {
+    if (error instanceof CloudError && error.tableMissing) return { ok: false, error };
+    await rememberPendingAchievementDeletion(targetUserId);
+    return {
+      ok: false,
+      offline: error instanceof CloudError && (error.network || error.timeout),
+      error,
+    };
+  }
+}
+
+async function flushPendingCloudDeletes() {
+  if (!cloudClient || !state.cloud.session) return;
+  if (state.cloud.pendingAchievementDelete) {
+    await deleteRemoteAchievements(state.cloud.pendingAchievementDelete);
+  }
+  if (state.cloud.pendingDelete) {
+    await deleteRemoteScore(state.cloud.pendingDelete);
+  }
+}
+
+
 async function forgetCachedOwnRank(userId) {
   const rank = state.cloud.rank;
   if (!rank?.me || (userId && rank.me.userId !== userId)) return;
@@ -1340,6 +1418,115 @@ async function deleteRemoteScore({
       error,
     };
   }
+}
+
+function scheduleAchievementSync({ immediate = false } = {}) {
+  if (!state.cloud.ready || !cloudClient || !state.cloud.session) return;
+  if (!isOnline()) {
+    state.cloud.pendingAchievementSync = true;
+    return;
+  }
+  if (state.cloud.achievementSyncTimer) window.clearTimeout(state.cloud.achievementSyncTimer);
+  state.cloud.achievementSyncTimer = window.setTimeout(
+    () => {
+      state.cloud.achievementSyncTimer = null;
+      syncAchievementsNow();
+    },
+    immediate ? 0 : CLOUD_SYNC_DELAY_MS
+  );
+}
+
+async function syncAchievementsNow() {
+  if (!cloudClient) return null;
+  if (state.cloud.achievementSyncPromise) return state.cloud.achievementSyncPromise;
+  if (state.cloud.achievementSyncTimer) {
+    window.clearTimeout(state.cloud.achievementSyncTimer);
+    state.cloud.achievementSyncTimer = null;
+  }
+  const task = (async () => {
+    try {
+      if (!state.cloud.session) return null;
+      await flushPendingCloudDeletes();
+      if (!state.cloud.session) return null;
+      if (!isOnline()) {
+        state.cloud.pendingAchievementSync = true;
+        return null;
+      }
+      const snapshot = await getAchievementSnapshot();
+      if (!Array.isArray(snapshot)) return null;
+      if (snapshot.length === 0) {
+        state.cloud.pendingAchievementSync = false;
+        return [];
+      }
+      const session = await ensureCloudSession();
+      if (!session) return null;
+      let saved = null;
+      try {
+        saved = await cloudClient.saveAchievements(session, snapshot);
+      } catch (error) {
+        if (error instanceof CloudError && error.authInvalid) {
+          const renewed = await ensureCloudSession({ force: true });
+          if (!renewed) throw error;
+          saved = await cloudClient.saveAchievements(renewed, snapshot);
+        } else {
+          throw error;
+        }
+      }
+      state.cloud.pendingAchievementSync = false;
+      return saved;
+    } catch (error) {
+      if (error instanceof CloudError && (error.network || error.timeout)) {
+        state.cloud.pendingAchievementSync = true;
+      } else if (!(error instanceof CloudError && error.tableMissing)) {
+        console.warn("XLearn: falha ao sincronizar conquistas.", error);
+      }
+      return null;
+    }
+  })();
+  state.cloud.achievementSyncPromise = task;
+  void task.finally(() => {
+    if (state.cloud.achievementSyncPromise === task) state.cloud.achievementSyncPromise = null;
+  });
+  return task;
+}
+
+async function loadCloudAchievements({ syncAfter = true } = {}) {
+  if (!cloudClient || !state.cloud.session) return { applied: false, skipped: true };
+  if (!isOnline()) return { applied: false, offline: true };
+  try {
+    await flushPendingCloudDeletes();
+    if (!state.cloud.session) return { applied: false, unauthenticated: true };
+    const session = await ensureCloudSession();
+    if (!session) return { applied: false, unauthenticated: true };
+    let rows = [];
+    try {
+      rows = await cloudClient.fetchAchievements(session);
+    } catch (error) {
+      if (error instanceof CloudError && error.authInvalid) {
+        const renewed = await ensureCloudSession({ force: true });
+        if (!renewed) throw error;
+        rows = await cloudClient.fetchAchievements(renewed);
+      } else {
+        throw error;
+      }
+    }
+    const merged = await mergeAchievementsFromCloud(rows);
+    if (merged?.changed) await refreshProgress({ sync: false });
+    if ((merged?.needsUpload || state.cloud.pendingAchievementSync) && syncAfter) {
+      scheduleAchievementSync({ immediate: true });
+    }
+    return merged || { applied: false };
+  } catch (error) {
+    if (!(error instanceof CloudError && (error.network || error.timeout || error.tableMissing))) {
+      console.warn("XLearn: falha ao carregar conquistas.", error);
+    }
+    return { applied: false, error };
+  }
+}
+
+function scheduleCloudSync(options) {
+  scheduleScoreSync(options);
+  scheduleAchievementSync(options);
 }
 
 function scheduleScoreSync({ immediate = false } = {}) {
@@ -1543,8 +1730,9 @@ async function refreshHomeRanking() {
 async function signOutCloud() {
   const previous = state.cloud.session;
   if (previous && cloudClient) {
-    // Envia o placar da conta antes de revogar o token e trocar de escopo.
+    // Envia placar e conquistas antes de revogar o token e trocar de escopo.
     try {
+      await syncAchievementsNow();
       await syncScoreNow({ refreshRankingAfter: false });
     } catch (error) {
       console.warn("XLearn: não foi possível sincronizar antes de sair.", error);
@@ -2666,14 +2854,17 @@ async function initialize() {
   await loadCatalog({ quiet: true });
   await restoreActiveSession();
   await refreshProgress({ sync: false });
-  if (state.cloud.session?.userId && !state.season?.recovered) {
-    const current = summarizeSeason(state.season || createSeason(), state.stats?.daily || {});
-    if ((Number(current.season.coinsEarned) || 0) === 0 && current.activeDays === 0) {
-      const recovery = await recoverCloudScore();
-      if (recovery?.applied) await refreshProgress({ sync: false });
+  if (state.cloud.session?.userId) {
+    if (!state.season?.recovered) {
+      const current = summarizeSeason(state.season || createSeason(), state.stats?.daily || {});
+      if ((Number(current.season.coinsEarned) || 0) === 0 && current.activeDays === 0) {
+        const recovery = await recoverCloudScore();
+        if (recovery?.applied) await refreshProgress({ sync: false });
+      }
     }
+    await loadCloudAchievements({ syncAfter: true });
   }
-  scheduleScoreSync();
+  scheduleCloudSync();
   render();
   if (currentRoute() === "inicio") refreshHomeRanking();
 }
@@ -5064,7 +5255,13 @@ async function confirmPendingImport() {
     await loadPersistedSettings();
     applyVisualSettings(getSettings());
     await restoreActiveSession();
-    await refreshProgress();
+    await refreshProgress({ sync: false });
+    if (state.cloud.session) {
+      await loadCloudAchievements({ syncAfter: true });
+      scheduleCloudSync({ immediate: true });
+    } else {
+      await refreshProgress();
+    }
     toast("Backup restaurado neste dispositivo.", "success");
     navigate("inicio");
   } catch (error) {
@@ -5124,23 +5321,15 @@ function cancelPendingImport() {
 async function confirmProgressReset() {
   state.pendingReset = false;
   state.pendingImport = null;
-  showLoadingOverlay("Apagando progresso…");
+  showLoadingOverlay("Apagando progresso.");
   const userId = state.cloud.session?.userId || null;
-  const seasonId = state.season?.id || SEASON_1.id;
+  showLoadingOverlay("Apagando progresso.");
   let remote = { ok: false, skipped: !userId };
   try {
-    // Evita que uma sincronização agendada recrie o placar depois da limpeza.
-    if (state.cloud.syncTimer) {
-      window.clearTimeout(state.cloud.syncTimer);
-      state.cloud.syncTimer = null;
-    }
-    if (state.cloud.syncPromise) {
-      try {
-        await state.cloud.syncPromise;
-      } catch {
-        // A limpeza local deve continuar mesmo se o envio anterior falhou.
-      }
-    }
+    // Evita que sincronizações agendadas recriem placar/conquistas após a limpeza.
+    if (state.cloud.achievementSyncTimer) { window.clearTimeout(state.cloud.achievementSyncTimer); state.cloud.achievementSyncTimer = null; }
+    if (state.cloud.syncPromise) { try { await state.cloud.syncPromise; } catch {} }
+    if (state.cloud.achievementSyncPromise) { try { await state.cloud.achievementSyncPromise; } catch {} }
 
     await clearProgressData();
     stopTimerTicker();
@@ -5153,22 +5342,24 @@ async function confirmProgressReset() {
     state.lastAnswerSave = null;
     state.scheduling = null;
     state.finishingSession = false;
-    await refreshProgress();
     // A posição antiga não pode continuar no card de ranking da home.
     await forgetCachedOwnRank(userId);
+    let remoteAchievements = { ok: false, skipped: !userId };
     if (userId) {
+      remoteAchievements = await deleteRemoteAchievements({ userId });
       remote = await deleteRemoteScore({ userId, seasonId });
     }
 
-    const message = remote.ok
-      ? "Progresso apagado neste dispositivo e no ranking da temporada."
-      : remote.offline
-        ? "Progresso apagado neste dispositivo. O placar remoto será removido quando a conexão voltar."
-        : remote.error
-          ? "Progresso apagado neste dispositivo, mas o placar remoto não pôde ser removido agora."
+    const remotePending = remote.offline || remoteAchievements.offline;
+    const message = remote.ok && remoteAchievements.ok
+      ? "Progresso apagado neste dispositivo e no servidor (ranking e conquistas)."
+      : remotePending
+        ? "Progresso apagado neste dispositivo. Ranking/conquistas remotos serão removidos quando a conexão voltar."
+        : (remote.error || remoteAchievements.error)
+          ? "Progresso apagado neste dispositivo, mas parte dos dados remotos não pôde ser removida agora."
           : "Progresso apagado. Suas configurações foram preservadas.";
-    toast(message, remote.error ? "info" : "success");
     navigate("inicio");
+    toast(message, remote.error || remoteAchievements.error ? "info" : "success");
     if (remote.ok) {
       void refreshRanking();
     } else if (state.cloud.session) {

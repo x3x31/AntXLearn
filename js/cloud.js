@@ -290,7 +290,31 @@ function normalizeLeaderboard(rows) {
     : [];
 }
 
-/** Normaliza a pontuação enviada; o `user_id` vem sempre da sessão. */
+function normalizeAchievementRow(row, sessionUserId = "") {
+  if (!row || typeof row !== "object") return null;
+  const userId = text(row.user_id || sessionUserId);
+  const achievementId = text(row.achievement_id);
+  if (!userId || !achievementId) return null;
+  const unlockedAt = text(row.unlocked_at) || null;
+  if (!unlockedAt) return null;
+  const claimedAtRaw = text(row.claimed_at);
+  return {
+    userId,
+    achievementId,
+    unlockedAt,
+    claimedAt: claimedAtRaw || null,
+    rewardCoins: nonNegativeInteger(row.reward_coins),
+    updatedAt: text(row.updated_at) || null,
+  };
+}
+
+function normalizeAchievements(rows, sessionUserId = "") {
+  return Array.isArray(rows)
+    ? rows.map((row) => normalizeAchievementRow(row, sessionUserId)).filter(Boolean)
+    : [];
+}
+
+/** Normaliza conquistas para envio; `user_id` vem sempre da sessão. */
 export function normalizeScore(score, session) {
   const nickname = normalizeNickname(score?.nickname || session?.nickname) || "Estudante";
   const seasonId = text(score?.seasonId);
@@ -309,6 +333,30 @@ export function normalizeScore(score, session) {
     level_name: levelName,
     coins: nonNegativeInteger(score?.coins),
     active_days: nonNegativeInteger(score?.activeDays),
+  };
+}
+
+export function normalizeAchievementForSync(achievement, session) {
+  const userId = text(session?.userId);
+  const achievementId = text(achievement?.achievementId || achievement?.id);
+  if (!userId || !achievementId) {
+    throw new CloudError("Conquista inválida para sincronização.", {
+      code: "invalid_achievement",
+    });
+  }
+  const unlockedAt = text(achievement?.unlockedAt);
+  if (!unlockedAt) {
+    throw new CloudError("Conquista sem data de desbloqueio.", {
+      code: "invalid_achievement",
+    });
+  }
+  const claimedAt = text(achievement?.claimedAt) || null;
+  return {
+    user_id: userId,
+    achievement_id: achievementId,
+    unlocked_at: unlockedAt,
+    claimed_at: claimedAt,
+    reward_coins: nonNegativeInteger(achievement?.rewardCoins ?? achievement?.coins),
   };
 }
 
@@ -593,6 +641,64 @@ export function createCloudClient(options = {}) {
     return normalizeLeaderboard(payload)[0] || null;
   }
 
+  async function fetchAchievements(session) {
+    if (!session?.accessToken || !session?.userId) {
+      throw new CloudError("Entre na sua conta para sincronizar conquistas.", {
+        code: "missing_session",
+        authInvalid: true,
+      });
+    }
+    const userId = text(session.userId);
+    const query = new URLSearchParams({
+      user_id: `eq.${userId}`,
+      select: "user_id,achievement_id,unlocked_at,claimed_at,reward_coins,updated_at",
+      order: "unlocked_at.asc",
+    });
+    const payload = await request(`/rest/v1/user_achievements?${query}`, {
+      token: session.accessToken,
+    });
+    return normalizeAchievements(payload, userId);
+  }
+
+  async function saveAchievements(session, achievements) {
+    if (!session?.accessToken || !session?.userId) {
+      throw new CloudError("Entre na sua conta para sincronizar conquistas.", {
+        code: "missing_session",
+        authInvalid: true,
+      });
+    }
+    const list = Array.isArray(achievements) ? achievements : [];
+    const rows = list.map((item) => normalizeAchievementForSync(item, session));
+    if (rows.length === 0) return [];
+    const query = new URLSearchParams({ on_conflict: "user_id,achievement_id" });
+    const payload = await request(`/rest/v1/user_achievements?${query}`, {
+      method: "POST",
+      token: session.accessToken,
+      body: rows,
+      prefer: "resolution=merge-duplicates,return=representation",
+    });
+    return normalizeAchievements(payload, text(session.userId));
+  }
+
+  async function deleteAchievements(session) {
+    if (!session?.accessToken || !session?.userId) {
+      throw new CloudError("Entre na sua conta para remover conquistas.", {
+        code: "missing_session",
+        authInvalid: true,
+      });
+    }
+    const userId = text(session.userId);
+    const query = new URLSearchParams({
+      user_id: `eq.${userId}`,
+    });
+    const payload = await request(`/rest/v1/user_achievements?${query}`, {
+      method: "DELETE",
+      token: session.accessToken,
+      prefer: "return=representation",
+    });
+    return Array.isArray(payload) ? payload.length : 0;
+  }
+
   return Object.freeze({
     signIn,
     signUp,
@@ -604,6 +710,9 @@ export function createCloudClient(options = {}) {
     deleteScore,
     fetchLeaderboard,
     fetchOwnRank,
+    fetchAchievements,
+    saveAchievements,
+    deleteAchievements,
   });
 }
 

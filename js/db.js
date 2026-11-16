@@ -318,7 +318,13 @@ const BACKUP_KEY_FIELDS = { meta: "key", progress: "key", sessions: "id", attemp
  * cache do ranking pertencem à conta e podem conter dados de outras pessoas.
  * `storageScopedOnce` é um marcador local de migração e também fica de fora.
  */
-const PRIVATE_META_KEYS = new Set(["cloudAuth", "cloudProfile", "cloudRank"]);
+const PRIVATE_META_KEYS = new Set([
+  "cloudAuth",
+  "cloudProfile",
+  "cloudRank",
+  "cloudPendingDelete",
+  "cloudPendingAchievementDelete",
+]);
 const LOCAL_META_KEYS = new Set([SCOPE_MIGRATION_KEY]);
 
 function isExcludedMetaKey(store, key) {
@@ -870,6 +876,163 @@ export async function getSimuladoHistory() {
 
 export async function saveSimuladoHistory(history) {
   return setMeta("simulados", history);
+}
+
+/** Snapshot canônico das conquistas do escopo ativo para sincronização. */
+export async function getAchievementSnapshot() {
+  const [gamification, wallet] = await Promise.all([getGamification(), getWallet()]);
+  const unlocked =
+    gamification.achievements && typeof gamification.achievements === "object"
+      ? gamification.achievements
+      : {};
+  const claimed =
+    wallet.claimedAchievements && typeof wallet.claimedAchievements === "object"
+      ? wallet.claimedAchievements
+      : {};
+  const ids = new Set([...Object.keys(unlocked), ...Object.keys(claimed)]);
+  const rows = [];
+  for (const id of ids) {
+    const unlockedAt = typeof unlocked[id] === "string" ? unlocked[id] : null;
+    if (!unlockedAt) continue;
+    const def = ACHIEVEMENTS.find((item) => item.id === id);
+    rows.push({
+      achievementId: id,
+      unlockedAt,
+      claimedAt: typeof claimed[id] === "string" ? claimed[id] : null,
+      rewardCoins: nonNegativeInteger(def?.coins),
+    });
+  }
+  rows.sort(
+    (a, b) =>
+      String(a.unlockedAt).localeCompare(String(b.unlockedAt)) ||
+      a.achievementId.localeCompare(b.achievementId)
+  );
+  return rows;
+}
+
+function parseIsoTimestamp(value) {
+  if (typeof value !== "string" || !value) return null;
+  const time = Date.parse(value);
+  return Number.isFinite(time) ? new Date(time).toISOString() : null;
+}
+
+function earlierIsoTimestamp(a, b) {
+  const aa = parseIsoTimestamp(a);
+  const bb = parseIsoTimestamp(b);
+  if (!aa) return bb;
+  if (!bb) return aa;
+  return aa <= bb ? aa : bb;
+}
+
+/**
+ * Mescla conquistas remotas: união de desbloqueios, primeira data de desbloqueio
+ * e status de coleta preservado. Nunca paga moedas (coleta remota só marca local).
+ */
+export async function mergeAchievementsFromCloud(rows, { now = new Date() } = {}) {
+  const incoming = Array.isArray(rows) ? rows : [];
+  const db = await openDatabase();
+  return new Promise((resolve, reject) => {
+    const tx = db.transaction("meta", "readwrite");
+    const store = tx.objectStore("meta");
+    const gamificationRequest = store.get(scopeMetaKey("gamification"));
+    const walletRequest = store.get(scopeMetaKey("wallet"));
+    let gamificationReady = false;
+    let walletReady = false;
+    let applied = false;
+    let result = null;
+
+    const apply = () => {
+      if (applied || !gamificationReady || !walletReady) return;
+      applied = true;
+      const gamification = normalizeGamification(gamificationRequest.result?.value);
+      const wallet = normalizeWallet(walletRequest.result?.value);
+      const achievements = { ...(gamification.achievements || {}) };
+      const claimedAchievements = { ...(wallet.claimedAchievements || {}) };
+
+      let localChanged = false;
+      let needsUpload = false;
+      const nowIso = (now instanceof Date ? now : new Date(now)).toISOString();
+
+      for (const row of incoming) {
+        const id =
+          typeof row?.achievementId === "string" ? row.achievementId.trim() : "";
+        const unlockedAt = parseIsoTimestamp(row?.unlockedAt);
+        if (!id || !unlockedAt) continue;
+
+        const localUnlocked = parseIsoTimestamp(achievements[id]);
+        const mergedUnlocked = earlierIsoTimestamp(localUnlocked, unlockedAt);
+        if (mergedUnlocked && achievements[id] !== mergedUnlocked) {
+          achievements[id] = mergedUnlocked;
+          localChanged = true;
+        }
+        if (localUnlocked && localUnlocked !== mergedUnlocked) needsUpload = true;
+
+        const remoteClaimed = parseIsoTimestamp(row?.claimedAt);
+        const localClaimed = parseIsoTimestamp(claimedAchievements[id]);
+        if (remoteClaimed || localClaimed) {
+          const mergedClaimed =
+            earlierIsoTimestamp(localClaimed, remoteClaimed) ||
+            remoteClaimed ||
+            localClaimed;
+          if (mergedClaimed && claimedAchievements[id] !== mergedClaimed) {
+            claimedAchievements[id] = mergedClaimed;
+            localChanged = true;
+          }
+          if (localClaimed && !remoteClaimed) needsUpload = true;
+        }
+      }
+
+      for (const [id, unlockedAt] of Object.entries(achievements)) {
+        if (!parseIsoTimestamp(unlockedAt)) continue;
+        const remote = incoming.find((row) => row?.achievementId === id);
+        if (!remote) {
+          needsUpload = true;
+        } else if (claimedAchievements[id] && !parseIsoTimestamp(remote.claimedAt)) {
+          needsUpload = true;
+        }
+      }
+
+      const nextGamification = localChanged
+        ? { ...gamification, achievements, updatedAt: nowIso }
+        : gamification;
+      const nextWallet = localChanged
+        ? { ...wallet, claimedAchievements, updatedAt: nowIso }
+        : wallet;
+
+      if (localChanged) {
+        store.put({
+          key: scopeMetaKey("gamification"),
+          value: nextGamification,
+          updatedAt: nextGamification.updatedAt || nowIso,
+        });
+        store.put({
+          key: scopeMetaKey("wallet"),
+          value: nextWallet,
+          updatedAt: nextWallet.updatedAt || nowIso,
+        });
+      }
+
+      result = {
+        changed: localChanged,
+        needsUpload,
+        gamification: nextGamification,
+        wallet: nextWallet,
+      };
+    };
+
+    gamificationRequest.onsuccess = () => {
+      gamificationReady = true;
+      apply();
+    };
+    walletRequest.onsuccess = () => {
+      walletReady = true;
+      apply();
+    };
+    tx.oncomplete = () => resolve(result);
+    tx.onerror = () => reject(tx.error || new Error("Falha ao mesclar conquistas."));
+    tx.onabort = () =>
+      reject(tx.error || new Error("Mesclagem de conquistas cancelada."));
+  });
 }
 
 export async function getProgress(materialId, questionId) {
