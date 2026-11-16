@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "generator": "scripts/build-manifest.mjs",
-  "generatedAt": "2026-11-16T11:45:55.320Z",
+  "generatedAt": "2026-11-16T15:49:00.954Z",
   "summary": {
-    "materials": 22,
-    "validMaterials": 22,
+    "materials": 13,
+    "validMaterials": 13,
     "invalidMaterials": 0,
-    "questions": 3927,
+    "questions": 3766,
     "errors": 0,
-    "warnings": 17
+    "warnings": 1
   },
   "files": [
     {
@@ -63,222 +63,21 @@
       "warnings": []
     },
     {
-      "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_1.md",
-      "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_1.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
-      "bank": null,
-      "subject": "Conhecimentos Específicos 1",
-      "topic": "Conceitos Básicos de Hardware e Software",
-      "language": "pt-BR",
-      "questionCount": 161,
-      "declaredQuestions": 161,
-      "sizeBytes": 1362579,
-      "sha256": "9eebbc7b63bedf5d641bdec733b2063666e476bfd3c4e797987d5601bc59116b",
-      "valid": true,
-      "errors": [],
-      "warnings": []
-    },
-    {
-      "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_2.md",
-      "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_2.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
-      "bank": null,
-      "subject": "Conhecimentos Específicos 2",
-      "topic": "Algoritmos e Estrutura de Dados",
-      "language": "pt-BR",
-      "questionCount": 239,
-      "declaredQuestions": 239,
-      "sizeBytes": 1595265,
-      "sha256": "384ee1dab447b571388b75640d07e40d7e2fe1f4f91e47610687c344f0f16687",
-      "valid": true,
-      "errors": [],
-      "warnings": []
-    },
-    {
-      "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_3.md",
-      "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_3.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
-      "bank": null,
-      "subject": "Conhecimentos Específicos 3",
-      "topic": "Banco de Dados",
-      "language": "pt-BR",
-      "questionCount": 196,
-      "declaredQuestions": 195,
-      "sizeBytes": 1606591,
-      "sha256": "c8ea58601affa24cc965a6497d3a0ef121e8dd3db4b707146276f9de5d2af134",
-      "valid": true,
-      "errors": [],
-      "warnings": [
-        {
-          "level": "warning",
-          "code": "question-count-mismatch",
-          "message": "O frontmatter declara 195 questões, mas foram carregadas 196."
-        }
-      ]
-    },
-    {
-      "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_4.md",
-      "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_4.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
-      "bank": null,
-      "subject": "Conhecimentos Específicos 4",
-      "topic": "Engenharia de Software",
-      "language": "pt-BR",
-      "questionCount": 197,
-      "declaredQuestions": 196,
-      "sizeBytes": 1572080,
-      "sha256": "dd52ae8a231530dc90d95399863d34a35fd64ec000d560d4691b51beb8bdb5e8",
-      "valid": true,
-      "errors": [],
-      "warnings": [
-        {
-          "level": "warning",
-          "code": "question-count-mismatch",
-          "message": "O frontmatter declara 196 questões, mas foram carregadas 197."
-        }
-      ]
-    },
-    {
-      "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_5.md",
-      "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_5.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
-      "bank": null,
-      "subject": "Conhecimentos Específicos 5",
-      "topic": "Teste, Qualidade e Gestão de Software",
-      "language": "pt-BR",
-      "questionCount": 209,
-      "declaredQuestions": 208,
-      "sizeBytes": 1856500,
-      "sha256": "7256cc29bd8d370cb064ba4f4d0c8ce1db9a6b60b293f5a850d393f0b33efcaa",
-      "valid": true,
-      "errors": [],
-      "warnings": [
-        {
-          "level": "warning",
-          "code": "question-count-mismatch",
-          "message": "O frontmatter declara 208 questões, mas foram carregadas 209."
-        }
-      ]
-    },
-    {
-      "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_6.md",
-      "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_6.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
-      "bank": null,
-      "subject": "Conhecimentos Específicos 6",
-      "topic": "Metodologias Ágeis e UML",
-      "language": "pt-BR",
-      "questionCount": 66,
-      "declaredQuestions": 65,
-      "sizeBytes": 656467,
-      "sha256": "5eea401d40b5d105996ccf6ad88fbe256f70e843b7cc386e094d5d956db1b33d",
-      "valid": true,
-      "errors": [],
-      "warnings": [
-        {
-          "level": "warning",
-          "code": "question-count-mismatch",
-          "message": "O frontmatter declara 65 questões, mas foram carregadas 66."
-        }
-      ]
-    },
-    {
-      "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_7.md",
-      "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_7.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
-      "bank": null,
-      "subject": "Conhecimentos Específicos 7",
-      "topic": "Redes de Computadores e Sistemas Operacionais",
-      "language": "pt-BR",
-      "questionCount": 194,
-      "declaredQuestions": 193,
-      "sizeBytes": 1628760,
-      "sha256": "65fb8666491a01ccc466149f49a2c673ecd1a167edc91d699b69f0e843e67d5b",
-      "valid": true,
-      "errors": [],
-      "warnings": [
-        {
-          "level": "warning",
-          "code": "question-count-mismatch",
-          "message": "O frontmatter declara 193 questões, mas foram carregadas 194."
-        }
-      ]
-    },
-    {
-      "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_8.md",
-      "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_8.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
-      "bank": null,
-      "subject": "Conhecimentos Específicos 8",
-      "topic": "Javascript, Typescrpt, Node.js e LGPD",
-      "language": "pt-BR",
-      "questionCount": 186,
-      "declaredQuestions": 185,
-      "sizeBytes": 1357168,
-      "sha256": "5421f19da7da79e7ba74b1aea19f676798d2bdc6d70d5c01ea4699b5958d1d12",
-      "valid": true,
-      "errors": [],
-      "warnings": [
-        {
-          "level": "warning",
-          "code": "question-count-mismatch",
-          "message": "O frontmatter declara 185 questões, mas foram carregadas 186."
-        }
-      ]
-    },
-    {
-      "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS_9.md",
-      "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS_9.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
-      "bank": null,
-      "subject": "Conhecimentos Específicos 9",
-      "topic": "React, React Native e Nestjs",
-      "language": "pt-BR",
-      "questionCount": 204,
-      "declaredQuestions": 1653,
-      "sizeBytes": 1510237,
-      "sha256": "8a4c5a8b0692cdd0909ec80c219575d491d04998eecb22b3da9b99f9f04325e1",
-      "valid": true,
-      "errors": [],
-      "warnings": [
-        {
-          "level": "warning",
-          "code": "question-count-mismatch",
-          "message": "O frontmatter declara 1653 questões, mas foram carregadas 204."
-        }
-      ]
-    },
-    {
       "path": "questoes/ESTUDO_CONHECIMENTOS_ESPECIFICOS.md",
       "file": "ESTUDO_CONHECIMENTOS_ESPECIFICOS.md",
-      "title": "Estudo — Conhecimentos Específicos",
-      "materialId": "MAT-ESP",
+      "title": "Identificação do Material",
+      "materialId": "MAT-001",
       "bank": null,
-      "subject": "Conhecimentos Específicos",
-      "topic": "Conteúdo integral de Conhecimentos Específicos",
+      "subject": "Conhecimentos Específicos e Segurança de Dados",
+      "topic": "Questões extraídas de ConhecimentoEspecifico_questoes.pdf",
       "language": "pt-BR",
-      "questionCount": 161,
-      "declaredQuestions": 1653,
-      "sizeBytes": 1471470,
-      "sha256": "3d40b9fa007b85c13cbe18678bf31290a0af3defda766cbc49f61359247009dc",
+      "questionCount": 1652,
+      "declaredQuestions": 1652,
+      "sizeBytes": 5325746,
+      "sha256": "831db7ba05dd364193b7f16b2fc2a4666851beaaddc4bd6971aee1515289f136",
       "valid": true,
       "errors": [],
-      "warnings": [
-        {
-          "level": "warning",
-          "code": "question-count-mismatch",
-          "message": "O frontmatter declara 1653 questões, mas foram carregadas 161."
-        }
-      ]
+      "warnings": []
     },
     {
       "path": "questoes/ESTUDO_ENGENHARIA_DE_SOFTWARE_COMPERVE_100_QUESTOES.md",
