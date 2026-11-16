@@ -5347,7 +5347,7 @@ async function confirmProgressReset() {
     let remoteAchievements = { ok: false, skipped: !userId };
     if (userId) {
       remoteAchievements = await deleteRemoteAchievements({ userId });
-      remote = await deleteRemoteScore({ userId, seasonId });
+      remote = await deleteRemoteScore({ userId });
     }
 
     const remotePending = remote.offline || remoteAchievements.offline;
