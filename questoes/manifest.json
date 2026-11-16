@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generator": "scripts/build-manifest.mjs",
-  "generatedAt": "2026-11-16T19:20:54.050Z",
+  "generatedAt": "2026-11-16T19:33:35.963Z",
   "summary": {
     "materials": 12,
     "validMaterials": 12,
