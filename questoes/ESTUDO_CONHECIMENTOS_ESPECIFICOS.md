@@ -15583,7 +15583,7 @@ language: "pt-BR"
   "subtopic": null,
   "difficulty": "fácil",
   "cognitive_skill": "comprehension",
-  "question_text": "",
+  "question_text": "Qual a estratégia que organiza a matriz de modo que todos os elementos de uma linha sejam armazenados sequencialmente antes de iniciar o armazenamento da próxima linha?",
   "alternatives": [
     {
       "id": "A",
