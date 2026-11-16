@@ -22,7 +22,7 @@ const QUESTIONS_DIR = path.join(ROOT, "questoes");
 const MANIFEST_PATH = path.join(QUESTIONS_DIR, "manifest.json");
 const CHECK_ONLY = process.argv.includes("--check");
 
-const IGNORED_DIRS = new Set([".git", "node_modules", "outros"]);
+const IGNORED_DIRS = new Set([".git", "node_modules", "outros", "ant"]);
 const IGNORED_FILES = new Set(["manifest.json", "README.md"]);
 
 async function findMarkdownFiles(directory) {

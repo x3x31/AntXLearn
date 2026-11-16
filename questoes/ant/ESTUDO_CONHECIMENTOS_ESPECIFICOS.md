@@ -4,10 +4,10 @@ material_id: "MAT-001"
 bank: null
 subject: "Conhecimentos Específicos e Segurança de Dados"
 topic: "Questões extraídas de ConhecimentoEspecifico_questoes.pdf"
-requested_questions: 1653
+requested_questions: 1652
 original_questions: 1653
 generated_questions: 0
-total_questions: 1653
+total_questions: 1652
 created_at: "2026-11-16"
 language: "pt-BR"
 ---
@@ -15566,63 +15566,6 @@ language: "pt-BR"
 }
 ```
 
-## Questão 0269
-
-```json
-{
-  "id": "MAT-001-Q0269",
-  "type": "original",
-  "source": {
-    "exam": null,
-    "year": null,
-    "question_number": 269,
-    "page": 406
-  },
-  "subject": "Conhecimentos Específicos",
-  "topic": "ESTRUTURAS DE DADOS: REPRESENTAÇÃO E MANIPULAÇÃO DE MATRI- …",
-  "subtopic": null,
-  "difficulty": "fácil",
-  "cognitive_skill": "comprehension",
-  "question_text": "Qual a estratégia que organiza a matriz de modo que todos os elementos de uma linha sejam armazenados sequencialmente antes de iniciar o armazenamento da próxima linha?",
-  "alternatives": [
-    {
-      "id": "A",
-      "text": "Diagonal-Major Order (Ordem por Diagonal).",
-      "is_correct": false,
-      "explanation": "Não é uma estratégia padrão de mapeamento linear de matrizes em memória física para linguagens de propósito geral."
-    },
-    {
-      "id": "B",
-      "text": "Heap-Based Allocation (Alocação Baseada em Heap).",
-      "is_correct": false,
-      "explanation": "A alocação em Heap refere-se ao local da memória onde o objeto reside, não à estratégia de linearização dos índices da matriz."
-    },
-    {
-      "id": "C",
-      "text": "Row-Major Order (Ordem por Linha).",
-      "is_correct": true,
-      "explanation": "Esta é a definição exata de armazenamento por linha, padrão em linguagens como C e Java."
-    },
-    {
-      "id": "D",
-      "text": "Column-Major Order (Ordem por Coluna).",
-      "is_correct": false,
-      "explanation": "Na Column-Major Order, os elementos de uma coluna são armazenados de forma contígua, e não os da linha."
-    },
-    {
-      "id": "E",
-      "text": "Linear Search Mapping (Mapeamento de Busca Linear).",
-      "is_correct": false,
-      "explanation": "Este termo não se refere a uma estratégia de mapeamento de endereçamento de matrizes."
-    }
-  ],
-  "answer_key": "C",
-  "explanation": {
-    "resolution": "Para resolver, identifique o conceito técnico, a função ou a regra que o enunciado está examinando. A estratégia Row-Major Order (Ordem por Linha) organiza a matriz de modo que todos os elementos de uma linha sejam armazenados sequencialmente antes de iniciar o armazenamento da próxima linha. Em seguida, confronte essa definição com as condições apresentadas no enunciado e diferencie o conceito central de mecanismos próximos, observando finalidade, funcionamento e limitações. A conclusão decorre da aplicação do conhecimento ao cenário descrito e não depende da posição em que as opções aparecem.",
-    "theoretical_content": "Contextualização: Esta questão integra o estudo de estruturas de dados: representação e manipulação de matri. Para compreender o tema, é necessário identificar o problema que o conceito resolve, sua finalidade e os limites de sua aplicação. Em informática, definições próximas podem compartilhar termos, mas diferem quanto à camada, ao componente, à estrutura ou à etapa do processo em que atuam. Por isso, a análise deve considerar a função efetivamente desempenhada, e não apenas palavras semelhantes.\n\nFundamento principal: A estratégia Row-Major Order (Ordem por Linha) organiza a matriz de modo que todos os elementos de uma linha sejam armazenados sequencialmente antes de iniciar o armazenamento da próxima linha.\n\nExemplo de aplicação: Uma aplicação concreta do conceito aparece na situação descrita por este enunciado: Row-Major Order (Ordem por Linha). A leitura deve identificar os elementos que indicam finalidade, comportamento, entradas, saídas e resultado esperado. Em problemas diferentes, os exemplos podem variar, mas o princípio técnico permanece o mesmo.\n\nConceitos relacionados e distinções: Não é uma estratégia padrão de mapeamento linear de matrizes em memória física para linguagens de propósito geral A alocação em Heap refere-se ao local da memória onde o objeto reside, não à estratégia de linearização dos índices da matriz Esta é a definição exata de armazenamento por linha, padrão em linguagens como C e Java Na Column-Major Order, os elementos de uma coluna são armazenados de forma contígua, e não os da linha Este termo não se refere a uma estratégia de mapeamento de endereçamento de matrizes Para o armazenamento em Column-Major Order (Ordem por Coluna) com indexação iniciando em 0, utilizamos a fórmula: Endereço = Base + (j × L + i) × T. Onde: Base = 100; j = 3 (índice da coluna); L = 5 (total de linhas); i = 2 (índice da linha); T = 8 (tamanho do elemento). Cálculo: 100 + (3 × 5 + 2) × 8 = 100 + (15 + 2) × 8 = 100 + 17 × 8 = 100 + 136 = 236 Linguagens modernas e de uso geral como C, C++, Java e Python (através de bibliotecas como NumPy, por padrão) utilizam a ordem por linha (Row-Major)\n\nComo raciocinar em outras questões: Em uma prova, aplique uma sequência de análise: (1) delimite exatamente o objeto da pergunta; (2) identifique sua finalidade e responsabilidade; (3) compare-o com conceitos próximos; (4) verifique regras, propriedades e limitações; e (5) confronte a conclusão com o cenário apresentado. Atenção a generalizações absolutas, exceções e trocas de função entre componentes. Não confunda uma característica frequente com uma exigência universal. Esse procedimento ajuda a transferir o aprendizado para enunciados inéditos, sem depender da memorização de uma formulação específica."
-  }
-}
-```
 
 ## Questão 0270
 
