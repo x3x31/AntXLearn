@@ -6036,6 +6036,9 @@ function renderQuiz() {
   );
   const labelMap = alternativeLabelMap(order, question.alternatives.map((alternative) => alternative.id));
   const selectedId = answered?.selectedId || session.pending?.alternativeId || null;
+  const subjectText = [question.subject || "Geral", question.topic, question.subtopic]
+    .filter(Boolean)
+    .join(" · ");
 
   const altButtons = order.map((alternativeId, index) => {
     const alternative = alternativesById.get(alternativeId);
@@ -6090,28 +6093,28 @@ function renderQuiz() {
       "div",
       { class: "quiz-head" },
       h(
-        "div",
-        { class: "inline" },
-        h(
-          "a",
-          {
-            class: "icon-btn",
-            href: isSimulado ? "#/simulado" : "#/inicio",
-            "aria-label": isSimulado ? "Voltar aos simulados" : "Voltar ao início",
-            title: isSimulado ? "Voltar aos simulados" : "Voltar ao início",
-          },
-          icon("arrowLeft")
-        ),
-        h(
-          "div",
-          { class: "quiz-head__title" },
-          h("strong", { text: session.materialTitle }),
-          h("span", {
-            text: `${question.subject || "Geral"}${question.topic ? ` · ${question.topic}` : ""}`,
-          })
-        )
+        "a",
+        {
+          class: "icon-btn quiz-head__back",
+          href: isSimulado ? "#/simulado" : "#/inicio",
+          "aria-label": isSimulado ? "Voltar aos simulados" : "Voltar ao início",
+          title: isSimulado ? "Voltar aos simulados" : "Voltar ao início",
+        },
+        icon("arrowLeft")
       ),
-      h("div", { class: "quiz-head__meta" }, renderTimerChip(session), h("span", { class: "quiz-head__count", text: `${session.index + 1} / ${total}` }))
+      h(
+        "button",
+        {
+          class: "quiz-head__title-btn",
+          type: "button",
+          title: session.materialTitle,
+          "aria-label": `Ver assunto: ${session.materialTitle}`,
+          onclick: () => openSubjectModal(session.materialTitle, subjectText),
+        },
+        h("span", { class: "quiz-head__title-text", text: session.materialTitle })
+      ),
+      renderTimerChip(session),
+      h("span", { class: "quiz-head__count", text: `${session.index + 1} / ${total}` })
     ),
     h(
       "div",
@@ -6398,6 +6401,84 @@ function renderFeedback(question, answer) {
       )
     )
   );
+}
+
+/* Modal de assunto da questão --------------------------------------------- */
+
+let subjectModalTrigger = null;
+
+function openSubjectModal(title, subject) {
+  document.querySelector('[data-role="subject-modal"]')?.remove();
+  subjectModalTrigger = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+  const dialog = h(
+    "div",
+    {
+      class: "feedback-modal subject-modal",
+      role: "dialog",
+      "aria-modal": "true",
+      "aria-labelledby": "subject-modal-title",
+      tabindex: "-1",
+    },
+    h(
+      "div",
+      { class: "feedback-modal__bar" },
+      h("span", { class: "eyebrow", id: "subject-modal-title" }, icon("book"), "Assunto"),
+      h(
+        "button",
+        {
+          class: "icon-btn",
+          type: "button",
+          "aria-label": "Fechar",
+          title: "Fechar (Esc)",
+          onclick: () => closeSubjectModal(),
+        },
+        icon("x")
+      )
+    ),
+    h(
+      "div",
+      { class: "feedback-modal__body" },
+      h("h2", { class: "subject-modal__title", text: title || "Material" }),
+      h("p", { class: "subject-modal__subject", text: subject || "Geral" })
+    )
+  );
+  const overlay = h(
+    "div",
+    { class: "feedback-modal-backdrop", "data-role": "subject-modal" },
+    dialog
+  );
+  overlay.addEventListener("keydown", (event) => {
+    if (event.key === "Escape") {
+      event.preventDefault();
+      closeSubjectModal();
+      return;
+    }
+    if (event.key === "Tab") trapModalFocus(event);
+  });
+  overlay.addEventListener("click", (event) => {
+    if (event.target === overlay) closeSubjectModal();
+  });
+  if (!state.feedbackModalOpen && !state.loginModal?.open) {
+    setFeedbackBackgroundInert(true);
+    document.body.classList.add("has-modal");
+  }
+  document.body.append(overlay);
+  requestAnimationFrame(() => dialog.focus({ preventScroll: true }));
+}
+
+function closeSubjectModal({ restoreFocus = true } = {}) {
+  const overlay = document.querySelector('[data-role="subject-modal"]');
+  if (!overlay) return;
+  overlay.remove();
+  if (!state.feedbackModalOpen && !state.loginModal?.open) {
+    document.body.classList.remove("has-modal");
+    setFeedbackBackgroundInert(false);
+  }
+  if (restoreFocus) {
+    const target = subjectModalTrigger;
+    (target?.isConnected ? target : document.getElementById("main"))?.focus?.({ preventScroll: true });
+  }
+  subjectModalTrigger = null;
 }
 
 /* Feedback em modal ------------------------------------------------------- */

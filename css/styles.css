@@ -1641,8 +1641,8 @@ button.achievement-mini {
   z-index: 30;
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 12px;
+  flex-wrap: nowrap;
+  gap: 10px;
   margin-inline: -16px;
   margin-bottom: 10px;
   padding: 10px 16px;
@@ -1651,35 +1651,69 @@ button.achievement-mini {
   backdrop-filter: blur(14px);
 }
 
-.quiz-head__title {
-  min-width: 0;
+.quiz-head__back {
+  flex: 0 0 auto;
 }
 
-.quiz-head__title strong {
-  display: block;
+.quiz-head__title-btn {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: inline-flex;
+  align-items: center;
+  padding: 4px 2px;
+  border: 0;
+  border-radius: 8px;
+  background: transparent;
+  color: var(--text);
+  font: inherit;
   font-size: 0.86rem;
+  font-weight: 700;
+  text-align: left;
+  cursor: pointer;
+}
+
+.quiz-head__title-btn:hover {
+  color: var(--primary);
+  background: color-mix(in srgb, var(--primary-soft) 60%, transparent);
+}
+
+.quiz-head__title-text {
+  display: block;
+  min-width: 0;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
 
-.quiz-head__title span {
-  color: var(--muted);
-  font-size: 0.74rem;
+.quiz-head .quiz-timer,
+.quiz-head__count {
+  flex: 0 0 auto;
 }
 
 .quiz-head__count {
-  flex: 0 0 auto;
   font-size: 0.78rem;
   font-weight: 700;
   color: var(--muted);
+  white-space: nowrap;
 }
 
-.quiz-head__meta {
-  flex: 0 0 auto;
-  display: flex;
-  align-items: center;
-  gap: 10px;
+.subject-modal {
+  width: min(560px, 100%);
+}
+
+.subject-modal__title {
+  margin: 0 0 8px;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.subject-modal__subject {
+  margin: 0;
+  color: var(--text-soft);
+  font-size: 0.92rem;
+  line-height: 1.55;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
 }
 
 .quiz-timer {
@@ -3195,8 +3229,12 @@ body.has-modal {
     font-size: 0.68rem;
   }
 
-  .quiz-head__meta {
+  .quiz-head {
     gap: 6px;
+  }
+
+  .quiz-head__title-btn {
+    font-size: 0.8rem;
   }
 
   .quiz-timer {
@@ -3207,6 +3245,10 @@ body.has-modal {
   .quiz-timer svg {
     width: 13px;
     height: 13px;
+  }
+
+  .quiz-head__count {
+    font-size: 0.72rem;
   }
 
   .summary-hero {
@@ -3340,8 +3382,10 @@ body.has-modal {
 
 .toast {
   position: fixed;
+  top: calc(var(--topbar-height) + 10px + env(safe-area-inset-top));
   left: 50%;
-  bottom: calc(94px + env(safe-area-inset-bottom));
+  right: auto;
+  bottom: auto;
   transform: translateX(-50%);
   z-index: 110;
   width: min(440px, calc(100% - 32px));
@@ -3353,17 +3397,38 @@ body.has-modal {
   color: var(--text-soft);
   font-size: 0.86rem;
   text-align: center;
-  animation: toast-rise 0.24s ease both;
+  animation: toast-in 0.24s ease both;
 }
 
-@keyframes toast-rise {
+@keyframes toast-in {
   from {
     opacity: 0;
-    transform: translate(-50%, 8px);
+    transform: translate(-50%, -8px);
   }
   to {
     opacity: 1;
     transform: translate(-50%, 0);
+  }
+}
+
+@media (min-width: 720px) {
+  .toast {
+    left: auto;
+    right: 24px;
+    transform: none;
+    text-align: left;
+    animation-name: toast-in-right;
+  }
+
+  @keyframes toast-in-right {
+    from {
+      opacity: 0;
+      transform: translateY(-8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
   }
 }
 
