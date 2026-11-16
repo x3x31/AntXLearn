@@ -5321,17 +5321,31 @@ function cancelPendingImport() {
 async function confirmProgressReset() {
   state.pendingReset = false;
   state.pendingImport = null;
-  showLoadingOverlay("Apagando progresso.");
+  showLoadingOverlay("Apagando progresso...");
   const userId = state.cloud.session?.userId || null;
-  showLoadingOverlay("Apagando progresso.");
   let remote = { ok: false, skipped: !userId };
+  let remoteAchievements = { ok: false, skipped: !userId };
   try {
     // Evita que sincronizações agendadas recriem placar/conquistas após a limpeza.
-    if (state.cloud.achievementSyncTimer) { window.clearTimeout(state.cloud.achievementSyncTimer); state.cloud.achievementSyncTimer = null; }
-    if (state.cloud.syncPromise) { try { await state.cloud.syncPromise; } catch {} }
-    if (state.cloud.achievementSyncPromise) { try { await state.cloud.achievementSyncPromise; } catch {} }
+    if (state.cloud.achievementSyncTimer) {
+      window.clearTimeout(state.cloud.achievementSyncTimer);
+      state.cloud.achievementSyncTimer = null;
+    }
+    state.cloud.pendingSync = false;
+    if (state.cloud.syncPromise) {
+      try {
+        await state.cloud.syncPromise;
+      } catch {}
+    }
+    if (state.cloud.achievementSyncPromise) {
+      try {
+        await state.cloud.achievementSyncPromise;
+      } catch {}
+    }
 
     await clearProgressData();
+    state.cloud.pendingDelete = null;
+    state.cloud.pendingAchievementDelete = null;
     stopTimerTicker();
     state.session = null;
     state.sessionMaterial = null;
@@ -5342,31 +5356,43 @@ async function confirmProgressReset() {
     state.lastAnswerSave = null;
     state.scheduling = null;
     state.finishingSession = false;
-    // A posição antiga não pode continuar no card de ranking da home.
     await forgetCachedOwnRank(userId);
-    let remoteAchievements = { ok: false, skipped: !userId };
+
     if (userId) {
       remoteAchievements = await deleteRemoteAchievements({ userId });
       remote = await deleteRemoteScore({ userId });
     }
 
     const remotePending = remote.offline || remoteAchievements.offline;
-    const message = remote.ok && remoteAchievements.ok
-      ? "Progresso apagado neste dispositivo e no servidor (ranking e conquistas)."
-      : remotePending
-        ? "Progresso apagado neste dispositivo. Ranking/conquistas remotos serão removidos quando a conexão voltar."
-        : (remote.error || remoteAchievements.error)
-          ? "Progresso apagado neste dispositivo, mas parte dos dados remotos não pôde ser removida agora."
-          : "Progresso apagado. Suas configurações foram preservadas.";
+    const remoteFailed = Boolean(
+      (remote.error && !remote.offline) || (remoteAchievements.error && !remoteAchievements.offline)
+    );
+    let message;
+    let variant = "success";
+    if (!userId) {
+      message = "Progresso local apagado. Suas configurações foram preservadas.";
+    } else if (remote.ok && remoteAchievements.ok) {
+      message = "Progresso apagado neste dispositivo e no Supabase (ranking e conquistas).";
+    } else if (remotePending) {
+      message =
+        "Progresso local apagado. Ranking e conquistas no Supabase serão removidos quando a conexão voltar.";
+      variant = "info";
+    } else if (remoteFailed) {
+      message =
+        "Progresso local apagado, mas não foi possível remover parte dos dados no Supabase agora.";
+      variant = "info";
+    } else {
+      message = "Progresso apagado. Suas configurações foram preservadas.";
+    }
+
     navigate("inicio");
-    toast(message, remote.error || remoteAchievements.error ? "info" : "success");
-    if (remote.ok) {
-      void refreshRanking();
-    } else if (state.cloud.session) {
+    toast(message, variant);
+    if (state.cloud.session) {
+      if (remote.ok || remoteAchievements.ok || !remotePending) void refreshRanking();
       updateHomeRankingCard();
     }
   } catch (error) {
-    toast(error.message || "Não foi possível apagar o progresso local.", "error");
+    toast(error.message || "Não foi possível apagar o progresso.", "error");
   } finally {
     hideLoadingOverlay();
     render();
