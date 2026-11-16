@@ -6220,64 +6220,6 @@ language: "pt-BR"
 }
 ```
 
-## Questão 0269
-
-```json
-{
-  "id": "MAT-ESP-Q0269",
-  "type": "original",
-  "source": {
-    "exam": null,
-    "year": null,
-    "question_number": null,
-    "page": null
-  },
-  "subject": "Conhecimentos Específicos",
-  "topic": "ESTRUTURAS DE DADOS: REPRESENTAÇÃO E MANIPULAÇÃO DE",
-  "subtopic": "Resumo do capítulo",
-  "difficulty": "easy",
-  "cognitive_skill": "comprehension",
-  "question_text": "",
-  "alternatives": [
-    {
-      "id": "A",
-      "text": "Diagonal-Major Order (Ordem por Diagonal).",
-      "is_correct": true,
-      "explanation": "Incorreta. Não é uma estratégia padrão de mapeamento linear de matrizes em memória física para linguagens de propósito geral."
-    },
-    {
-      "id": "B",
-      "text": "Heap-Based Allocation (Alocação Baseada em Heap).",
-      "is_correct": false,
-      "explanation": "Incorreta. A alocação em Heap refere-se ao local da memória onde o objeto reside, não à estratégia de linearização dos índices da matriz."
-    },
-    {
-      "id": "C",
-      "text": "Row-Major Order (Ordem por Linha).",
-      "is_correct": false,
-      "explanation": "Correta. Esta é a definição exata de armazenamento por linha, padrão em linguagens como C e Java."
-    },
-    {
-      "id": "D",
-      "text": "Column-Major Order (Ordem por Coluna).",
-      "is_correct": false,
-      "explanation": "Incorreta. Na Column-Major Order, os elementos de uma coluna são armazena- dos de forma contígua, e não os da linha."
-    },
-    {
-      "id": "E",
-      "text": "Linear Search Mapping (Mapeamento de Busca Linear).",
-      "is_correct": false,
-      "explanation": "Incorreta. Este termo não se refere a uma estratégia de mapeamento de endereçamento de matrizes."
-    }
-  ],
-  "answer_key": "A",
-  "explanation": {
-    "resolution": "C\n\n    A estratégia Row-Major Order (Ordem por Linha) organiza a matriz de modo que todos\n    os elementos de uma linha sejam armazenados sequencialmente antes de iniciar o\n    armazenamento da próxima linha.",
-    "theoretical_content": "1.8 ESTRUTURAS DE DADOS: REPRESENTAÇÃO E MANIPULAÇÃO DE MATRIZES E ARRAYS\n\n1.8.1 Vetores Unidimensionais: Declaração, Indexação e Percurso\n\nQuadro Sinóptico de Operações e Complexidade\n\nAbaixo, uma síntese das operações fundamentais em vetores unidimensionais e seu respectivo desempenho (Notação Big-O), essencial para questões de análise de algoritmos.\n\nTabela 1.29: Operações em Vetores Unidimensionais\n**Acesso por Índice**\n• **Complexidade (Tempo):** O(1)\n• **Descrição:** Acesso direto via cálculo de endereço.\n\n**Busca (Não Ordenada)**\n• **Complexidade (Tempo):** O(n)\n• **Descrição:** Requer percurso sequencial (pior caso).\n\n**Busca Binária (Ordenada)**\n• **Complexidade (Tempo):** O(log n)\n• **Descrição:** Divide o espaço de busca pela metade.\n\n**Percurso Completo**\n• **Complexidade (Tempo):** O(n)\n• **Descrição:** Visita todos os N elementos uma única vez.\n\n**Inserção/Remoção (Início)**\n• **Complexidade (Tempo):** O(n)\n• **Descrição:** Exige o deslocamento de todos os outros elementos.\n\n**Inserção/Remoção (Final)**\n• **Complexidade (Tempo):** O(1)\n• **Descrição:** Sem necessidade de deslocamento (se houver espaço).\n\nChecklist de Revisão\n\n☐ **[ ] O vetor é homogêneo? (Sim, para a definição clássica).**\n\n☐ **[ ] O índice inicial é 0? (Padrão na maioria das linguagens).**\n\n☐ **[ ] O percurso atinge N-1? (Evita erro de limite).**\n\n☐ **[ ] A alocação é contígua? (Sim, fundamental para performance).**\n\n1.8.2 Matrizes Bidimensionais: Armazenamento e Cálculo de Endereço\n\nSíntese para Revisão Rápida\n\nA tabela abaixo resume os parâmetros fundamentais para a resolução de questões sobre matrizes bidimensionais.\n\nTabela 1.30: Resumo de Armazenamento de Matrizes\n\n**Variação Rápida**\n• **Row-Major (Por Linha):** Segundo índice (coluna)\n• **Column-Major (Por Coluna):** Primeiro índice (linha)\n\n**Fórmula (0-based)**\n• **Row-Major (Por Linha):** Base + (i · C + j) · T\n• **Column-Major (Por Coluna):** Base + (j · L + i) · T\n\n**Exemplo de Linguagem**\n• **Row-Major (Por Linha):** C, C++, Java, C#\n• **Column-Major (Por Coluna):** Fortran, R, Julia\n\n**Foco do Salto**\n• **Row-Major (Por Linha):** Pula linhas inteiras\n• **Column-Major (Por Coluna):** Pula colunas inteiras\n\n🧠 **Para Memorizar**\n\nDica de Ouro para a Prova: Para não trocar as fórmulas:\n\n• **Se é Row-Major, você multiplica o i (row) pelo total de Colunas.**\n• **Se é Column-Major, você multiplica o j (column) pelo total de Linhas.**\n\nSempre multiplique o índice pelo ”oposto”da sua dimensão.\n\n1.8.3 Operações Fundamentais em Arrays: Manipulação e Eficiência\n\nTabela Comparativa de Complexidade Algorítmica\n\nEste quadro é essencial para questões de análise de algoritmos e estruturas de dados.\n\nTabela 1.31: Complexidade das Operações em Arrays\n**Busca Linear**\n• **Melhor Caso:** O(1)\n• **Pior Caso (ou Médio):** O(n)\n• **Motivo do Pior Caso:** Elemento está na última posição ou não existe.\n\n**Busca Binária**\n• **Melhor Caso:** O(1)\n• **Pior Caso (ou Médio):** O(log n)\n• **Motivo do Pior Caso:** Elemento é encontrado na última divisão possível.\n\n**Inserção (Início)**\n• **Melhor Caso:** O(n)\n• **Pior Caso (ou Médio):** O(n)\n• **Motivo do Pior Caso:** Desloca todos os elementos para a direita.\n\n**Inserção (Final)**\n• **Melhor Caso:** O(1)\n• **Pior Caso (ou Médio):** O(1)\n• **Motivo do Pior Caso:** Acesso direto à última posição (se houver espaço).\n\n**Remoção (Início)**\n• **Melhor Caso:** O(n)\n• **Pior Caso (ou Médio):** O(n)\n• **Motivo do Pior Caso:** Desloca todos os elementos para a esquerda.\n\n**Remoção (Final)**\n• **Melhor Caso:** O(1)\n• **Pior Caso (ou Médio):** O(1)\n• **Motivo do Pior Caso:** Apenas decrementa o controle de tamanho.\n\n**Redimensionar**\n• **Melhor Caso:** O(n)\n• **Pior Caso (ou Médio):** O(n)\n• **Motivo do Pior Caso:** Necessidade de copiar todos os elementos.\n\n🧠 **Para Memorizar**\n\nRegra de Ouro para Provas:\n\n• **Acesso: Sempre O(1).**\n• **Busca: O(n) (ou O(log n) se ordenado).**\n• **Inserção/Remoção: O(n) (devido ao deslocamento/shifting).**\n\nChecklist de Revisão\n\n☐ **[ ] Inserção no início exige deslocamento para a direita? (Sim).**\n\n☐ **[ ] Remoção no meio exige deslocamento para a esquerda? (Sim).**\n\n☐ **[ ] Busca binária funciona em arrays desordenados? (Não).**\n\n☐ **[ ] O redimensionamento envolve a criação de um novo array? (Sim).**\n\n1.8.4 Matrizes Especiais: Esparsas, Triangulares e Simétricas\n\nQuadro Sinóptico de Matrizes Especiais\n\nTabela 1.32: Resumo de Matrizes Especiais\n**Esparsa**\n• **Condição Matemática:** Maioria dos elementos = 0\n• **Estratégia de Armazenamento:** Armazena apenas (i, j, valor).\n\n**Triangular Inferior**\n• **Condição Matemática:** A[i][j] = 0 se i < j\n• **Estratégia de Armazenamento:** Armazena apenas elementos onde i ≥ j.\n\n**Triangular Superior**\n• **Condição Matemática:** A[i][j] = 0 se i > j\n• **Estratégia de Armazenamento:** Armazena apenas elementos onde i ≤ j.\n\n**Simétrica**\n• **Condição Matemática:** A[i][j] = A[j][i]\n• **Estratégia de Armazenamento:** Armazena apenas a metade inferior ou superior.\n\n**Diagonal**\n• **Condição Matemática:** A[i][j] = 0 se i 6= j\n• **Estratégia de Armazenamento:** Armazena apenas os N elementos da diagonal.\n\n🧠 **Para Memorizar**\n\nMnemônico para Matrizes Triangulares:\n\n• **Lower (Inferior): Elementos estão em Baixo (e na diagonal).**\n• **Upper (Superior): Elementos estão em Cima (e na diagonal).**\n\nLembre-se: O nome da matriz indica onde os dados ÚTEIS estão, não onde os zeros estão.\n\nChecklist de Revisão\n\n☐ **[ ] Matriz esparsa economiza memória quando a densidade é baixa? (Sim).**\n\n☐ **[ ] Matriz simétrica pode ser armazenada como uma triangular? (Sim).**\n\n☐ **[ ] O acesso em matrizes compactadas é sempre O(1)? (Não, geralmente é mais lento).**\n\n☐ **[ ] Matriz identidade é um caso especial de matriz diagonal? (Sim).**\n\n1.8.5 Arrays em Java e Javascript: Implementações e Manipulação Moderna\n\nQuadro Sinóptico de Métodos e Operações\n\nTabela 1.33: Comparativo de Operações Comuns\n\n**Adicionar ao final**\n• **Java (ArrayList):** add(valor)\n• **JavaScript:** push(valor)\n\n**Adicionar no início**\n• **Java (ArrayList):** add(0, valor)\n• **JavaScript:** unshift(valor)\n\n**Remover o último**\n• **Java (ArrayList):** remove(size-1)\n• **JavaScript:** pop()\n\n**Remover o primeiro**\n• **Java (ArrayList):** remove(0)\n• **JavaScript:** shift()\n\n**Buscar índice**\n• **Java (ArrayList):** indexOf(valor)\n• **JavaScript:** indexOf(valor)\n\n**Verificar existência**\n• **Java (ArrayList):** contains(valor)\n• **JavaScript:** includes(valor)\n\n**Transformar dados**\n• **Java (ArrayList):** Stream API (map)\n• **JavaScript:** map()\n\n🧠 **Para Memorizar**\n\nMnemônico para Métodos de JS (P.P.S.U):\n\n• **Push: Adiciona no fim.**\n• **Pop: Remove do fim.**\n• **Shift: Remove do início (pense em ”deslocar para fora”).**\n• **Unshift: Adiciona no início.**\n\nChecklist de Revisão\n\n☐ **[ ] Java: Array estático tem tamanho fixo? (Sim).**\n\n☐ **[ ] Java: ArrayList aceita tipos primitivos diretamente? (Não, usa autoboxing).**\n☐ **[ ] JS: O método map() altera o array original? (Não, retorna um novo).**\n☐ **[ ] JS: typeof [] retorna o quê? (Retorna ”object”).**\n☐ **[ ] Java: Qual a complexidade do get(i) no ArrayList? (O(1)).**"
-  }
-}
-```
-
 ## Questão 0270
 
 ```json
