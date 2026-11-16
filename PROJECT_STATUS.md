@@ -16,9 +16,9 @@
 | **Ambiente de execução** | Navegador moderno (Chrome/Edge/Firefox/Safari atuais), prioritariamente Android. Hospedagem estática. |
 | **Estratégia de publicação** | GitHub Pages a partir da branch `main`, com caminhos relativos compatíveis com subdiretórios. |
 | **Repositório remoto** | `https://github.com/x3x31/XLearn.git` |
-| **Versão atual** | `0.54.0` (REQ-058 - sincronização de conquistas com o Supabase) |
+| **Versão atual** | `0.54.1` (identificação visual dinâmica das alternativas) |
 | **Próxima versão planejada** | `0.55.0` (a definir) |
-| **Data da última atualização** | 2026-11-16 |
+| **Data da última atualização** | 2026-11-17 |
 
 ---
 

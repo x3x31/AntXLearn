@@ -5553,9 +5553,13 @@ function renderProgress() {
                     text: `${attempt.subject || "Geral"}${attempt.topic ? ` · ${attempt.topic}` : ""} · ${formatDateTime(attempt.answeredAt)}`,
                   }),
                   h("small", {
-                    text: `Marcada: ${attempt.selectedId} · Gabarito: ${attempt.correctId}${
-                      attempt.mode === "revisao" ? " · revisão" : ""
-                    }`,
+                    text: (() => {
+                      const material = state.materials.get(attempt.materialPath);
+                      const question = material?.questions?.find((item) => item.id === attempt.questionId);
+                      const fallback = question ? question.alternatives.map((item) => item.id) : [];
+                      const map = alternativeLabelMap(Array.isArray(attempt.order) ? attempt.order : [], fallback);
+                      return `Marcada: ${labelForAlternativeId(attempt.selectedId, map)} - Gabarito: ${labelForAlternativeId(attempt.correctId, map)}${attempt.mode === "revisao" ? " - revisão" : ""}`;
+                    })(),
                   })
                 )
               )
@@ -5764,6 +5768,20 @@ function alternativeOrder(session, question) {
   );
   session.orders[question.id] = order;
   return order;
+}
+
+function alternativeDisplayLabel(index) {
+  return String.fromCharCode(65 + index);
+}
+
+function alternativeLabelMap(order, fallbackIds = []) {
+  const ids = Array.isArray(order) && order.length > 0 ? order : fallbackIds;
+  return new Map(ids.map((id, index) => [id, alternativeDisplayLabel(index)]));
+}
+
+function labelForAlternativeId(id, map) {
+  if (!id) return "—";
+  return (map && map.get(id)) || id;
 }
 
 function confirmAnswer(question) {
@@ -6016,11 +6034,13 @@ function renderQuiz() {
   const alternativesById = new Map(
     question.alternatives.map((alternative) => [alternative.id, alternative])
   );
+  const labelMap = alternativeLabelMap(order, question.alternatives.map((alternative) => alternative.id));
   const selectedId = answered?.selectedId || session.pending?.alternativeId || null;
 
-  const altButtons = order.map((alternativeId) => {
+  const altButtons = order.map((alternativeId, index) => {
     const alternative = alternativesById.get(alternativeId);
     if (!alternative) return null;
+    const displayLabel = alternativeDisplayLabel(index);
     let className = "alt";
     if (answered) {
       if (alternative.id === question.correctId) className += " is-correct";
@@ -6029,9 +6049,9 @@ function renderQuiz() {
     const status = !answered
       ? ""
       : alternative.id === question.correctId
-        ? " — resposta correta."
+        ? " - resposta correta."
         : alternative.id === answered.selectedId
-          ? " — sua resposta, incorreta."
+          ? " - sua resposta, incorreta."
           : "";
     return h(
       "button",
@@ -6042,11 +6062,11 @@ function renderQuiz() {
         disabled: Boolean(answered),
         onclick: (event) => selectAlternative(event.currentTarget, question, alternative.id),
       },
-      h("span", { class: "alt__letter", "aria-hidden": "true", text: alternative.id }),
+      h("span", { class: "alt__letter", "aria-hidden": "true", text: displayLabel }),
       h(
         "span",
         { class: "alt__text" },
-        h("span", { class: "sr-only", text: `Alternativa ${alternative.id}: ` }),
+        h("span", { class: "sr-only", text: `Alternativa ${displayLabel}: ` }),
         alternative.text,
         status ? h("span", { class: "sr-only", text: status }) : null
       )
@@ -6128,7 +6148,7 @@ function renderQuiz() {
       }),
       h("p", {
         class: "hint",
-        text: "A ordem foi embaralhada. As letras A–D correspondem às alternativas originais do gabarito.",
+        text: "As alternativas são identificadas pelas letras exibidas na tela, na ordem atual desta questão.",
       }),
       h("div", { class: "alternatives", role: "group", "aria-label": "Alternativas" }, ...altButtons),
       h(
@@ -6283,28 +6303,38 @@ function renderScheduleBlock(question, answer) {
 }
 
 function renderFeedback(question, answer) {
-  const alternative = question.alternatives.find((item) => item.id === answer.selectedId);
-  const correctAlternative = question.alternatives.find((item) => item.id === question.correctId);
   const explanation = question.explanation || {};
   const correct = answer.correct;
   const isSimulado = state.session?.mode === "simulado";
+  const order = Array.isArray(answer?.order) && answer.order.length === question.alternatives.length
+    ? answer.order
+    : (state.session ? alternativeOrder(state.session, question) : question.alternatives.map((item) => item.id));
+  const labelMap = alternativeLabelMap(order, question.alternatives.map((item) => item.id));
+  const byId = new Map(question.alternatives.map((item) => [item.id, item]));
+  const selectedLabel = labelForAlternativeId(answer.selectedId, labelMap);
+  const correctLabel = labelForAlternativeId(question.correctId, labelMap);
+  const correctAlternative = byId.get(question.correctId);
 
-  const altExplanations = question.alternatives.map((item) =>
-    h(
+  const altExplanations = order.map((id, index) => {
+    const item = byId.get(id);
+    if (!item) return null;
+    const label = alternativeDisplayLabel(index);
+    const isCorrectAlt = item.id === question.correctId;
+    return h(
       "div",
-      { class: `alt-explain${item.id === question.correctId ? " is-correct" : ""}` },
-      h("span", { class: "alt-explain__letter", text: item.id }),
+      { class: `alt-explain${isCorrectAlt ? " is-correct" : ""}` },
+      h("span", { class: "alt-explain__letter", text: label }),
       h(
         "div",
         {},
         h(
           "strong",
-          { style: "font-size:.82rem", text: `${item.id === question.correctId ? "Correta" : "Incorreta"} — ${truncate(item.text, 90)}` }
+          { style: "font-size:.82rem", text: `${isCorrectAlt ? "Correta" : "Incorreta"} - ${truncate(item.text, 90)}` }
         ),
         h("p", { class: "prose", style: "margin-top:4px", text: item.explanation || "Sem comentário individual para esta alternativa." })
       )
-    )
-  );
+    );
+  }).filter(Boolean);
 
   return h(
     "section",
@@ -6322,8 +6352,8 @@ function renderFeedback(question, answer) {
         h("strong", { id: "feedback-title", text: correct ? "Resposta correta!" : "Resposta incorreta" }),
         h("span", {
           text: correct
-            ? `Você marcou ${answer.selectedId}. Gabarito confirmado.`
-            : `Você marcou ${alternative?.id || answer.selectedId}. A resposta correta é ${question.correctId}.`,
+            ? `Você marcou ${selectedLabel}. Gabarito confirmado.`
+            : `Você marcou ${selectedLabel}. A resposta correta é ${correctLabel}.`,
         })
       )
     ),
@@ -6836,7 +6866,7 @@ function renderSummary() {
                   text: answer
                     ? "Resposta registrada — crie uma conta para ver o gabarito e a explicação."
                     : expired
-                      ? "Não respondida — tempo esgotado"
+                      ? "Não respondida - tempo esgotado"
                       : "Não respondida",
                 })
               )
@@ -6855,9 +6885,12 @@ function renderSummary() {
               h("strong", { text: truncate(question.text, 120) }),
               h("span", {
                 text: answer
-                  ? `Marcada: ${answer.selectedId} · Gabarito: ${question.correctId}`
+                  ? (() => {
+                      const map = alternativeLabelMap(Array.isArray(answer.order) ? answer.order : [], question.alternatives.map((item) => item.id));
+                      return `Marcada: ${labelForAlternativeId(answer.selectedId, map)} - Gabarito: ${labelForAlternativeId(question.correctId, map)}`;
+                    })()
                   : expired
-                    ? "Não respondida — tempo esgotado"
+                    ? "Não respondida - tempo esgotado"
                     : "Não respondida",
               })
             )
