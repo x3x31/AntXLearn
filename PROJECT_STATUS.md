@@ -281,7 +281,7 @@ XLearn/
 ├── assets/characters/        # IMPLEMENTADO: cinco ilustrações SVG dos estágios do personagem
 ├── questoes/
 │   ├── manifest.json         # IMPLEMENTADO: gerado, não editar à mão
-│   └── *.md                  # 10 materiais de estudo preservados
+│   └── *.md                  # 13 materiais de estudo preservados
 ├── supabase/
 │   ├── schema.sql            # NOVO: tabelas, views, índices, grants, RLS, políticas e RPCs
 │   └── migrations/           # migrations aplicadas e, em REQ-058, a tabela user_achievements
@@ -486,7 +486,7 @@ Campos reais: `schema_version`, `material_id`, `bank`, `subject`, `topic`, `requ
 | 0.50.0 | REQ-053 | Cascata de moedas ampliada para 28–48 moedas espalhadas pela largura da tela, caindo do topo por trás da barra superior até cerca de 1/3 da viewport, com início opaco, fim transparente e som contínuo durante todo o tempo visível; service worker `v29` | `d40846f` | 2026-11-10 |
 | 0.51.0 | REQ-054, REQ-055 | “Apagar progresso” apaga o escopo local, atualiza a tela e exclui a pontuação no Supabase com política/GRANT próprios e fila de repetição offline; cascata reutiliza uma única camada e cada moeda some em altura e ritmo aleatórios, com continuidade e som repetido em coletas consecutivas; service worker `v30` | `da03a14` | 2026-11-10 |
 | 0.52.0 | REQ-056 | Verificação automática de disponibilidade do apelido ao sair do campo no cadastro, com RPC `nickname_available` restrita a verdadeiro/falso; apelido em uso bloqueia o envio, estado acessível em `aria-live` e falha de rede não impede o cadastro; service worker `v31` | `4efe857` | 2026-11-10 |
-| 0.53.0 | REQ-057 | Recuperação de moedas e dias ativos da temporada no login: `season.recovered` como baseline, `recoverSeasonFromScore` transacional, consulta da própria linha em `season_scores`, precedência do remoto e envio de placar adiado até o fim da recuperação; service worker `v32` | `088f688` | 2026-11-15 |
+| 0.53.0 | REQ-057 | Recuperação de moedas e dias ativos da temporada no login: `season.recovered` como baseline, `recoverSeasonFromScore` transacional, consulta da própria linha em `season_scores`, precedência do remoto e envio de placar adiado até o fim da recuperação; service worker `v32` | `9341a92` | 2026-11-15 |
 
 ---
 
@@ -665,7 +665,7 @@ Dependências principais:
 - `specs/README.md` e os nove documentos temáticos foram criados a partir do estado real do repositório em 2026-11-09: rotas, home de logado e visitante, gate de conta, parser, manifesto, service worker `v27`, schema Supabase, backup e matriz de testes.
 - A especificação documenta REQ-001 a REQ-057 (com REQ-058 pendente), as decisões de arquitetura, as regras de negócio, os riscos residuais e a Definition of Done vigente.
 - `PROJECT_STATUS.md` permanece como fonte operacional de versão, requisitos e histórico; `README.md` é o guia de uso e aponta para `specs/README.md`.
-- A validação da documentação incluiu `node --check js/app.js`, `node --check service-worker.js`, `npm run check` (10 materiais, 1.250 questões, 0 erros e 0 avisos), conferência dos links internos e `git diff --check`.
+- A validação da documentação incluiu `node --check js/app.js`, `node --check service-worker.js`, `npm run check` (13 materiais, 2.331 questões, 0 erros e 1 aviso), conferência dos links internos e `git diff --check`.
 - As specs não alteram código de produção; o service worker foi elevado para `v27` no REQ-051, para `v28` no REQ-052 e para `v29` no REQ-053.
 - Renderização do dashboard mantém o descarte de entradas nulas; a tela Início exibe, para quem tem conta, hero, recompensas pendentes, “Visão rápida” e ranking global nesta ordem; o visitante vê somente hero e ranking; o cartão da temporada ocupa o lugar do antigo card de personagem em `#/progresso`.
 - `main` sincronizada com `origin/main`; o código da fase 10 foi entregue no commit `e1b2b88` e a validação/documentação por requisito nos commits seguintes. A árvore de trabalho fica limpa ao final desta revisão.
@@ -723,7 +723,7 @@ As verificações abaixo são registros históricos de cada entrega; números e 
 - Simulados testados com funções puras: chave composta `materialId::questionId`, precisão com zero questões, resumo com acertos/erros/não respondidas e totais por assunto, histórico que ignora registro repetido do mesmo `id`, ordenação do mais recente, agregação geral e por assunto e normalização de histórico legado/corrompido.
 - Integração de simulados com DOM e IndexedDB confirmou a rota `#/simulado`, agrupamento dos assuntos reais, início desativado sem questões, total em tempo real, quatro questões escolhidas, selo de simulado, ausência do cronômetro de prova, persistência em `meta/simuladoSession`, conclusão em `meta/simulados`, resumo distinto com resultado por assunto e limpeza do simulado ativo. Progresso, tentativas, sessões normais, estatísticas, XP, conquistas e carteira permaneceram zerados; a retomada de simulado e de sessão normal foi verificada por banners independentes.
 - A regressão da sessão normal foi reexecutada após separar os stores: início, persistência, alternativas, avanço para a questão 2, tentativa, progresso, banner “Sessão em andamento” e retomada continuaram funcionando.
-- O service worker foi verificado em `v7` com 28 caminhos do shell, incluindo `js/simulado.js`, todos existentes no repositório; o app importa o módulo, registra o worker e mantém o manifesto válido com 10 materiais/1250 questões. Após a coleta de conquistas, a versão passou para `v8` mantendo os 28 caminhos.
+- O service worker foi verificado em `v7` com 28 caminhos do shell, incluindo `js/simulado.js`, todos existentes no repositório; o app importa o módulo, registra o worker e mantém o manifesto válido. Após a coleta de conquistas, a versão passou para `v8` mantendo os 28 caminhos.
 
 - Coleta de conquistas testada com funções puras e IndexedDB em memória: conquista bloqueada recusada, valor desconhecido recusado, valor canônico de `ACHIEVEMENTS` usado, saldo e total acumulado somados uma vez, registro em `claimedAchievements`, chamada repetida sem novo pagamento e duas chamadas concorrentes pagando apenas uma vez.
 - Integração com DOM confirmou duas conquistas desbloqueadas como botões “Clique para coletar” com `aria-label`, chip somando 10 moedas pendentes, clique creditando 5 moedas, som de moeda e cascata decorativa, item convertido em artigo focável com “Moedas coletadas”, pendência restante atualizada e XP inalterado. Chamada repetida e segunda coleta na tela de progresso foram verificadas; sem pendências, o chip voltou a exibir o XP recebido.
