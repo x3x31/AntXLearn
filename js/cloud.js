@@ -581,9 +581,13 @@ export function createCloudClient(options = {}) {
       body: [row],
       prefer: "resolution=merge-duplicates,return=representation",
     });
-    return Array.isArray(payload) && payload[0]
-      ? normalizeLeaderboardRow(payload[0])
-      : null;
+    if (!Array.isArray(payload) || payload.length === 0) {
+      throw new CloudError(
+        "O Supabase não gravou a pontuação. Verifique as políticas de acesso da tabela season_scores.",
+        { code: "write_blocked" }
+      );
+    }
+    return normalizeLeaderboardRow(payload[0]);
   }
 
   async function deleteScore(session, seasonId) {

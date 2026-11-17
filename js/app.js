@@ -1336,6 +1336,16 @@ async function deleteRemoteAchievements({ userId = state.cloud.session?.userId }
   }
   try {
     const deleted = await cloudClient.deleteAchievements(session);
+    const remaining = await cloudClient.fetchAchievements(session);
+    if (Array.isArray(remaining) && remaining.length > 0) {
+      return {
+        ok: false,
+        error: new CloudError(
+          "O Supabase manteve as conquistas. Confira as políticas de acesso de user_achievements.",
+          { code: "reset_not_applied" }
+        ),
+      };
+    }
     const pending = state.cloud.pendingAchievementDelete;
     if (pending?.userId === targetUserId) await clearPendingAchievementDeletion();
     return { ok: true, deleted };
@@ -1413,6 +1423,18 @@ async function resetRemoteScore({
       session,
       resetSeasonScorePayload(targetSeasonId)
     );
+    const verification = await cloudClient.fetchOwnRank(targetSeasonId, targetUserId, {
+      session,
+    });
+    if (verification && (verification.coins > 0 || verification.activeDays > 0)) {
+      return {
+        ok: false,
+        error: new CloudError(
+          "O Supabase manteve a pontuação antiga. Confira as políticas de acesso de season_scores.",
+          { code: "reset_not_applied" }
+        ),
+      };
+    }
     const pending = state.cloud.pendingDelete;
     if (
       pending?.userId === targetUserId &&
@@ -5377,6 +5399,10 @@ async function confirmProgressReset() {
       remoteAchievements = await deleteRemoteAchievements({ userId });
       remote = await resetRemoteScore({ userId });
     }
+
+    // Recarrega o estado derivado do IndexedDB para que as telas deixem de
+    // exibir estatísticas, temporada, carteira e conquistas antigas.
+    await refreshProgress({ sync: false });
 
     const remotePending = remote.offline || remoteAchievements.offline;
     const remoteFailed = Boolean(
