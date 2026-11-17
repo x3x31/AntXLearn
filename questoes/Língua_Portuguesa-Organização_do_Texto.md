@@ -1,5 +1,5 @@
 ---
-schema_version: "1.0"
+schema_version: "1."
 material_id: "BAS-001"
 bank: null
 subject: "Língua Portuguesa"
@@ -15,20 +15,8 @@ language: "pt-BR"
 # Identificação do Material
 
 Material composto por 279, sobre Organização do Texto:
-Propósito comunicativo; 
-Tipos  de  texto  (dialogal,  descritivo,  narrativo,  injuntivo,  explicativo  e argumentativo); 
-Gêneros discursivos; 
-Mecanismos coesivos; 
-Fatores de coerência textual; 
-Progressão temática; 
-Paragrafação; 
-Citação do discurso alheio; 
-Informações implícitas; 
-Linguagem denotativa e linguagem conotativa. 
+Propósito comunicativo; Tipos  de  texto  (dialogal,  descritivo,  narrativo, injuntivo,  explicativo  e argumentativo); Gêneros discursivos; Mecanismos coesivos; Fatores de coerência textual; Progressão temática; Paragrafação; Citação do discurso alheio; Informações implícitas; Linguagem denotativa e linguagem conotativa. 
 
-
-
- questões originais transcritas de ConhecimentoBasico_questoes.pdf. Para os conteúdos de legislação, foram utilizados os documentos contidos em Legislação.zip: Regimento Interno da Câmara Municipal de Mossoró, Lei Orgânica do Município de Mossoró e Lei nº 8.429/1992. As explicações teóricas foram desenvolvidas para fins didáticos; os gabaritos foram mantidos conforme a apostila.
 
 # Questões
 
@@ -55,7 +43,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "A ideia central refere-se à finalidade do autor, enquanto a intenção comunicativa foca no resumo do conteúdo.",
       "is_correct": false,
-      "explanation": "A alternativa inverte os conceitos: a ideia central é o resumo e a intenção é a finalidade. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "A alternativa inverte os conceitos: a ideia central é o resumo e a intenção é a finalidade."
     },
     {
       "id": "B",
@@ -77,9 +65,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Ambos os conceitos são sinônimos e podem ser utilizados de forma intercambiável em qualquer análise textual. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Ambos os conceitos são sinônimos e podem ser utilizados de forma intercambiável em qualquer análise textual.",
       "is_correct": false,
-      "explanation": "São conceitos distintos; um foca no conteúdo informativo e o outro na finalidade pragmática do texto. ARROW-LEFT VOLTAR À QUESTÃO 1"
+      "explanation": "São conceitos distintos; um foca no conteúdo informativo e o outro na finalidade pragmática do texto."
     }
   ],
   "answer_key": "B",
@@ -131,13 +119,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Na linha 15, o texto diz explicitamente que...",
       "is_correct": false,
-      "explanation": "O uso do termo ’explicitamente’ direciona o candidato para a compreensão literal, não para a interpretação. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "O uso do termo ’explicitamente’ direciona o candidato para a compreensão literal, não para a interpretação."
     },
     {
       "id": "E",
       "text": "O autor afirma que...",
       "is_correct": false,
-      "explanation": "Refere-se à compreensão, buscando a afirmação direta feita pelo autor. ARROW-LEFT VOLTAR À QUESTÃO 2"
+      "explanation": "Refere-se à compreensão, buscando a afirmação direta feita pelo autor."
     }
   ],
   "answer_key": "B",
@@ -181,7 +169,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "serve para identificar apenas a intenção persuasiva, sendo inexistente em textos informativos. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "serve para identificar apenas a intenção persuasiva, sendo inexistente em textos informativos.",
       "is_correct": false,
       "explanation": "O tópico frasal é um recurso de estruturação presente em diversos tipos de textos, inclusive nos informativos/referenciais."
     },
@@ -195,7 +183,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "tem como função principal introduzir elementos de extrapolação que transcendem o conteúdo escrito.",
       "is_correct": false,
-      "explanation": "A extrapolação é um erro de interpretação; o tópico frasal deve manter-se fiel ao conteúdo do texto. ARROW-LEFT VOLTAR À QUESTÃO 3 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "A extrapolação é um erro de interpretação; o tópico frasal deve manter-se fiel ao conteúdo do texto."
     }
   ],
   "answer_key": "A",
@@ -251,9 +239,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Informativo-Referencial. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Informativo-Referencial.",
       "is_correct": false,
-      "explanation": "O texto informativo foca na transmissão de dados de forma neutra, sem necessariamente orientar ações. ARROW-LEFT VOLTAR À QUESTÃO 4"
+      "explanation": "O texto informativo foca na transmissão de dados de forma neutra, sem necessariamente orientar ações."
     }
   ],
   "answer_key": "B",
@@ -311,13 +299,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Fática.",
       "is_correct": false,
-      "explanation": "A função fática foca no canal de comunicação, testando sua eficiência ou iniciando/mantendo o contato. ARROW-LEFT VOLTAR À QUESTÃO 5"
+      "explanation": "A função fática foca no canal de comunicação, testando sua eficiência ou iniciando/mantendo o contato."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A função referencial (ou denotativa) tem como foco o referente (o assunto) e busca informar o receptor de maneira direta e impessoal. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
-    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: A função referencial (ou denotativa) tem como foco o referente (o assunto) e busca informar o receptor de maneira direta e impessoal. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+    "resolution": "A função referencial (ou denotativa) tem como foco o referente (o assunto) e busca informar o receptor de maneira direta e impessoal.",
+    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: A função referencial (ou denotativa) tem como foco o referente (o assunto) e busca informar o receptor de maneira direta e impessoal."
   }
 }
 ```
@@ -351,7 +339,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Referencial.",
       "is_correct": false,
-      "explanation": "A função referencial evita o uso de imperativos, preferindo o modo indicativo para relatar fatos de forma neutra. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "A função referencial evita o uso de imperativos, preferindo o modo indicativo para relatar fatos de forma neutra."
     },
     {
       "id": "C",
@@ -367,9 +355,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Poética. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Poética.",
       "is_correct": false,
-      "explanation": "A função poética foca na elaboração da mensagem e no prazer estético, não necessariamente na persuasão direta. ARROW-LEFT VOLTAR À QUESTÃO 6"
+      "explanation": "A função poética foca na elaboração da mensagem e no prazer estético, não necessariamente na persuasão direta."
     }
   ],
   "answer_key": "D",
@@ -427,7 +415,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Organização gramatical e sintática necessária para a coesão textual.",
       "is_correct": false,
-      "explanation": "A organização gramatical refere-se à estrutura linguística, não à intencionalidade da ação comunicativa. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo ARROW-LEFT VOLTAR À QUESTÃO 7"
+      "explanation": "A organização gramatical refere-se à estrutura linguística, não à intencionalidade da ação comunicativa."
     }
   ],
   "answer_key": "B",
@@ -459,7 +447,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Bula de remédio – Prescrever e instruir. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Bula de remédio – Prescrever e instruir.",
       "is_correct": false,
       "explanation": "Esta afirmação está certa, pois bulas orientam o uso de medicamentos, portanto não é o gabarito."
     },
@@ -485,7 +473,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Contrato – Entreter e comover. 1.1.2 Questões de Nível Médio",
       "is_correct": true,
-      "explanation": "Esta afirmação está errada porque o propósito de um contrato é jurídico e regulador, e não estético ou de entretenimento. ARROW-LEFT VOLTAR À QUESTÃO 8 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "Esta afirmação está errada porque o propósito de um contrato é jurídico e regulador, e não estético ou de entretenimento."
     }
   ],
   "answer_key": "E",
@@ -541,9 +529,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Seleciona uma alternativa que, embora verdadeira, aborda apenas um detalhe ou parte do texto, não sua ideia central. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Seleciona uma alternativa que, embora verdadeira, aborda apenas um detalhe ou parte do texto, não sua ideia central.",
       "is_correct": true,
-      "explanation": "O erro de redução consiste em privilegiar um aspecto secundário ou parcial em detrimento da ideia global do texto. ARROW-LEFT VOLTAR À QUESTÃO 9"
+      "explanation": "O erro de redução consiste em privilegiar um aspecto secundário ou parcial em detrimento da ideia global do texto."
     }
   ],
   "answer_key": "E",
@@ -601,13 +589,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "É o título do texto, que deve sempre conter a tese principal defendida pelo agente público que o escreveu.",
       "is_correct": false,
-      "explanation": "O título pode sugerir o tema, mas o tópico frasal é um elemento interno da estrutura dos parágrafos. ARROW-LEFT VOLTAR À QUESTÃO 10"
+      "explanation": "O título pode sugerir o tema, mas o tópico frasal é um elemento interno da estrutura dos parágrafos."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O tópico frasal é a unidade central de sentido do parágrafo, geralmente localizada no início, servindo de guia para o desenvolvimento das ideias subsequentes. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
-    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: O tópico frasal é a unidade central de sentido do parágrafo, geralmente localizada no início, servindo de guia para o desenvolvimento das ideias subsequentes. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+    "resolution": "O tópico frasal é a unidade central de sentido do parágrafo, geralmente localizada no início, servindo de guia para o desenvolvimento das ideias subsequentes.",
+    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: O tópico frasal é a unidade central de sentido do parágrafo, geralmente localizada no início, servindo de guia para o desenvolvimento das ideias subsequentes."
   }
 }
 ```
@@ -639,7 +627,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Persuadir ou convencer o leitor sobre o posicionamento da instituição a respeito de um tema relevante. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Persuadir ou convencer o leitor sobre o posicionamento da instituição a respeito de um tema relevante.",
       "is_correct": true,
       "explanation": "O editorial possui caráter opinativo e busca convencer o leitor sobre determinada tese."
     },
@@ -647,7 +635,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Instruir o leitor sobre o funcionamento de um novo equipamento público, de forma prescritiva.",
       "is_correct": false,
-      "explanation": "Esta é a função de manuais ou textos instrucionais. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "Esta é a função de manuais ou textos instrucionais."
     },
     {
       "id": "D",
@@ -659,7 +647,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Transmitir dados estatísticos puros, com objetividade máxima e ausência de juízo de valor.",
       "is_correct": false,
-      "explanation": "Esta é a função referencial/informativa, típica de relatórios técnicos ou notícias, não de editoriais. ARROW-LEFT VOLTAR À QUESTÃO 11"
+      "explanation": "Esta é a função referencial/informativa, típica de relatórios técnicos ou notícias, não de editoriais."
     }
   ],
   "answer_key": "B",
@@ -715,9 +703,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O erro de extrapolação, pois dados externos não devem constar em textos disserta- tivos. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "O erro de extrapolação, pois dados externos não devem constar em textos disserta- tivos.",
       "is_correct": false,
-      "explanation": "O autor pode e deve usar dados para fundamentar seu texto; a extrapolação é um erro do leitor, não do autor. ARROW-LEFT VOLTAR À QUESTÃO 12 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "O autor pode e deve usar dados para fundamentar seu texto; a extrapolação é um erro do leitor, não do autor."
     }
   ],
   "answer_key": "A",
@@ -775,7 +763,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Restringe sua análise aos elementos denotativos e explícitos, falhando em captar a ironia ou a intenção crítica subjacente.",
       "is_correct": false,
-      "explanation": "Esta alternativa descreve uma falha de interpretação por excesso de literalidade (limitar-se à compreensão), o que é o oposto de extrapolar. ARROW-LEFT VOLTAR À QUESTÃO 13"
+      "explanation": "Esta alternativa descreve uma falha de interpretação por excesso de literalidade (limitar-se à compreensão), o que é o oposto de extrapolar."
     }
   ],
   "answer_key": "D",
@@ -807,7 +795,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Constituir o núcleo informativo principal, definindo sozinhos a intenção comuni- 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo cativa do autor.",
+      "text": "Constituir o núcleo informativo principal, definindo sozinhos a intenção comuni- cativa do autor.",
       "is_correct": false,
       "explanation": "O núcleo informativo principal é a ideia central (tese), e não os suportes utilizados para defendê-la."
     },
@@ -833,13 +821,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Promover a extrapolação dos limites textuais, permitindo que o leitor utilize conhecimentos externos à obra.",
       "is_correct": false,
-      "explanation": "A extrapolação é considerada um erro de interpretação, e não uma função legítima dos elementos de suporte textual. ARROW-LEFT VOLTAR À QUESTÃO 14"
+      "explanation": "A extrapolação é considerada um erro de interpretação, e não uma função legítima dos elementos de suporte textual."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo Em textos dissertativos, a ideia central (tese) é o eixo principal, enquanto dados, citações e exemplos são recursos argumentativos (estratégias de suporte) que visam dar autoridade e sustentação ao que é defendido pelo autor.",
-    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo Em textos dissertativos, a ideia central (tese) é o eixo principal, enquanto dados, citações e exemplos são recursos argumentativos (estratégias de suporte) que visam dar autoridade e sustentação ao que é defendido pelo autor."
+    "resolution": "Em textos dissertativos, a ideia central (tese) é o eixo principal, enquanto dados, citações e exemplos são recursos argumentativos (estratégias de suporte) que visam dar autoridade e sustentação ao que é defendido pelo autor.",
+    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: Em textos dissertativos, a ideia central (tese) é o eixo principal, enquanto dados, citações e exemplos são recursos argumentativos (estratégias de suporte) que visam dar autoridade e sustentação ao que é defendido pelo autor."
   }
 }
 ```
@@ -889,9 +877,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Conectivo conclusivo. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Conectivo conclusivo.",
       "is_correct": false,
-      "explanation": "’Infelizmente’ é um advérbio com função modalizadora, não um conectivo que estabelece relação lógica de conclusão. ARROW-LEFT VOLTAR À QUESTÃO 15"
+      "explanation": "’Infelizmente’ é um advérbio com função modalizadora, não um conectivo que estabelece relação lógica de conclusão."
     }
   ],
   "answer_key": "C",
@@ -943,13 +931,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "O tema refere-se ao objetivo final do autor, enquanto a intenção refere-se ao assunto abordado.",
       "is_correct": false,
-      "explanation": "A alternativa inverteu os conceitos de tema e intenção. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "A alternativa inverteu os conceitos de tema e intenção."
     },
     {
       "id": "E",
       "text": "Em textos técnicos, o tema e a intenção são sempre idênticos, não havendo distinção analítica entre eles.",
       "is_correct": false,
-      "explanation": "Mesmo em textos técnicos, há distinção entre o assunto tratado e a finalidade (explicar um conceito vs. defender uma nova metodologia). ARROW-LEFT VOLTAR À QUESTÃO 16"
+      "explanation": "Mesmo em textos técnicos, há distinção entre o assunto tratado e a finalidade (explicar um conceito vs. defender uma nova metodologia)."
     }
   ],
   "answer_key": "B",
@@ -993,7 +981,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "A predominância da função emotiva, focada exclusivamente nos sentimentos do autor. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "A predominância da função emotiva, focada exclusivamente nos sentimentos do autor.",
       "is_correct": false,
       "explanation": "Embora haja subjetividade, o objetivo de usar ’ajuste necessário’ costuma ser convencer o interlocutor (persuasiva) e não apenas expressar emoções."
     },
@@ -1007,7 +995,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A utilização de marcas linguísticas para suavizar ou direcionar a interpretação do leitor, revelando a intencionalidade persuasiva.",
       "is_correct": true,
-      "explanation": "A seleção entre termos com conotações diferentes é um ’rastro’ da intenção do autor, conforme descrito no material. ARROW-LEFT VOLTAR À QUESTÃO 17 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "A seleção entre termos com conotações diferentes é um ’rastro’ da intenção do autor, conforme descrito no material."
     }
   ],
   "answer_key": "E",
@@ -1063,9 +1051,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Emotiva. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Emotiva.",
       "is_correct": true,
-      "explanation": "O objetivo de expressar opiniões pessoais e sentimentos é a marca central da função emotiva. ARROW-LEFT VOLTAR À QUESTÃO 18"
+      "explanation": "O objetivo de expressar opiniões pessoais e sentimentos é a marca central da função emotiva."
     }
   ],
   "answer_key": "E",
@@ -1123,13 +1111,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Fática.",
       "is_correct": false,
-      "explanation": "A frase não visa testar o canal, mas sim definir um conceito. ARROW-LEFT VOLTAR À QUESTÃO 19"
+      "explanation": "A frase não visa testar o canal, mas sim definir um conceito."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A função metalinguística ocorre quando a linguagem explica a própria linguagem ou define termos dentro de um código, garantindo a clareza da comunicação. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
-    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: A função metalinguística ocorre quando a linguagem explica a própria linguagem ou define termos dentro de um código, garantindo a clareza da comunicação. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+    "resolution": "A função metalinguística ocorre quando a linguagem explica a própria linguagem ou define termos dentro de um código, garantindo a clareza da comunicação.",
+    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: A função metalinguística ocorre quando a linguagem explica a própria linguagem ou define termos dentro de um código, garantindo a clareza da comunicação."
   }
 }
 ```
@@ -1169,11 +1157,11 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Persuadir o cidadão a ingressar na carreira administrativa por meio de argumentos emocionais.",
       "is_correct": false,
-      "explanation": "O edital é um texto técnico e prescritivo, não utiliza persuasão emocional. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "O edital é um texto técnico e prescritivo, não utiliza persuasão emocional."
     },
     {
       "id": "D",
-      "text": "Criticar a burocracia estatal através de uma linguagem irônica e subjetiva. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Criticar a burocracia estatal através de uma linguagem irônica e subjetiva.",
       "is_correct": false,
       "explanation": "O edital possui linguagem formal e objetiva, sem espaço para ironia ou críticas subjetivas."
     },
@@ -1181,7 +1169,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Promover o entretenimento dos candidatos através de desafios lógicos.",
       "is_correct": false,
-      "explanation": "Embora contenha lógica, o objetivo não é o entretenimento, mas a seleção técnica de pessoal. ARROW-LEFT VOLTAR À QUESTÃO 20"
+      "explanation": "Embora contenha lógica, o objetivo não é o entretenimento, mas a seleção técnica de pessoal."
     }
   ],
   "answer_key": "B",
@@ -1227,7 +1215,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "O propósito comunicativo, ao manifestar a intenção de subsidiar uma decisão administrativa, realiza o ato ilocucionário, enquanto a função social do gênero assegura a transparência e a legalidade no domínio público.",
       "is_correct": true,
-      "explanation": "Integra perfeitamente a intenção do autor (propósito/ato ilocucionário) com a utilidade coletiva do texto (função social) dentro de um contexto institucional. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "Integra perfeitamente a intenção do autor (propósito/ato ilocucionário) com a utilidade coletiva do texto (função social) dentro de um contexto institucional."
     },
     {
       "id": "D",
@@ -1237,9 +1225,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O relatório técnico, por ser um texto de natureza predominantemente informativa, carece de força ilocucionária, limitando-se ao ato locucionário de descrever fatos sem a pretensão de agir no mundo social. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo 1.1.3 Questões Difíceis",
+      "text": "O relatório técnico, por ser um texto de natureza predominantemente informativa, carece de força ilocucionária, limitando-se ao ato locucionário de descrever fatos sem a pretensão de agir no mundo social. 1.1.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "Segundo a teoria mencionada, todo texto é uma forma de agir no mundo e possui força ilocucionária. Mesmo textos informativos possuem a intenção de fazer o outro saber algo, o que já configura uma ação social. ARROW-LEFT VOLTAR À QUESTÃO 21"
+      "explanation": "Segundo a teoria mencionada, todo texto é uma forma de agir no mundo e possui força ilocucionária. Mesmo textos informativos possuem a intenção de fazer o outro saber algo, o que já configura uma ação social."
     }
   ],
   "answer_key": "C",
@@ -1297,7 +1285,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Apenas nas conjunções adversativas, que são os únicos elementos capazes de indicar ironia em um texto.",
       "is_correct": false,
-      "explanation": "A ironia pode ser expressa por diversos recursos (adjetivação, tom, contexto), não se limitando a conectivos específicos. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo ARROW-LEFT VOLTAR À QUESTÃO 22"
+      "explanation": "A ironia pode ser expressa por diversos recursos (adjetivação, tom, contexto), não se limitando a conectivos específicos."
     }
   ],
   "answer_key": "B",
@@ -1325,7 +1313,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Ao analisar um texto técnico produzido pela Administração Pública, um candidato percebe que o autor utiliza uma linguagem predominantemente denotativa, objetiva e focada na transmissão de normas. Nesse caso, é correto afirmar que a função da linguagem e a intenção comunicativa são, respectivamente: 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+  "question_text": "Ao analisar um texto técnico produzido pela Administração Pública, um candidato percebe que o autor utiliza uma linguagem predominantemente denotativa, objetiva e focada na transmissão de normas. Nesse caso, é correto afirmar que a função da linguagem e a intenção comunicativa são, respectivamente:",
   "alternatives": [
     {
       "id": "A",
@@ -1355,7 +1343,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Função Metalinguística e intenção de explicar o significado de termos arcaicos.",
       "is_correct": false,
-      "explanation": "A função metalinguística ocorre quando o código explica o próprio código, o que não é a característica predominante descrita no enunciado. ARROW-LEFT VOLTAR À QUESTÃO 23 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "A função metalinguística ocorre quando o código explica o próprio código, o que não é a característica predominante descrita no enunciado."
     }
   ],
   "answer_key": "B",
@@ -1411,9 +1399,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A interpretação deve ater-se exclusivamente à denotação das palavras, ignorando o tom crítico do autor. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "A interpretação deve ater-se exclusivamente à denotação das palavras, ignorando o tom crítico do autor.",
       "is_correct": false,
-      "explanation": "Ignorar o tom crítico e a conotação levaria ao erro de interpretação, pois a pragmática exige considerar o contexto e a intenção do autor. ARROW-LEFT VOLTAR À QUESTÃO 24"
+      "explanation": "Ignorar o tom crítico e a conotação levaria ao erro de interpretação, pois a pragmática exige considerar o contexto e a intenção do autor."
     }
   ],
   "answer_key": "C",
@@ -1471,13 +1459,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O ato locucionário de apenas emitir sons ou grafias sem qualquer finalidade pretendida.",
       "is_correct": false,
-      "explanation": "O ato locucionário é apenas a superfície textual; a questão pede o ato ilocucionário (a intenção). ARROW-LEFT VOLTAR À QUESTÃO 25"
+      "explanation": "O ato locucionário é apenas a superfície textual; a questão pede o ato ilocucionário (a intenção)."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo O ato ilocucionário refere-se ao que se faz ao dizer algo. Ao dizer que algo é ’inadmissível’, o autor está realizando o ato de criticar ou protestar.",
-    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo O ato ilocucionário refere-se ao que se faz ao dizer algo. Ao dizer que algo é ’inadmissível’, o autor está realizando o ato de criticar ou protestar."
+    "resolution": "O ato ilocucionário refere-se ao que se faz ao dizer algo. Ao dizer que algo é ’inadmissível’, o autor está realizando o ato de criticar ou protestar.",
+    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: O ato ilocucionário refere-se ao que se faz ao dizer algo. Ao dizer que algo é ’inadmissível’, o autor está realizando o ato de criticar ou protestar."
   }
 }
 ```
@@ -1499,13 +1487,13 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise a seguinte situação: Um manual de instruções de um software apresenta o passo a passo para a instalação, utilizando linguagem denotativa e verbos no infinitivo. No entanto, no último parágrafo, o autor escreve: ’Aproveite a melhor ferramenta do mercado e transforme sua produtividade!’. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo Sobre a intencionalidade discursiva desse texto, é correto afirmar que:",
+  "question_text": "Analise a seguinte situação: Um manual de instruções de um software apresenta o passo a passo para a instalação, utilizando linguagem denotativa e verbos no infinitivo. No entanto, no último parágrafo, o autor escreve: ’Aproveite a melhor ferramenta do mercado e transforme sua produtividade!’. Sobre a intencionalidade discursiva desse texto, é correto afirmar que:",
   "alternatives": [
     {
       "id": "A",
       "text": "A força ilocucionária do último parágrafo é meramente referencial, visando apenas informar sobre a produtividade.",
       "is_correct": false,
-      "explanation": "O uso de adjetivos como ’melhor’ e verbos de impacto como ’transforme’ caracteriza a função persuasiva/conativa, não a referencial. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "O uso de adjetivos como ’melhor’ e verbos de impacto como ’transforme’ caracteriza a função persuasiva/conativa, não a referencial."
     },
     {
       "id": "B",
@@ -1529,7 +1517,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Há uma hibridização de intenções, onde a base prescritiva coexiste com uma intenção persuasiva final.",
       "is_correct": true,
-      "explanation": "O texto apresenta características de dois eixos: o instrucional (no corpo do manual) e o persuasivo (no fechamento publicitário). ARROW-LEFT VOLTAR À QUESTÃO 26"
+      "explanation": "O texto apresenta características de dois eixos: o instrucional (no corpo do manual) e o persuasivo (no fechamento publicitário)."
     }
   ],
   "answer_key": "E",
@@ -1579,15 +1567,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Testar o funcionamento do canal de comunicação (função fática). 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Testar o funcionamento do canal de comunicação (função fática).",
       "is_correct": false,
-      "explanation": "A função fática visa apenas manter o canal aberto (ex: ’Alô?’, ’Entende?’), o que não é o caso central aqui. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "A função fática visa apenas manter o canal aberto (ex: ’Alô?’, ’Entende?’), o que não é o caso central aqui."
     },
     {
       "id": "E",
       "text": "Questionar a capacidade física ou possibilidade do interlocutor de realizar o movi- mento.",
       "is_correct": false,
-      "explanation": "Embora a forma gramatical seja uma pergunta sobre possibilidade (’poderia’), a intenção comunicativa não é obter essa informação. ARROW-LEFT VOLTAR À QUESTÃO 27"
+      "explanation": "Embora a forma gramatical seja uma pergunta sobre possibilidade (’poderia’), a intenção comunicativa não é obter essa informação."
     }
   ],
   "answer_key": "C",
@@ -1643,9 +1631,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Potencializar a expressão de uma opinião ou crítica, servindo a uma intencionali- dade subjetiva ou provocadora. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Potencializar a expressão de uma opinião ou crítica, servindo a uma intencionali- dade subjetiva ou provocadora.",
       "is_correct": true,
-      "explanation": "A função poética atua como suporte para a intencionalidade discursiva de criticar ou sensibilizar. ARROW-LEFT VOLTAR À QUESTÃO 28 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "A função poética atua como suporte para a intencionalidade discursiva de criticar ou sensibilizar."
     }
   ],
   "answer_key": "E",
@@ -1703,7 +1691,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Objetivo: Informar / Função: Referencial / Marca: Verbos no modo imperativo.",
       "is_correct": false,
-      "explanation": "O objetivo de informar (referencial) utiliza preferencialmente o modo indicativo, não o imperativo. ARROW-LEFT VOLTAR À QUESTÃO 29"
+      "explanation": "O objetivo de informar (referencial) utiliza preferencialmente o modo indicativo, não o imperativo."
     }
   ],
   "answer_key": "C",
@@ -1747,7 +1735,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "A função referencial é a que mais se aproxima da neutralidade, sendo ideal para textos de caráter científico e técnico. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "A função referencial é a que mais se aproxima da neutralidade, sendo ideal para textos de caráter científico e técnico.",
       "is_correct": false,
       "explanation": "Esta afirmação está certa, pois a objetividade é o cerne da função referencial, portanto não é o gabarito."
     },
@@ -1761,13 +1749,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A escolha de uma determinada função da linguagem pelo emissor é um ato estraté- gico condicionado pelo que se deseja alcançar com o texto.",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa, pois a função é o instrumento da intencionalidade discursiva, portanto não é o gabarito. ARROW-LEFT VOLTAR À QUESTÃO 30"
+      "explanation": "Esta afirmação está certa, pois a função é o instrumento da intencionalidade discursiva, portanto não é o gabarito."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A a afirmação apresentada está incorreta porque a função poética pode ocorrer em qualquer gênero textual, inclusive na prosa e na publicidade, sempre que houver preocupação com a estética da mensagem. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
-    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: A a afirmação apresentada está incorreta porque a função poética pode ocorrer em qualquer gênero textual, inclusive na prosa e na publicidade, sempre que houver preocupação com a estética da mensagem. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+    "resolution": "A a afirmação apresentada está incorreta porque a função poética pode ocorrer em qualquer gênero textual, inclusive na prosa e na publicidade, sempre que houver preocupação com a estética da mensagem.",
+    "theoretical_content": "A leitura eficaz começa pela distinção entre tema, ideia central e propósito comunicativo. O tema indica o assunto geral; a ideia central expressa o que o texto afirma sobre esse assunto; e o propósito revela para que o texto foi produzido e que efeito pretende alcançar. A identificação exige observar o conjunto, não uma frase isolada.\n\nNa compreensão, o candidato recupera informações expressas diretamente. Na interpretação, realiza inferências autorizadas por pistas linguísticas e pelo encadeamento das ideias. Inferir não significa inventar: a conclusão precisa ser sustentada pelo texto. Expressões como “depreende-se”, “infere-se” e “conclui-se” geralmente exigem essa operação.\n\nO tópico frasal apresenta ou sintetiza a ideia que será desenvolvida no parágrafo. Pode aparecer no início, no meio ou no fim, embora a posição inicial seja frequente. Exemplos, dados, explicações e argumentos desenvolvem ou comprovam esse núcleo. Em textos irônicos, deve-se considerar o contexto e a distância entre o sentido literal e a crítica implícita.\n\nPara resolver questões, identifique primeiro o assunto, depois formule em uma frase o que o autor afirma sobre ele e, por fim, pergunte qual finalidade comunicativa orienta a escolha do gênero e da linguagem. Evite confundir inferência com extrapolação: a primeira decorre de indícios; a segunda acrescenta informação não autorizada.\n\nAplicação ao problema apresentado: A a afirmação apresentada está incorreta porque a função poética pode ocorrer em qualquer gênero textual, inclusive na prosa e na publicidade, sempre que houver preocupação com a estética da mensagem."
   }
 }
 ```
@@ -1801,7 +1789,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Ato Locucionário, que diz respeito apenas à correção gramatical da frase.",
       "is_correct": false,
-      "explanation": "O ato locucionário é o ato físico de produzir a fala/escrita com sentido, não se limitando à gramática, mas não é onde reside a ’força’ da intenção. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo"
+      "explanation": "O ato locucionário é o ato físico de produzir a fala/escrita com sentido, não se limitando à gramática, mas não é onde reside a ’força’ da intenção."
     },
     {
       "id": "C",
@@ -1817,9 +1805,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Ato de Decodificação, que se limita a traduzir símbolos em sons. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+      "text": "Ato de Decodificação, que se limita a traduzir símbolos em sons.",
       "is_correct": false,
-      "explanation": "A decodificação é um processo cognitivo de leitura, não um ’ato de fala’ na teoria pragmática. ARROW-LEFT VOLTAR À QUESTÃO 31"
+      "explanation": "A decodificação é um processo cognitivo de leitura, não um ’ato de fala’ na teoria pragmática."
     }
   ],
   "answer_key": "C",
@@ -1877,7 +1865,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Tanto o propósito quanto a função social confundem-se no ato de relatar fatos objetivos e neutros sobre a administração.",
       "is_correct": false,
-      "explanation": "Artigos de opinião são inerentemente subjetivos e parciais, não neutros. 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo ARROW-LEFT VOLTAR À QUESTÃO 32"
+      "explanation": "Artigos de opinião são inerentemente subjetivos e parciais, não neutros."
     }
   ],
   "answer_key": "C",
@@ -1905,7 +1893,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Segundo a perspectiva de Luiz Antônio Marcuschi, o texto é uma forma de ação social inserida em domínios discursivos específicos. Ao analisar a produção de um documento oficial, como um relatório de fiscalização, deve-se distinguir a intenção do autor da eficácia da mensagem no receptor. Sob a ótica da Pragmática e da Teoria dos Atos de Fala, a ’força’ intrínseca do texto — ou seja, o que o autor realiza ao produzir o enunciado (como advertir, sugerir ou relatar) — é tecnicamente denominada: 1. Língua Portuguesa 1.1. Organização do Texto: Propósito Comunicativo",
+  "question_text": "Segundo a perspectiva de Luiz Antônio Marcuschi, o texto é uma forma de ação social inserida em domínios discursivos específicos. Ao analisar a produção de um documento oficial, como um relatório de fiscalização, deve-se distinguir a intenção do autor da eficácia da mensagem no receptor. Sob a ótica da Pragmática e da Teoria dos Atos de Fala, a ’força’ intrínseca do texto — ou seja, o que o autor realiza ao produzir o enunciado (como advertir, sugerir ou relatar) — é tecnicamente denominada:",
   "alternatives": [
     {
       "id": "A",
@@ -1933,9 +1921,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Domínio discursivo, que define as propriedades linguísticas fixas e a função social imutável do gênero relatório. 1.1.4 Gabaritos e Comentários 1",
+      "text": "Domínio discursivo, que define as propriedades linguísticas fixas e a função social imutável do gênero relatório.",
       "is_correct": false,
-      "explanation": "O domínio discursivo é a esfera de atividade humana (ex: domínio jurídico, administrativo) em que o texto circula, e não o ato específico de intenção contido em um enunciado. ARROW-LEFT VOLTAR À QUESTÃO 33 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 1.2 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EXPLICATIVO E ARGUMENTATIVO) 1.2.1 Questões Fáceis 34 Questão 34 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL A sequência textual dialogal possui marcas linguísticas e gráficas específicas que permitem ao leitor identificar a alternância de vozes. Dentre os recursos abaixo, qual é tipicamente utilizado para introduzir ou explicar a atitude e a entonação do falante em um diálogo? A Pronomes indefinidos de valor coletivo. B Advérbios de modo em posição inicial. C Adjetivos de natureza subjetiva. D Verbos de elocução ou dicendi. E Conjunções subordinativas integrantes. 35 Questão 35 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL No que diz respeito à organização visual e pontuação dos textos dialogais, assinale a alternativa que apresenta o sinal gráfico comumente utilizado para indicar a mudança de interlocutor. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … A Travessão. B Asterisco. C Parênteses. D Ponto e vírgula. E Reticências. 36 Questão 36 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL No que se refere à estruturação de diálogos em textos narrativos, os verbos de elocução, também conhecidos como verbos ’dicendi’, desempenham um papel fundamental. Assinale a alternativa que apresenta apenas verbos que, por sua natureza semântica, são classificados como neutros. A Indagar, questionar e perguntar. B Retrucar, objetar e contestar. C Rosnar, balbuciar e implorar. D Dizer, afirmar e declarar. E Gritar, sussurrar e exclamar. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 37 Questão 37 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL Sobre o uso dos sinais de pontuação na sinalização do discurso direto, assinale a esta afirmação quanto à função do travessão (—). A É utilizado para introduzir uma citação curta no meio de um parágrafo, sem mudar de linha. B Indica obrigatoriamente que a fala do personagem possui uma carga emocional de hesitação. C Substitui os dois-pontos na função de anunciar que uma fala será proferida em seguida. D Marca a alternância de turnos entre os interlocutores e pode isolar a voz do narrador. E Serve exclusivamente para indicar a omissão de um verbo de elocução. 38 Questão 38 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL No âmbito da análise textual e da pragmática, o conceito de ’turno de fala’ é fundamental para a compreensão da dinâmica dialogal. Assinale a alternativa que define corretamente esse conceito. A Compreende o tempo de posse da palavra por um participante, desde o início de sua emissão até o momento em que outro interlocutor assume a palavra. B Refere-se exclusivamente ao uso de travessões ou aspas para indicar a fala de personagens em textos narrativos. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … C É o intervalo de silêncio que ocorre obrigatoriamente entre a pergunta de um emissor e a resposta de um receptor. D Representa o conjunto de todas as falas de um mesmo personagem ao longo de uma obra literária. E É a unidade gramatical composta por uma oração completa proferida por um locutor. 39 Questão 39 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL A coesão dialogal frequentemente se estrutura por meio de ’pares adjacentes’. Assinale a alternativa que apresenta um exemplo típico dessa estrutura de alternância de turnos. A Uma sequência de saudação seguida de outra saudação, como ’Bom dia!’ — ’Bom dia!’. B Um monólogo teatral em que o personagem expressa seus sentimentos internos. C A repetição de uma mesma palavra ao longo de vários parágrafos para dar ênfase a um tema. D O uso de notas de rodapé para explicar termos técnicos em um artigo científico. E A descrição detalhada de um cenário feita pelo narrador antes do início de um diálogo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 40 Questão 40 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL De acordo com a tipologia textual, a sequência que tem como objetivo principal orientar o comportamento do interlocutor, utilizando predominantemente verbos no modo imperativo ou no infinitivo com valor de ordem, é classificada como: A Descritiva B Argumentativa C Expositiva D Narrativa E Injuntiva 41 Questão 41 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL No estudo das sequências tipológicas, a distinção entre narração e descrição é fundamental. Assinale a alternativa que apresenta a característica correta da sequência descritiva. A Uso constante de conectores lógicos para a defesa de uma tese central. B Ênfase na transformação de estados com início, meio e fim definidos. C Foco em atributos e estados em um recorte de simultaneidade espacial. D Presença de progressão temporal dinâmica, assemelhando-se a um filme. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … E Predominância de verbos de ação no pretérito perfeito do indicativo. 42 Questão 42 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL Ao elaborar um manual de conduta ética para orientar o comportamento dos agentes públicos, a Administração utiliza um tipo de texto que visa a instruir o interlocutor sobre procedimentos e normas. De acordo com a classificação das sequências tipológicas, esse texto é predominantemente: A Argumentativo, uma vez que busca convencer o leitor por meio de dados estatísticos e provas lógicas. B Expositivo, porque apenas apresenta conceitos teóricos sobre a ética sem orientar ações. C Injuntivo, pois utiliza marcas linguísticas como verbos no imperativo ou infinitivo para prescrever comportamentos. D Narrativo, pois relata fatos ocorridos no cotidiano da instituição. E Descritivo, visto que detalha as características físicas do ambiente de trabalho. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 43 Questão 43 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL Um manual de instruções que detalha os procedimentos para a instalação de um software, utilizando predominantemente verbos no modo imperativo, como ’clique’, ’insira’ e ’aguarde’, classifica-se tipologicamente como um texto: A Narrativo. B Dissertativo-argumentativo. C Descritivo. D Injuntivo. E Expositivo. 44 Questão 44 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL Um documento oficial que estabelece as normas de conduta para os cidadãos em uma repartição pública, utilizando construções como ”mantenha o silêncio”, ”apresente o documento de identificação”e ”não fume neste local”, apresenta uma tipologia predominantemente: A Descritiva, visto que detalha as características físicas do ambiente público. B Expositiva, pois apenas apresenta dados estatísticos sobre o atendimento ao público. C Dissertativa-argumentativa, porque busca convencer o cidadão por meio de teses lógicas. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … D Injuntiva, uma vez que o objetivo é instruir e prescrever comportamentos ao interlocutor. E Narrativa, pois relata fatos ocorridos no cotidiano da repartição. 45 Questão 45 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL Leia o texto para responder à questão. Há quem acredite que a segurança de uma praça depende apenas de câmeras e viaturas. A experiência de muitos bairros, porém, mostra outra coisa: espaços iluminados, bancos ocupados e comércio aberto até mais tarde afastam a sensação de abandono que favorece o crime. Por isso, investir na ocupação dos espaços públicos não é luxo, mas parte de qualquer política séria de prevenção. Quanto à tipologia, o texto é predominantemente A narrativo, pois relata acontecimentos vividos por personagens em sequência temporal. B descritivo, pois se limita a caracterizar o aspecto físico de uma praça específica. C dialogal, pois reproduz a conversa entre moradores e autoridades. D injuntivo, pois orienta o leitor, passo a passo, sobre como agir em uma praça. E dissertativo-argumentativo, pois defende um ponto de vista apoiado em argumentos. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 46 Questão 46 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL No que se refere às modalidades de reprodução da fala alheia em textos narrativos, o discurso direto caracteriza-se primordialmente por: A Utilizar obrigatoriamente o tempo verbal no pretérito mais-que-perfeito para indicar a anterioridade da fala. B Apresentar a fala do personagem de forma mediada, utilizando a conjunção integrante ’que’. C Reproduzir fielmente a fala do personagem, geralmente acompanhada de verbos de elocução e sinais de pontuação como travessão ou aspas. D Fundir a voz do narrador com o pensamento do personagem, sem marcas de pontuação específicas. E Substituir os pronomes de primeira pessoa pelos de terceira pessoa para manter o distanciamento narrativo. 47 Questão 47 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL Ao realizar a transposição do discurso direto para o indireto, a oração que contém a fala do personagem passa a exercer, sintaticamente, a função de: A Oração subordinada adverbial consecutiva. B Oração subordinada substantiva objetiva direta. C Oração subordinada adjetiva restritiva. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … D Oração coordenada sindética explicativa. E Oração coordenada assindética. 48 Questão 48 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL Ao analisar a tipologia de um texto em um concurso público, o candidato depara-se com a afirmação de que a classificação deve considerar a ’predominância’. De acordo com os conceitos de modos discursivos, a predominância de um texto é definida: A Pelo gênero textual em que o texto está inserido, independentemente do conteúdo. B Pela primeira frase do texto, que obrigatoriamente define o seu tipo principal. C Pela presença exclusiva de um único modo discursivo do início ao fim do texto. D Pela contagem exata do número de adjetivos em relação ao número de verbos. E Pelo objetivo comunicativo principal do autor ao produzir a peça textual. 49 Questão 49 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○FÁCIL Considere o seguinte fragmento: ’Para configurar o acesso, insira o código de segurança, pressione a tecla confirmar e aguarde a sinalização luminosa’. Esse trecho caracteriza-se 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … como predominantemente: A Injuntivo, pois apresenta instruções e ordens voltadas para o interlocutor. B Narrativo, pois apresenta uma sucessão de fatos ocorridos no passado. C Descritivo, pois detalha as características físicas de um aparelho eletrônico. D Narrativo, pois foca na mudança de estado de um personagem fictício. E Dissertativo, pois defende um ponto de vista sobre o uso de tecnologias. 1.2.2 Questões de Nível Médio 50 Questão 50 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO A sequência dialogal exige a presença de interlocutores e a alternância de turnos. Sobre a distinção entre diálogo e monólogo, assinale a afirmação correta. A O diálogo literário dispensa o uso de verbos de elocução, ao contrário da entrevista jornalística. B O monólogo interior é considerado uma sequência dialogal plena, pois o ’eu’ divide-se em dois. C Todo texto em primeira pessoa é classificado como dialogal, independentemente da presença de um receptor. D A ausência de vocativos em um texto impede, obrigatoriamente, a sua classificação como sequência dialogal. E A sequência dialogal pressupõe a bilateralidade, exigindo a projeção de um interlocutor que possa responder. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 51 Questão 51 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Em questões de interpretação de textos que simulam a oralidade, é comum encontrar marcas como ’né?’, ’sabe?’ e ’então...’. Do ponto de vista das funções da linguagem e da tipologia dialogal, esses elementos visam: A Priorizar a função referencial, focando na objetividade da informação. B Demonstrar a função poética, preocupando-se com a estética da mensagem. C Enfatizar a função metalinguística, explicando o código utilizado. D Anular a polifonia textual, centrando o discurso em um único ponto de vista. E Estabelecer a função fática, testando ou mantendo o canal de comunicação. 52 Questão 52 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Considere a seguinte frase: ’— João, você trouxe os documentos que pedi ontem?’. Assinale a alternativa que identifica corretamente os elementos da sequência dialogal presentes no trecho. A Predomínio de verbos no futuro do pretérito e ausência de interlocutor. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … B Uso de aspas para citação indireta e foco narrativo em 3ª pessoa. C Presença de vocativo e uso de pronome de tratamento/2ª pessoa. D Uso de travessão para indicar narração e pronome de 3ª pessoa. E Emprego de marcadores de tempo para caracterizar uma sequência descritiva. 53 Questão 53 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Considere o seguinte trecho: ’— Não aceito esta decisão! — retrucou o advogado, visivelmente alterado.’ Sobre a organização desse fragmento, analise as afirmações abaixo e assinale a correta: A O termo ’visivelmente alterado’ exerce a função de verbo de elocução implícito na oração. B O verbo de elocução utilizado é classificado como de réplica, indicando uma oposição ao que foi dito anteriormente. C O verbo ’retrucou’ é um verbo de elocução propositivo, pois introduz a fala do personagem. D O uso do travessão após a exclamação é facultativo, podendo ser substituído por uma vírgula sem prejuízo gramatical. E A substituição do travessão por aspas manteria o mesmo dinamismo e estilo teatral do texto original. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 54 Questão 54 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Em questões de concursos, a pontuação de verbos de elocução intercalados é um tema recorrente. Assinale a alternativa em que a pontuação está inteiramente correta, seguindo as normas cultas de transcrição do diálogo. A — Eu pretendo: disse o diretor: terminar o relatório ainda hoje. B — Eu pretendo (disse o diretor) terminar o relatório ainda hoje. C — Eu pretendo — disse o diretor — terminar o relatório ainda hoje. D — Eu pretendo — disse o diretor, terminar o relatório ainda hoje. E — Eu pretendo, disse o diretor, terminar o relatório ainda hoje. 55 Questão 55 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Analise o diálogo abaixo: — Café? — Aceito. Nesse contexto, é correto afirmar que: A Ocorre o fenômeno da elipse do verbo de elocução, cabendo ao leitor inferir verbos como ’perguntou’ e ’respondeu’. B A ausência de verbos dicendi torna a sequência incompreensível quanto à tipologia textual. C As reticências deveriam ter sido utilizadas para indicar que as falas são curtas. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … D O texto apresenta erro de pontuação por não conter verbos de elocução explícitos. E O uso do travessão é inadequado, pois não há mudança de parágrafo entre as falas. 56 Questão 56 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Considere o seguinte trecho de uma crônica contemporânea: ’Você já parou para pensar, caro leitor, como o tempo voa quando estamos distraídos?’. Sobre a estrutura de interlocução presente nesse trecho, é correto afirmar que: A O texto é classificado como um par adjacente do tipo pergunta/resposta, independentemente da resposta do leitor. B O trecho configura uma alternância de turnos real entre o autor e o público leitor. C A presença do vocativo ’caro leitor’ e do pronome ’você’ caracteriza uma estratégia dialógica, mas não uma alternância de turnos efetiva. D Ocorre uma quebra da máxima de qualidade, pois o autor sabe que o leitor não pode responder fisicamente ao texto. E Trata-se de uma tipologia dialogal pura, pois há uma pergunta que exige resposta imediata. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 57 Questão 57 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Os mecanismos de passagem de turno garantem a organização da conversa. Quando um locutor diz: ’Essa é a minha opinião sobre o projeto. E você, Márcia, o que pensa a respeito?’, ocorre um processo de: A Sobreposição de turnos, uma vez que dois interlocutores são citados na mesma frase. B Autosseleção, pois Márcia deve tomar a palavra por iniciativa própria. C Quebra da máxima de modo, devido à ambiguidade na escolha do próximo interlocutor. D Vácuo conversacional, pois o falante encerrou sua ideia sem garantir que haveria resposta. E Seleção do próximo falante pelo falante atual, utilizando um vocativo e uma solicitação direta. 58 Questão 58 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Considere o seguinte fragmento: ’A fotossíntese é o processo pelo qual plantas, algas e algumas bactérias utilizam a luz solar para converter água e dióxido de carbono em glicose e oxigênio. Nas plantas e algas, esse fenômeno ocorre nos cloroplastos; ele é essencial para a vida na Terra.’ Quanto à sequência tipológica dominante, o texto é classificado como: A Injuntivo, pois ensina o passo a passo de como realizar a fotossíntese. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … B Expositivo, pois apresenta uma definição e explica um conceito de forma objetiva. C Descritivo, pois foca exclusivamente nos adjetivos que qualificam as plantas. D Narrativo, pois relata a história da evolução das plantas. E Argumentativo, pois tenta convencer o leitor sobre a importância da luz solar. 59 Questão 59 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Segundo a perspectiva de Luiz Antônio Marcuschi, a relação entre gêneros textuais e sequências tipológicas pode ser definida da seguinte forma: A Os gêneros são formas sociais, e as sequências são os arranjos linguísticos básicos que os compõem. B Gêneros e sequências são sinônimos e podem ser usados indistintamente. C Um gênero textual é sempre composto por uma única sequência tipológica pura. D As sequências são as formas sociais dos textos, enquanto os gêneros são estruturas linguísticas. E A sequência tipológica define o suporte do texto, como jornal, livro ou revista. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 60 Questão 60 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Considere o seguinte fragmento de texto: ’As janelas da velha casa permaneciam fechadas, enquanto o vento soprava constante entre as frestas, produzindo um som lúgubre que ecoava por todo o corredor vazio.’ Sob a ótica das sequências tipológicas e das marcas gramaticais que as sustentam, o uso predominante do pretérito imperfeito do indicativo no trecho destacado cumpre a função de: A Estabelecer uma sequência argumentativa, utilizando os verbos de estado para fundamentar uma tese sobre a negligência habitacional. B Apresentar uma sequência injuntiva, pois o tempo verbal empregado busca orientar o comportamento do interlocutor diante do ambiente descrito. C Configurar uma sequência expositiva, visto que o objetivo primordial é informar o leitor sobre fenômenos acústicos em ambientes fechados. D Estruturar uma sequência narrativa, uma vez que os verbos indicam ações concluídas que fazem a história progredir no tempo. E Compor uma sequência descritiva, organizando elementos em um plano de simultaneidade para a construção de um cenário. 61 Questão 61 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Analise o fragmento textual a seguir para responder à questão: ”O sol estava a pino e o calor tornava o ar denso sobre a estrada de terra. O silêncio era interrompido apenas pelo zumbido dos insetos. De repente, o motorista freou 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … bruscamente, desceu do veículo e observou a fenda que se abrira no leito da estrada.” Considerando as marcas linguísticas e a organização das sequências tipológicas, assinale a esta afirmação: A A presença de advérbios de modo e de tempo, como ’subitamente’ (implícito em ’de repente’), é uma marca exclusiva da sequência argumentativa, visando persuadir o leitor sobre o perigo da estrada. B O fragmento é predominantemente descritivo do início ao fim, pois o uso do pretérito perfeito em ’freou’ e ’desceu’ serve apenas para caracterizar o estado psicológico do personagem. C De acordo com a tipologia de Marcuschi, o texto é classificado como injuntivo, pois a descrição detalhada do cenário funciona como uma instrução implícita para que o motorista tenha cautela. D A transição da sequência descritiva para a sequência narrativa ocorre com a introdução do pretérito perfeito, que marca a progressão temporal e a sucessão de eventos (o ’fazer’). E O uso do pretérito imperfeito em ’estava’ e ’tornava’ caracteriza uma sequência expositiva, visto que o autor busca explicar as causas climáticas da região de forma objetiva. 62 Questão 62 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Analise o seguinte fragmento extraído de um relatório técnico: ’A modernização dos sistemas de atendimento é fundamental para a redução das filas, sendo inadmissível que o cidadão aguarde por horas em serviços essenciais. Tal medida não apenas agiliza o processo, mas resgata a dignidade do usuário.’ 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … Considerando a distinção entre as sequências expositiva e argumentativa, a presença dos termos sublinhados classifica o trecho como predominantemente: A Expositivo, pois o autor limita-se a informar sobre a modernização dos sistemas. B Narrativo, uma vez que descreve a sucessão de eventos que levam à modernização. C Argumentativo, devido ao uso de adjetivos valorativos que expressam um juízo de valor e a defesa de um ponto de vista. D Injuntivo, dado que impõe uma ordem direta para que os sistemas sejam alterados imediatamente. E Descritivo, pois apresenta as características técnicas dos novos sistemas de atendimento. 63 Questão 63 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Considere um texto que apresenta dados estatísticos sobre a eficiência de um novo sistema de gestão pública, explicando seu funcionamento e as etapas de implementação, sem, contudo, emitir juízos de valor ou tentar persuadir o leitor sobre a superioridade do método. Nesse caso, quanto à tipologia, o texto é predominantemente: A Narrativo-descritivo. B Dissertativo-expositivo. C Dissertativo-argumentativo. D Injuntivo-prescritivo. E Descritivo-subjetivo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 64 Questão 64 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO A tipologia narrativa é estruturada sobre uma progressão temporal e a transformação de estados. Para que um fragmento textual seja classificado como narrativo, é essencial a presença de determinados elementos. Assinale a alternativa que apresenta corretamente o conjunto de elementos que compõem a estrutura narrativa: A Personagens, Espaço, Narrador, Tempo e Enredo. B Ponto de vista, Explicação, Nexo, Tese e Epílogo. C Personagens, Estaticidade, Notícia, Tempo e Exposição. D Proposição, Exemplo, Narração, Tópico e Elucidação. E Público, Espaço, Narrador, Tema e Estilo. 65 Questão 65 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Considere a elaboração de um relatório técnico por um agente público com o objetivo de registrar as condições físicas de um equipamento de infraestrutura. O texto detalha minuciosamente o estado das peças, utiliza termos técnicos para caracterizar a oxidação observada e emprega predominantemente verbos de estado, sem que haja uma sucessão cronológica de eventos ou a defesa de uma opinião pessoal. Com base nas tipologias 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … textuais, a estrutura predominante nesse documento e sua justificativa linguística são: A Injuntiva, uma vez que relatórios técnicos possuem a finalidade intrínseca de prescrever comportamentos e orientar a conduta da Administração. B Dissertativa-argumentativa, dado que a descrição minuciosa dos danos serve como estratégia retórica para convencer o leitor sobre a necessidade de novos investimentos. C Expositiva, pois a intenção de informar um dado técnico de forma objetiva anula a existência de marcas de outras sequências textuais no mesmo fragmento. D Narrativa, pois o relatório visa relatar ao superior hierárquico os fatos ocorridos durante a inspeção técnica, focando no desenrolar da ação. E Descritiva, visto que o texto foca na caracterização estática de um objeto, apresentando traços de simultaneidade e uso de adjetivação técnica. 66 Questão 66 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Ao analisar um artigo de opinião publicado em um portal de notícias, um candidato observa que o autor inicia o texto apresentando conceitos teóricos sobre o sistema tributário, utilizando linguagem denotativa e impessoal. Contudo, a partir do terceiro parágrafo, o autor passa a utilizar conectivos de oposição e adjetivos valorativos para sustentar que a carga tributária atual impede o crescimento econômico, concluindo com uma proposta de alteração legislativa. Considerando a teoria das tipologias textuais e a regra da predominância, esse texto deve ser classificado como: A Descritivo, visto que o autor detalha as características e o funcionamento do sistema tributário de forma minuciosa e estática. B Dissertativo-argumentativo, pois, embora contenha sequências expositivas, a in1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … tenção global do autor é a defesa de uma tese mediante o convencimento do leitor. C Narrativo, uma vez que a sucessão de parágrafos estabelece uma progressão temporal entre a teoria e a prática econômica. D Injuntivo, devido à presença de uma sugestão de reforma ao final do texto, o que caracteriza uma prescrição de comportamento ao Poder Legislativo. E Expositivo, pois a base técnica e conceitual apresentada no início define a natureza informativa e a objetividade do texto. 67 Questão 67 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Considere um relatório técnico elaborado por um servidor público que descreve o funcionamento de um novo sistema de protocolo digital. O texto explica as etapas do fluxo de documentos, os requisitos de acesso e as ferramentas disponíveis, mantendo uma linguagem denotativa, impessoal e sem emitir juízos de valor sobre a eficácia do sistema. De acordo com a tipologia textual, esse fragmento é classificado como: A Narrativo, porque descreve a trajetória de um documento dentro do sistema como se fosse uma história. B Injuntivo, pois o objetivo implícito é obrigar todos os servidores a utilizarem a nova ferramenta. C Descritivo subjetivo, pois foca nas impressões pessoais do servidor sobre a interface do software. D Dissertativo-argumentativo, pois o autor utiliza termos técnicos para validar sua autoridade sobre o tema. E Dissertativo-expositivo, visto que o foco é a transmissão de informações e a expli1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … cação de um conceito de forma objetiva. 68 Questão 68 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Leia o texto a seguir. Muita gente acredita que câmeras espalhadas pelas esquinas bastam para tornar uma cidade segura. É uma ideia confortável, porque transfere a responsabilidade para a tecnologia. As imagens, no entanto, só ajudam quando alguém as observa, interpreta e age a tempo. Sem pessoas preparadas e sem integração entre os serviços públicos, a câmera registra o problema, mas não o resolve. O autor do texto defende que A a integração entre os serviços públicos torna desnecessário o uso de câmeras. B a eficácia do monitoramento por câmeras depende de pessoas capacitadas e de integração entre os serviços públicos. C as câmeras são inúteis e deveriam ser retiradas das ruas. D a responsabilidade pela segurança urbana deve ser transferida aos cidadãos. E a tecnologia de monitoramento dispensa a atuação de profissionais preparados. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 69 Questão 69 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Considere a seguinte frase em discurso direto: ’Eu entregarei os relatórios amanhã nesta sala’, afirmou o secretário. Assinale a alternativa que apresenta a transposição correta para o discurso indireto. A O secretário afirmou que eu entregaria os relatórios amanhã naquela sala. B O secretário afirmou que entregará os relatórios amanhã nesta sala. C O secretário afirmou que entregasse os relatórios no dia seguinte naquela sala. D O secretário afirmou que entregaria os relatórios no dia seguinte naquela sala. E O secretário afirmou que entregara os relatórios no dia seguinte nesta sala. 70 Questão 70 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Sobre o discurso indireto livre, é correto afirmar que: A É marcado obrigatoriamente pelo uso de aspas para delimitar a subjetividade do personagem. B Ocorre quando o narrador interrompe o fluxo narrativo para explicar didaticamente as intenções do personagem. C Caracteriza-se pela ausência de verbos de elocução e conjunções, permitindo que a voz do personagem surja inserida na narração. D É uma estrutura típica de textos técnicos e científicos, visando à impessoalidade do relato. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … E Exige que os verbos sejam mantidos na primeira pessoa do singular para garantir a autenticidade do pensamento. 71 Questão 71 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Assinale a alternativa que apresenta a correlação verbal correta na passagem do discurso direto para o indireto, seguindo a norma culta. A Futuro do Pretérito -> Pretérito Perfeito do Indicativo. B Pretérito Perfeito do Indicativo -> Pretérito Mais-que-perfeito do Indicativo. C Pretérito Imperfeito do Indicativo -> Presente do Subjuntivo. D Presente do Indicativo -> Pretérito Perfeito do Indicativo. E Futuro do Presente -> Futuro do Subjuntivo. 72 Questão 72 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO A distinção entre os modos narrativo e descritivo é um tema recorrente em provas. Sobre a organização temporal desses modos, é correto afirmar que: 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … A A descrição foca na mudança de estado, apresentando um ’antes’ e um ’depois’. B A narração é marcada pelo estatismo, onde os elementos coexistem simultaneamente. C A narração pressupõe uma linha temporal dinâmica, com sucessão de eventos. D A descrição é caracterizada pela progressão cronológica dos fatos relatados. E Ambos os modos utilizam obrigatoriamente o pretérito perfeito para indicar ações. 73 Questão 73 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO Analise a frase a seguir: ’O vento soprava constante sobre as dunas, enquanto o sol se punha no horizonte avermelhado’. Do ponto de vista da tipologia textual, esse trecho é classificado como: A Descritivo, pois os verbos indicam estados ou ações habituais que compõem um cenário estático. B Narrativo, devido à presença de verbos de ação como ’soprar’ e ’pôr-se’. C Narrativo, pois há uma clara passagem de tempo entre o início e o fim da frase. D Injuntivo, pois descreve um cenário que deve ser imaginado pelo leitor. E Dissertativo, pois o autor expressa uma opinião subjetiva sobre a beleza da natureza. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 74 Questão 74 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○MÉDIO No estudo da produção textual, é fundamental diferenciar ’Tipo Textual’ de ’Gênero Textual’. Com base no conteúdo programático, assinale a esta afirmação: A Os tipos textuais referem-se à estrutura linguística (o ’como’), enquanto os gêneros são as formas sociais de uso (o ’onde’). B Um gênero textual, como a ’Notícia’, é composto obrigatoriamente por um único tipo textual. C O tipo textual refere-se ao suporte do texto (jornal, revista), e o gênero à sua estrutura. D A ’Receita de Bolo’ é um tipo textual, enquanto a ’Injunção’ é um gênero textual. E Os tipos textuais são infinitos, enquanto os gêneros textuais são limitados a cinco categorias. 1.2.3 Questões Difíceis 75 Questão 75 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL O conceito de ’Oralidade Fingida’ é fundamental para a análise de diálogos em textos escritos. Assinale a alternativa que descreve corretamente uma característica desse fenômeno em questões de concursos. A A eliminação total de gírias e regionalismos para garantir a norma culta no diálogo. B A substituição de verbos de elocução por descrições detalhadas do cenário onde ocorre a fala. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … C O uso de estruturas sintáticas complexas e períodos longos para simular a fala espontânea. D A presença de hesitações, interrupções e frases quebradas, muitas vezes marcadas por reticências. E A obrigatoriedade de o diálogo escrito ser uma transcrição ipsis litteris de uma conversa real. 76 Questão 76 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Ao comparar o diálogo no texto literário (drama/narrativa) com o diálogo na entrevista jornalística, observa-se que: A No texto literário, as vozes são criadas pelo autor; na entrevista, as vozes pertencem a indivíduos reais. B O foco da entrevista é a interação estética, enquanto o diálogo literário foca apenas na informação factual. C A estrutura de Pergunta (P) e Resposta (R) é exclusiva do texto literário dramático. D Ambos possuem a mesma finalidade: a caracterização psicológica profunda dos interlocutores. E A entrevista jornalística utiliza intensamente verbos de elocução, enquanto o teatro os dispensa totalmente. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 77 Questão 77 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Bancas como a Comperve costumam explorar a carga semântica dos verbos de elocução. Assinale a alternativa em que a substituição do verbo neutro por um expressivo altera significativamente a atitude do personagem, sem ferir a gramática. A Substituir ’disse o rapaz’ por ’falou o rapaz’ em um contexto de afirmação simples. B Substituir ’perguntou a senhora’ por ’indagou a senhora’ em um contexto de dúvida. C Substituir ’declarou o réu’ por ’rosnou o réu’ em um contexto de depoimento judicial. D Substituir ’afirmou o guia’ por ’asseverou o guia’ em um contexto de certeza. E Substituir ’respondeu o aluno’ por ’replicou o aluno’ em um contexto de contestação. 78 Questão 78 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL No trecho literário: ’— Não aguento mais esta espera! — desesperou-se a mãe, jogando as mãos ao alto.’, o termo ’desesperou-se’ funciona como: A Um vício de linguagem, pois verbos de sentimento não podem introduzir falas. B Um verbo de elocução (pseudo-dicendi), pois qualifica e introduz a atitude emocional da fala. C Um adjunto adverbial de modo deslocado para a posição de verbo principal. D Uma oração coordenada explicativa em relação ao travessão anterior. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … E Um verbo intransitivo puro, sem qualquer relação com a fala anterior. 79 Questão 79 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Com base no Princípio de Cooperação de Paul Grice, analise a seguinte interação em uma prova de seleção: Entrevistador: — Você tem experiência com sistemas de gestão integrada? Candidato: — Eu sou uma pessoa que aprende muito rápido e sou muito dedicado. Nesse cenário, sob o ponto de vista da pragmática, o candidato: A Utilizou um par adjacente perfeito, atendendo plenamente à expectativa lógica da pergunta. B Quebrou a máxima de relação (relevância), gerando uma implicatura de que possivelmente não possui a experiência questionada. C Respeitou a máxima de qualidade, pois forneceu uma informação verdadeira sobre sua personalidade. D Quebrou a máxima de modo, pois foi prolixo e utilizou termos técnicos desnecessários. E Respeitou a máxima de quantidade, pois deu o máximo de informações úteis para o entrevistador. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 80 Questão 80 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Em diálogos complexos, a referenciação pronominal exige atenção redobrada, pois os referentes mudam conforme a alternância de turnos. Leia o trecho abaixo: — O gerente disse que nós precisamos revisar o projeto — afirmou Ricardo. — Mas ele não tinha aprovado a versão anterior? — questionou Julia. Assinale a alternativa que identifica corretamente os referentes dos termos destacados. A O pronome ’nós’ refere-se a Ricardo e Julia; o pronome ’ele’ refere-se a um terceiro personagem não citado. B O pronome ’nós’ refere-se a Ricardo e Julia; o pronome ’ele’ refere-se ao gerente. C O pronome ’nós’ refere-se a um grupo indeterminado; o pronome ’ele’ refere-se ao gerente. D O pronome ’nós’ refere-se a Ricardo e ao gerente; o pronome ’ele’ refere-se ao projeto. E O pronome ’nós’ refere-se apenas ao gerente e Ricardo; o pronome ’ele’ refere-se a Ricardo. 81 Questão 81 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Analise o texto abaixo: ’É inadmissível que, em pleno século XXI, o Brasil ainda registre índices tão elevados de analfabetismo funcional. Embora o governo apresente dados de melhora, a realidade das salas de aula revela um cenário de abandono. É urgente que políticas públicas eficazes sejam implementadas para reverter esse quadro vergonhoso.’ 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … Sobre a tipologia do texto acima, assinale a afirmação correta: A É predominantemente argumentativo, dada a presença de marcas de subjetividade e defesa de um ponto de vista. B É predominantemente narrativo, pois conta a história do analfabetismo ao longo dos séculos. C É predominantemente descritivo, pois caracteriza detalhadamente a situação das salas de aula. D É predominantemente injuntivo, pois o autor ordena que o governo mude suas políticas. E É predominantemente expositivo, pois apresenta dados sobre o analfabetismo no Brasil. 82 Questão 82 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Em textos que apresentam hibridismo entre narração e descrição, um elemento gramatical que frequentemente sinaliza a transição da ação (narração) para a caracterização de cenário ou hábito (descrição) é: A A passagem da terceira pessoa do singular para a primeira pessoa do plural. B O uso de conjunções coordenativas adversativas em vez de conclusivas. C A utilização de verbos no futuro do presente para indicar simultaneidade. D A substituição de substantivos concretos por substantivos abstratos. E A mudança do Pretérito Perfeito para o Pretérito Imperfeito do Indicativo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 83 Questão 83 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Determinadas bancas examinadoras exploram a fronteira entre o texto expositivo e o argumentativo. Assinale a alternativa que descreve o critério decisivo para classificar um texto como argumentativo em detrimento de expositivo. A A organização do texto em parágrafos e o uso de linguagem formal. B O uso de definições de dicionário para explicar termos complexos. C A presença de uma tese sustentada por marcas de subjetividade e juízos de valor. D A intenção primordial de transmitir um conhecimento técnico ao leitor. E A presença de dados estatísticos e citações de autoridades no assunto. 84 Questão 84 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL No estudo das sequências tipológicas, a escolha dos tempos verbais é um marcador determinante da natureza do texto. Sobre a relação entre gramática e tipologia, assinale a esta afirmação quanto ao uso do Pretérito Imperfeito do Indicativo. A Caracteriza a sequência expositiva, sendo o tempo verbal padrão para definições 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … de conceitos científicos e universais. B É utilizado na sequência injuntiva para suavizar ordens, transformando-as em sugestões de comportamento. C Sinaliza a sequência argumentativa, pois projeta as consequências futuras de uma tese defendida pelo autor. D É a marca predominante da sequência narrativa, pois indica ações pontuais e concluídas que fazem a história progredir. E É frequente em sequências descritivas inseridas em narrações, servindo para apresentar estados, hábitos ou o cenário onde as ações ocorrem. 85 Questão 85 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Em provas de concursos, é comum encontrar textos híbridos. Um editorial de jornal que inicia relatando um breve episódio cotidiano para, em seguida, analisar criticamente esse fato e defender uma mudança na legislação vigente, deve ser classificado, em sua totalidade, como: A Narrativo, pois o relato do episódio inicial estabelece a base temporal do texto. B Descritivo, devido à necessidade de caracterizar o episódio cotidiano relatado. C Injuntivo, pois a defesa de mudança na legislação configura uma ordem ao poder público. D Dissertativo-argumentativo, pois a intenção global do autor é defender um ponto de vista. E Expositivo, uma vez que o editorial visa informar o leitor sobre um fato ocorrido. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 86 Questão 86 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Sobre as marcas linguísticas e estruturais da tipologia descritiva, assinale a esta afirmação: A Utiliza obrigatoriamente a terceira pessoa do plural para garantir a impessoalidade do retrato verbal. B Sua estrutura básica é composta por introdução, desenvolvimento, conclusão e nexos lógicos de causa e consequência. C Caracteriza-se pela dinamicidade e pelo uso predominante de verbos de ação no pretérito perfeito. D Apresenta uma progressão temporal linear, em que um evento sucede o outro cronologicamente. E É marcada pela simultaneidade dos fatos e pelo predomínio de verbos de estado e adjetivação. 87 Questão 87 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL A distinção entre as tipologias narrativa e descritiva é um tema recorrente em exames oficiais, fundamentando-se principalmente na progressão temporal e na natureza da representação. Sobre essa distinção, assinale a esta afirmação: 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … A A presença de um narrador em primeira pessoa transforma automaticamente qualquer sequência descritiva em um texto dissertativo-argumentativo. B A narração é essencialmente estática, funcionando como um recorte temporal onde os fatos ocorrem simultaneamente. C A marca linguística predominante da narração é o uso de adjetivos e verbos de estado, como ’ser’ e ’parecer’, no tempo presente. D O texto descritivo caracteriza-se pela dinamicidade, apresentando uma transformação de estado entre um momento inicial e um final. E Enquanto a narração se estrutura sobre uma sucessão de eventos (progressão temporal), a descrição organiza-se de forma espacial e simultânea, assemelhandose a uma fotografia verbal. 88 Questão 88 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Analise o trecho a seguir: ’Fabiano caminhava sob o sol forte. A terra estava seca, sem vida. Por que o destino era tão cruel com ele? Precisava encontrar água logo, ou não resistiria.’ O segmento sublinhado exemplifica o uso do discurso: A Direto, pois a pontuação expressiva (interrogação) é exclusiva dessa modalidade. B Indireto, pois utiliza o pretérito imperfeito para descrever uma ação habitual do personagem. C Indireto, pois o narrador relata em terceira pessoa o que o personagem sente. D Direto, pois apresenta uma interrogação direta do personagem. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … E Indireto livre, pois a interrogação e a urgência emocional do personagem fundem-se à narração de terceira pessoa sem conectivos. 89 Questão 89 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Em questões de concursos de alto nível, a transposição de perguntas do discurso direto para o indireto exige atenção ao uso de conectivos. Se um personagem pergunta: ’Você já terminou o trabalho?’, a transposição correta para o discurso indireto seria: A Ele perguntou quando ele terminaria o trabalho. B Ele perguntou se ele já terminara o trabalho. C Ele perguntou se você já tinha terminado o trabalho. D Ele perguntou se ele já terminou o trabalho. E Ele perguntou que você já terminara o trabalho. 90 Questão 90 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Determinadas bancas examinadoras exploram a ’zona de confusão’ entre narração e injunção. Um exemplo clássico é a parábola ou fábula. Se um examinador questionar o objetivo do texto integral de uma fábula que visa ensinar uma conduta moral, a resposta 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … correta deve considerar: A A inexistência de um modo predominante, visto que a moral da história anula a narração anterior. B A finalidade injuntiva ou didática, caso a questão foque na intenção do autor em orientar o comportamento do leitor. C A predominância descritiva, pois a moral da história detalha características psicológicas dos personagens. D A predominância dissertativa, pois toda fábula é, em essência, um debate acadêmico sobre ética. E A predominância narrativa, pois a estrutura de personagens e conflito ocupa a maior parte do texto. 91 Questão 91 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Sobre a hierarquia da organização discursiva e a interdependência entre os modos, assinale a alternativa que apresenta uma análise tecnicamente correta: A O modo descritivo é o nível mais alto da hierarquia, pois todos os outros modos dependem da adjetivação para existir. B A sucessão temporal da narração impede que qualquer trecho descritivo seja inserido no corpo de um conto ou romance. C A injunção pode recorrer à descrição para identificar objetos ou peças, sendo a descrição um suporte para a eficácia da instrução. D A narração é um modo autossuficiente que prescinde totalmente de elementos 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … descritivos para a construção do cenário. E A dissertação utiliza a narração e a descrição apenas como adornos estéticos, sem função probatória ou argumentativa. 92 Questão 92 TIPOS DE TEXTO (DIALOGAL, DESCRITIVO, NARRATIVO, INJUNTIVO, EX- … ○○○DIFÍCIL Em uma prova de alto nível, o candidato deve identificar o modo discursivo não apenas por palavras isoladas, mas pela progressão do texto. Assinale a alternativa que descreve corretamente um critério de diferenciação prática: A A simultaneidade espacial é o eixo principal da narração, enquanto a cronologia é o eixo da descrição. B Se o texto responde à pergunta ’O que aconteceu?’, com foco em mudanças de estado, a natureza é narrativa. C O uso do pretérito perfeito é marca exclusiva da descrição, pois indica um estado que se concluiu no passado. D A presença de muitos adjetivos garante, por si só, que o texto seja classificado como descritivo. E Se o texto responde à pergunta ’Como fazer?’, mas não utiliza verbos no imperativo, ele deixa de ser injuntivo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 1.2.4 Gabaritos e Comentários"
+      "explanation": "O domínio discursivo é a esfera de atividade humana (ex: domínio jurídico, administrativo) em que o texto circula, e não o ato específico de intenção contido em um enunciado."
     }
   ],
   "answer_key": "D",
@@ -1993,7 +1981,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Conjunções subordinativas integrantes.",
       "is_correct": false,
-      "explanation": "Conjunções integrantes introduzem orações substantivas, não sendo marcas específicas da sequência dialogal. ARROW-LEFT VOLTAR À QUESTÃO 34 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Conjunções integrantes introduzem orações substantivas, não sendo marcas específicas da sequência dialogal."
     }
   ],
   "answer_key": "D",
@@ -2021,7 +2009,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que diz respeito à organização visual e pontuação dos textos dialogais, assinale a alternativa que apresenta o sinal gráfico comumente utilizado para indicar a mudança de interlocutor. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+  "question_text": "No que diz respeito à organização visual e pontuação dos textos dialogais, assinale a alternativa que apresenta o sinal gráfico comumente utilizado para indicar a mudança de interlocutor.",
   "alternatives": [
     {
       "id": "A",
@@ -2051,7 +2039,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Reticências.",
       "is_correct": false,
-      "explanation": "Reticências indicam hesitação ou interrupção, não a mudança de quem fala. ARROW-LEFT VOLTAR À QUESTÃO 35"
+      "explanation": "Reticências indicam hesitação ou interrupção, não a mudança de quem fala."
     }
   ],
   "answer_key": "A",
@@ -2107,15 +2095,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Gritar, sussurrar e exclamar. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Gritar, sussurrar e exclamar.",
       "is_correct": false,
-      "explanation": "Estes são verbos expressivos ou modais, pois indicam a intensidade e o tom da voz. ARROW-LEFT VOLTAR À QUESTÃO 36"
+      "explanation": "Estes são verbos expressivos ou modais, pois indicam a intensidade e o tom da voz."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Os verbos neutros são aqueles que apenas indicam a ação de falar, sem atribuir uma carga emocional ou tom de voz específico à fala do personagem. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: Os verbos neutros são aqueles que apenas indicam a ação de falar, sem atribuir uma carga emocional ou tom de voz específico à fala do personagem. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+    "resolution": "Os verbos neutros são aqueles que apenas indicam a ação de falar, sem atribuir uma carga emocional ou tom de voz específico à fala do personagem.",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: Os verbos neutros são aqueles que apenas indicam a ação de falar, sem atribuir uma carga emocional ou tom de voz específico à fala do personagem."
   }
 }
 ```
@@ -2155,7 +2143,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Substitui os dois-pontos na função de anunciar que uma fala será proferida em seguida.",
       "is_correct": false,
-      "explanation": "Os dois-pontos anunciam a fala; o travessão a inicia. Eles possuem funções complementares, mas distintas. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Os dois-pontos anunciam a fala; o travessão a inicia. Eles possuem funções complementares, mas distintas."
     },
     {
       "id": "D",
@@ -2167,7 +2155,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Serve exclusivamente para indicar a omissão de um verbo de elocução.",
       "is_correct": false,
-      "explanation": "Embora possa estar presente quando o verbo é omitido, sua função principal é marcar a fala e a alternância de vozes. ARROW-LEFT VOLTAR À QUESTÃO 37"
+      "explanation": "Embora possa estar presente quando o verbo é omitido, sua função principal é marcar a fala e a alternância de vozes."
     }
   ],
   "answer_key": "D",
@@ -2205,7 +2193,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Refere-se exclusivamente ao uso de travessões ou aspas para indicar a fala de personagens em textos narrativos. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Refere-se exclusivamente ao uso de travessões ou aspas para indicar a fala de personagens em textos narrativos.",
       "is_correct": false,
       "explanation": "Travessões e aspas são marcas gráficas que sinalizam o turno na escrita, mas o conceito de turno de fala é de natureza interacional e linguística, não apenas ortográfica."
     },
@@ -2225,7 +2213,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "É a unidade gramatical composta por uma oração completa proferida por um locutor.",
       "is_correct": false,
-      "explanation": "O turno de fala não se limita a uma unidade gramatical ou oracional; ele pode ser composto por uma única palavra, uma interjeição ou vários períodos complexos. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … ARROW-LEFT VOLTAR À QUESTÃO 38"
+      "explanation": "O turno de fala não se limita a uma unidade gramatical ou oracional; ele pode ser composto por uma única palavra, uma interjeição ou vários períodos complexos."
     }
   ],
   "answer_key": "A",
@@ -2281,9 +2269,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A descrição detalhada de um cenário feita pelo narrador antes do início de um diálogo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "A descrição detalhada de um cenário feita pelo narrador antes do início de um diálogo.",
       "is_correct": false,
-      "explanation": "A descrição é uma tipologia textual sequencial e não envolve a troca de turnos característica da interlocução. ARROW-LEFT VOLTAR À QUESTÃO 39 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "A descrição é uma tipologia textual sequencial e não envolve a troca de turnos característica da interlocução."
     }
   ],
   "answer_key": "A",
@@ -2341,7 +2329,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Injuntiva",
       "is_correct": true,
-      "explanation": "A sequência injuntiva é aquela que indica procedimentos ou instruções, utilizando o imperativo como marca gramatical chave. ARROW-LEFT VOLTAR À QUESTÃO 40"
+      "explanation": "A sequência injuntiva é aquela que indica procedimentos ou instruções, utilizando o imperativo como marca gramatical chave."
     }
   ],
   "answer_key": "E",
@@ -2391,7 +2379,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Presença de progressão temporal dinâmica, assemelhando-se a um filme. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Presença de progressão temporal dinâmica, assemelhando-se a um filme.",
       "is_correct": false,
       "explanation": "A progressão temporal dinâmica é característica da sequência narrativa."
     },
@@ -2399,13 +2387,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Predominância de verbos de ação no pretérito perfeito do indicativo.",
       "is_correct": false,
-      "explanation": "Verbos de ação no pretérito perfeito são marcas da narrativa, não da descrição. ARROW-LEFT VOLTAR À QUESTÃO 41"
+      "explanation": "Verbos de ação no pretérito perfeito são marcas da narrativa, não da descrição."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A descrição é estática e foca em características (atributos) dentro de um mesmo tempo (simultaneidade). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: A descrição é estática e foca em características (atributos) dentro de um mesmo tempo (simultaneidade). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+    "resolution": "A descrição é estática e foca em características (atributos) dentro de um mesmo tempo (simultaneidade).",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: A descrição é estática e foca em características (atributos) dentro de um mesmo tempo (simultaneidade)."
   }
 }
 ```
@@ -2439,7 +2427,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Expositivo, porque apenas apresenta conceitos teóricos sobre a ética sem orientar ações.",
       "is_correct": false,
-      "explanation": "Embora o manual possa conter trechos expositivos para definir termos, a finalidade de orientar condutas caracteriza a sequência injuntiva. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Embora o manual possa conter trechos expositivos para definir termos, a finalidade de orientar condutas caracteriza a sequência injuntiva."
     },
     {
       "id": "C",
@@ -2455,9 +2443,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Descritivo, visto que detalha as características físicas do ambiente de trabalho. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Descritivo, visto que detalha as características físicas do ambiente de trabalho.",
       "is_correct": false,
-      "explanation": "A sequência descritiva foca em atributos e estados (estaticidade), não na orientação de comportamentos ou ordens. ARROW-LEFT VOLTAR À QUESTÃO 42"
+      "explanation": "A sequência descritiva foca em atributos e estados (estaticidade), não na orientação de comportamentos ou ordens."
     }
   ],
   "answer_key": "C",
@@ -2509,13 +2497,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Injuntivo.",
       "is_correct": true,
-      "explanation": "Esta alternativa define precisamente o texto que busca orientar ou prescrever um comportamento ao interlocutor. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Esta alternativa define precisamente o texto que busca orientar ou prescrever um comportamento ao interlocutor."
     },
     {
       "id": "E",
       "text": "Expositivo.",
       "is_correct": false,
-      "explanation": "Embora o manual informe, a predominância de verbos no imperativo para orientar uma ação específica caracteriza a injunção, e não a mera exposição de conceitos. ARROW-LEFT VOLTAR À QUESTÃO 43"
+      "explanation": "Embora o manual informe, a predominância de verbos no imperativo para orientar uma ação específica caracteriza a injunção, e não a mera exposição de conceitos."
     }
   ],
   "answer_key": "D",
@@ -2559,7 +2547,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "Dissertativa-argumentativa, porque busca convencer o cidadão por meio de teses lógicas. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Dissertativa-argumentativa, porque busca convencer o cidadão por meio de teses lógicas.",
       "is_correct": false,
       "explanation": "A dissertação-argumentativa foca na defesa de um ponto de vista, enquanto o texto em questão foca na instrução direta."
     },
@@ -2573,7 +2561,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Narrativa, pois relata fatos ocorridos no cotidiano da repartição.",
       "is_correct": false,
-      "explanation": "A narração exige progressão temporal e relato de ações de personagens, o que não ocorre em normas de conduta. ARROW-LEFT VOLTAR À QUESTÃO 44 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "A narração exige progressão temporal e relato de ações de personagens, o que não ocorre em normas de conduta."
     }
   ],
   "answer_key": "D",
@@ -2629,9 +2617,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "dissertativo-argumentativo, pois defende um ponto de vista apoiado em argumen- tos. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "dissertativo-argumentativo, pois defende um ponto de vista apoiado em argumen- tos.",
       "is_correct": true,
-      "explanation": "O texto expõe uma tese e a sustenta com argumentos, encerrando com conclusão marcada por “Por isso”. ARROW-LEFT VOLTAR À QUESTÃO 45"
+      "explanation": "O texto expõe uma tese e a sustenta com argumentos, encerrando com conclusão marcada por “Por isso”."
     }
   ],
   "answer_key": "E",
@@ -2689,13 +2677,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Substituir os pronomes de primeira pessoa pelos de terceira pessoa para manter o distanciamento narrativo.",
       "is_correct": false,
-      "explanation": "No discurso direto, preservam-se os pronomes originais (1ª ou 2ª pessoa). A mudança para a 3ª pessoa ocorre no discurso indireto. ARROW-LEFT VOLTAR À QUESTÃO 46"
+      "explanation": "No discurso direto, preservam-se os pronomes originais (1ª ou 2ª pessoa). A mudança para a 3ª pessoa ocorre no discurso indireto."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "O discurso direto é a reprodução literal da fala, marcada por sinais gráficos (aspas, travessão) e verbos de dizer (elocução). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: O discurso direto é a reprodução literal da fala, marcada por sinais gráficos (aspas, travessão) e verbos de dizer (elocução). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+    "resolution": "O discurso direto é a reprodução literal da fala, marcada por sinais gráficos (aspas, travessão) e verbos de dizer (elocução).",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: O discurso direto é a reprodução literal da fala, marcada por sinais gráficos (aspas, travessão) e verbos de dizer (elocução)."
   }
 }
 ```
@@ -2723,7 +2711,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "Oração subordinada adverbial consecutiva.",
       "is_correct": false,
-      "explanation": "A oração não indica consequência, mas sim o conteúdo do que foi dito. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "A oração não indica consequência, mas sim o conteúdo do que foi dito."
     },
     {
       "id": "B",
@@ -2733,7 +2721,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "Oração subordinada adjetiva restritiva. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Oração subordinada adjetiva restritiva.",
       "is_correct": false,
       "explanation": "Orações adjetivas qualificam substantivos, o que não é o caso da representação da fala."
     },
@@ -2747,7 +2735,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Oração coordenada assindética.",
       "is_correct": false,
-      "explanation": "O discurso indireto é estruturado por subordinação, não por coordenação assindética. ARROW-LEFT VOLTAR À QUESTÃO 47"
+      "explanation": "O discurso indireto é estruturado por subordinação, não por coordenação assindética."
     }
   ],
   "answer_key": "B",
@@ -2799,13 +2787,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Pela contagem exata do número de adjetivos em relação ao número de verbos.",
       "is_correct": false,
-      "explanation": "A análise tipológica é qualitativa e funcional, não se baseando em contagem estatística de classes gramaticais isoladas. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "A análise tipológica é qualitativa e funcional, não se baseando em contagem estatística de classes gramaticais isoladas."
     },
     {
       "id": "E",
       "text": "Pelo objetivo comunicativo principal do autor ao produzir a peça textual.",
       "is_correct": true,
-      "explanation": "Conforme o material, o texto é classificado pelo seu objetivo comunicativo principal, funcionando como sua ’espinha dorsal’. ARROW-LEFT VOLTAR À QUESTÃO 48"
+      "explanation": "Conforme o material, o texto é classificado pelo seu objetivo comunicativo principal, funcionando como sua ’espinha dorsal’."
     }
   ],
   "answer_key": "E",
@@ -2833,7 +2821,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considere o seguinte fragmento: ’Para configurar o acesso, insira o código de segurança, pressione a tecla confirmar e aguarde a sinalização luminosa’. Esse trecho caracteriza-se 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … como predominantemente:",
+  "question_text": "Considere o seguinte fragmento: ’Para configurar o acesso, insira o código de segurança, pressione a tecla confirmar e aguarde a sinalização luminosa’. Esse trecho caracteriza-se como predominantemente:",
   "alternatives": [
     {
       "id": "A",
@@ -2863,7 +2851,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Dissertativo, pois defende um ponto de vista sobre o uso de tecnologias. 1.2.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "Não há argumentação, análise de conceitos ou defesa de ideias no fragmento apresentado. ARROW-LEFT VOLTAR À QUESTÃO 49 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Não há argumentação, análise de conceitos ou defesa de ideias no fragmento apresentado."
     }
   ],
   "answer_key": "A",
@@ -2919,9 +2907,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A sequência dialogal pressupõe a bilateralidade, exigindo a projeção de um inter- locutor que possa responder. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "A sequência dialogal pressupõe a bilateralidade, exigindo a projeção de um inter- locutor que possa responder.",
       "is_correct": true,
-      "explanation": "O diálogo exige a bilateralidade, diferenciando-se do solilóquio ou monólogo puro. ARROW-LEFT VOLTAR À QUESTÃO 50"
+      "explanation": "O diálogo exige a bilateralidade, diferenciando-se do solilóquio ou monólogo puro."
     }
   ],
   "answer_key": "E",
@@ -2979,13 +2967,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Estabelecer a função fática, testando ou mantendo o canal de comunicação.",
       "is_correct": true,
-      "explanation": "A função fática é predominante nos diálogos para testar o canal e manter a interação. ARROW-LEFT VOLTAR À QUESTÃO 51"
+      "explanation": "A função fática é predominante nos diálogos para testar o canal e manter a interação."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Marcadores conversacionais como ’né?’ e ’entende?’ são típicos da função fática, que busca garantir que o canal de comunicação entre os interlocutores está aberto e 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … funcionando.",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: Marcadores conversacionais como ’né?’ e ’entende?’ são típicos da função fática, que busca garantir que o canal de comunicação entre os interlocutores está aberto e 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … funcionando."
+    "resolution": "Marcadores conversacionais como ’né?’ e ’entende?’ são típicos da função fática, que busca garantir que o canal de comunicação entre os interlocutores está aberto e funcionando.",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: Marcadores conversacionais como ’né?’ e ’entende?’ são típicos da função fática, que busca garantir que o canal de comunicação entre os interlocutores está aberto e funcionando."
   }
 }
 ```
@@ -3011,9 +2999,9 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Predomínio de verbos no futuro do pretérito e ausência de interlocutor. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Predomínio de verbos no futuro do pretérito e ausência de interlocutor.",
       "is_correct": false,
-      "explanation": "O verbo ’trouxe’ está no pretérito perfeito e há um interlocutor claro (João). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "O verbo ’trouxe’ está no pretérito perfeito e há um interlocutor claro (João)."
     },
     {
       "id": "B",
@@ -3037,7 +3025,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Emprego de marcadores de tempo para caracterizar uma sequência descritiva.",
       "is_correct": false,
-      "explanation": "Embora haja ’ontem’, o foco do trecho é a interação (pergunta/resposta), não a descrição de um objeto. ARROW-LEFT VOLTAR À QUESTÃO 52"
+      "explanation": "Embora haja ’ontem’, o foco do trecho é a interação (pergunta/resposta), não a descrição de um objeto."
     }
   ],
   "answer_key": "C",
@@ -3089,13 +3077,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "O uso do travessão após a exclamação é facultativo, podendo ser substituído por uma vírgula sem prejuízo gramatical.",
       "is_correct": false,
-      "explanation": "O travessão é necessário para isolar a intervenção do narrador após a fala direta terminada em sinal de pontuação expressivo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "O travessão é necessário para isolar a intervenção do narrador após a fala direta terminada em sinal de pontuação expressivo."
     },
     {
       "id": "E",
-      "text": "A substituição do travessão por aspas manteria o mesmo dinamismo e estilo teatral do texto original. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "A substituição do travessão por aspas manteria o mesmo dinamismo e estilo teatral do texto original.",
       "is_correct": false,
-      "explanation": "As aspas conferem um estilo mais contido e jornalístico, enquanto o travessão é mais dinâmico e comum na literatura. ARROW-LEFT VOLTAR À QUESTÃO 53"
+      "explanation": "As aspas conferem um estilo mais contido e jornalístico, enquanto o travessão é mais dinâmico e comum na literatura."
     }
   ],
   "answer_key": "B",
@@ -3153,7 +3141,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "— Eu pretendo, disse o diretor, terminar o relatório ainda hoje.",
       "is_correct": false,
-      "explanation": "Faltam os travessões para isolar a voz do narrador da fala do personagem. ARROW-LEFT VOLTAR À QUESTÃO 54 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Faltam os travessões para isolar a voz do narrador da fala do personagem."
     }
   ],
   "answer_key": "C",
@@ -3197,7 +3185,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "As reticências deveriam ter sido utilizadas para indicar que as falas são curtas. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "As reticências deveriam ter sido utilizadas para indicar que as falas são curtas.",
       "is_correct": false,
       "explanation": "As reticências indicam hesitação ou interrupção, o que não é o caso de falas diretas e decididas."
     },
@@ -3211,7 +3199,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O uso do travessão é inadequado, pois não há mudança de parágrafo entre as falas.",
       "is_correct": false,
-      "explanation": "O travessão é justamente o sinal que marca a troca de interlocutores. ARROW-LEFT VOLTAR À QUESTÃO 55"
+      "explanation": "O travessão é justamente o sinal que marca a troca de interlocutores."
     }
   ],
   "answer_key": "A",
@@ -3267,15 +3255,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Trata-se de uma tipologia dialogal pura, pois há uma pergunta que exige resposta imediata. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Trata-se de uma tipologia dialogal pura, pois há uma pergunta que exige resposta imediata.",
       "is_correct": false,
-      "explanation": "Para ser tipologia dialogal pura, deve haver a troca efetiva de turnos entre os sujeitos da interação. ARROW-LEFT VOLTAR À QUESTÃO 56"
+      "explanation": "Para ser tipologia dialogal pura, deve haver a troca efetiva de turnos entre os sujeitos da interação."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "Em textos dissertativos ou crônicas, o autor frequentemente simula um diálogo com o leitor para criar proximidade. Isso é uma estratégia dialógica, mas como não há troca real de papéis (o leitor não assume o turno de fala no texto), não há alternância de turnos. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: Em textos dissertativos ou crônicas, o autor frequentemente simula um diálogo com o leitor para criar proximidade. Isso é uma estratégia dialógica, mas como não há troca real de papéis (o leitor não assume o turno de fala no texto), não há alternância de turnos. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+    "resolution": "Em textos dissertativos ou crônicas, o autor frequentemente simula um diálogo com o leitor para criar proximidade. Isso é uma estratégia dialógica, mas como não há troca real de papéis (o leitor não assume o turno de fala no texto), não há alternância de turnos.",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: Em textos dissertativos ou crônicas, o autor frequentemente simula um diálogo com o leitor para criar proximidade. Isso é uma estratégia dialógica, mas como não há troca real de papéis (o leitor não assume o turno de fala no texto), não há alternância de turnos."
   }
 }
 ```
@@ -3309,7 +3297,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Autosseleção, pois Márcia deve tomar a palavra por iniciativa própria.",
       "is_correct": false,
-      "explanation": "A autosseleção ocorre quando um participante toma a palavra sem ser explicitamente convidado ou selecionado pelo locutor anterior. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "A autosseleção ocorre quando um participante toma a palavra sem ser explicitamente convidado ou selecionado pelo locutor anterior."
     },
     {
       "id": "C",
@@ -3327,7 +3315,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Seleção do próximo falante pelo falante atual, utilizando um vocativo e uma solicitação direta.",
       "is_correct": true,
-      "explanation": "O uso do nome (vocativo) e da pergunta direta é a forma mais clara de selecionar o próximo falante na engenharia do diálogo. ARROW-LEFT VOLTAR À QUESTÃO 57"
+      "explanation": "O uso do nome (vocativo) e da pergunta direta é a forma mais clara de selecionar o próximo falante na engenharia do diálogo."
     }
   ],
   "answer_key": "E",
@@ -3359,7 +3347,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Injuntivo, pois ensina o passo a passo de como realizar a fotossíntese. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Injuntivo, pois ensina o passo a passo de como realizar a fotossíntese.",
       "is_correct": false,
       "explanation": "O texto não dá ordens ou instruções de procedimento ao leitor."
     },
@@ -3385,7 +3373,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Argumentativo, pois tenta convencer o leitor sobre a importância da luz solar.",
       "is_correct": false,
-      "explanation": "Não há defesa de tese ou uso de marcas de subjetividade para persuadir o interlocutor. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … ARROW-LEFT VOLTAR À QUESTÃO 58"
+      "explanation": "Não há defesa de tese ou uso de marcas de subjetividade para persuadir o interlocutor."
     }
   ],
   "answer_key": "B",
@@ -3441,9 +3429,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A sequência tipológica define o suporte do texto, como jornal, livro ou revista. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "A sequência tipológica define o suporte do texto, como jornal, livro ou revista.",
       "is_correct": false,
-      "explanation": "O suporte (meio físico) não se confunde com a sequência tipológica (arranjo linguístico). ARROW-LEFT VOLTAR À QUESTÃO 59 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "O suporte (meio físico) não se confunde com a sequência tipológica (arranjo linguístico)."
     }
   ],
   "answer_key": "A",
@@ -3501,7 +3489,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Compor uma sequência descritiva, organizando elementos em um plano de simul- taneidade para a construção de um cenário.",
       "is_correct": true,
-      "explanation": "A descrição caracteriza-se pela simultaneidade e pela ausência de progressão temporal. O pretérito imperfeito é o tempo verbal por excelência para descrever cenários, objetos ou hábitos em textos literários e informativos. ARROW-LEFT VOLTAR À QUESTÃO 60 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "A descrição caracteriza-se pela simultaneidade e pela ausência de progressão temporal. O pretérito imperfeito é o tempo verbal por excelência para descrever cenários, objetos ou hábitos em textos literários e informativos."
     }
   ],
   "answer_key": "E",
@@ -3529,7 +3517,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise o fragmento textual a seguir para responder à questão: ”O sol estava a pino e o calor tornava o ar denso sobre a estrada de terra. O silêncio era interrompido apenas pelo zumbido dos insetos. De repente, o motorista freou 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … bruscamente, desceu do veículo e observou a fenda que se abrira no leito da estrada.” Considerando as marcas linguísticas e a organização das sequências tipológicas, assinale a alternativa correta:",
+  "question_text": "Analise o fragmento textual a seguir para responder à questão: ”O sol estava a pino e o calor tornava o ar denso sobre a estrada de terra. O silêncio era interrompido apenas pelo zumbido dos insetos. De repente, o motorista freou bruscamente, desceu do veículo e observou a fenda que se abrira no leito da estrada.” Considerando as marcas linguísticas e a organização das sequências tipológicas, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -3559,7 +3547,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O uso do pretérito imperfeito em ’estava’ e ’tornava’ caracteriza uma sequência expositiva, visto que o autor busca explicar as causas climáticas da região de forma objetiva.",
       "is_correct": false,
-      "explanation": "O pretérito imperfeito, no contexto de apresentação de cenários e estados, é marca da sequência descritiva, não da expositiva (que prefere o presente do indicativo para definições atemporais). ARROW-LEFT VOLTAR À QUESTÃO 61 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "O pretérito imperfeito, no contexto de apresentação de cenários e estados, é marca da sequência descritiva, não da expositiva (que prefere o presente do indicativo para definições atemporais)."
     }
   ],
   "answer_key": "D",
@@ -3587,7 +3575,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise o seguinte fragmento extraído de um relatório técnico: ’A modernização dos sistemas de atendimento é fundamental para a redução das filas, sendo inadmissível que o cidadão aguarde por horas em serviços essenciais. Tal medida não apenas agiliza o processo, mas resgata a dignidade do usuário.’ 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … Considerando a distinção entre as sequências expositiva e argumentativa, a presença dos termos sublinhados classifica o trecho como predominantemente:",
+  "question_text": "Analise o seguinte fragmento extraído de um relatório técnico: ’A modernização dos sistemas de atendimento é fundamental para a redução das filas, sendo inadmissível que o cidadão aguarde por horas em serviços essenciais. Tal medida não apenas agiliza o processo, mas resgata a dignidade do usuário.’ Considerando a distinção entre as sequências expositiva e argumentativa, a presença dos termos sublinhados classifica o trecho como predominantemente:",
   "alternatives": [
     {
       "id": "A",
@@ -3617,7 +3605,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Descritivo, pois apresenta as características técnicas dos novos sistemas de atendi- mento.",
       "is_correct": false,
-      "explanation": "O foco não é a caracterização estática de atributos técnicos, mas a defesa da necessidade de uma mudança. ARROW-LEFT VOLTAR À QUESTÃO 62"
+      "explanation": "O foco não é a caracterização estática de atributos técnicos, mas a defesa da necessidade de uma mudança."
     }
   ],
   "answer_key": "C",
@@ -3673,15 +3661,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Descritivo-subjetivo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Descritivo-subjetivo.",
       "is_correct": false,
-      "explanation": "A descrição subjetiva foca em impressões pessoais e adjetivação valorativa, o que contraria a objetividade mencionada no enunciado. ARROW-LEFT VOLTAR À QUESTÃO 63"
+      "explanation": "A descrição subjetiva foca em impressões pessoais e adjetivação valorativa, o que contraria a objetividade mencionada no enunciado."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Correta. O texto dissertativo-expositivo foca na transmissão de conhecimento, explicação 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … de conceitos ou apresentação de fatos de forma objetiva e impessoal, sem a defesa explícita de uma tese.",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: Correta. O texto dissertativo-expositivo foca na transmissão de conhecimento, explicação 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … de conceitos ou apresentação de fatos de forma objetiva e impessoal, sem a defesa explícita de uma tese."
+    "resolution": "Correta. O texto dissertativo-expositivo foca na transmissão de conhecimento, explicação de conceitos ou apresentação de fatos de forma objetiva e impessoal, sem a defesa explícita de uma tese.",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: Correta. O texto dissertativo-expositivo foca na transmissão de conhecimento, explicação de conceitos ou apresentação de fatos de forma objetiva e impessoal, sem a defesa explícita de uma tese."
   }
 }
 ```
@@ -3709,7 +3697,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "Personagens, Espaço, Narrador, Tempo e Enredo.",
       "is_correct": true,
-      "explanation": "Estes são os cinco elementos estruturais que permitem a existência de uma narrativa. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Estes são os cinco elementos estruturais que permitem a existência de uma narrativa."
     },
     {
       "id": "B",
@@ -3733,7 +3721,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Público, Espaço, Narrador, Tema e Estilo.",
       "is_correct": false,
-      "explanation": "Embora o estilo e o público sejam importantes na comunicação, não são elementos definidores da estrutura interna da tipologia narrativa. ARROW-LEFT VOLTAR À QUESTÃO 64"
+      "explanation": "Embora o estilo e o público sejam importantes na comunicação, não são elementos definidores da estrutura interna da tipologia narrativa."
     }
   ],
   "answer_key": "A",
@@ -3761,7 +3749,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considere a elaboração de um relatório técnico por um agente público com o objetivo de registrar as condições físicas de um equipamento de infraestrutura. O texto detalha minuciosamente o estado das peças, utiliza termos técnicos para caracterizar a oxidação observada e emprega predominantemente verbos de estado, sem que haja uma sucessão cronológica de eventos ou a defesa de uma opinião pessoal. Com base nas tipologias 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … textuais, a estrutura predominante nesse documento e sua justificativa linguística são:",
+  "question_text": "Considere a elaboração de um relatório técnico por um agente público com o objetivo de registrar as condições físicas de um equipamento de infraestrutura. O texto detalha minuciosamente o estado das peças, utiliza termos técnicos para caracterizar a oxidação observada e emprega predominantemente verbos de estado, sem que haja uma sucessão cronológica de eventos ou a defesa de uma opinião pessoal. Com base nas tipologias textuais, a estrutura predominante nesse documento e sua justificativa linguística são:",
   "alternatives": [
     {
       "id": "A",
@@ -3773,7 +3761,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Dissertativa-argumentativa, dado que a descrição minuciosa dos danos serve como estratégia retórica para convencer o leitor sobre a necessidade de novos investi- mentos.",
       "is_correct": false,
-      "explanation": "Para ser dissertativo-argumentativo, o autor precisaria defender uma tese subjetiva e tentar persuadir o leitor. O enunciado deixa claro que não há defesa de opinião pessoal, tratando-se de um registro técnico. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Para ser dissertativo-argumentativo, o autor precisaria defender uma tese subjetiva e tentar persuadir o leitor. O enunciado deixa claro que não há defesa de opinião pessoal, tratando-se de um registro técnico."
     },
     {
       "id": "C",
@@ -3791,7 +3779,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Descritiva, visto que o texto foca na caracterização estática de um objeto, apresen- tando traços de simultaneidade e uso de adjetivação técnica.",
       "is_correct": true,
-      "explanation": "A descrição é marcada pela estaticidade (o tempo da narrativa ’para’ para que o autor descreva o cenário ou objeto) e pelo uso de adjetivos e verbos de ligação/estado para compor o retrato verbal. ARROW-LEFT VOLTAR À QUESTÃO 65"
+      "explanation": "A descrição é marcada pela estaticidade (o tempo da narrativa ’para’ para que o autor descreva o cenário ou objeto) e pelo uso de adjetivos e verbos de ligação/estado para compor o retrato verbal."
     }
   ],
   "answer_key": "E",
@@ -3829,9 +3817,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Dissertativo-argumentativo, pois, embora contenha sequências expositivas, a in- 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … tenção global do autor é a defesa de uma tese mediante o convencimento do leitor.",
+      "text": "Dissertativo-argumentativo, pois, embora contenha sequências expositivas, a in- tenção global do autor é a defesa de uma tese mediante o convencimento do leitor.",
       "is_correct": true,
-      "explanation": "Conforme a regra da predominância, o que define o tipo textual é a finalidade macro do autor, que no caso é persuadir o leitor sobre a necessidade de mudança no sistema tributário. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Conforme a regra da predominância, o que define o tipo textual é a finalidade macro do autor, que no caso é persuadir o leitor sobre a necessidade de mudança no sistema tributário."
     },
     {
       "id": "C",
@@ -3849,7 +3837,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Expositivo, pois a base técnica e conceitual apresentada no início define a natureza informativa e a objetividade do texto.",
       "is_correct": false,
-      "explanation": "A presença de sequências expositivas não anula a intenção argumentativa principal; a exposição serve, neste caso, como suporte para a argumentação. ARROW-LEFT VOLTAR À QUESTÃO 66"
+      "explanation": "A presença de sequências expositivas não anula a intenção argumentativa principal; a exposição serve, neste caso, como suporte para a argumentação."
     }
   ],
   "answer_key": "B",
@@ -3905,9 +3893,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Dissertativo-expositivo, visto que o foco é a transmissão de informações e a expli- 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … cação de um conceito de forma objetiva.",
+      "text": "Dissertativo-expositivo, visto que o foco é a transmissão de informações e a expli- cação de um conceito de forma objetiva.",
       "is_correct": true,
-      "explanation": "A explicação técnica e objetiva de um funcionamento, sem juízo de valor, é a marca da exposição. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … ARROW-LEFT VOLTAR À QUESTÃO 67"
+      "explanation": "A explicação técnica e objetiva de um funcionamento, sem juízo de valor, é a marca da exposição."
     }
   ],
   "answer_key": "E",
@@ -3963,9 +3951,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "a tecnologia de monitoramento dispensa a atuação de profissionais preparados. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "a tecnologia de monitoramento dispensa a atuação de profissionais preparados.",
       "is_correct": false,
-      "explanation": "O texto afirma exatamente o oposto. ARROW-LEFT VOLTAR À QUESTÃO 68 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "O texto afirma exatamente o oposto."
     }
   ],
   "answer_key": "B",
@@ -4023,7 +4011,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O secretário afirmou que entregara os relatórios no dia seguinte nesta sala.",
       "is_correct": false,
-      "explanation": "O tempo ’entregara’ (mais-que-perfeito) não corresponde ao futuro, e o deítico ’nesta’ não foi alterado. ARROW-LEFT VOLTAR À QUESTÃO 69"
+      "explanation": "O tempo ’entregara’ (mais-que-perfeito) não corresponde ao futuro, e o deítico ’nesta’ não foi alterado."
     }
   ],
   "answer_key": "D",
@@ -4073,7 +4061,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "É uma estrutura típica de textos técnicos e científicos, visando à impessoalidade do relato. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "É uma estrutura típica de textos técnicos e científicos, visando à impessoalidade do relato.",
       "is_correct": false,
       "explanation": "É uma técnica predominantemente literária e ficcional, não técnica."
     },
@@ -4081,13 +4069,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Exige que os verbos sejam mantidos na primeira pessoa do singular para garantir a autenticidade do pensamento.",
       "is_correct": false,
-      "explanation": "No discurso indireto livre, os verbos geralmente permanecem em 3ª pessoa, embora a carga emocional seja da 1ª. ARROW-LEFT VOLTAR À QUESTÃO 70"
+      "explanation": "No discurso indireto livre, os verbos geralmente permanecem em 3ª pessoa, embora a carga emocional seja da 1ª."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "O discurso indireto livre é uma técnica literária onde a fala/pensamento do personagem se mistura à narração sem marcas formais (como ’disse que’ ou travessões). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: O discurso indireto livre é uma técnica literária onde a fala/pensamento do personagem se mistura à narração sem marcas formais (como ’disse que’ ou travessões). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+    "resolution": "O discurso indireto livre é uma técnica literária onde a fala/pensamento do personagem se mistura à narração sem marcas formais (como ’disse que’ ou travessões).",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: O discurso indireto livre é uma técnica literária onde a fala/pensamento do personagem se mistura à narração sem marcas formais (como ’disse que’ ou travessões)."
   }
 }
 ```
@@ -4121,7 +4109,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Pretérito Perfeito do Indicativo -> Pretérito Mais-que-perfeito do Indicativo.",
       "is_correct": true,
-      "explanation": "Esta é a regra clássica de recuo temporal para ações concluídas no passado. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Esta é a regra clássica de recuo temporal para ações concluídas no passado."
     },
     {
       "id": "C",
@@ -4139,7 +4127,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Futuro do Presente -> Futuro do Subjuntivo.",
       "is_correct": false,
-      "explanation": "O Futuro do Presente deve ser transposto para o Futuro do Pretérito. ARROW-LEFT VOLTAR À QUESTÃO 71"
+      "explanation": "O Futuro do Presente deve ser transposto para o Futuro do Pretérito."
     }
   ],
   "answer_key": "B",
@@ -4167,7 +4155,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A distinção entre os modos narrativo e descritivo é um tema recorrente em provas. Sobre a organização temporal desses modos, é correto afirmar que: 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+  "question_text": "A distinção entre os modos narrativo e descritivo é um tema recorrente em provas. Sobre a organização temporal desses modos, é correto afirmar que:",
   "alternatives": [
     {
       "id": "A",
@@ -4197,7 +4185,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Ambos os modos utilizam obrigatoriamente o pretérito perfeito para indicar ações.",
       "is_correct": false,
-      "explanation": "A descrição utiliza frequentemente o pretérito imperfeito (estado), enquanto a narração privilegia o pretérito perfeito (ação concluída). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … ARROW-LEFT VOLTAR À QUESTÃO 72"
+      "explanation": "A descrição utiliza frequentemente o pretérito imperfeito (estado), enquanto a narração privilegia o pretérito perfeito (ação concluída)."
     }
   ],
   "answer_key": "C",
@@ -4253,9 +4241,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Dissertativo, pois o autor expressa uma opinião subjetiva sobre a beleza da natureza. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Dissertativo, pois o autor expressa uma opinião subjetiva sobre a beleza da natureza.",
       "is_correct": false,
-      "explanation": "O trecho é focado na representação de uma imagem, não na defesa de uma tese ou argumento. ARROW-LEFT VOLTAR À QUESTÃO 73 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "O trecho é focado na representação de uma imagem, não na defesa de uma tese ou argumento."
     }
   ],
   "answer_key": "A",
@@ -4313,7 +4301,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Os tipos textuais são infinitos, enquanto os gêneros textuais são limitados a cinco categorias. 1.2.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "É o oposto: os tipos são limitados/restritos, e os gêneros são infinitos e surgem conforme a necessidade social. ARROW-LEFT VOLTAR À QUESTÃO 74"
+      "explanation": "É o oposto: os tipos são limitados/restritos, e os gêneros são infinitos e surgem conforme a necessidade social."
     }
   ],
   "answer_key": "A",
@@ -4351,7 +4339,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "A substituição de verbos de elocução por descrições detalhadas do cenário onde ocorre a fala. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "A substituição de verbos de elocução por descrições detalhadas do cenário onde ocorre a fala.",
       "is_correct": false,
       "explanation": "Verbos de elocução são mantidos ou reforçados para guiar a interpretação da fala."
     },
@@ -4371,13 +4359,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A obrigatoriedade de o diálogo escrito ser uma transcrição ipsis litteris de uma conversa real.",
       "is_correct": false,
-      "explanation": "Trata-se de uma simulação artística ou jornalística, não necessariamente uma transcrição literal e bruta. ARROW-LEFT VOLTAR À QUESTÃO 75"
+      "explanation": "Trata-se de uma simulação artística ou jornalística, não necessariamente uma transcrição literal e bruta."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A ’oralidade fingida’ é a tentativa do texto escrito de mimetizar a fala real, utilizando recursos como reticências para marcar hesitações e frases curtas para simular o dinamismo 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … da conversa.",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: A ’oralidade fingida’ é a tentativa do texto escrito de mimetizar a fala real, utilizando recursos como reticências para marcar hesitações e frases curtas para simular o dinamismo 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … da conversa."
+    "resolution": "A ’oralidade fingida’ é a tentativa do texto escrito de mimetizar a fala real, utilizando recursos como reticências para marcar hesitações e frases curtas para simular o dinamismo da conversa.",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: A ’oralidade fingida’ é a tentativa do texto escrito de mimetizar a fala real, utilizando recursos como reticências para marcar hesitações e frases curtas para simular o dinamismo da conversa."
   }
 }
 ```
@@ -4405,7 +4393,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "No texto literário, as vozes são criadas pelo autor; na entrevista, as vozes pertencem a indivíduos reais.",
       "is_correct": true,
-      "explanation": "O texto literário envolve a criação de vozes ficcionais, enquanto a entrevista lida com vozes de pessoas reais. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "O texto literário envolve a criação de vozes ficcionais, enquanto a entrevista lida com vozes de pessoas reais."
     },
     {
       "id": "B",
@@ -4427,9 +4415,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A entrevista jornalística utiliza intensamente verbos de elocução, enquanto o teatro os dispensa totalmente. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "A entrevista jornalística utiliza intensamente verbos de elocução, enquanto o teatro os dispensa totalmente.",
       "is_correct": false,
-      "explanation": "O teatro utiliza rubricas, mas a entrevista também pode usar verbos de elocução ou apenas a estrutura P/R. ARROW-LEFT VOLTAR À QUESTÃO 76"
+      "explanation": "O teatro utiliza rubricas, mas a entrevista também pode usar verbos de elocução ou apenas a estrutura P/R."
     }
   ],
   "answer_key": "A",
@@ -4481,13 +4469,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Substituir ’afirmou o guia’ por ’asseverou o guia’ em um contexto de certeza.",
       "is_correct": false,
-      "explanation": "’Asseverou’ é apenas uma variante mais formal de ’afirmou’, mantendo o sentido de certeza. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "’Asseverou’ é apenas uma variante mais formal de ’afirmou’, mantendo o sentido de certeza."
     },
     {
       "id": "E",
       "text": "Substituir ’respondeu o aluno’ por ’replicou o aluno’ em um contexto de contestação.",
       "is_correct": false,
-      "explanation": "Embora haja uma nuance, ambos pertencem ao campo da resposta/réplica, não alterando a atitude do personagem de forma tão drástica quanto a alternativa C. ARROW-LEFT VOLTAR À QUESTÃO 77"
+      "explanation": "Embora haja uma nuance, ambos pertencem ao campo da resposta/réplica, não alterando a atitude do personagem de forma tão drástica quanto a alternativa C."
     }
   ],
   "answer_key": "C",
@@ -4537,7 +4525,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Uma oração coordenada explicativa em relação ao travessão anterior. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Uma oração coordenada explicativa em relação ao travessão anterior.",
       "is_correct": false,
       "explanation": "Trata-se de uma oração intercalada ou postpositiva que organiza o diálogo, não uma coordenada explicativa."
     },
@@ -4545,7 +4533,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Um verbo intransitivo puro, sem qualquer relação com a fala anterior.",
       "is_correct": false,
-      "explanation": "No contexto, ele está diretamente ligado à fala, exercendo função de verbo dicendi. ARROW-LEFT VOLTAR À QUESTÃO 78 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "No contexto, ele está diretamente ligado à fala, exercendo função de verbo dicendi."
     }
   ],
   "answer_key": "B",
@@ -4601,9 +4589,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Respeitou a máxima de quantidade, pois deu o máximo de informações úteis para o entrevistador. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Respeitou a máxima de quantidade, pois deu o máximo de informações úteis para o entrevistador.",
       "is_correct": false,
-      "explanation": "Ele falhou na quantidade de informação específica solicitada (sim ou não/detalhes da experiência), focando em outro assunto. ARROW-LEFT VOLTAR À QUESTÃO 79 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Ele falhou na quantidade de informação específica solicitada (sim ou não/detalhes da experiência), focando em outro assunto."
     }
   ],
   "answer_key": "B",
@@ -4661,7 +4649,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O pronome ’nós’ refere-se apenas ao gerente e Ricardo; o pronome ’ele’ refere-se a Ricardo.",
       "is_correct": false,
-      "explanation": "’Nós’ geralmente inclui o interlocutor no contexto de uma tarefa de revisão em equipe, e ’ele’ claramente retoma o gerente, que é quem tem o poder de aprovar. ARROW-LEFT VOLTAR À QUESTÃO 80 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "’Nós’ geralmente inclui o interlocutor no contexto de uma tarefa de revisão em equipe, e ’ele’ claramente retoma o gerente, que é quem tem o poder de aprovar."
     }
   ],
   "answer_key": "B",
@@ -4689,7 +4677,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise o texto abaixo: ’É inadmissível que, em pleno século XXI, o Brasil ainda registre índices tão elevados de analfabetismo funcional. Embora o governo apresente dados de melhora, a realidade das salas de aula revela um cenário de abandono. É urgente que políticas públicas eficazes sejam implementadas para reverter esse quadro vergonhoso.’ 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … Sobre a tipologia do texto acima, assinale a afirmação correta:",
+  "question_text": "Analise o texto abaixo: ’É inadmissível que, em pleno século XXI, o Brasil ainda registre índices tão elevados de analfabetismo funcional. Embora o governo apresente dados de melhora, a realidade das salas de aula revela um cenário de abandono. É urgente que políticas públicas eficazes sejam implementadas para reverter esse quadro vergonhoso.’ Sobre a tipologia do texto acima, assinale a afirmação correta:",
   "alternatives": [
     {
       "id": "A",
@@ -4719,7 +4707,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "É predominantemente expositivo, pois apresenta dados sobre o analfabetismo no Brasil.",
       "is_correct": false,
-      "explanation": "Embora mencione um tema social, o foco não é apenas informar, mas criticar e persuadir, o que o torna argumentativo. ARROW-LEFT VOLTAR À QUESTÃO 81"
+      "explanation": "Embora mencione um tema social, o foco não é apenas informar, mas criticar e persuadir, o que o torna argumentativo."
     }
   ],
   "answer_key": "A",
@@ -4775,15 +4763,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A mudança do Pretérito Perfeito para o Pretérito Imperfeito do Indicativo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "A mudança do Pretérito Perfeito para o Pretérito Imperfeito do Indicativo.",
       "is_correct": true,
-      "explanation": "Esta é uma sutil marca linguística: o perfeito ’faz a história andar’, enquanto o imperfeito ’para a história’ para descrever o ambiente ou o estado do personagem. ARROW-LEFT VOLTAR À QUESTÃO 82"
+      "explanation": "Esta é uma sutil marca linguística: o perfeito ’faz a história andar’, enquanto o imperfeito ’para a história’ para descrever o ambiente ou o estado do personagem."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "O Pretérito Perfeito marca ações pontuais e concluídas (narração), enquanto o Pretérito Imperfeito marca estados, descrições de cenários ou ações habituais (descrição). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: O Pretérito Perfeito marca ações pontuais e concluídas (narração), enquanto o Pretérito Imperfeito marca estados, descrições de cenários ou ações habituais (descrição). 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+    "resolution": "O Pretérito Perfeito marca ações pontuais e concluídas (narração), enquanto o Pretérito Imperfeito marca estados, descrições de cenários ou ações habituais (descrição).",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: O Pretérito Perfeito marca ações pontuais e concluídas (narração), enquanto o Pretérito Imperfeito marca estados, descrições de cenários ou ações habituais (descrição)."
   }
 }
 ```
@@ -4817,7 +4805,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "O uso de definições de dicionário para explicar termos complexos.",
       "is_correct": false,
-      "explanation": "O uso de definições é uma marca clássica da sequência expositiva. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "O uso de definições é uma marca clássica da sequência expositiva."
     },
     {
       "id": "C",
@@ -4835,7 +4823,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A presença de dados estatísticos e citações de autoridades no assunto.",
       "is_correct": false,
-      "explanation": "Dados e citações podem aparecer em ambos; na exposição servem para informar, na argumentação servem como prova para a tese. ARROW-LEFT VOLTAR À QUESTÃO 83"
+      "explanation": "Dados e citações podem aparecer em ambos; na exposição servem para informar, na argumentação servem como prova para a tese."
     }
   ],
   "answer_key": "C",
@@ -4867,7 +4855,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Caracteriza a sequência expositiva, sendo o tempo verbal padrão para definições 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … de conceitos científicos e universais.",
+      "text": "Caracteriza a sequência expositiva, sendo o tempo verbal padrão para definições de conceitos científicos e universais.",
       "is_correct": false,
       "explanation": "A sequência expositiva utiliza predominantemente o Presente do Indicativo para conferir um caráter de verdade universal ou atualidade à informação."
     },
@@ -4887,13 +4875,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "É a marca predominante da sequência narrativa, pois indica ações pontuais e concluídas que fazem a história progredir.",
       "is_correct": false,
-      "explanation": "A marca da progressão narrativa (ações concluídas) é o Pretérito Perfeito do Indicativo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "A marca da progressão narrativa (ações concluídas) é o Pretérito Perfeito do Indicativo."
     },
     {
       "id": "E",
       "text": "É frequente em sequências descritivas inseridas em narrações, servindo para apre- sentar estados, hábitos ou o cenário onde as ações ocorrem.",
       "is_correct": true,
-      "explanation": "O Pretérito Imperfeito é marca da sequência descritiva para descrever hábitos ou cenários (o ’ser/estar’ no passado). ARROW-LEFT VOLTAR À QUESTÃO 84"
+      "explanation": "O Pretérito Imperfeito é marca da sequência descritiva para descrever hábitos ou cenários (o ’ser/estar’ no passado)."
     }
   ],
   "answer_key": "E",
@@ -4949,9 +4937,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Expositivo, uma vez que o editorial visa informar o leitor sobre um fato ocorrido. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Expositivo, uma vez que o editorial visa informar o leitor sobre um fato ocorrido.",
       "is_correct": false,
-      "explanation": "O editorial vai além da informação; ele emite opinião e juízo de valor, o que o afasta da exposição pura. ARROW-LEFT VOLTAR À QUESTÃO 85 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "O editorial vai além da informação; ele emite opinião e juízo de valor, o que o afasta da exposição pura."
     }
   ],
   "answer_key": "D",
@@ -5009,7 +4997,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "É marcada pela simultaneidade dos fatos e pelo predomínio de verbos de estado e adjetivação.",
       "is_correct": true,
-      "explanation": "A descrição funciona como uma fotografia, onde os detalhes são apresentados simultaneamente. ARROW-LEFT VOLTAR À QUESTÃO 86"
+      "explanation": "A descrição funciona como uma fotografia, onde os detalhes são apresentados simultaneamente."
     }
   ],
   "answer_key": "E",
@@ -5037,7 +5025,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A distinção entre as tipologias narrativa e descritiva é um tema recorrente em exames oficiais, fundamentando-se principalmente na progressão temporal e na natureza da representação. Sobre essa distinção, assinale a alternativa correta: 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+  "question_text": "A distinção entre as tipologias narrativa e descritiva é um tema recorrente em exames oficiais, fundamentando-se principalmente na progressão temporal e na natureza da representação. Sobre essa distinção, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -5067,13 +5055,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Enquanto a narração se estrutura sobre uma sucessão de eventos (progressão temporal), a descrição organiza-se de forma espacial e simultânea, assemelhando- se a uma fotografia verbal.",
       "is_correct": true,
-      "explanation": "Esta é a definição clássica da diferença entre o relato de ações (narração) e o retrato de seres/cenas (descrição). ARROW-LEFT VOLTAR À QUESTÃO 87"
+      "explanation": "Esta é a definição clássica da diferença entre o relato de ações (narração) e o retrato de seres/cenas (descrição)."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A narração depende da progressão do tempo (antes, durante, depois), enquanto a 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … descrição é estática, focando na caracterização de algo em um momento parado no tempo.",
-    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: A narração depende da progressão do tempo (antes, durante, depois), enquanto a 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … descrição é estática, focando na caracterização de algo em um momento parado no tempo."
+    "resolution": "A narração depende da progressão do tempo (antes, durante, depois), enquanto a descrição é estática, focando na caracterização de algo em um momento parado no tempo.",
+    "theoretical_content": "As sequências textuais são modos de organização do discurso. A narração apresenta acontecimentos em progressão temporal, com ações, personagens, espaço e tempo. A descrição caracteriza seres, objetos, ambientes ou estados, destacando atributos e relações espaciais. A exposição apresenta informações e conceitos de maneira organizada; a argumentação defende uma tese por meio de razões e evidências. A injunção orienta o leitor a executar ações, frequentemente com verbos no imperativo ou no infinitivo com valor de ordem. A sequência dialogal organiza turnos de fala entre interlocutores.\n\nUm mesmo gênero pode combinar várias sequências. Uma reportagem, por exemplo, pode narrar um fato, descrever o local e argumentar ao contextualizar suas consequências. Por isso, a classificação deve considerar a sequência predominante e a finalidade global, não apenas a presença isolada de um verbo ou de um trecho.\n\nNa análise, observe os verbos, a organização temporal, a presença de instruções, a apresentação de características e a defesa de pontos de vista. Imperativos e passos numerados costumam sinalizar injunção; verbos de ação no passado favorecem a narração; adjetivos e verbos de estado podem contribuir para a descrição; conceitos e explicações caracterizam a exposição.\n\nAplicação ao problema apresentado: A narração depende da progressão do tempo (antes, durante, depois), enquanto a descrição é estática, focando na caracterização de algo em um momento parado no tempo."
   }
 }
 ```
@@ -5117,7 +5105,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Direto, pois apresenta uma interrogação direta do personagem. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …",
+      "text": "Direto, pois apresenta uma interrogação direta do personagem.",
       "is_correct": false,
       "explanation": "Não há marcas gráficas (travessão/aspas) nem verbos de elocução que sustentem o discurso direto."
     },
@@ -5125,7 +5113,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Indireto livre, pois a interrogação e a urgência emocional do personagem fundem-se à narração de terceira pessoa sem conectivos.",
       "is_correct": true,
-      "explanation": "A fusão da 3ª pessoa gramatical com a carga subjetiva e a pontuação emocional da 1ª pessoa define o discurso indireto livre. ARROW-LEFT VOLTAR À QUESTÃO 88"
+      "explanation": "A fusão da 3ª pessoa gramatical com a carga subjetiva e a pontuação emocional da 1ª pessoa define o discurso indireto livre."
     }
   ],
   "answer_key": "E",
@@ -5171,7 +5159,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Ele perguntou se você já tinha terminado o trabalho.",
       "is_correct": false,
-      "explanation": "Embora o tempo verbal esteja correto (forma composta), a manutenção do pronome ’você’ é um erro de transposição de pessoa. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "Embora o tempo verbal esteja correto (forma composta), a manutenção do pronome ’você’ é um erro de transposição de pessoa."
     },
     {
       "id": "D",
@@ -5183,7 +5171,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Ele perguntou que você já terminara o trabalho.",
       "is_correct": false,
-      "explanation": "O conectivo ’que’ é para afirmações; em perguntas, usa-se ’se’. Além disso, o pronome ’você’ deveria ser alterado. ARROW-LEFT VOLTAR À QUESTÃO 89"
+      "explanation": "O conectivo ’que’ é para afirmações; em perguntas, usa-se ’se’. Além disso, o pronome ’você’ deveria ser alterado."
     }
   ],
   "answer_key": "B",
@@ -5211,7 +5199,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Determinadas bancas examinadoras exploram a ’zona de confusão’ entre narração e injunção. Um exemplo clássico é a parábola ou fábula. Se um examinador questionar o objetivo do texto integral de uma fábula que visa ensinar uma conduta moral, a resposta 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … correta deve considerar:",
+  "question_text": "Determinadas bancas examinadoras exploram a ’zona de confusão’ entre narração e injunção. Um exemplo clássico é a parábola ou fábula. Se um examinador questionar o objetivo do texto integral de uma fábula que visa ensinar uma conduta moral, a resposta correta deve considerar:",
   "alternatives": [
     {
       "id": "A",
@@ -5235,13 +5223,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "A predominância dissertativa, pois toda fábula é, em essência, um debate acadêmico sobre ética.",
       "is_correct": false,
-      "explanation": "A fábula não é um debate acadêmico; ela utiliza a narrativa para ilustrar uma lição de forma indireta e popular. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, …"
+      "explanation": "A fábula não é um debate acadêmico; ela utiliza a narrativa para ilustrar uma lição de forma indireta e popular."
     },
     {
       "id": "E",
       "text": "A predominância narrativa, pois a estrutura de personagens e conflito ocupa a maior parte do texto.",
       "is_correct": false,
-      "explanation": "Esta alternativa descreve a tipologia predominante quanto à forma (estrutura), mas o enunciado solicita o ’objetivo do texto integral’. Em contextos de intenção do autor, a finalidade moralizante (injunção) prevalece sobre a forma narrativa. ARROW-LEFT VOLTAR À QUESTÃO 90"
+      "explanation": "Esta alternativa descreve a tipologia predominante quanto à forma (estrutura), mas o enunciado solicita o ’objetivo do texto integral’. Em contextos de intenção do autor, a finalidade moralizante (injunção) prevalece sobre a forma narrativa."
     }
   ],
   "answer_key": "B",
@@ -5291,7 +5279,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "A narração é um modo autossuficiente que prescinde totalmente de elementos 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … descritivos para a construção do cenário.",
+      "text": "A narração é um modo autossuficiente que prescinde totalmente de elementos descritivos para a construção do cenário.",
       "is_correct": false,
       "explanation": "A narração depende da descrição para situar o leitor e dar concretude aos personagens e ambientes."
     },
@@ -5299,7 +5287,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A dissertação utiliza a narração e a descrição apenas como adornos estéticos, sem função probatória ou argumentativa.",
       "is_correct": false,
-      "explanation": "Na dissertação, narrações de fatos reais ou descrições de situações servem como provas ou exemplos para sustentar argumentos. ARROW-LEFT VOLTAR À QUESTÃO 91 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Na dissertação, narrações de fatos reais ou descrições de situações servem como provas ou exemplos para sustentar argumentos."
     }
   ],
   "answer_key": "C",
@@ -5355,7 +5343,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Se o texto responde à pergunta ’Como fazer?’, mas não utiliza verbos no imperativo, ele deixa de ser injuntivo. 1. Língua Portuguesa 1.2. Tipos de Texto (Dialogal, Descritivo, Narrativo, … 1.2.4 Gabaritos e Comentários 34",
+      "text": "Se o texto responde à pergunta ’Como fazer?’, mas não utiliza verbos no imperativo, ele deixa de ser injuntivo.",
       "is_correct": false,
       "explanation": "O modo injuntivo também pode utilizar o infinitivo ou o futuro do presente com valor de ordem, não se limitando ao imperativo."
     }
@@ -5415,7 +5403,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A validade de um enunciado depende exclusivamente da correção gramatical segundo a norma-padrão.",
       "is_correct": false,
-      "explanation": "Um enunciado pode ser perfeitamente compreensível e eficaz em sua esfera (ex: esfera cotidiana) mesmo sem seguir a norma-padrão. 1. Língua Portuguesa 1.3. Gêneros Discursivos ARROW-LEFT VOLTAR À QUESTÃO 93"
+      "explanation": "Um enunciado pode ser perfeitamente compreensível e eficaz em sua esfera (ex: esfera cotidiana) mesmo sem seguir a norma-padrão."
     }
   ],
   "answer_key": "D",
@@ -5453,7 +5441,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Apresenta um inventário ilimitado de formas que surgem conforme a evolução das 1. Língua Portuguesa 1.3. Gêneros Discursivos interações sociais.",
+      "text": "Apresenta um inventário ilimitado de formas que surgem conforme a evolução das interações sociais.",
       "is_correct": false,
       "explanation": "O inventário ilimitado é uma característica dos gêneros textuais, que acompanham as mudanças sociais."
     },
@@ -5473,7 +5461,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Diz respeito à função social do texto e ao contexto comunicativo em que ele está inserido.",
       "is_correct": false,
-      "explanation": "A função social e o contexto são elementos definidores dos gêneros textuais, não dos tipos. ARROW-LEFT VOLTAR À QUESTÃO 94 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A função social e o contexto são elementos definidores dos gêneros textuais, não dos tipos."
     }
   ],
   "answer_key": "C",
@@ -5529,9 +5517,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "ausência de conteúdo temático, focando-se apenas no estilo e na escolha do voca- bulário técnico. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "ausência de conteúdo temático, focando-se apenas no estilo e na escolha do voca- bulário técnico.",
       "is_correct": false,
-      "explanation": "Segundo a tríade de Bakhtin, o conteúdo temático é um dos três elementos essenciais que definem um gênero textual. ARROW-LEFT VOLTAR À QUESTÃO 95"
+      "explanation": "Segundo a tríade de Bakhtin, o conteúdo temático é um dos três elementos essenciais que definem um gênero textual."
     }
   ],
   "answer_key": "D",
@@ -5589,13 +5577,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Narração, Descrição e Dissertação.",
       "is_correct": false,
-      "explanation": "Narração, descrição e dissertação referem-se a tipos textuais (sequências), que servem de base para a composição, mas não são a tríade do gênero. ARROW-LEFT VOLTAR À QUESTÃO 96"
+      "explanation": "Narração, descrição e dissertação referem-se a tipos textuais (sequências), que servem de base para a composição, mas não são a tríade do gênero."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.3. Gêneros Discursivos A alternativa reflete exatamente a tríade bakhtiniana: o Tema (o que se diz), o Estilo (recursos linguísticos) e a Composição (organização interna).",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.3. Gêneros Discursivos A alternativa reflete exatamente a tríade bakhtiniana: o Tema (o que se diz), o Estilo (recursos linguísticos) e a Composição (organização interna)."
+    "resolution": "A alternativa reflete exatamente a tríade bakhtiniana: o Tema (o que se diz), o Estilo (recursos linguísticos) e a Composição (organização interna).",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A alternativa reflete exatamente a tríade bakhtiniana: o Tema (o que se diz), o Estilo (recursos linguísticos) e a Composição (organização interna)."
   }
 }
 ```
@@ -5623,11 +5611,11 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "Refere-se a modelos práticos que surgem das necessidades das esferas humanas, como o e-mail e o meme.",
       "is_correct": false,
-      "explanation": "Modelos práticos como e-mail e meme são exemplos de gêneros textuais, não de tipos. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Modelos práticos como e-mail e meme são exemplos de gêneros textuais, não de tipos."
     },
     {
       "id": "B",
-      "text": "Representa a evolução sociológica da comunicação, adaptando-se conforme as 1. Língua Portuguesa 1.3. Gêneros Discursivos mudanças tecnológicas da sociedade.",
+      "text": "Representa a evolução sociológica da comunicação, adaptando-se conforme as mudanças tecnológicas da sociedade.",
       "is_correct": false,
       "explanation": "A característica de evolução e adaptação sociológica é própria dos gêneros textuais, que são infinitos."
     },
@@ -5647,7 +5635,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Constitui-se como o nome dado aos textos que circulam no mundo, sendo definido primordialmente pelo seu público-alvo.",
       "is_correct": false,
-      "explanation": "A definição apresentada refere-se aos gêneros textuais, que são as formas sociais de circulação dos textos. ARROW-LEFT VOLTAR À QUESTÃO 97"
+      "explanation": "A definição apresentada refere-se aos gêneros textuais, que são as formas sociais de circulação dos textos."
     }
   ],
   "answer_key": "D",
@@ -5699,13 +5687,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Gênero Expositivo e Tipo Instrucional.",
       "is_correct": false,
-      "explanation": "Embora o manual exponha informações, sua finalidade principal e estrutura de verbos no imperativo o caracterizam como injuntivo. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Embora o manual exponha informações, sua finalidade principal e estrutura de verbos no imperativo o caracterizam como injuntivo."
     },
     {
       "id": "E",
-      "text": "Gênero Manual de Instruções e Tipo Dissertativo. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Gênero Manual de Instruções e Tipo Dissertativo.",
       "is_correct": false,
-      "explanation": "O tipo dissertativo foca na transmissão de conhecimentos ou defesa de ideias, o que não é o foco principal de um manual de instruções. ARROW-LEFT VOLTAR À QUESTÃO 98"
+      "explanation": "O tipo dissertativo foca na transmissão de conhecimentos ou defesa de ideias, o que não é o foco principal de um manual de instruções."
     }
   ],
   "answer_key": "C",
@@ -5763,7 +5751,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Ausência de marcas de subjetividade ou de opinião do autor.",
       "is_correct": false,
-      "explanation": "Muitos gêneros, como o artigo de opinião e a crônica, são marcados justamente pela subjetividade. ARROW-LEFT VOLTAR À QUESTÃO 99 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Muitos gêneros, como o artigo de opinião e a crônica, são marcados justamente pela subjetividade."
     }
   ],
   "answer_key": "C",
@@ -5819,9 +5807,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Expressar a opinião oficial do veículo de comunicação sobre um tema. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Expressar a opinião oficial do veículo de comunicação sobre um tema.",
       "is_correct": true,
-      "explanation": "O editorial é um texto argumentativo que defende o ponto de vista do veículo de comunicação. ARROW-LEFT VOLTAR À QUESTÃO 100"
+      "explanation": "O editorial é um texto argumentativo que defende o ponto de vista do veículo de comunicação."
     }
   ],
   "answer_key": "E",
@@ -5879,13 +5867,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Exigência de alto grau de planejamento e revisão textual prévia.",
       "is_correct": false,
-      "explanation": "O planejamento rigoroso é uma marca dos gêneros secundários, não dos primários. ARROW-LEFT VOLTAR À QUESTÃO 101"
+      "explanation": "O planejamento rigoroso é uma marca dos gêneros secundários, não dos primários."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "Os gêneros primários são definidos por sua natureza simples, surgindo na esfera da vida privada e da interação face a face, caracterizando-se pela espontaneidade. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: Os gêneros primários são definidos por sua natureza simples, surgindo na esfera da vida privada e da interação face a face, caracterizando-se pela espontaneidade. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+    "resolution": "Os gêneros primários são definidos por sua natureza simples, surgindo na esfera da vida privada e da interação face a face, caracterizando-se pela espontaneidade.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: Os gêneros primários são definidos por sua natureza simples, surgindo na esfera da vida privada e da interação face a face, caracterizando-se pela espontaneidade."
   }
 }
 ```
@@ -5907,7 +5895,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Os gêneros secundários (complexos) são construídos sobre os primários, passando por processos de estilização. Assinale a opção que contém apenas exemplos de gêneros secundários. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+  "question_text": "Os gêneros secundários (complexos) são construídos sobre os primários, passando por processos de estilização. Assinale a opção que contém apenas exemplos de gêneros secundários.",
   "alternatives": [
     {
       "id": "A",
@@ -5925,7 +5913,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Carta pessoal, conferência científica e saudação.",
       "is_correct": false,
-      "explanation": "Carta pessoal e saudação são gêneros primários. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Carta pessoal e saudação são gêneros primários."
     },
     {
       "id": "D",
@@ -5937,7 +5925,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Bilhete, diálogo entre amigos e saudação.",
       "is_correct": false,
-      "explanation": "Todos os itens listados são gêneros primários (cotidianos e espontâneos). ARROW-LEFT VOLTAR À QUESTÃO 102"
+      "explanation": "Todos os itens listados são gêneros primários (cotidianos e espontâneos)."
     }
   ],
   "answer_key": "D",
@@ -5993,9 +5981,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Os gêneros textuais referem-se à estrutura interna e fixa do texto, independente- mente do seu uso na sociedade. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Os gêneros textuais referem-se à estrutura interna e fixa do texto, independente- mente do seu uso na sociedade.",
       "is_correct": false,
-      "explanation": "A estrutura interna e fixa é foco da tipologia textual, enquanto o gênero foca na função social e no uso prático. 1. Língua Portuguesa 1.3. Gêneros Discursivos ARROW-LEFT VOLTAR À QUESTÃO 103"
+      "explanation": "A estrutura interna e fixa é foco da tipologia textual, enquanto o gênero foca na função social e no uso prático."
     }
   ],
   "answer_key": "D",
@@ -6053,7 +6041,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Garantir que o texto seja assinado por uma autoridade de alto escalão para ter validade.",
       "is_correct": false,
-      "explanation": "A validade do documento não define o atributo da concisão; além disso, a impessoalidade é que rege a relação institucional. ARROW-LEFT VOLTAR À QUESTÃO 104 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A validade do documento não define o atributo da concisão; além disso, a impessoalidade é que rege a relação institucional."
     }
   ],
   "answer_key": "C",
@@ -6103,7 +6091,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Ao conjunto de regras gramaticais e sintáticas que estruturam o enunciado. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Ao conjunto de regras gramaticais e sintáticas que estruturam o enunciado.",
       "is_correct": false,
       "explanation": "A estrutura gramatical diz respeito à forma e à norma culta, não ao propósito comunicativo."
     },
@@ -6111,7 +6099,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Ao resumo das ideias principais apresentadas ao longo do desenvolvimento textual.",
       "is_correct": false,
-      "explanation": "O resumo das ideias é uma síntese do conteúdo, enquanto a finalidade é o objetivo (ex: convencer, informar). ARROW-LEFT VOLTAR À QUESTÃO 105"
+      "explanation": "O resumo das ideias é uma síntese do conteúdo, enquanto a finalidade é o objetivo (ex: convencer, informar)."
     }
   ],
   "answer_key": "A",
@@ -6167,15 +6155,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Uma página oficial de notícias na internet. 1. Língua Portuguesa 1.3. Gêneros Discursivos 1.3.2 Questões de Nível Médio",
+      "text": "Uma página oficial de notícias na internet. 1.3.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "Páginas da web são suportes convencionais no ambiente virtual, destinados à circulação de informação. ARROW-LEFT VOLTAR À QUESTÃO 106"
+      "explanation": "Páginas da web são suportes convencionais no ambiente virtual, destinados à circulação de informação."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "Suportes incidentais são objetos que não foram criados primordialmente para a leitura, mas que acabam portando textos. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: Suportes incidentais são objetos que não foram criados primordialmente para a leitura, mas que acabam portando textos. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+    "resolution": "Suportes incidentais são objetos que não foram criados primordialmente para a leitura, mas que acabam portando textos.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: Suportes incidentais são objetos que não foram criados primordialmente para a leitura, mas que acabam portando textos."
   }
 }
 ```
@@ -6215,7 +6203,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "O suporte é o campo da atividade humana, enquanto a esfera é o meio físico onde o texto circula.",
       "is_correct": false,
-      "explanation": "As definições estão invertidas: a esfera é o campo social e o suporte é o meio físico. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "As definições estão invertidas: a esfera é o campo social e o suporte é o meio físico."
     },
     {
       "id": "D",
@@ -6227,7 +6215,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A internet é considerada uma esfera de comunicação única, pois padroniza todos os gêneros textuais que nela circulam.",
       "is_correct": false,
-      "explanation": "A internet é um suporte (ou conjunto de suportes) que abriga diversas esferas de comunicação (acadêmica, cotidiana, jurídica, etc.). ARROW-LEFT VOLTAR À QUESTÃO 107"
+      "explanation": "A internet é um suporte (ou conjunto de suportes) que abriga diversas esferas de comunicação (acadêmica, cotidiana, jurídica, etc.)."
     }
   ],
   "answer_key": "B",
@@ -6259,7 +6247,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "A estabilidade dos enunciados é uma característica exclusiva da esfera jurídica, dada a rigidez das leis. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "A estabilidade dos enunciados é uma característica exclusiva da esfera jurídica, dada a rigidez das leis.",
       "is_correct": false,
       "explanation": "Todas as esferas possuem enunciados relativamente estáveis, inclusive a cotidiana."
     },
@@ -6285,7 +6273,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "É a estabilidade relativa que permite ao interlocutor reconhecer o gênero e prever a estrutura e o propósito do texto.",
       "is_correct": true,
-      "explanation": "Sem essa estabilidade mínima, não reconheceríamos um editorial, uma receita ou uma sentença. ARROW-LEFT VOLTAR À QUESTÃO 108 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Sem essa estabilidade mínima, não reconheceríamos um editorial, uma receita ou uma sentença."
     }
   ],
   "answer_key": "E",
@@ -6341,9 +6329,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Esfera Religiosa; finalidade de doutrinação e prática de fé. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Esfera Religiosa; finalidade de doutrinação e prática de fé.",
       "is_correct": false,
-      "explanation": "A esfera religiosa possui léxico e finalidades voltadas ao sagrado e à doutrina, diferentes do rigor científico mencionado. ARROW-LEFT VOLTAR À QUESTÃO 109"
+      "explanation": "A esfera religiosa possui léxico e finalidades voltadas ao sagrado e à doutrina, diferentes do rigor científico mencionado."
     }
   ],
   "answer_key": "C",
@@ -6399,15 +6387,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O conteúdo temático permanece rigorosamente o mesmo, uma vez que a língua funciona como um sistema neutro de transmissão de dados que independe da esfera de atividade humana. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "O conteúdo temático permanece rigorosamente o mesmo, uma vez que a língua funciona como um sistema neutro de transmissão de dados que independe da esfera de atividade humana.",
       "is_correct": false,
-      "explanation": "A língua não é um sistema neutro; ela é uma prática social. O conteúdo temático é afetado pela forma como é apresentado e pela intenção do locutor dentro de cada esfera. ARROW-LEFT VOLTAR À QUESTÃO 110"
+      "explanation": "A língua não é um sistema neutro; ela é uma prática social. O conteúdo temático é afetado pela forma como é apresentado e pela intenção do locutor dentro de cada esfera."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "De acordo com a teoria de Bakhtin, os gêneros textuais são definidos por três elementos indissociáveis: conteúdo temático, estilo e construção composicional. Quando um 1. Língua Portuguesa 1.3. Gêneros Discursivos conteúdo migra de uma esfera (Administrativa) para outra (Cotidiana), o enunciado deve se adaptar às novas condições de comunicação, ao novo público-alvo e à nova finalidade, alterando sua forma e estilo para manter a eficácia comunicativa.",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: De acordo com a teoria de Bakhtin, os gêneros textuais são definidos por três elementos indissociáveis: conteúdo temático, estilo e construção composicional. Quando um 1. Língua Portuguesa 1.3. Gêneros Discursivos conteúdo migra de uma esfera (Administrativa) para outra (Cotidiana), o enunciado deve se adaptar às novas condições de comunicação, ao novo público-alvo e à nova finalidade, alterando sua forma e estilo para manter a eficácia comunicativa."
+    "resolution": "De acordo com a teoria de Bakhtin, os gêneros textuais são definidos por três elementos indissociáveis: conteúdo temático, estilo e construção composicional. Quando um conteúdo migra de uma esfera (Administrativa) para outra (Cotidiana), o enunciado deve se adaptar às novas condições de comunicação, ao novo público-alvo e à nova finalidade, alterando sua forma e estilo para manter a eficácia comunicativa.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: De acordo com a teoria de Bakhtin, os gêneros textuais são definidos por três elementos indissociáveis: conteúdo temático, estilo e construção composicional. Quando um conteúdo migra de uma esfera (Administrativa) para outra (Cotidiana), o enunciado deve se adaptar às novas condições de comunicação, ao novo público-alvo e à nova finalidade, alterando sua forma e estilo para manter a eficácia comunicativa."
   }
 }
 ```
@@ -6459,13 +6447,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Conto e Literatura.",
       "is_correct": false,
-      "explanation": "Conto é um gênero, mas literatura é uma esfera de comunicação ou área artística, não um suporte físico. ARROW-LEFT VOLTAR À QUESTÃO 111"
+      "explanation": "Conto é um gênero, mas literatura é uma esfera de comunicação ou área artística, não um suporte físico."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "O outdoor é o suporte físico de veiculação, enquanto a propaganda é o gênero textual que nele circula. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: O outdoor é o suporte físico de veiculação, enquanto a propaganda é o gênero textual que nele circula. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+    "resolution": "O outdoor é o suporte físico de veiculação, enquanto a propaganda é o gênero textual que nele circula.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: O outdoor é o suporte físico de veiculação, enquanto a propaganda é o gênero textual que nele circula."
   }
 }
 ```
@@ -6505,11 +6493,11 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "A descrição dos ingredientes impede que o texto seja classificado como injuntivo.",
       "is_correct": false,
-      "explanation": "A presença de sequências descritivas (ingredientes) é secundária e serve de suporte à injunção predominante. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A presença de sequências descritivas (ingredientes) é secundária e serve de suporte à injunção predominante."
     },
     {
       "id": "D",
-      "text": "O modo de preparo é do tipo injuntivo, o que define a função social do gênero. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "O modo de preparo é do tipo injuntivo, o que define a função social do gênero.",
       "is_correct": true,
       "explanation": "A função principal da receita é instruir, papel desempenhado pela sequência injuntiva."
     },
@@ -6517,7 +6505,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O texto é puramente expositivo, pois apenas transmite dados técnicos sobre ali- mentos.",
       "is_correct": false,
-      "explanation": "Embora informe, a finalidade precípua não é apenas a exposição de dados, mas a orientação de uma ação. ARROW-LEFT VOLTAR À QUESTÃO 112"
+      "explanation": "Embora informe, a finalidade precípua não é apenas a exposição de dados, mas a orientação de uma ação."
     }
   ],
   "answer_key": "D",
@@ -6569,13 +6557,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Os gêneros textuais, por serem ’relativamente estáveis’, são imunes a processos de evolução histórica, mantendo as mesmas características formais independente- mente das mudanças nas esferas de comunicação.",
       "is_correct": false,
-      "explanation": "A expressão ’relativamente estáveis’ indica justamente que, embora possuam padrões que permitam o reconhecimento, os gêneros são dinâmicos e se transformam conforme as necessidades históricas e tecnológicas. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A expressão ’relativamente estáveis’ indica justamente que, embora possuam padrões que permitam o reconhecimento, os gêneros são dinâmicos e se transformam conforme as necessidades históricas e tecnológicas."
     },
     {
       "id": "E",
-      "text": "O que define a função social de um texto é exclusivamente a sua tipologia pre- dominante, sendo o gênero textual apenas uma nomenclatura secundária para o suporte onde o texto circula. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "O que define a função social de um texto é exclusivamente a sua tipologia pre- dominante, sendo o gênero textual apenas uma nomenclatura secundária para o suporte onde o texto circula.",
       "is_correct": false,
-      "explanation": "A função social é definida pelo gênero, não pela tipologia. Além disso, gênero e suporte são conceitos distintos; o suporte é o veículo físico ou virtual (jornal, site), e o gênero é a forma do enunciado (notícia, edital). ARROW-LEFT VOLTAR À QUESTÃO 113"
+      "explanation": "A função social é definida pelo gênero, não pela tipologia. Além disso, gênero e suporte são conceitos distintos; o suporte é o veículo físico ou virtual (jornal, site), e o gênero é a forma do enunciado (notícia, edital)."
     }
   ],
   "answer_key": "C",
@@ -6631,9 +6619,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A descrição das etapas concluídas caracteriza o tipo textual narrativo, obrigatoria- mente marcado pelo uso de verbos no presente do indicativo. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "A descrição das etapas concluídas caracteriza o tipo textual narrativo, obrigatoria- mente marcado pelo uso de verbos no presente do indicativo.",
       "is_correct": false,
-      "explanation": "A descrição de etapas foca em características e estados (tipo descritivo) ou relato de fatos (narrativo), mas o tipo narrativo é tipicamente marcado pelo pretérito perfeito, não pelo presente. ARROW-LEFT VOLTAR À QUESTÃO 114 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A descrição de etapas foca em características e estados (tipo descritivo) ou relato de fatos (narrativo), mas o tipo narrativo é tipicamente marcado pelo pretérito perfeito, não pelo presente."
     }
   ],
   "answer_key": "D",
@@ -6691,7 +6679,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O estilo e o conteúdo temático são elementos exclusivos da tipologia textual, enquanto o gênero se restringe à análise do suporte físico do texto.",
       "is_correct": false,
-      "explanation": "De acordo com a tríade de Bakhtin, o conteúdo temático, o estilo e a construção composicional são os três elementos que definem o Gênero Textual, e não a tipologia. O suporte é apenas o veículo de circulação. ARROW-LEFT VOLTAR À QUESTÃO 115 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "De acordo com a tríade de Bakhtin, o conteúdo temático, o estilo e a construção composicional são os três elementos que definem o Gênero Textual, e não a tipologia. O suporte é apenas o veículo de circulação."
     }
   ],
   "answer_key": "D",
@@ -6719,7 +6707,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Ao elaborar um relatório de vistoria sobre as condições físicas de um edifício público, um servidor detalha minuciosamente o estado de conservação das instalações, mencionando que as paredes apresentam fissuras profundas, a fiação elétrica encontra-se desgastada e o sistema hidráulico exibe sinais severos de oxidação. Do ponto de vista da organização textual, a sequência destacada é classificada como predominantemente descritiva. Assinale a alternativa que apresenta a característica linguística ou estrutural 1. Língua Portuguesa 1.3. Gêneros Discursivos que justifica essa classificação tipológica.",
+  "question_text": "Ao elaborar um relatório de vistoria sobre as condições físicas de um edifício público, um servidor detalha minuciosamente o estado de conservação das instalações, mencionando que as paredes apresentam fissuras profundas, a fiação elétrica encontra-se desgastada e o sistema hidráulico exibe sinais severos de oxidação. Do ponto de vista da organização textual, a sequência destacada é classificada como predominantemente descritiva. Assinale a alternativa que apresenta a característica linguística ou estrutural que justifica essa classificação tipológica.",
   "alternatives": [
     {
       "id": "A",
@@ -6749,7 +6737,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A utilização de sequências injuntivas que visam a orientar o leitor sobre como proceder para realizar os reparos necessários.",
       "is_correct": false,
-      "explanation": "Sequências injuntivas utilizam verbos no imperativo ou infinitivo com valor de ordem/instrução, o que não ocorre no trecho destacado. ARROW-LEFT VOLTAR À QUESTÃO 116 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Sequências injuntivas utilizam verbos no imperativo ou infinitivo com valor de ordem/instrução, o que não ocorre no trecho destacado."
     }
   ],
   "answer_key": "A",
@@ -6799,7 +6787,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "O estilo é o único elemento da tríade que permanece imutável, independentemente da esfera de comunicação. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "O estilo é o único elemento da tríade que permanece imutável, independentemente da esfera de comunicação.",
       "is_correct": false,
       "explanation": "O estilo não é imutável; ele varia conforme o gênero e a esfera, e é um dos elementos que conferem ’estabilidade relativa’ ao gênero."
     },
@@ -6807,7 +6795,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Refere-se exclusivamente à organização visual do texto, como o uso de parágrafos e títulos.",
       "is_correct": false,
-      "explanation": "A organização visual e a arquitetura do texto referem-se à Construção Composicional, não ao Estilo. ARROW-LEFT VOLTAR À QUESTÃO 117"
+      "explanation": "A organização visual e a arquitetura do texto referem-se à Construção Composicional, não ao Estilo."
     }
   ],
   "answer_key": "C",
@@ -6863,15 +6851,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A composição e o tipo textual são sinônimos perfeitos na análise de gêneros. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "A composição e o tipo textual são sinônimos perfeitos na análise de gêneros.",
       "is_correct": false,
-      "explanation": "São conceitos distintos: a composição é a forma do gênero; o tipo textual é a natureza da sequência linguística. ARROW-LEFT VOLTAR À QUESTÃO 118"
+      "explanation": "São conceitos distintos: a composição é a forma do gênero; o tipo textual é a natureza da sequência linguística."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A composição é a estrutura arquitetônica do gênero (ex: a estrutura de um relatório), que pode utilizar sequências narrativas, descritivas ou argumentativas (tipos textuais). 1. Língua Portuguesa 1.3. Gêneros Discursivos",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A composição é a estrutura arquitetônica do gênero (ex: a estrutura de um relatório), que pode utilizar sequências narrativas, descritivas ou argumentativas (tipos textuais). 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+    "resolution": "A composição é a estrutura arquitetônica do gênero (ex: a estrutura de um relatório), que pode utilizar sequências narrativas, descritivas ou argumentativas (tipos textuais).",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A composição é a estrutura arquitetônica do gênero (ex: a estrutura de um relatório), que pode utilizar sequências narrativas, descritivas ou argumentativas (tipos textuais)."
   }
 }
 ```
@@ -6905,7 +6893,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "O tema de um texto é livre e independente da esfera em que o gênero circula.",
       "is_correct": false,
-      "explanation": "O tema é delimitado pela esfera; não se espera encontrar temas de culinária em um acórdão judicial, por exemplo. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "O tema é delimitado pela esfera; não se espera encontrar temas de culinária em um acórdão judicial, por exemplo."
     },
     {
       "id": "C",
@@ -6923,7 +6911,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O conteúdo temático é o único elemento que define um gênero, tornando o estilo e a composição irrelevantes.",
       "is_correct": false,
-      "explanation": "Os três elementos (tema, estilo e composição) são indissociáveis e igualmente necessários para definir o gênero. ARROW-LEFT VOLTAR À QUESTÃO 119"
+      "explanation": "Os três elementos (tema, estilo e composição) são indissociáveis e igualmente necessários para definir o gênero."
     }
   ],
   "answer_key": "C",
@@ -6967,7 +6955,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "Estilo, Construção Composicional e Conteúdo Temático. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Estilo, Construção Composicional e Conteúdo Temático.",
       "is_correct": false,
       "explanation": "A ordem não corresponde à descrição do enunciado."
     },
@@ -6981,7 +6969,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Estilo, Conteúdo Temático e Construção Composicional.",
       "is_correct": false,
-      "explanation": "A ordem está trocada: a estrutura numerada não é estilo, mas composição. ARROW-LEFT VOLTAR À QUESTÃO 120 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A ordem está trocada: a estrutura numerada não é estilo, mas composição."
     }
   ],
   "answer_key": "A",
@@ -7039,7 +7027,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Descritiva.",
       "is_correct": true,
-      "explanation": "O tipo descritivo é marcado pela ausência de progressão temporal e foco na caracterização (adjetivos e verbos de estado). ARROW-LEFT VOLTAR À QUESTÃO 121"
+      "explanation": "O tipo descritivo é marcado pela ausência de progressão temporal e foco na caracterização (adjetivos e verbos de estado)."
     }
   ],
   "answer_key": "E",
@@ -7067,7 +7055,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Sobre a relação entre tipos e gêneros textuais, especialmente no que tange ao fenômeno do hibridismo, assinale a afirmativa correta: 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+  "question_text": "Sobre a relação entre tipos e gêneros textuais, especialmente no que tange ao fenômeno do hibridismo, assinale a afirmativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -7097,13 +7085,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A identificação do tipo textual de um gênero é feita pela análise de suas sequências secundárias, ignorando-se a finalidade principal.",
       "is_correct": false,
-      "explanation": "A identificação do tipo predominante deve considerar a finalidade última e a sequência principal do texto. ARROW-LEFT VOLTAR À QUESTÃO 122"
+      "explanation": "A identificação do tipo predominante deve considerar a finalidade última e a sequência principal do texto."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "Gêneros são híbridos. Na receita, coexistem a descrição (ingredientes) e a injunção (preparo), sendo a injunção a marca predominante pela finalidade do texto. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: Gêneros são híbridos. Na receita, coexistem a descrição (ingredientes) e a injunção (preparo), sendo a injunção a marca predominante pela finalidade do texto. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+    "resolution": "Gêneros são híbridos. Na receita, coexistem a descrição (ingredientes) e a injunção (preparo), sendo a injunção a marca predominante pela finalidade do texto.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: Gêneros são híbridos. Na receita, coexistem a descrição (ingredientes) e a injunção (preparo), sendo a injunção a marca predominante pela finalidade do texto."
   }
 }
 ```
@@ -7137,7 +7125,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "O expositivo utiliza verbos no imperativo, enquanto o argumentativo utiliza verbos no pretérito.",
       "is_correct": false,
-      "explanation": "Verbos no imperativo são do tipo injuntivo; verbos no pretérito são comuns no narrativo. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Verbos no imperativo são do tipo injuntivo; verbos no pretérito são comuns no narrativo."
     },
     {
       "id": "C",
@@ -7153,9 +7141,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O argumentativo visa apenas à transmissão de informações neutras, enquanto o 1. Língua Portuguesa 1.3. Gêneros Discursivos expositivo busca a persuasão.",
+      "text": "O argumentativo visa apenas à transmissão de informações neutras, enquanto o expositivo busca a persuasão.",
       "is_correct": false,
-      "explanation": "As definições estão invertidas: o argumentativo busca a persuasão e o expositivo a neutralidade. ARROW-LEFT VOLTAR À QUESTÃO 123"
+      "explanation": "As definições estão invertidas: o argumentativo busca a persuasão e o expositivo a neutralidade."
     }
   ],
   "answer_key": "C",
@@ -7213,7 +7201,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Relatório.",
       "is_correct": false,
-      "explanation": "O relatório foca na descrição de atividades realizadas e apresentação de resultados, não necessariamente em uma opinião consultiva. 1. Língua Portuguesa 1.3. Gêneros Discursivos ARROW-LEFT VOLTAR À QUESTÃO 124"
+      "explanation": "O relatório foca na descrição de atividades realizadas e apresentação de resultados, não necessariamente em uma opinião consultiva."
     }
   ],
   "answer_key": "D",
@@ -7241,7 +7229,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Gêneros que utilizam linguagem mista (verbal e não verbal) são recorrentes em exames para avaliar a capacidade crítica do candidato. Sobre a distinção entre charge e cartum, assinale a alternativa correta: 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+  "question_text": "Gêneros que utilizam linguagem mista (verbal e não verbal) são recorrentes em exames para avaliar a capacidade crítica do candidato. Sobre a distinção entre charge e cartum, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -7271,7 +7259,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O cartum depende obrigatoriamente de uma notícia do dia para ser compreendido pelo leitor.",
       "is_correct": false,
-      "explanation": "O cartum é atemporal e não depende de notícias específicas do dia. ARROW-LEFT VOLTAR À QUESTÃO 125"
+      "explanation": "O cartum é atemporal e não depende de notícias específicas do dia."
     }
   ],
   "answer_key": "B",
@@ -7327,15 +7315,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Relatório Técnico. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Relatório Técnico.",
       "is_correct": false,
-      "explanation": "O relatório técnico é formal, impessoal e focado em resultados de atividades. ARROW-LEFT VOLTAR À QUESTÃO 126"
+      "explanation": "O relatório técnico é formal, impessoal e focado em resultados de atividades."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.3. Gêneros Discursivos A crônica é o gênero que se caracteriza por tratar do cotidiano com uma linguagem mais informal, literária ou reflexiva.",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.3. Gêneros Discursivos A crônica é o gênero que se caracteriza por tratar do cotidiano com uma linguagem mais informal, literária ou reflexiva."
+    "resolution": "A crônica é o gênero que se caracteriza por tratar do cotidiano com uma linguagem mais informal, literária ou reflexiva.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A crônica é o gênero que se caracteriza por tratar do cotidiano com uma linguagem mais informal, literária ou reflexiva."
   }
 }
 ```
@@ -7385,9 +7373,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Normatizar procedimentos internos e convocar agentes públicos para a execução de tarefas, estabelecendo prazos e sanções em caso de descumprimento. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Normatizar procedimentos internos e convocar agentes públicos para a execução de tarefas, estabelecendo prazos e sanções em caso de descumprimento.",
       "is_correct": false,
-      "explanation": "A normatização de procedimentos e a convocação com estabelecimento de regras são finalidades típicas de gêneros como o edital ou a instrução normativa. ARROW-LEFT VOLTAR À QUESTÃO 127"
+      "explanation": "A normatização de procedimentos e a convocação com estabelecimento de regras são finalidades típicas de gêneros como o edital ou a instrução normativa."
     }
   ],
   "answer_key": "A",
@@ -7421,7 +7409,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "O objetivo final do autor (orientar o cidadão sobre um serviço público) prevalece sobre a forma aparente (receita), definindo a real função social do texto.",
       "is_correct": true,
-      "explanation": "O conceito de intergenericidade ensina que a finalidade (orientação administrativa, no caso) é o que define o gênero em uso, mesmo que ele utilize a ’roupagem’ de outro gênero (receita). 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "O conceito de intergenericidade ensina que a finalidade (orientação administrativa, no caso) é o que define o gênero em uso, mesmo que ele utilize a ’roupagem’ de outro gênero (receita)."
     },
     {
       "id": "B",
@@ -7443,9 +7431,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O texto perde sua característica de gênero textual por apresentar hibridismo, devendo ser classificado apenas como uma sequência tipológica injuntiva pura. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "O texto perde sua característica de gênero textual por apresentar hibridismo, devendo ser classificado apenas como uma sequência tipológica injuntiva pura.",
       "is_correct": false,
-      "explanation": "O hibridismo e a intergenericidade são fenômenos comuns e não anulam a classificação do texto como gênero; pelo contrário, enriquecem a sua funcionalidade social. ARROW-LEFT VOLTAR À QUESTÃO 128"
+      "explanation": "O hibridismo e a intergenericidade são fenômenos comuns e não anulam a classificação do texto como gênero; pelo contrário, enriquecem a sua funcionalidade social."
     }
   ],
   "answer_key": "A",
@@ -7491,7 +7479,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Um diálogo inserido em um romance perde seu vínculo com a realidade imediata, tornando-se um fato artístico.",
       "is_correct": true,
-      "explanation": "Esta é a descrição precisa do processo de transposição e estilização descrito na teoria. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Esta é a descrição precisa do processo de transposição e estilização descrito na teoria."
     },
     {
       "id": "D",
@@ -7503,7 +7491,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Gêneros primários não podem ser integrados a gêneros secundários sob pena de descaracterização do suporte.",
       "is_correct": false,
-      "explanation": "A integração é comum e é justamente o que define a complexidade dos gêneros secundários. ARROW-LEFT VOLTAR À QUESTÃO 129"
+      "explanation": "A integração é comum e é justamente o que define a complexidade dos gêneros secundários."
     }
   ],
   "answer_key": "C",
@@ -7541,7 +7529,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "A complexidade de um gênero é determinada exclusivamente pelo canal de trans- 1. Língua Portuguesa 1.3. Gêneros Discursivos missão (físico ou digital).",
+      "text": "A complexidade de um gênero é determinada exclusivamente pelo canal de trans- missão (físico ou digital).",
       "is_correct": false,
       "explanation": "A complexidade é determinada pela esfera de atividade humana e pelo grau de elaboração discursiva."
     },
@@ -7561,7 +7549,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Gêneros secundários são exclusivamente escritos, pois a oralidade não comporta complexidade cultural.",
       "is_correct": false,
-      "explanation": "Existem gêneros secundários orais, como a defesa de uma tese ou um sermão religioso estruturado. 1. Língua Portuguesa 1.3. Gêneros Discursivos ARROW-LEFT VOLTAR À QUESTÃO 130"
+      "explanation": "Existem gêneros secundários orais, como a defesa de uma tese ou um sermão religioso estruturado."
     }
   ],
   "answer_key": "C",
@@ -7617,9 +7605,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A presença de adjetivos de julgamento, como ’lamentável’ ou ’acertada’, é caracte- rística obrigatória das notícias objetivas. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "A presença de adjetivos de julgamento, como ’lamentável’ ou ’acertada’, é caracte- rística obrigatória das notícias objetivas.",
       "is_correct": false,
-      "explanation": "Adjetivos de julgamento são marcas de subjetividade, típicas de textos opinativos (editoriais/artigos) e não de notícias isentas. ARROW-LEFT VOLTAR À QUESTÃO 131 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "Adjetivos de julgamento são marcas de subjetividade, típicas de textos opinativos (editoriais/artigos) e não de notícias isentas."
     }
   ],
   "answer_key": "B",
@@ -7677,7 +7665,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O Edital.",
       "is_correct": false,
-      "explanation": "O edital é um gênero normativo que divulga regras e avisos de processos públicos. ARROW-LEFT VOLTAR À QUESTÃO 132"
+      "explanation": "O edital é um gênero normativo que divulga regras e avisos de processos públicos."
     }
   ],
   "answer_key": "B",
@@ -7727,7 +7715,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Narrativa; entreter o público sobre eventos históricos do órgão. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Narrativa; entreter o público sobre eventos históricos do órgão.",
       "is_correct": false,
       "explanation": "O edital não tem função narrativa de entretenimento."
     },
@@ -7735,13 +7723,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Dissertativa-argumentativa; convencer o cidadão a aderir a uma ideologia política.",
       "is_correct": false,
-      "explanation": "O edital é um documento técnico e impessoal, não servindo para persuasão ideológica. ARROW-LEFT VOLTAR À QUESTÃO 133"
+      "explanation": "O edital é um documento técnico e impessoal, não servindo para persuasão ideológica."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "O edital instrui (injuntivo) e detalha regras (descritivo) para processos como concursos ou licitações. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: O edital instrui (injuntivo) e detalha regras (descritivo) para processos como concursos ou licitações. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+    "resolution": "O edital instrui (injuntivo) e detalha regras (descritivo) para processos como concursos ou licitações.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: O edital instrui (injuntivo) e detalha regras (descritivo) para processos como concursos ou licitações."
   }
 }
 ```
@@ -7781,7 +7769,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Receita e Livro de Culinária.",
       "is_correct": false,
-      "explanation": "A ordem está invertida: Receita é o gênero e Livro é o suporte. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A ordem está invertida: Receita é o gênero e Livro é o suporte."
     },
     {
       "id": "D",
@@ -7793,7 +7781,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "E-mail e Internet.",
       "is_correct": false,
-      "explanation": "A ordem está invertida: E-mail é o gênero e Internet é o suporte. ARROW-LEFT VOLTAR À QUESTÃO 134"
+      "explanation": "A ordem está invertida: E-mail é o gênero e Internet é o suporte."
     }
   ],
   "answer_key": "D",
@@ -7821,7 +7809,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considere um texto cuja finalidade principal seja orientar o leitor sobre os procedimentos necessários para a instalação de um software, utilizando verbos no imperativo. Esse texto possui uma finalidade predominantemente: 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+  "question_text": "Considere um texto cuja finalidade principal seja orientar o leitor sobre os procedimentos necessários para a instalação de um software, utilizando verbos no imperativo. Esse texto possui uma finalidade predominantemente:",
   "alternatives": [
     {
       "id": "A",
@@ -7851,7 +7839,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Estética.",
       "is_correct": false,
-      "explanation": "A finalidade estética é voltada para o prazer artístico e a reflexão subjetiva, típica de gêneros literários. ARROW-LEFT VOLTAR À QUESTÃO 135 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A finalidade estética é voltada para o prazer artístico e a reflexão subjetiva, típica de gêneros literários."
     }
   ],
   "answer_key": "C",
@@ -7907,9 +7895,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Indica obrigatoriamente que o texto é do gênero ’Notícia’, independentemente do conteúdo. 1. Língua Portuguesa 1.3. Gêneros Discursivos 1.3.3 Questões Difíceis",
+      "text": "Indica obrigatoriamente que o texto é do gênero ’Notícia’, independentemente do conteúdo. 1.3.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "Um jornal (suporte) pode abrigar diversos gêneros, como editoriais, charges, crônicas e anúncios, não apenas notícias. ARROW-LEFT VOLTAR À QUESTÃO 136"
+      "explanation": "Um jornal (suporte) pode abrigar diversos gêneros, como editoriais, charges, crônicas e anúncios, não apenas notícias."
     }
   ],
   "answer_key": "C",
@@ -7967,13 +7955,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "As esferas de comunicação são compartimentos estanques, o que impede que um gênero apresente características de mais de uma esfera.",
       "is_correct": false,
-      "explanation": "O texto base afirma explicitamente que as esferas não são ’caixas estanques’. ARROW-LEFT VOLTAR À QUESTÃO 137"
+      "explanation": "O texto base afirma explicitamente que as esferas não são ’caixas estanques’."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "A crônica é o exemplo clássico de gênero que transita entre o jornalismo e a literatura, exemplificando a fluidez das fronteiras discursivas. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A crônica é o exemplo clássico de gênero que transita entre o jornalismo e a literatura, exemplificando a fluidez das fronteiras discursivas. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+    "resolution": "A crônica é o exemplo clássico de gênero que transita entre o jornalismo e a literatura, exemplificando a fluidez das fronteiras discursivas.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A crônica é o exemplo clássico de gênero que transita entre o jornalismo e a literatura, exemplificando a fluidez das fronteiras discursivas."
   }
 }
 ```
@@ -7995,7 +7983,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Sobre a suposta neutralidade da esfera científica e a ideologia nas esferas de comunicação, analise as afirmações a seguir: I. A esfera científica é a única totalmente isenta de ideologia por focar na objetividade dos fatos. II. Toda esfera de comunicação reflete, em algum grau, os valores e a visão de mundo de quem a produz. III. A objetividade buscada na esfera acadêmica é uma característica do gênero, mas não implica ausência de posicionamento ideológico. 1. Língua Portuguesa 1.3. Gêneros Discursivos Está(ão) correta(s):",
+  "question_text": "Sobre a suposta neutralidade da esfera científica e a ideologia nas esferas de comunicação, analise as afirmações a seguir: I. A esfera científica é a única totalmente isenta de ideologia por focar na objetividade dos fatos. II. Toda esfera de comunicação reflete, em algum grau, os valores e a visão de mundo de quem a produz. III. A objetividade buscada na esfera acadêmica é uma característica do gênero, mas não implica ausência de posicionamento ideológico. Está(ão) correta(s):",
   "alternatives": [
     {
       "id": "A",
@@ -8013,7 +8001,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Apenas II.",
       "is_correct": false,
-      "explanation": "A afirmação III também está correta, tornando a alternativa incompleta. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A afirmação III também está correta, tornando a alternativa incompleta."
     },
     {
       "id": "D",
@@ -8025,7 +8013,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "I, II e III.",
       "is_correct": false,
-      "explanation": "A afirmação I invalida esta opção. ARROW-LEFT VOLTAR À QUESTÃO 138"
+      "explanation": "A afirmação I invalida esta opção."
     }
   ],
   "answer_key": "D",
@@ -8081,9 +8069,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Uniformidade de estilo exigida pela administração pública para evitar interpreta- ções ambíguas. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Uniformidade de estilo exigida pela administração pública para evitar interpreta- ções ambíguas.",
       "is_correct": false,
-      "explanation": "A uniformidade de estilo (monofonia) é o oposto da heteroglossia proposta por Bakhtin. ARROW-LEFT VOLTAR À QUESTÃO 139 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A uniformidade de estilo (monofonia) é o oposto da heteroglossia proposta por Bakhtin."
     }
   ],
   "answer_key": "A",
@@ -8141,7 +8129,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Mudança de conteúdo temático, o que altera obrigatoriamente o gênero para ’verbete’.",
       "is_correct": false,
-      "explanation": "A forma (verbete) é emprestada, mas o gênero é definido pela finalidade social, que continua sendo a propaganda. ARROW-LEFT VOLTAR À QUESTÃO 140"
+      "explanation": "A forma (verbete) é emprestada, mas o gênero é definido pela finalidade social, que continua sendo a propaganda."
     }
   ],
   "answer_key": "C",
@@ -8173,7 +8161,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "A dissertação expositiva visa à transmissão de um saber ou conceito, sem a intenção 1. Língua Portuguesa 1.3. Gêneros Discursivos explícita de convencer.",
+      "text": "A dissertação expositiva visa à transmissão de um saber ou conceito, sem a intenção explícita de convencer.",
       "is_correct": true,
       "explanation": "O foco da exposição é a clareza e a objetividade na transmissão de informações, sem o intuito de persuasão."
     },
@@ -8199,13 +8187,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Ambas possuem a mesma finalidade, diferenciando-se apenas pelo uso de verbos no imperativo na argumentativa.",
       "is_correct": false,
-      "explanation": "Elas possuem finalidades distintas (informar vs. persuadir) e o imperativo é marca do tipo injuntivo. ARROW-LEFT VOLTAR À QUESTÃO 141"
+      "explanation": "Elas possuem finalidades distintas (informar vs. persuadir) e o imperativo é marca do tipo injuntivo."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A exposição foca no ’saber’ (informar), enquanto a argumentação foca no ’convencer’ (persuadir através de uma tese). 1. Língua Portuguesa 1.3. Gêneros Discursivos",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A exposição foca no ’saber’ (informar), enquanto a argumentação foca no ’convencer’ (persuadir através de uma tese). 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+    "resolution": "A exposição foca no ’saber’ (informar), enquanto a argumentação foca no ’convencer’ (persuadir através de uma tese).",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A exposição foca no ’saber’ (informar), enquanto a argumentação foca no ’convencer’ (persuadir através de uma tese)."
   }
 }
 ```
@@ -8239,7 +8227,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "O texto deixa de pertencer ao gênero publicitário/educativo e passa a ser classifi- cado estritamente como gênero ’receita’, devido à sua construção composicional.",
       "is_correct": false,
-      "explanation": "O gênero é definido pela função social e intenção. Embora use a forma de receita, sua função não é culinária, mas educativa. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "O gênero é definido pela função social e intenção. Embora use a forma de receita, sua função não é culinária, mas educativa."
     },
     {
       "id": "C",
@@ -8249,7 +8237,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "A utilização de uma forma típica de um gênero em outro é considerada um vício de linguagem que prejudica a clareza da exposição de dados. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "A utilização de uma forma típica de um gênero em outro é considerada um vício de linguagem que prejudica a clareza da exposição de dados.",
       "is_correct": false,
       "explanation": "O hibridismo é um recurso legítimo e sofisticado de comunicação, não um vício de linguagem."
     },
@@ -8257,7 +8245,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Ocorre uma subversão da forma original para alcançar um novo efeito comunicativo, mas a função social do texto (educar/orientar) preserva sua natureza original.",
       "is_correct": true,
-      "explanation": "O hibridismo utiliza a estrutura de um gênero (receita) como recurso expressivo para cumprir a função de outro (campanha educativa). ARROW-LEFT VOLTAR À QUESTÃO 142"
+      "explanation": "O hibridismo utiliza a estrutura de um gênero (receita) como recurso expressivo para cumprir a função de outro (campanha educativa)."
     }
   ],
   "answer_key": "E",
@@ -8309,13 +8297,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Intertextualidade intergenérica ou hibridismo, em que um gênero (campanha educativa/publicitária) assume a ’roupagem’ de outro (verbete) para alcançar seu objetivo comunicativo.",
       "is_correct": true,
-      "explanation": "O texto utiliza a ’forma’ de verbete (gênero de suporte à informação) como estratégia para um gênero de ’convencimento’ ou ’educação’, caracterizando o hibridismo. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "O texto utiliza a ’forma’ de verbete (gênero de suporte à informação) como estratégia para um gênero de ’convencimento’ ou ’educação’, caracterizando o hibridismo."
     },
     {
       "id": "E",
-      "text": "Vício de linguagem, uma vez que a mistura de gêneros de esferas distintas (científica e publicitária) compromete a clareza e a validade jurídica do documento público. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Vício de linguagem, uma vez que a mistura de gêneros de esferas distintas (científica e publicitária) compromete a clareza e a validade jurídica do documento público.",
       "is_correct": false,
-      "explanation": "O hibridismo não é um vício, mas um recurso expressivo e estratégico de comunicação amplamente aceito e estudado na linguística moderna. ARROW-LEFT VOLTAR À QUESTÃO 143"
+      "explanation": "O hibridismo não é um vício, mas um recurso expressivo e estratégico de comunicação amplamente aceito e estudado na linguística moderna."
     }
   ],
   "answer_key": "D",
@@ -8373,7 +8361,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A relatividade da estabilidade significa que um texto pode pertencer a qualquer gênero, dependendo apenas da vontade do leitor.",
       "is_correct": false,
-      "explanation": "A classificação em gêneros baseia-se em propriedades intrínsecas do enunciado (tríade), e não apenas na recepção subjetiva. ARROW-LEFT VOLTAR À QUESTÃO 144 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A classificação em gêneros baseia-se em propriedades intrínsecas do enunciado (tríade), e não apenas na recepção subjetiva."
     }
   ],
   "answer_key": "C",
@@ -8411,7 +8399,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Um jornalista que escreve uma notícia inserindo depoimentos de testemunhas 1. Língua Portuguesa 1.3. Gêneros Discursivos entre aspas.",
+      "text": "Um jornalista que escreve uma notícia inserindo depoimentos de testemunhas entre aspas.",
       "is_correct": false,
       "explanation": "A inserção de falas de terceiros faz parte da construção composicional típica do gênero notícia."
     },
@@ -8431,7 +8419,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Um cozinheiro que escreve uma receita de bolo utilizando a sequência injuntiva (verbos no imperativo).",
       "is_correct": false,
-      "explanation": "O uso de verbos no imperativo é a marca estilística e composicional adequada ao gênero receita. ARROW-LEFT VOLTAR À QUESTÃO 145"
+      "explanation": "O uso de verbos no imperativo é a marca estilística e composicional adequada ao gênero receita."
     }
   ],
   "answer_key": "A",
@@ -8487,15 +8475,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A classificação dos tipos textuais (DANDI) é exaustiva e imutável, pois reflete as únicas formas possíveis de organização do pensamento humano na linguagem. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "A classificação dos tipos textuais (DANDI) é exaustiva e imutável, pois reflete as únicas formas possíveis de organização do pensamento humano na linguagem.",
       "is_correct": false,
-      "explanation": "Embora sejam limitados e estáveis, dizer que são as ’únicas formas possíveis e imutáveis’ é um radicalismo teórico que a linguística moderna evita. ARROW-LEFT VOLTAR À QUESTÃO 146"
+      "explanation": "Embora sejam limitados e estáveis, dizer que são as ’únicas formas possíveis e imutáveis’ é um radicalismo teórico que a linguística moderna evita."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "Os gêneros são a aplicação prática (uso) que se servem das estruturas fixas dos tipos 1. Língua Portuguesa 1.3. Gêneros Discursivos (base) para realizar a comunicação social.",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: Os gêneros são a aplicação prática (uso) que se servem das estruturas fixas dos tipos 1. Língua Portuguesa 1.3. Gêneros Discursivos (base) para realizar a comunicação social."
+    "resolution": "Os gêneros são a aplicação prática (uso) que se servem das estruturas fixas dos tipos (base) para realizar a comunicação social.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: Os gêneros são a aplicação prática (uso) que se servem das estruturas fixas dos tipos (base) para realizar a comunicação social."
   }
 }
 ```
@@ -8523,7 +8511,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "A finalidade comunicativa predominante é a expositiva, pois a forma de verbete prevalece sobre a intenção.",
       "is_correct": false,
-      "explanation": "A forma é de verbete, mas a finalidade (o ’para que’ serve) é convencer o consumidor, ou seja, persuasiva. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A forma é de verbete, mas a finalidade (o ’para que’ serve) é convencer o consumidor, ou seja, persuasiva."
     },
     {
       "id": "B",
@@ -8547,7 +8535,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O texto perde sua função original de propaganda ao assumir a estrutura de um gênero técnico.",
       "is_correct": false,
-      "explanation": "O texto utiliza a forma de outro gênero justamente para reforçar sua função original de propaganda de forma criativa. ARROW-LEFT VOLTAR À QUESTÃO 147"
+      "explanation": "O texto utiliza a forma de outro gênero justamente para reforçar sua função original de propaganda de forma criativa."
     }
   ],
   "answer_key": "D",
@@ -8575,7 +8563,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Determinados gêneros administrativos possuem regras rígidas de composição para garantir a segurança jurídica e a transparência. Sobre o gênero ’Ata’, assinale a alternativa que apresenta uma característica fundamental relacionada à sua finalidade comunicativa: 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+  "question_text": "Determinados gêneros administrativos possuem regras rígidas de composição para garantir a segurança jurídica e a transparência. Sobre o gênero ’Ata’, assinale a alternativa que apresenta uma característica fundamental relacionada à sua finalidade comunicativa:",
   "alternatives": [
     {
       "id": "A",
@@ -8599,13 +8587,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "É um gênero de circulação externa, utilizado prioritariamente para publicidade de atos normativos.",
       "is_correct": false,
-      "explanation": "A ata é um registro interno de ocorrências de uma reunião; a publicidade de atos normativos é feita por outros instrumentos, como decretos ou editais. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A ata é um registro interno de ocorrências de uma reunião; a publicidade de atos normativos é feita por outros instrumentos, como decretos ou editais."
     },
     {
       "id": "E",
       "text": "O texto deve ser redigido de forma contínua, sem parágrafos, para evitar inserções ou rasuras posteriores.",
       "is_correct": true,
-      "explanation": "A redação contínua é uma marca técnica do gênero ata para garantir a integridade do registro formal da reunião. ARROW-LEFT VOLTAR À QUESTÃO 148"
+      "explanation": "A redação contínua é uma marca técnica do gênero ata para garantir a integridade do registro formal da reunião."
     }
   ],
   "answer_key": "E",
@@ -8655,7 +8643,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "O gênero primário, ao ser transposto para o secundário, sofre uma alteração de natureza: deixa de ser um ato de vida para ser um componente de uma totalidade cultural. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "O gênero primário, ao ser transposto para o secundário, sofre uma alteração de natureza: deixa de ser um ato de vida para ser um componente de uma totalidade cultural.",
       "is_correct": true,
       "explanation": "Esta alternativa reflete com precisão a mudança ontológica do texto quando transposto de uma esfera simples para uma complexa."
     },
@@ -8663,7 +8651,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A estilização é um processo exclusivo da literatura, não ocorrendo em gêneros secundários das esferas jurídica ou científica.",
       "is_correct": false,
-      "explanation": "A estilização e a reelaboração ocorrem em qualquer esfera complexa, como quando um depoimento (primário) é transcrito e integrado a um processo judicial (secundário). ARROW-LEFT VOLTAR À QUESTÃO 149 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A estilização e a reelaboração ocorrem em qualquer esfera complexa, como quando um depoimento (primário) é transcrito e integrado a um processo judicial (secundário)."
     }
   ],
   "answer_key": "D",
@@ -8719,9 +8707,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O texto da peça é um gênero primário, pois reproduz a oralidade e a informalidade da conversa de bar. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "O texto da peça é um gênero primário, pois reproduz a oralidade e a informalidade da conversa de bar.",
       "is_correct": false,
-      "explanation": "A simulação da oralidade não torna o gênero primário; o planejamento e a finalidade artística o tornam secundário. ARROW-LEFT VOLTAR À QUESTÃO 150"
+      "explanation": "A simulação da oralidade não torna o gênero primário; o planejamento e a finalidade artística o tornam secundário."
     }
   ],
   "answer_key": "B",
@@ -8779,13 +8767,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Editorial, pois reflete a visão do jornal sobre o transporte.",
       "is_correct": false,
-      "explanation": "O editorial não costuma ser assinado individualmente, pois representa a opinião da instituição (jornal). ARROW-LEFT VOLTAR À QUESTÃO 151"
+      "explanation": "O editorial não costuma ser assinado individualmente, pois representa a opinião da instituição (jornal)."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A assinatura do autor e a estrutura argumentativa (tese/argumentos) são marcas fundamentais do Artigo de Opinião. 1. Língua Portuguesa 1.3. Gêneros Discursivos",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A assinatura do autor e a estrutura argumentativa (tese/argumentos) são marcas fundamentais do Artigo de Opinião. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+    "resolution": "A assinatura do autor e a estrutura argumentativa (tese/argumentos) são marcas fundamentais do Artigo de Opinião.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: A assinatura do autor e a estrutura argumentativa (tese/argumentos) são marcas fundamentais do Artigo de Opinião."
   }
 }
 ```
@@ -8817,9 +8805,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "A ironia nesses gêneros geralmente decorre da convergência absoluta e literal entre 1. Língua Portuguesa 1.3. Gêneros Discursivos o que é dito e o que é desenhado.",
+      "text": "A ironia nesses gêneros geralmente decorre da convergência absoluta e literal entre o que é dito e o que é desenhado.",
       "is_correct": false,
-      "explanation": "A ironia nasce frequentemente do contraste ou da contradição entre o texto e a imagem, e não da convergência literal. 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A ironia nasce frequentemente do contraste ou da contradição entre o texto e a imagem, e não da convergência literal."
     },
     {
       "id": "C",
@@ -8837,7 +8825,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A análise deve considerar a relação entre elementos verbais e não verbais, como expressões faciais e cenários, para identificar a crítica pretendida.",
       "is_correct": true,
-      "explanation": "A interação entre o que está escrito e os elementos visuais (expressões, objetos) é o que permite identificar a sátira ou crítica. ARROW-LEFT VOLTAR À QUESTÃO 152"
+      "explanation": "A interação entre o que está escrito e os elementos visuais (expressões, objetos) é o que permite identificar a sátira ou crítica."
     }
   ],
   "answer_key": "E",
@@ -8893,9 +8881,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Relatório (Descritivo) e Editorial (Expositivo). 1. Língua Portuguesa 1.3. Gêneros Discursivos",
+      "text": "Relatório (Descritivo) e Editorial (Expositivo).",
       "is_correct": false,
-      "explanation": "O editorial não é meramente expositivo, ele é argumentativo, pois analisa criticamente um fato. 1. Língua Portuguesa 1.3. Gêneros Discursivos ARROW-LEFT VOLTAR À QUESTÃO 153"
+      "explanation": "O editorial não é meramente expositivo, ele é argumentativo, pois analisa criticamente um fato."
     }
   ],
   "answer_key": "C",
@@ -8953,7 +8941,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A mudança de suporte (do papel para o digital) nunca altera a forma como o gênero textual é processado cognitivamente.",
       "is_correct": false,
-      "explanation": "A cognição é afetada pelo suporte; textos em meios digitais, por exemplo, tendem a ser lidos de forma mais fragmentada. ARROW-LEFT VOLTAR À QUESTÃO 154 1. Língua Portuguesa 1.3. Gêneros Discursivos"
+      "explanation": "A cognição é afetada pelo suporte; textos em meios digitais, por exemplo, tendem a ser lidos de forma mais fragmentada."
     }
   ],
   "answer_key": "C",
@@ -8991,7 +8979,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Combina o entretenimento (humor) com uma finalidade implícita de crítica social 1. Língua Portuguesa 1.3. Gêneros Discursivos ou reflexão política.",
+      "text": "Combina o entretenimento (humor) com uma finalidade implícita de crítica social ou reflexão política.",
       "is_correct": true,
       "explanation": "A finalidade implícita é a marca da charge, que usa a ironia para persuadir o leitor a adotar um ponto de vista crítico."
     },
@@ -9011,7 +8999,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A ausência de texto verbal em algumas charges anula a existência de uma finalidade comunicativa.",
       "is_correct": false,
-      "explanation": "A linguagem não verbal também possui finalidade comunicativa e intencionalidade clara. ARROW-LEFT VOLTAR À QUESTÃO 155"
+      "explanation": "A linguagem não verbal também possui finalidade comunicativa e intencionalidade clara."
     }
   ],
   "answer_key": "B",
@@ -9061,21 +9049,21 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "O Suporte B exige obrigatoriamente a mutação do gênero textual de ’comunicado’ para ’edital’, uma vez que suportes institucionais não admitem a circulação de 1. Língua Portuguesa 1.3. Gêneros Discursivos gêneros informativos simples.",
+      "text": "O Suporte B exige obrigatoriamente a mutação do gênero textual de ’comunicado’ para ’edital’, uma vez que suportes institucionais não admitem a circulação de gêneros informativos simples.",
       "is_correct": false,
       "explanation": "Não há uma exigência de mudança de gênero apenas pela troca de suporte. O gênero ’comunicado’ pode perfeitamente circular em suportes institucionais; o que muda é a roupagem de oficialidade que o suporte confere ao gênero já existente."
     },
     {
       "id": "E",
-      "text": "A transposição para o Suporte B confere ao texto uma instância de legitimação e oficialidade que o Suporte A não provê, influenciando a credibilidade e a recepção do enunciado pelo candidato ou cidadão. 1.3.4 Gabaritos e Comentários 93",
+      "text": "A transposição para o Suporte B confere ao texto uma instância de legitimação e oficialidade que o Suporte A não provê, influenciando a credibilidade e a recepção do enunciado pelo candidato ou cidadão.",
       "is_correct": true,
       "explanation": "Conforme o conteúdo base e a teoria de Marcuschi, o suporte funciona como um validador do texto. O suporte institucional (portal eletrônico) legitima o discurso, conferindo-lhe a autoridade necessária para que seja reconhecido como oficial."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "De acordo com a teoria de Marcuschi, o suporte não é um meio neutro; ele atua como uma instância de legitimação. Um texto veiculado em um suporte oficial (como um portal da Administração) adquire um status de autoridade e veracidade que o mesmo 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … texto, em um suporte incidental (como um poste), não possui. O suporte, portanto, molda a recepção e a força institucional do gênero.",
-    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: De acordo com a teoria de Marcuschi, o suporte não é um meio neutro; ele atua como uma instância de legitimação. Um texto veiculado em um suporte oficial (como um portal da Administração) adquire um status de autoridade e veracidade que o mesmo 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … texto, em um suporte incidental (como um poste), não possui. O suporte, portanto, molda a recepção e a força institucional do gênero."
+    "resolution": "De acordo com a teoria de Marcuschi, o suporte não é um meio neutro; ele atua como uma instância de legitimação. Um texto veiculado em um suporte oficial (como um portal da Administração) adquire um status de autoridade e veracidade que o mesmo texto, em um suporte incidental (como um poste), não possui. O suporte, portanto, molda a recepção e a força institucional do gênero.",
+    "theoretical_content": "Gêneros discursivos são formas relativamente estáveis de enunciado, desenvolvidas nas diferentes esferas de atividade humana. Cada gênero apresenta finalidade social, interlocutores, suporte, composição e escolhas linguísticas recorrentes. Não se confundem com tipos ou sequências textuais: notícia, edital, requerimento, editorial, relatório e receita são gêneros; narração, descrição, exposição, argumentação e injunção são sequências que podem aparecer dentro deles.\n\nA notícia prioriza informar fatos recentes com foco na relevância e na apuração; o editorial expressa a posição institucional do veículo; o artigo de opinião sustenta uma perspectiva do autor; o relatório registra e organiza informações para documentar ou subsidiar decisões; o requerimento formaliza um pedido; o manual e a receita orientam procedimentos. Essas tendências não são fórmulas absolutas, mas ajudam a reconhecer a função social.\n\nPara classificar um gênero, pergunte quem o produz, para quem, em qual situação, com que objetivo e por qual meio circula. A linguagem deve ser analisada em relação a essas condições. Um gênero pode reunir várias sequências textuais, e seu propósito não depende apenas do formato visual.\n\nAplicação ao problema apresentado: De acordo com a teoria de Marcuschi, o suporte não é um meio neutro; ele atua como uma instância de legitimação. Um texto veiculado em um suporte oficial (como um portal da Administração) adquire um status de autoridade e veracidade que o mesmo texto, em um suporte incidental (como um poste), não possui. O suporte, portanto, molda a recepção e a força institucional do gênero."
   }
 }
 ```
@@ -9127,7 +9115,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Encapsulamento, pois resume toda a ideia do parágrafo anterior.",
       "is_correct": false,
-      "explanation": "O encapsulamento retoma uma ideia complexa ou uma sequência de fatos, não apenas um substantivo isolado. ARROW-LEFT VOLTAR À QUESTÃO 157 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "O encapsulamento retoma uma ideia complexa ou uma sequência de fatos, não apenas um substantivo isolado."
     }
   ],
   "answer_key": "A",
@@ -9177,7 +9165,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Catáfora, antecipando o conteúdo da fala do diretor. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Catáfora, antecipando o conteúdo da fala do diretor.",
       "is_correct": true,
       "explanation": "O pronome ’isto’ (e variações com ’t’) possui valor catafórico, servindo para introduzir um novo segmento textual."
     },
@@ -9185,7 +9173,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Dêixis espacial, indicando proximidade com o receptor.",
       "is_correct": false,
-      "explanation": "A função aqui é textual (endofórica), e não espacial (exofórica). ARROW-LEFT VOLTAR À QUESTÃO 158"
+      "explanation": "A função aqui é textual (endofórica), e não espacial (exofórica)."
     }
   ],
   "answer_key": "D",
@@ -9241,15 +9229,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Refere-se exclusivamente à unidade de sentido e à harmonia das ideias presentes no texto. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Refere-se exclusivamente à unidade de sentido e à harmonia das ideias presentes no texto.",
       "is_correct": false,
-      "explanation": "Esta definição refere-se à coerência textual, que trata da unidade de sentido e profundidade. ARROW-LEFT VOLTAR À QUESTÃO 159"
+      "explanation": "Esta definição refere-se à coerência textual, que trata da unidade de sentido e profundidade."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A coesão textual é a manifestação linguística da unidade do texto, focando na superfície textual (forma) por meio de conectivos, pronomes e outros recursos gramaticais. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
-    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: A coesão textual é a manifestação linguística da unidade do texto, focando na superfície textual (forma) por meio de conectivos, pronomes e outros recursos gramaticais. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+    "resolution": "A coesão textual é a manifestação linguística da unidade do texto, focando na superfície textual (forma) por meio de conectivos, pronomes e outros recursos gramaticais.",
+    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: A coesão textual é a manifestação linguística da unidade do texto, focando na superfície textual (forma) por meio de conectivos, pronomes e outros recursos gramaticais."
   }
 }
 ```
@@ -9289,7 +9277,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Anáfora.",
       "is_correct": true,
-      "explanation": "A anáfora é o processo de retomada de um termo já expresso anteriormente. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "A anáfora é o processo de retomada de um termo já expresso anteriormente."
     },
     {
       "id": "D",
@@ -9301,7 +9289,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Catáfora.",
       "is_correct": false,
-      "explanation": "A catáfora ocorre quando o termo se refere a algo que ainda será mencionado no texto. ARROW-LEFT VOLTAR À QUESTÃO 160"
+      "explanation": "A catáfora ocorre quando o termo se refere a algo que ainda será mencionado no texto."
     }
   ],
   "answer_key": "C",
@@ -9357,9 +9345,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Não saia agora, pois a chuva está muito forte. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Não saia agora, pois a chuva está muito forte.",
       "is_correct": false,
-      "explanation": "Aqui o ’pois’ está antes do verbo e possui valor explicativo. ARROW-LEFT VOLTAR À QUESTÃO 161 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "Aqui o ’pois’ está antes do verbo e possui valor explicativo."
     }
   ],
   "answer_key": "D",
@@ -9417,7 +9405,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Ortografia oficial e ao emprego de vocabulário erudito e técnico.",
       "is_correct": false,
-      "explanation": "Ortografia e vocabulário são aspectos da correção gramatical e do registro linguístico, não da lógica interna (coerência). ARROW-LEFT VOLTAR À QUESTÃO 162"
+      "explanation": "Ortografia e vocabulário são aspectos da correção gramatical e do registro linguístico, não da lógica interna (coerência)."
     }
   ],
   "answer_key": "A",
@@ -9455,7 +9443,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Os elementos mencionados anteriormente devem ser retomados por pronomes. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Os elementos mencionados anteriormente devem ser retomados por pronomes.",
       "is_correct": false,
       "explanation": "A retomada de elementos é característica da continuidade e da coesão referencial."
     },
@@ -9475,13 +9463,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O autor deve utilizar apenas argumentos verdadeiros e comprováveis cientifica- mente.",
       "is_correct": false,
-      "explanation": "A coerência pode existir em textos de ficção ou hipóteses, desde que respeitem a lógica interna do universo criado. ARROW-LEFT VOLTAR À QUESTÃO 163"
+      "explanation": "A coerência pode existir em textos de ficção ou hipóteses, desde que respeitem a lógica interna do universo criado."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O princípio da não contradição impede que o texto afirme algo e sua negação simultaneamente sem uma justificativa lógica. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
-    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: O princípio da não contradição impede que o texto afirme algo e sua negação simultaneamente sem uma justificativa lógica. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+    "resolution": "O princípio da não contradição impede que o texto afirme algo e sua negação simultaneamente sem uma justificativa lógica.",
+    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: O princípio da não contradição impede que o texto afirme algo e sua negação simultaneamente sem uma justificativa lógica."
   }
 }
 ```
@@ -9509,7 +9497,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "Há uma falha no princípio da continuidade, pois o autor altera o foco do clima externo para o clima interno sem conectivos adequados.",
       "is_correct": false,
-      "explanation": "O princípio da continuidade é respeitado, pois o texto mantém o fio condutor sobre a temperatura e o ambiente da inspeção. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "O princípio da continuidade é respeitado, pois o texto mantém o fio condutor sobre a temperatura e o ambiente da inspeção."
     },
     {
       "id": "B",
@@ -9531,9 +9519,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O texto é incoerente, pois apresenta uma contradição externa com o conhecimento de mundo sobre as estações do ano. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … 1.4.2 Questões de Nível Médio",
+      "text": "O texto é incoerente, pois apresenta uma contradição externa com o conhecimento de mundo sobre as estações do ano. 1.4.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "Não há contradição externa impeditiva, pois o texto explica o motivo da temperatura elevada (falha técnica), tornando o cenário verossímil dentro do contexto apresentado. ARROW-LEFT VOLTAR À QUESTÃO 164"
+      "explanation": "Não há contradição externa impeditiva, pois o texto explica o motivo da temperatura elevada (falha técnica), tornando o cenário verossímil dentro do contexto apresentado."
     }
   ],
   "answer_key": "D",
@@ -9585,13 +9573,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "O termo ’Esta’ retoma ’eficiência’ por ser o primeiro elemento da lista.",
       "is_correct": false,
-      "explanation": "’Esta’ retoma o termo mais próximo, que é ’eficácia’. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "’Esta’ retoma o termo mais próximo, que é ’eficácia’."
     },
     {
       "id": "E",
       "text": "O termo ’aquela’ retoma ’eficácia’ por ser o elemento mais próximo no texto.",
       "is_correct": false,
-      "explanation": "’Aquela’ retoma o termo mais distante, que é ’eficiência’. ARROW-LEFT VOLTAR À QUESTÃO 165"
+      "explanation": "’Aquela’ retoma o termo mais distante, que é ’eficiência’."
     }
   ],
   "answer_key": "B",
@@ -9619,7 +9607,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Leia o trecho abaixo: ’O governo federal anunciou a redução de juros, a ampliação do crédito imobiliário e o incentivo à indústria automobilística. Essas medidas visam aquecer a economia no segundo semestre.’ 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … A expressão sublinhada exerce uma função coesiva específica denominada:",
+  "question_text": "Leia o trecho abaixo: ’O governo federal anunciou a redução de juros, a ampliação do crédito imobiliário e o incentivo à indústria automobilística. Essas medidas visam aquecer a economia no segundo semestre.’ A expressão sublinhada exerce uma função coesiva específica denominada:",
   "alternatives": [
     {
       "id": "A",
@@ -9649,7 +9637,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Anáfora resumitiva (encapsulamento).",
       "is_correct": true,
-      "explanation": "O encapsulamento ocorre quando um termo sintetiza ou resume informações complexas dadas anteriormente. ARROW-LEFT VOLTAR À QUESTÃO 166 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "O encapsulamento ocorre quando um termo sintetiza ou resume informações complexas dadas anteriormente."
     }
   ],
   "answer_key": "E",
@@ -9705,9 +9693,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "É incoerente devido à falta de elementos de coesão sequencial que permitam o avanço do texto. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "É incoerente devido à falta de elementos de coesão sequencial que permitam o avanço do texto.",
       "is_correct": false,
-      "explanation": "O texto possui elementos de coesão sequencial (’portanto’, ’pois’), o problema é estritamente semântico/lógico. ARROW-LEFT VOLTAR À QUESTÃO 167"
+      "explanation": "O texto possui elementos de coesão sequencial (’portanto’, ’pois’), o problema é estritamente semântico/lógico."
     }
   ],
   "answer_key": "A",
@@ -9765,13 +9753,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Princípio da Aceitabilidade.",
       "is_correct": false,
-      "explanation": "A Aceitabilidade é um fator de textualidade de Beaugrande & Dressler, não um dos princípios básicos da coerência lógica interna. ARROW-LEFT VOLTAR À QUESTÃO 168"
+      "explanation": "A Aceitabilidade é um fator de textualidade de Beaugrande & Dressler, não um dos princípios básicos da coerência lógica interna."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O Princípio da Não Tautologia exige que o texto traga novas informações e progrida, evitando o ’vazio’ informativo causado pela repetição de ideias já ditas. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
-    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: O Princípio da Não Tautologia exige que o texto traga novas informações e progrida, evitando o ’vazio’ informativo causado pela repetição de ideias já ditas. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+    "resolution": "O Princípio da Não Tautologia exige que o texto traga novas informações e progrida, evitando o ’vazio’ informativo causado pela repetição de ideias já ditas.",
+    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: O Princípio da Não Tautologia exige que o texto traga novas informações e progrida, evitando o ’vazio’ informativo causado pela repetição de ideias já ditas."
   }
 }
 ```
@@ -9797,7 +9785,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Intencionalidade. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Intencionalidade.",
       "is_correct": false,
       "explanation": "Intencionalidade refere-se ao esforço do autor em ser coerente para atingir seu objetivo."
     },
@@ -9805,7 +9793,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Informatividade.",
       "is_correct": false,
-      "explanation": "Informatividade refere-se ao grau de novidade ou previsibilidade das informações do texto. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "Informatividade refere-se ao grau de novidade ou previsibilidade das informações do texto."
     },
     {
       "id": "C",
@@ -9823,7 +9811,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Intertextualidade.",
       "is_correct": false,
-      "explanation": "Intertextualidade refere-se à relação entre o texto atual e outros textos pré-existentes. ARROW-LEFT VOLTAR À QUESTÃO 169"
+      "explanation": "Intertextualidade refere-se à relação entre o texto atual e outros textos pré-existentes."
     }
   ],
   "answer_key": "C",
@@ -9869,7 +9857,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Informatividade.",
       "is_correct": true,
-      "explanation": "Conforme a teoria de Beaugrande & Dressler, a informatividade avalia o quanto as ocorrências de um texto são esperadas ou inesperadas; textos com baixa informatividade são aqueles que trazem apenas informações previsíveis. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "Conforme a teoria de Beaugrande & Dressler, a informatividade avalia o quanto as ocorrências de um texto são esperadas ou inesperadas; textos com baixa informatividade são aqueles que trazem apenas informações previsíveis."
     },
     {
       "id": "D",
@@ -9879,9 +9867,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Aceitabilidade. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Aceitabilidade.",
       "is_correct": false,
-      "explanation": "A aceitabilidade refere-se à atitude do receptor em reconhecer uma sequência de frases como um texto coeso e coerente que tenha relevância para ele, sendo a contraparte da intencionalidade do autor. ARROW-LEFT VOLTAR À QUESTÃO 170"
+      "explanation": "A aceitabilidade refere-se à atitude do receptor em reconhecer uma sequência de frases como um texto coeso e coerente que tenha relevância para ele, sendo a contraparte da intencionalidade do autor."
     }
   ],
   "answer_key": "C",
@@ -9933,13 +9921,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "coerência pragmática, visto que a estrutura gramatical está em conformidade com a norma culta da língua.",
       "is_correct": false,
-      "explanation": "A coerência pragmática refere-se à adequação do texto ao contexto e à situação comunicativa, e não apenas à correção gramatical. Além disso, o texto é descrito como contraditório, o que fere a coerência. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "A coerência pragmática refere-se à adequação do texto ao contexto e à situação comunicativa, e não apenas à correção gramatical. Além disso, o texto é descrito como contraditório, o que fere a coerência."
     },
     {
       "id": "E",
       "text": "incoerência sintática, pois o erro de sentido reside obrigatoriamente na escolha inadequada dos conectivos sequenciais.",
       "is_correct": false,
-      "explanation": "A incoerência, neste caso, é semântica ou lógica (relação entre ideias), e não sintática, já que o enunciado afirma que as ligações gramaticais (sintaxe) foram bem estabelecidas. ARROW-LEFT VOLTAR À QUESTÃO 171"
+      "explanation": "A incoerência, neste caso, é semântica ou lógica (relação entre ideias), e não sintática, já que o enunciado afirma que as ligações gramaticais (sintaxe) foram bem estabelecidas."
     }
   ],
   "answer_key": "A",
@@ -9971,7 +9959,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "conseguinte 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "conseguinte",
       "is_correct": false,
       "explanation": "’Conseguinte’ não é um conectivo isolado; a locução correta seria ’por conseguinte’ (conclusão)."
     },
@@ -9997,7 +9985,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "entretanto",
       "is_correct": false,
-      "explanation": "’Entretanto’ é adversativo (oposição), não causal. ARROW-LEFT VOLTAR À QUESTÃO 172 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "’Entretanto’ é adversativo (oposição), não causal."
     }
   ],
   "answer_key": "C",
@@ -10053,9 +10041,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Causa, indicando o motivo pelo qual as empresas investiram. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Causa, indicando o motivo pelo qual as empresas investiram.",
       "is_correct": false,
-      "explanation": "O cenário desafiador não é a causa do investimento, mas um fator que, teoricamente, o dificultaria. ARROW-LEFT VOLTAR À QUESTÃO 173"
+      "explanation": "O cenário desafiador não é a causa do investimento, mas um fator que, teoricamente, o dificultaria."
     }
   ],
   "answer_key": "A",
@@ -10113,13 +10101,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Exclusão",
       "is_correct": false,
-      "explanation": "Operadores de exclusão seriam ’apenas’, ’somente’. ARROW-LEFT VOLTAR À QUESTÃO 174"
+      "explanation": "Operadores de exclusão seriam ’apenas’, ’somente’."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "’Ademais’ é um operador argumentativo de soma ou adição, utilizado para acrescentar um novo argumento em favor de uma mesma conclusão. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
-    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: ’Ademais’ é um operador argumentativo de soma ou adição, utilizado para acrescentar um novo argumento em favor de uma mesma conclusão. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+    "resolution": "’Ademais’ é um operador argumentativo de soma ou adição, utilizado para acrescentar um novo argumento em favor de uma mesma conclusão.",
+    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: ’Ademais’ é um operador argumentativo de soma ou adição, utilizado para acrescentar um novo argumento em favor de uma mesma conclusão."
   }
 }
 ```
@@ -10165,13 +10153,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Progressão, pois o texto é tautológico e não apresenta informações novas.",
       "is_correct": false,
-      "explanation": "O texto apresenta informações novas (a reprovação), o problema é que elas chocam-se logicamente com as anteriores. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "O texto apresenta informações novas (a reprovação), o problema é que elas chocam-se logicamente com as anteriores."
     },
     {
       "id": "E",
-      "text": "Contradição interna, pois a conclusão nega a premissa estabelecida anteriormente. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Contradição interna, pois a conclusão nega a premissa estabelecida anteriormente.",
       "is_correct": true,
-      "explanation": "A afirmação ’A’ (conhecimento) é anulada pela afirmação ’não-A’ (incapacidade) sem ressalvas. ARROW-LEFT VOLTAR À QUESTÃO 175"
+      "explanation": "A afirmação ’A’ (conhecimento) é anulada pela afirmação ’não-A’ (incapacidade) sem ressalvas."
     }
   ],
   "answer_key": "E",
@@ -10229,7 +10217,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Progressão.",
       "is_correct": true,
-      "explanation": "Sem o aporte de novas informações, o texto não progride, tornando-se circular. ARROW-LEFT VOLTAR À QUESTÃO 176 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "Sem o aporte de novas informações, o texto não progride, tornando-se circular."
     }
   ],
   "answer_key": "E",
@@ -10261,7 +10249,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Continuidade, pois houve a retomada de elementos coesivos inadequados. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Continuidade, pois houve a retomada de elementos coesivos inadequados.",
       "is_correct": false,
       "explanation": "O erro não é de retomada de palavras (coesão), mas de pertinência temática (coerência)."
     },
@@ -10287,7 +10275,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Não contradição, pois baleias e eletrodomésticos são seres opostos.",
       "is_correct": false,
-      "explanation": "Não há uma negação lógica entre os termos, apenas falta de relação temática. ARROW-LEFT VOLTAR À QUESTÃO 177"
+      "explanation": "Não há uma negação lógica entre os termos, apenas falta de relação temática."
     }
   ],
   "answer_key": "B",
@@ -10343,15 +10331,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Coerência Pragmática, visto que o gênero textual relatório não admite o uso de conjunções concessivas como ’Apesar de’. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Coerência Pragmática, visto que o gênero textual relatório não admite o uso de conjunções concessivas como ’Apesar de’.",
       "is_correct": false,
-      "explanation": "A coerência pragmática refere-se à adequação do texto ao contexto e aos atos de fala; o uso de conjunções concessivas é perfeitamente aceitável e comum em relatórios técnicos. ARROW-LEFT VOLTAR À QUESTÃO 178"
+      "explanation": "A coerência pragmática refere-se à adequação do texto ao contexto e aos atos de fala; o uso de conjunções concessivas é perfeitamente aceitável e comum em relatórios técnicos."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O Princípio da Não Contradição estabelece que as ideias de um texto devem ser compatíveis entre si. No trecho, há uma contradição interna: o autor afirma que não há recursos para investimento, mas utiliza como justificativa (introduzida pela conjunção 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … ’visto que’) a existência de um ’vultoso superávit’ e ’liquidez imediata’, que significam justamente a disponibilidade de recursos financeiros.",
-    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: O Princípio da Não Contradição estabelece que as ideias de um texto devem ser compatíveis entre si. No trecho, há uma contradição interna: o autor afirma que não há recursos para investimento, mas utiliza como justificativa (introduzida pela conjunção 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … ’visto que’) a existência de um ’vultoso superávit’ e ’liquidez imediata’, que significam justamente a disponibilidade de recursos financeiros."
+    "resolution": "O Princípio da Não Contradição estabelece que as ideias de um texto devem ser compatíveis entre si. No trecho, há uma contradição interna: o autor afirma que não há recursos para investimento, mas utiliza como justificativa (introduzida pela conjunção ’visto que’) a existência de um ’vultoso superávit’ e ’liquidez imediata’, que significam justamente a disponibilidade de recursos financeiros.",
+    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: O Princípio da Não Contradição estabelece que as ideias de um texto devem ser compatíveis entre si. No trecho, há uma contradição interna: o autor afirma que não há recursos para investimento, mas utiliza como justificativa (introduzida pela conjunção ’visto que’) a existência de um ’vultoso superávit’ e ’liquidez imediata’, que significam justamente a disponibilidade de recursos financeiros."
   }
 }
 ```
@@ -10401,15 +10389,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Continuidade, dado que o autor falha em retomar os elementos mencionados anteriormente, fragmentando o sentido. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … 1.4.3 Questões Difíceis",
+      "text": "Continuidade, dado que o autor falha em retomar os elementos mencionados anteriormente, fragmentando o sentido. 1.4.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "O princípio da continuidade é justamente o que o texto possui, pois ele mantém o ’fio condutor’ e a unidade temática. O erro é o excesso de continuidade sem a contrapartida da progressão. ARROW-LEFT VOLTAR À QUESTÃO 179"
+      "explanation": "O princípio da continuidade é justamente o que o texto possui, pois ele mantém o ’fio condutor’ e a unidade temática. O erro é o excesso de continuidade sem a contrapartida da progressão."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "O princípio da progressão textual estabelece que um texto coerente deve apresentar um equilíbrio entre a retomada de informações conhecidas (continuidade) e a introdução de informações novas. Quando um texto apenas repete a mesma ideia com palavras diferentes, sem acrescentar novos dados ou desdobramentos lógicos, ele falha na progressão, tornando-se um texto tautológico ou circular. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
-    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: O princípio da progressão textual estabelece que um texto coerente deve apresentar um equilíbrio entre a retomada de informações conhecidas (continuidade) e a introdução de informações novas. Quando um texto apenas repete a mesma ideia com palavras diferentes, sem acrescentar novos dados ou desdobramentos lógicos, ele falha na progressão, tornando-se um texto tautológico ou circular. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+    "resolution": "O princípio da progressão textual estabelece que um texto coerente deve apresentar um equilíbrio entre a retomada de informações conhecidas (continuidade) e a introdução de informações novas. Quando um texto apenas repete a mesma ideia com palavras diferentes, sem acrescentar novos dados ou desdobramentos lógicos, ele falha na progressão, tornando-se um texto tautológico ou circular.",
+    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: O princípio da progressão textual estabelece que um texto coerente deve apresentar um equilíbrio entre a retomada de informações conhecidas (continuidade) e a introdução de informações novas. Quando um texto apenas repete a mesma ideia com palavras diferentes, sem acrescentar novos dados ou desdobramentos lógicos, ele falha na progressão, tornando-se um texto tautológico ou circular."
   }
 }
 ```
@@ -10461,7 +10449,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "I, II e III.",
       "is_correct": false,
-      "explanation": "A afirmação II invalida esta alternativa. ARROW-LEFT VOLTAR À QUESTÃO 180"
+      "explanation": "A afirmação II invalida esta alternativa."
     }
   ],
   "answer_key": "B",
@@ -10489,7 +10477,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Em textos jurídicos e administrativos, a precisão referencial é fundamental. Leia o período: ’O magistrado e o promotor participaram da audiência; este requereu a diligência, enquanto aquele proferiu a sentença.’ Assinale a alternativa que descreve corretamente a relação de coesão e o sentido do texto: 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+  "question_text": "Em textos jurídicos e administrativos, a precisão referencial é fundamental. Leia o período: ’O magistrado e o promotor participaram da audiência; este requereu a diligência, enquanto aquele proferiu a sentença.’ Assinale a alternativa que descreve corretamente a relação de coesão e o sentido do texto:",
   "alternatives": [
     {
       "id": "A",
@@ -10513,13 +10501,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "O texto é ambíguo, pois os pronomes demonstrativos não definem a quem se referem em listas.",
       "is_correct": false,
-      "explanation": "Não há ambiguidade, pois a regra de proximidade textual é clara na norma culta. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "Não há ambiguidade, pois a regra de proximidade textual é clara na norma culta."
     },
     {
       "id": "E",
       "text": "O promotor proferiu a sentença, pois ’aquele’ retoma o termo mais próximo.",
       "is_correct": false,
-      "explanation": "’Aquele’ retoma o termo mais distante (magistrado). ARROW-LEFT VOLTAR À QUESTÃO 181"
+      "explanation": "’Aquele’ retoma o termo mais distante (magistrado)."
     }
   ],
   "answer_key": "C",
@@ -10575,9 +10563,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Sinonímia, pois ’atitude’ é sinônimo perfeito de ’atendimento’. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Sinonímia, pois ’atitude’ é sinônimo perfeito de ’atendimento’.",
       "is_correct": false,
-      "explanation": "’Atitude’ e ’atendimento’ não são sinônimos no contexto. ARROW-LEFT VOLTAR À QUESTÃO 182 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "’Atitude’ e ’atendimento’ não são sinônimos no contexto."
     }
   ],
   "answer_key": "A",
@@ -10635,7 +10623,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A coesão atua na macroestrutura, garantindo que o fio condutor do texto seja mantido por meio de conhecimentos de mundo.",
       "is_correct": false,
-      "explanation": "A coesão atua na microestrutura (ligação entre palavras/frases), não na macroestrutura. ARROW-LEFT VOLTAR À QUESTÃO 183"
+      "explanation": "A coesão atua na microestrutura (ligação entre palavras/frases), não na macroestrutura."
     }
   ],
   "answer_key": "A",
@@ -10673,7 +10661,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "A coerência depende da interação entre o texto, o conhecimento de mundo do 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … leitor e a situação comunicativa.",
+      "text": "A coerência depende da interação entre o texto, o conhecimento de mundo do leitor e a situação comunicativa.",
       "is_correct": true,
       "explanation": "A coerência é o resultado da harmonia entre o conteúdo textual, o contexto e o saber do interlocutor."
     },
@@ -10693,13 +10681,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A informatividade zero, embora prejudique a progressão, é o principal requisito para a existência de coerência pragmática.",
       "is_correct": false,
-      "explanation": "Informatividade zero (redundância extrema) geralmente prejudica a qualidade do texto e não é requisito para coerência. ARROW-LEFT VOLTAR À QUESTÃO 184"
+      "explanation": "Informatividade zero (redundância extrema) geralmente prejudica a qualidade do texto e não é requisito para coerência."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "A coerência não está apenas no texto, mas na construção de sentido que ocorre na interação entre autor, texto e leitor, dentro de um contexto específico. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
-    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: A coerência não está apenas no texto, mas na construção de sentido que ocorre na interação entre autor, texto e leitor, dentro de um contexto específico. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+    "resolution": "A coerência não está apenas no texto, mas na construção de sentido que ocorre na interação entre autor, texto e leitor, dentro de um contexto específico.",
+    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: A coerência não está apenas no texto, mas na construção de sentido que ocorre na interação entre autor, texto e leitor, dentro de um contexto específico."
   }
 }
 ```
@@ -10733,7 +10721,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Ambos os termos possuem a mesma função de coesão sequencial, sendo intercam- biáveis em qualquer contexto oracional.",
       "is_correct": false,
-      "explanation": "Eles não são intercambiáveis; possuem funções gramaticais e papéis coesivos completamente diferentes. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "Eles não são intercambiáveis; possuem funções gramaticais e papéis coesivos completamente diferentes."
     },
     {
       "id": "C",
@@ -10749,9 +10737,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A substituição de elementos coesivos nunca afeta a coerência, desde que a pontua- ção do período seja mantida intacta. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "A substituição de elementos coesivos nunca afeta a coerência, desde que a pontua- ção do período seja mantida intacta.",
       "is_correct": false,
-      "explanation": "A substituição de elementos coesivos pode alterar drasticamente o sentido (coerência) do texto. ARROW-LEFT VOLTAR À QUESTÃO 185"
+      "explanation": "A substituição de elementos coesivos pode alterar drasticamente o sentido (coerência) do texto."
     }
   ],
   "answer_key": "A",
@@ -10803,13 +10791,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Intertextualidade.",
       "is_correct": true,
-      "explanation": "A intertextualidade ocorre quando a compreensão de um texto depende do conhecimento de outros textos (como a instrução normativa mencionada no enunciado). 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "A intertextualidade ocorre quando a compreensão de um texto depende do conhecimento de outros textos (como a instrução normativa mencionada no enunciado)."
     },
     {
       "id": "E",
       "text": "Informatividade.",
       "is_correct": false,
-      "explanation": "A informatividade refere-se ao grau de novidade ou de previsibilidade das informações contidas no texto. ARROW-LEFT VOLTAR À QUESTÃO 186"
+      "explanation": "A informatividade refere-se ao grau de novidade ou de previsibilidade das informações contidas no texto."
     }
   ],
   "answer_key": "D",
@@ -10837,7 +10825,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Um agente público produziu um documento oficial que apresenta conectivos gramaticais aplicados com perfeição e uma estrutura de períodos impecável. No entanto, o texto limita-se a reiterar conceitos óbvios e circulares, sem agregar novos dados ou promover 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … o avanço do conhecimento sobre o tema abordado. Com base na teoria dos fatores de textualidade de Beaugrande & Dressler e nos princípios da inteligibilidade, esse texto apresenta, primordialmente, uma falha de:",
+  "question_text": "Um agente público produziu um documento oficial que apresenta conectivos gramaticais aplicados com perfeição e uma estrutura de períodos impecável. No entanto, o texto limita-se a reiterar conceitos óbvios e circulares, sem agregar novos dados ou promover o avanço do conhecimento sobre o tema abordado. Com base na teoria dos fatores de textualidade de Beaugrande & Dressler e nos princípios da inteligibilidade, esse texto apresenta, primordialmente, uma falha de:",
   "alternatives": [
     {
       "id": "A",
@@ -10867,7 +10855,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Intencionalidade, pois o autor não teve o objetivo de comunicar algo.",
       "is_correct": false,
-      "explanation": "A intencionalidade refere-se ao esforço do autor em ser coerente para atingir um fim; o texto pode ter uma intenção clara, mas falhar na entrega de conteúdo novo. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … ARROW-LEFT VOLTAR À QUESTÃO 187"
+      "explanation": "A intencionalidade refere-se ao esforço do autor em ser coerente para atingir um fim; o texto pode ter uma intenção clara, mas falhar na entrega de conteúdo novo."
     }
   ],
   "answer_key": "C",
@@ -10923,9 +10911,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Em I, há uma relação de finalidade; em II, uma relação de consequência. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Em I, há uma relação de finalidade; em II, uma relação de consequência.",
       "is_correct": false,
-      "explanation": "Não há ideia de propósito (finalidade) ou resultado direto (consequência) nos moldes descritos. ARROW-LEFT VOLTAR À QUESTÃO 188 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "Não há ideia de propósito (finalidade) ou resultado direto (consequência) nos moldes descritos."
     }
   ],
   "answer_key": "C",
@@ -10983,7 +10971,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A sanção da lei é improvável devido ao tempo decorrido.",
       "is_correct": false,
-      "explanation": "’Ainda’ sugere expectativa, não improbabilidade. ARROW-LEFT VOLTAR À QUESTÃO 189"
+      "explanation": "’Ainda’ sugere expectativa, não improbabilidade."
     }
   ],
   "answer_key": "D",
@@ -11027,7 +11015,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "Porquanto a tecnologia avance (Mantém o sentido e a gramática). 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Porquanto a tecnologia avance (Mantém o sentido e a gramática).",
       "is_correct": false,
       "explanation": "’Porquanto’ é causal/explicativo, alterando o sentido de concessão para causa."
     },
@@ -11041,7 +11029,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Visto que a tecnologia avance (Mantém o sentido e ajusta a gramática).",
       "is_correct": false,
-      "explanation": "’Visto que’ é causal e não se harmoniza com o sentido de oposição da frase original. ARROW-LEFT VOLTAR À QUESTÃO 190"
+      "explanation": "’Visto que’ é causal e não se harmoniza com o sentido de oposição da frase original."
     }
   ],
   "answer_key": "A",
@@ -11087,7 +11075,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Um juiz profere uma sentença condenatória e, no mesmo documento, estabelece as condições para o cumprimento da pena.",
       "is_correct": false,
-      "explanation": "Há total coerência lógica e pragmática entre condenar e estabelecer as condições de cumprimento da pena, portanto não é o gabarito. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "Há total coerência lógica e pragmática entre condenar e estabelecer as condições de cumprimento da pena, portanto não é o gabarito."
     },
     {
       "id": "D",
@@ -11097,9 +11085,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Um autor de ficção científica escreve sobre uma civilização que vive no núcleo do Sol. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Um autor de ficção científica escreve sobre uma civilização que vive no núcleo do Sol.",
       "is_correct": false,
-      "explanation": "O texto é coerente dentro do gênero ficção científica (coerência com o universo criado), portanto não é o gabarito. ARROW-LEFT VOLTAR À QUESTÃO 191"
+      "explanation": "O texto é coerente dentro do gênero ficção científica (coerência com o universo criado), portanto não é o gabarito."
     }
   ],
   "answer_key": "A",
@@ -11157,7 +11145,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A antítese, por trabalhar com termos opostos, impede a continuidade do tema e fragmenta a unidade de sentido.",
       "is_correct": false,
-      "explanation": "A antítese organiza o pensamento por oposição, o que pode reforçar a continuidade temática. ARROW-LEFT VOLTAR À QUESTÃO 192 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …"
+      "explanation": "A antítese organiza o pensamento por oposição, o que pode reforçar a continuidade temática."
     }
   ],
   "answer_key": "D",
@@ -11195,7 +11183,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Uma falha de coerência, pois a relação lógica de oposição será transformada em uma relação de causa e efeito indevida. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência …",
+      "text": "Uma falha de coerência, pois a relação lógica de oposição será transformada em uma relação de causa e efeito indevida.",
       "is_correct": true,
       "explanation": "Ao dizer ’Estudou muito, portanto foi reprovado’, cria-se uma incoerência, pois a reprovação não é a conclusão lógica natural do estudo."
     },
@@ -11215,7 +11203,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Um ganho de progressão, pois a conclusão torna o texto mais dinâmico.",
       "is_correct": false,
-      "explanation": "Não há ganho de progressão, mas sim um prejuízo à lógica interna do enunciado. ARROW-LEFT VOLTAR À QUESTÃO 193"
+      "explanation": "Não há ganho de progressão, mas sim um prejuízo à lógica interna do enunciado."
     }
   ],
   "answer_key": "B",
@@ -11271,15 +11259,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Coerência pragmática, que permite ao interlocutor inferir o sentido a partir do contexto e do conhecimento de mundo. 1. Língua Portuguesa 1.4. Mecanismos Coesivos e Fatores de Coerência … 1.4.4 Gabaritos e Comentários 157",
+      "text": "Coerência pragmática, que permite ao interlocutor inferir o sentido a partir do contexto e do conhecimento de mundo.",
       "is_correct": true,
       "explanation": "A coerência pragmática e o conhecimento de mundo permitem que o receptor preencha as lacunas lógicas do texto, compreendendo a intenção comunicativa (justificativa/impedimento) mesmo sem conectivos."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A coerência pragmática refere-se à capacidade de os atos de fala fazerem sentido dentro de uma situação comunicativa específica. No exemplo, a resposta do subordinado só é coerente se o superior utilizar seu conhecimento de mundo para entender que, sem 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação sistema, não há como gerar o relatório. O sentido não está na superfície gramatical (coesão), mas na relação lógica e situacional entre as falas.",
-    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: A coerência pragmática refere-se à capacidade de os atos de fala fazerem sentido dentro de uma situação comunicativa específica. No exemplo, a resposta do subordinado só é coerente se o superior utilizar seu conhecimento de mundo para entender que, sem 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação sistema, não há como gerar o relatório. O sentido não está na superfície gramatical (coesão), mas na relação lógica e situacional entre as falas."
+    "resolution": "A coerência pragmática refere-se à capacidade de os atos de fala fazerem sentido dentro de uma situação comunicativa específica. No exemplo, a resposta do subordinado só é coerente se o superior utilizar seu conhecimento de mundo para entender que, sem sistema, não há como gerar o relatório. O sentido não está na superfície gramatical (coesão), mas na relação lógica e situacional entre as falas.",
+    "theoretical_content": "Coesão é a articulação linguística entre partes do texto; coerência é a construção de sentido global compatível com o contexto, o conhecimento de mundo e a progressão das informações. Um texto pode apresentar conectivos e pronomes (coesão formal) e ainda assim ser incoerente se suas ideias forem contraditórias ou desconexas.\n\nA coesão referencial retoma ou antecipa elementos por pronomes, expressões nominais, sinônimos e elipses. A coesão sequencial estabelece relações lógico-semânticas por conectores: adição, oposição, causa, consequência, condição, concessão, finalidade, conclusão e explicação. O valor de um conectivo depende do contexto, não apenas de uma lista decorada.\n\nA coerência depende de continuidade temática, não contradição, relevância e compatibilidade entre as informações. A substituição de um conectivo pode alterar a relação lógica; a troca de um pronome pode gerar ambiguidade referencial. Ao revisar um período, identifique a relação pretendida entre as ideias e verifique se o elemento coesivo expressa exatamente essa relação.\n\nAplicação ao problema apresentado: A coerência pragmática refere-se à capacidade de os atos de fala fazerem sentido dentro de uma situação comunicativa específica. No exemplo, a resposta do subordinado só é coerente se o superior utilizar seu conhecimento de mundo para entender que, sem sistema, não há como gerar o relatório. O sentido não está na superfície gramatical (coesão), mas na relação lógica e situacional entre as falas."
   }
 }
 ```
@@ -11331,7 +11319,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O conjunto de exemplos e dados estatísticos que encerram a argumentação de um texto.",
       "is_correct": false,
-      "explanation": "Exemplos e dados fazem parte do desenvolvimento (ideias secundárias), não do tópico frasal. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação ARROW-LEFT VOLTAR À QUESTÃO 195"
+      "explanation": "Exemplos e dados fazem parte do desenvolvimento (ideias secundárias), não do tópico frasal."
     }
   ],
   "answer_key": "B",
@@ -11375,7 +11363,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "Dedução. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Dedução.",
       "is_correct": true,
       "explanation": "O modelo dedutivo é o mais comum em textos dissertativos, onde a tese/ideia vem antes da fundamentação."
     },
@@ -11389,7 +11377,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Alusão.",
       "is_correct": false,
-      "explanation": "Alusão é um recurso de conteúdo (referência a algo), não um método de estruturação de parágrafo. ARROW-LEFT VOLTAR À QUESTÃO 196 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "Alusão é um recurso de conteúdo (referência a algo), não um método de estruturação de parágrafo."
     }
   ],
   "answer_key": "C",
@@ -11447,7 +11435,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Coesão referencial anafórica.",
       "is_correct": false,
-      "explanation": "A coesão referencial é um mecanismo microestrutural de substituição ou retomada de termos, não se confundindo com a unidade temática macroestrutural. ARROW-LEFT VOLTAR À QUESTÃO 197"
+      "explanation": "A coesão referencial é um mecanismo microestrutural de substituição ou retomada de termos, não se confundindo com a unidade temática macroestrutural."
     }
   ],
   "answer_key": "C",
@@ -11475,7 +11463,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Sobre a estrutura interna do parágrafo e sua articulação com o texto, assinale a alternativa que descreve corretamente a função do ’tópico frasal’. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+  "question_text": "Sobre a estrutura interna do parágrafo e sua articulação com o texto, assinale a alternativa que descreve corretamente a função do ’tópico frasal’.",
   "alternatives": [
     {
       "id": "A",
@@ -11505,13 +11493,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "É o recurso de pontuação que separa o tema do rema dentro de uma oração subordinada.",
       "is_correct": false,
-      "explanation": "O tópico frasal é um conceito de estruturação de parágrafo, não um recurso de pontuação gramatical. ARROW-LEFT VOLTAR À QUESTÃO 198"
+      "explanation": "O tópico frasal é um conceito de estruturação de parágrafo, não um recurso de pontuação gramatical."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "O tópico frasal é a unidade nuclear do parágrafo, servindo como ponto de partida para 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação o desenvolvimento das ideias subsequentes dentro daquele bloco de texto.",
-    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: O tópico frasal é a unidade nuclear do parágrafo, servindo como ponto de partida para 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação o desenvolvimento das ideias subsequentes dentro daquele bloco de texto."
+    "resolution": "O tópico frasal é a unidade nuclear do parágrafo, servindo como ponto de partida para o desenvolvimento das ideias subsequentes dentro daquele bloco de texto.",
+    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: O tópico frasal é a unidade nuclear do parágrafo, servindo como ponto de partida para o desenvolvimento das ideias subsequentes dentro daquele bloco de texto."
   }
 }
 ```
@@ -11539,7 +11527,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "Tanto o Tema quanto o Rema devem ser obrigatoriamente informações novas para garantir a informatividade do texto.",
       "is_correct": false,
-      "explanation": "Se ambos fossem novos, não haveria o elo de continuidade (coesão) necessário para a compreensão textual. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "Se ambos fossem novos, não haveria o elo de continuidade (coesão) necessário para a compreensão textual."
     },
     {
       "id": "B",
@@ -11561,9 +11549,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O Rema é a informação dada, servindo como suporte para a introdução do Tema, que é a novidade do enunciado. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "O Rema é a informação dada, servindo como suporte para a introdução do Tema, que é a novidade do enunciado.",
       "is_correct": false,
-      "explanation": "O erro está na inversão das definições de Tema (dado) e Rema (novo). ARROW-LEFT VOLTAR À QUESTÃO 199"
+      "explanation": "O erro está na inversão das definições de Tema (dado) e Rema (novo)."
     }
   ],
   "answer_key": "D",
@@ -11615,13 +11603,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Apenas informações novas (Remas) para maximizar a informatividade.",
       "is_correct": false,
-      "explanation": "Se houver apenas informação nova, o texto fica fragmentado e sem base de referência. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "Se houver apenas informação nova, o texto fica fragmentado e sem base de referência."
     },
     {
       "id": "E",
       "text": "Algo Velho (para manter a coesão) e Algo Novo (para garantir a progressão).",
       "is_correct": true,
-      "explanation": "Esta é a base da progressão temática: ancorar-se no que já foi dito para apresentar o que vem a seguir. ARROW-LEFT VOLTAR À QUESTÃO 200"
+      "explanation": "Esta é a base da progressão temática: ancorar-se no que já foi dito para apresentar o que vem a seguir."
     }
   ],
   "answer_key": "E",
@@ -11653,7 +11641,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Síntese dialética. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Síntese dialética.",
       "is_correct": false,
       "explanation": "A síntese dialética é o resultado do confronto entre tese e antítese, não a definição do resumo inicial de um parágrafo comum."
     },
@@ -11679,7 +11667,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Gancho semântico. 1.5.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "’Gancho’ é um termo informal para elementos de coesão e transição, não a nomenclatura técnica para a ideia central. ARROW-LEFT VOLTAR À QUESTÃO 201 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "’Gancho’ é um termo informal para elementos de coesão e transição, não a nomenclatura técnica para a ideia central."
     }
   ],
   "answer_key": "C",
@@ -11735,9 +11723,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Definição. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Definição.",
       "is_correct": false,
-      "explanation": "Não há uma explicação do significado de um termo, mas sim uma listagem de componentes. ARROW-LEFT VOLTAR À QUESTÃO 202"
+      "explanation": "Não há uma explicação do significado de um termo, mas sim uma listagem de componentes."
     }
   ],
   "answer_key": "D",
@@ -11795,7 +11783,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Causa e Consequência.",
       "is_correct": false,
-      "explanation": "Esta técnica foca na relação lógica de origem e resultado de um fenômeno. ARROW-LEFT VOLTAR À QUESTÃO 203"
+      "explanation": "Esta técnica foca na relação lógica de origem e resultado de um fenômeno."
     }
   ],
   "answer_key": "B",
@@ -11841,11 +11829,11 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Sua presença é obrigatória em todas as dissertações de concursos públicos segundo a doutrina clássica.",
       "is_correct": false,
-      "explanation": "Em concursos, o tópico explícito é preferível pela clareza, mas o implícito não é proibido, apenas mais raro em certos gêneros. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "Em concursos, o tópico explícito é preferível pela clareza, mas o implícito não é proibido, apenas mais raro em certos gêneros."
     },
     {
       "id": "D",
-      "text": "É exclusivo de textos técnicos e jurídicos devido à sua complexidade. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "É exclusivo de textos técnicos e jurídicos devido à sua complexidade.",
       "is_correct": false,
       "explanation": "É mais comum em textos literários, crônicas e dissertações sofisticadas, não em textos técnicos que prezam pela clareza imediata."
     },
@@ -11853,7 +11841,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Inviabiliza a unidade temática do texto, sendo considerado um erro de estruturação.",
       "is_correct": false,
-      "explanation": "O tópico implícito mantém a unidade temática; a diferença é apenas a forma como essa unidade é apresentada. ARROW-LEFT VOLTAR À QUESTÃO 204"
+      "explanation": "O tópico implícito mantém a unidade temática; a diferença é apenas a forma como essa unidade é apresentada."
     }
   ],
   "answer_key": "A",
@@ -11905,13 +11893,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Baseada em definição, em que o tópico frasal esclarece o significado técnico de ’equilíbrio climático’ antes de exemplificá-lo.",
       "is_correct": false,
-      "explanation": "O parágrafo não se inicia com uma definição conceitual de um termo, mas sim com a descrição de fenômenos observáveis. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "O parágrafo não se inicia com uma definição conceitual de um termo, mas sim com a descrição de fenômenos observáveis."
     },
     {
       "id": "E",
-      "text": "De tópico frasal implícito, uma vez que a ideia central não está materializada em nenhuma frase específica, exigindo a inferência do leitor. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "De tópico frasal implícito, uma vez que a ideia central não está materializada em nenhuma frase específica, exigindo a inferência do leitor.",
       "is_correct": false,
-      "explanation": "O tópico frasal está explícito na última frase do parágrafo (sublinhada), que resume a tese central da unidade textual. ARROW-LEFT VOLTAR À QUESTÃO 205"
+      "explanation": "O tópico frasal está explícito na última frase do parágrafo (sublinhada), que resume a tese central da unidade textual."
     }
   ],
   "answer_key": "B",
@@ -11967,9 +11955,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O autor utiliza um tópico frasal por divisão, que funciona como um roteiro anteci- pado, organizando as ideias secundárias que serão expandidas no desenvolvimento. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "O autor utiliza um tópico frasal por divisão, que funciona como um roteiro anteci- pado, organizando as ideias secundárias que serão expandidas no desenvolvimento.",
       "is_correct": true,
-      "explanation": "A técnica de divisão é caracterizada pela antecipação de componentes que serão detalhados a seguir, garantindo clareza e coesão ao parágrafo. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação ARROW-LEFT VOLTAR À QUESTÃO 206"
+      "explanation": "A técnica de divisão é caracterizada pela antecipação de componentes que serão detalhados a seguir, garantindo clareza e coesão ao parágrafo."
     }
   ],
   "answer_key": "E",
@@ -12027,7 +12015,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Progressão por hipertema.",
       "is_correct": false,
-      "explanation": "A progressão por hipertema é uma técnica legítima onde um tema amplo é dividido em subtemas organizados. ARROW-LEFT VOLTAR À QUESTÃO 207 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "A progressão por hipertema é uma técnica legítima onde um tema amplo é dividido em subtemas organizados."
     }
   ],
   "answer_key": "C",
@@ -12071,7 +12059,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "O Rema é dispensável em textos técnicos, devendo o autor focar apenas na repetição do Tema. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "O Rema é dispensável em textos técnicos, devendo o autor focar apenas na repetição do Tema.",
       "is_correct": false,
       "explanation": "Sem Rema, não há informação nova; o texto seria uma mera repetição de conceitos conhecidos."
     },
@@ -12085,7 +12073,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A ausência de Tema caracteriza a progressão linear, pois o texto foca apenas em novidades.",
       "is_correct": false,
-      "explanation": "Todo enunciado possui um ponto de partida (tema); a ausência de tema tornaria o texto incompreensível e fragmentado. ARROW-LEFT VOLTAR À QUESTÃO 208"
+      "explanation": "Todo enunciado possui um ponto de partida (tema); a ausência de tema tornaria o texto incompreensível e fragmentado."
     }
   ],
   "answer_key": "B",
@@ -12141,15 +12129,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Circularidade textual (tautologia), pois o autor utiliza termos sinônimos para repetir a mesma unidade de informação sem promover o avanço do conteúdo. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Circularidade textual (tautologia), pois o autor utiliza termos sinônimos para repetir a mesma unidade de informação sem promover o avanço do conteúdo.",
       "is_correct": false,
-      "explanation": "Não há circularidade, pois o texto efetivamente progride: ele parte do objetivo do sistema, passa pelo resultado financeiro e chega à destinação do recurso. Há acréscimo de informação nova. ARROW-LEFT VOLTAR À QUESTÃO 209"
+      "explanation": "Não há circularidade, pois o texto efetivamente progride: ele parte do objetivo do sistema, passa pelo resultado financeiro e chega à destinação do recurso. Há acréscimo de informação nova."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O texto apresenta uma progressão linear (ou em cadeia). O ’rema’ da primeira frase 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação (otimização dos processos) torna-se o ’tema’ da segunda; o ’rema’ da segunda (redução de custos) torna-se o ’tema’ da terceira (sob o sinônimo ’economia’). Esse mecanismo garante a fluidez e o avanço informativo do texto.",
-    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: O texto apresenta uma progressão linear (ou em cadeia). O ’rema’ da primeira frase 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação (otimização dos processos) torna-se o ’tema’ da segunda; o ’rema’ da segunda (redução de custos) torna-se o ’tema’ da terceira (sob o sinônimo ’economia’). Esse mecanismo garante a fluidez e o avanço informativo do texto."
+    "resolution": "O texto apresenta uma progressão linear (ou em cadeia). O ’rema’ da primeira frase (otimização dos processos) torna-se o ’tema’ da segunda; o ’rema’ da segunda (redução de custos) torna-se o ’tema’ da terceira (sob o sinônimo ’economia’). Esse mecanismo garante a fluidez e o avanço informativo do texto.",
+    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: O texto apresenta uma progressão linear (ou em cadeia). O ’rema’ da primeira frase (otimização dos processos) torna-se o ’tema’ da segunda; o ’rema’ da segunda (redução de custos) torna-se o ’tema’ da terceira (sob o sinônimo ’economia’). Esse mecanismo garante a fluidez e o avanço informativo do texto."
   }
 }
 ```
@@ -12201,13 +12189,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Progressão por Hipertema.",
       "is_correct": false,
-      "explanation": "A progressão por hipertema (ou temas derivados) ocorre quando um tema amplo é decomposto em subtemas menores, cada um tratado em um parágrafo diferente, sem a necessidade de encadeamento direto entre o fim de um e o início do outro. ARROW-LEFT VOLTAR À QUESTÃO 210"
+      "explanation": "A progressão por hipertema (ou temas derivados) ocorre quando um tema amplo é decomposto em subtemas menores, cada um tratado em um parágrafo diferente, sem a necessidade de encadeamento direto entre o fim de um e o início do outro."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "A progressão linear é caracterizada pelo encadeamento em que o rema (informação nova) de um enunciado ou parágrafo torna-se o tema (informação dada) do enunciado 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação ou parágrafo subsequente, garantindo que o texto avance de forma lógica e conectada.",
-    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: A progressão linear é caracterizada pelo encadeamento em que o rema (informação nova) de um enunciado ou parágrafo torna-se o tema (informação dada) do enunciado 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação ou parágrafo subsequente, garantindo que o texto avance de forma lógica e conectada."
+    "resolution": "A progressão linear é caracterizada pelo encadeamento em que o rema (informação nova) de um enunciado ou parágrafo torna-se o tema (informação dada) do enunciado ou parágrafo subsequente, garantindo que o texto avance de forma lógica e conectada.",
+    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: A progressão linear é caracterizada pelo encadeamento em que o rema (informação nova) de um enunciado ou parágrafo torna-se o tema (informação dada) do enunciado ou parágrafo subsequente, garantindo que o texto avance de forma lógica e conectada."
   }
 }
 ```
@@ -12229,7 +12217,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considere o seguinte trecho: ’O policial avistou o suspeito. O indivíduo carregava uma bolsa. A bolsa continha joias.’ De acordo com a tipologia da progressão temática, o exemplo acima classifica-se como: 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+  "question_text": "Considere o seguinte trecho: ’O policial avistou o suspeito. O indivíduo carregava uma bolsa. A bolsa continha joias.’ De acordo com a tipologia da progressão temática, o exemplo acima classifica-se como:",
   "alternatives": [
     {
       "id": "A",
@@ -12259,13 +12247,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Progressão Linear.",
       "is_correct": true,
-      "explanation": "O texto demonstra o encadeamento onde o que era novo em uma frase vira o ponto de partida da próxima. ARROW-LEFT VOLTAR À QUESTÃO 211"
+      "explanation": "O texto demonstra o encadeamento onde o que era novo em uma frase vira o ponto de partida da próxima."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Na progressão linear, o rema de uma frase (suspeito / bolsa) torna-se o tema da frase seguinte, criando uma cadeia de encadeamento. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
-    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: Na progressão linear, o rema de uma frase (suspeito / bolsa) torna-se o tema da frase seguinte, criando uma cadeia de encadeamento. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+    "resolution": "Na progressão linear, o rema de uma frase (suspeito / bolsa) torna-se o tema da frase seguinte, criando uma cadeia de encadeamento.",
+    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: Na progressão linear, o rema de uma frase (suspeito / bolsa) torna-se o tema da frase seguinte, criando uma cadeia de encadeamento."
   }
 }
 ```
@@ -12305,7 +12293,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "É um texto que dispensa o uso de conectivos, pois a informação nova se sustenta sozinha.",
       "is_correct": false,
-      "explanation": "Mesmo textos altamente informativos precisam de coesão para garantir a unidade de sentido. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "Mesmo textos altamente informativos precisam de coesão para garantir a unidade de sentido."
     },
     {
       "id": "D",
@@ -12315,9 +12303,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "É um texto que traz dados novos, relações complexas e vocabulário preciso, exi- gindo maior esforço do leitor. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "É um texto que traz dados novos, relações complexas e vocabulário preciso, exi- gindo maior esforço do leitor.",
       "is_correct": true,
-      "explanation": "Conforme o texto base, textos de alta informatividade (como editoriais) possuem progressão densa e relações complexas. ARROW-LEFT VOLTAR À QUESTÃO 212"
+      "explanation": "Conforme o texto base, textos de alta informatividade (como editoriais) possuem progressão densa e relações complexas."
     }
   ],
   "answer_key": "E",
@@ -12363,7 +12351,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "A manutenção de um tema constante em várias frases sucessivas, o que impede a renovação do estoque informativo e torna o texto circular.",
       "is_correct": false,
-      "explanation": "A manutenção de um tema constante é um tipo válido de progressão temática (Progressão com Tema Constante). Ela só se torna um problema (redundância) se não houver acréscimo de remas novos, mas a definição de ’consistência explicativa’ não se refere à circularidade, e sim ao fechamento de lacunas. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "A manutenção de um tema constante é um tipo válido de progressão temática (Progressão com Tema Constante). Ela só se torna um problema (redundância) se não houver acréscimo de remas novos, mas a definição de ’consistência explicativa’ não se refere à circularidade, e sim ao fechamento de lacunas."
     },
     {
       "id": "D",
@@ -12375,7 +12363,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A utilização de alta informatividade em textos técnicos, o que exige do candidato o preenchimento de lacunas por meio de inferências externas.",
       "is_correct": false,
-      "explanation": "A alta informatividade é uma característica de textos densos e complexos, e não uma falha de progressão ou de consistência explicativa. ARROW-LEFT VOLTAR À QUESTÃO 213"
+      "explanation": "A alta informatividade é uma característica de textos densos e complexos, e não uma falha de progressão ou de consistência explicativa."
     }
   ],
   "answer_key": "B",
@@ -12403,7 +12391,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No processo de construção da unidade de sentido, a progressão temática exige um equilíbrio dinâmico entre a continuidade e a novidade. Quando um texto apresenta uma sequência de enunciados que retomam o Tema (informação dada) de forma recorrente, mas falham sistematicamente em acrescentar Remas (informações novas) que façam 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação a argumentação avançar, verifica-se um vício de linguagem e de estruturação textual conhecido como:",
+  "question_text": "No processo de construção da unidade de sentido, a progressão temática exige um equilíbrio dinâmico entre a continuidade e a novidade. Quando um texto apresenta uma sequência de enunciados que retomam o Tema (informação dada) de forma recorrente, mas falham sistematicamente em acrescentar Remas (informações novas) que façam a argumentação avançar, verifica-se um vício de linguagem e de estruturação textual conhecido como:",
   "alternatives": [
     {
       "id": "A",
@@ -12427,13 +12415,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Progressão por temas derivados, em que o hipertema é fragmentado em subtemas específicos.",
       "is_correct": false,
-      "explanation": "A progressão por temas derivados (hipertema) é um mecanismo legítimo e eficaz de progressão, onde um conceito geral é detalhado em suas partes, gerando avanço informativo. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "A progressão por temas derivados (hipertema) é um mecanismo legítimo e eficaz de progressão, onde um conceito geral é detalhado em suas partes, gerando avanço informativo."
     },
     {
       "id": "E",
       "text": "Tautologia ou redundância, que compromete a informatividade e mantém o texto estagnado.",
       "is_correct": true,
-      "explanation": "A redundância ocorre quando o texto ’anda em círculos’, repetindo o Tema sem acrescentar Remas relevantes, o que prejudica a progressão e a unidade de sentido. ARROW-LEFT VOLTAR À QUESTÃO 214"
+      "explanation": "A redundância ocorre quando o texto ’anda em círculos’, repetindo o Tema sem acrescentar Remas relevantes, o que prejudica a progressão e a unidade de sentido."
     }
   ],
   "answer_key": "E",
@@ -12489,9 +12477,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Enumeração. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Enumeração.",
       "is_correct": false,
-      "explanation": "Não há uma listagem de características ou fatos sucessivos. ARROW-LEFT VOLTAR À QUESTÃO 215 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "Não há uma listagem de características ou fatos sucessivos."
     }
   ],
   "answer_key": "D",
@@ -12549,7 +12537,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A extensão ideal de um parágrafo em concursos gira em torno de 4 a 7 linhas, contendo preferencialmente mais de um período.",
       "is_correct": true,
-      "explanation": "Esta é a recomendação técnica padrão para manter a organização e a legibilidade. ARROW-LEFT VOLTAR À QUESTÃO 216"
+      "explanation": "Esta é a recomendação técnica padrão para manter a organização e a legibilidade."
     }
   ],
   "answer_key": "E",
@@ -12577,7 +12565,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Em questões de reordenação de textos, a identificação do parágrafo de introdução é facilitada pela ausência de certos elementos. Assinale a alternativa que apresenta um 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação termo que, se iniciar um parágrafo, geralmente indica que ele NÃO é a introdução do texto:",
+  "question_text": "Em questões de reordenação de textos, a identificação do parágrafo de introdução é facilitada pela ausência de certos elementos. Assinale a alternativa que apresenta um termo que, se iniciar um parágrafo, geralmente indica que ele NÃO é a introdução do texto:",
   "alternatives": [
     {
       "id": "A",
@@ -12607,13 +12595,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Além disso.",
       "is_correct": true,
-      "explanation": "Por ser um conectivo de continuidade/adição, ’Além disso’ sinaliza que o parágrafo depende de um anterior, logo não é a introdução. ARROW-LEFT VOLTAR À QUESTÃO 217"
+      "explanation": "Por ser um conectivo de continuidade/adição, ’Além disso’ sinaliza que o parágrafo depende de um anterior, logo não é a introdução."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A questão pede o termo que indica que o parágrafo NÃO é a introdução. ’Além disso’ possui valor aditivo e pressupõe que algo já foi dito anteriormente, caracterizando um parágrafo de desenvolvimento. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
-    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: A questão pede o termo que indica que o parágrafo NÃO é a introdução. ’Além disso’ possui valor aditivo e pressupõe que algo já foi dito anteriormente, caracterizando um parágrafo de desenvolvimento. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+    "resolution": "A questão pede o termo que indica que o parágrafo NÃO é a introdução. ’Além disso’ possui valor aditivo e pressupõe que algo já foi dito anteriormente, caracterizando um parágrafo de desenvolvimento.",
+    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: A questão pede o termo que indica que o parágrafo NÃO é a introdução. ’Além disso’ possui valor aditivo e pressupõe que algo já foi dito anteriormente, caracterizando um parágrafo de desenvolvimento."
   }
 }
 ```
@@ -12641,7 +12629,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "Dialética.",
       "is_correct": false,
-      "explanation": "A dialética é um método de organização de ideias baseado no confronto entre tese e antítese para se chegar a uma síntese, não sendo um critério de restrição temática do parágrafo. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "A dialética é um método de organização de ideias baseado no confronto entre tese e antítese para se chegar a uma síntese, não sendo um critério de restrição temática do parágrafo."
     },
     {
       "id": "B",
@@ -12663,9 +12651,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Concisão. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação 1.5.3 Questões Difíceis",
+      "text": "Concisão. 1.5.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "A concisão diz respeito à economia de palavras, ou seja, evitar a prolixidade e repetições desnecessárias, o que difere do conceito de unidade temática. ARROW-LEFT VOLTAR À QUESTÃO 218"
+      "explanation": "A concisão diz respeito à economia de palavras, ou seja, evitar a prolixidade e repetições desnecessárias, o que difere do conceito de unidade temática."
     }
   ],
   "answer_key": "D",
@@ -12711,7 +12699,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Unidade, Coerência e Ênfase.",
       "is_correct": true,
-      "explanation": "Unidade (uma só ideia central), Coerência (ligação lógica) e Ênfase (destaque à ideia principal) são os pilares doutrinários citados. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "Unidade (uma só ideia central), Coerência (ligação lógica) e Ênfase (destaque à ideia principal) são os pilares doutrinários citados."
     },
     {
       "id": "D",
@@ -12723,7 +12711,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Narração, Descrição e Dissertação.",
       "is_correct": false,
-      "explanation": "Estes são os tipos textuais básicos. ARROW-LEFT VOLTAR À QUESTÃO 219"
+      "explanation": "Estes são os tipos textuais básicos."
     }
   ],
   "answer_key": "C",
@@ -12755,7 +12743,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "O autor do texto omite o tópico frasal, deixando-o implícito para confundir o candidato. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "O autor do texto omite o tópico frasal, deixando-o implícito para confundir o candidato.",
       "is_correct": false,
       "explanation": "A omissão do tópico é uma escolha estilística do autor (tópico implícito), não uma estratégia de erro da banca chamada ’redução’."
     },
@@ -12781,7 +12769,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A alternativa toma um detalhe exemplificativo ou uma ideia secundária como se fosse a ideia central do parágrafo.",
       "is_correct": true,
-      "explanation": "A redução consiste em restringir o sentido do parágrafo a apenas um de seus elementos de suporte, ignorando a abrangência do tópico frasal. ARROW-LEFT VOLTAR À QUESTÃO 220 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "A redução consiste em restringir o sentido do parágrafo a apenas um de seus elementos de suporte, ignorando a abrangência do tópico frasal."
     }
   ],
   "answer_key": "E",
@@ -12837,9 +12825,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Ênfase, pois o autor deveria ter usado letras maiúsculas para destacar a ideia. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Ênfase, pois o autor deveria ter usado letras maiúsculas para destacar a ideia.",
       "is_correct": false,
-      "explanation": "Ênfase diz respeito ao destaque da ideia principal, não ao uso de recursos tipográficos. ARROW-LEFT VOLTAR À QUESTÃO 221"
+      "explanation": "Ênfase diz respeito ao destaque da ideia principal, não ao uso de recursos tipográficos."
     }
   ],
   "answer_key": "D",
@@ -12897,13 +12885,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Progressão por temas derivados.",
       "is_correct": true,
-      "explanation": "Conforme o aprofundamento teórico, a progressão por temas derivados (hipertema) organiza o texto em subtemas vinculados a um eixo central. ARROW-LEFT VOLTAR À QUESTÃO 222"
+      "explanation": "Conforme o aprofundamento teórico, a progressão por temas derivados (hipertema) organiza o texto em subtemas vinculados a um eixo central."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A progressão por temas derivados ocorre quando um tema principal (hipertema) é 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação desdobrado em diversos aspectos ou subtemas, organizados em parágrafos distintos.",
-    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: A progressão por temas derivados ocorre quando um tema principal (hipertema) é 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação desdobrado em diversos aspectos ou subtemas, organizados em parágrafos distintos."
+    "resolution": "A progressão por temas derivados ocorre quando um tema principal (hipertema) é desdobrado em diversos aspectos ou subtemas, organizados em parágrafos distintos.",
+    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: A progressão por temas derivados ocorre quando um tema principal (hipertema) é desdobrado em diversos aspectos ou subtemas, organizados em parágrafos distintos."
   }
 }
 ```
@@ -12947,7 +12935,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Preparar o futuro, deixando um gancho para o parágrafo seguinte. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Preparar o futuro, deixando um gancho para o parágrafo seguinte.",
       "is_correct": false,
       "explanation": "Esta afirmação está certa, pois a preparação do próximo parágrafo facilita a fluidez, portanto não é o gabarito."
     },
@@ -12955,7 +12943,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Afirmar o presente, apresentando sua ideia central ou tópico frasal.",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa, pois cada parágrafo deve ter sua própria unidade de sentido (tópico frasal), portanto não é o gabarito. ARROW-LEFT VOLTAR À QUESTÃO 223"
+      "explanation": "Esta afirmação está certa, pois cada parágrafo deve ter sua própria unidade de sentido (tópico frasal), portanto não é o gabarito."
     }
   ],
   "answer_key": "B",
@@ -12995,7 +12983,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "O Parágrafo Y deve obrigatoriamente preceder o Parágrafo X.",
       "is_correct": false,
-      "explanation": "O Parágrafo Y retoma algo que já deve ter sido mencionado; portanto, ele não pode vir antes de X. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "O Parágrafo Y retoma algo que já deve ter sido mencionado; portanto, ele não pode vir antes de X."
     },
     {
       "id": "C",
@@ -13013,7 +13001,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A progressão entre X e Y é do tipo ’tema constante’, pois repetem as mesmas palavras.",
       "is_correct": false,
-      "explanation": "Trata-se de uma progressão linear ou de desenvolvimento, onde o rema de X (impactos) vira o tema de Y (essas consequências). ARROW-LEFT VOLTAR À QUESTÃO 224"
+      "explanation": "Trata-se de uma progressão linear ou de desenvolvimento, onde o rema de X (impactos) vira o tema de Y (essas consequências)."
     }
   ],
   "answer_key": "C",
@@ -13041,7 +13029,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise a seguinte construção textual: ’A inflação subiu muito este mês. O futebol é a paixão dos brasileiros.’ 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação Sob o ponto de vista da organização das ideias e da progressão temática, é correto afirmar que o trecho apresenta:",
+  "question_text": "Analise a seguinte construção textual: ’A inflação subiu muito este mês. O futebol é a paixão dos brasileiros.’ Sob o ponto de vista da organização das ideias e da progressão temática, é correto afirmar que o trecho apresenta:",
   "alternatives": [
     {
       "id": "A",
@@ -13071,7 +13059,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Uma progressão linear implícita, onde o aumento dos preços afeta o lazer do cidadão.",
       "is_correct": false,
-      "explanation": "Não há conectivos ou termos sinônimos que estabeleçam essa relação linear; a mudança é brusca. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação ARROW-LEFT VOLTAR À QUESTÃO 225"
+      "explanation": "Não há conectivos ou termos sinônimos que estabeleçam essa relação linear; a mudança é brusca."
     }
   ],
   "answer_key": "D",
@@ -13121,7 +13109,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Progressão Linear Sequencial. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Progressão Linear Sequencial.",
       "is_correct": false,
       "explanation": "Na linear, o telhado teria que gerar uma nova informação sobre o telhado, e não retornar a partes da casa."
     },
@@ -13129,7 +13117,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Progressão por Hipertema (ou Temas Derivados).",
       "is_correct": true,
-      "explanation": "O exemplo demonstra claramente a relação de ’todo-parte’ característica dos temas derivados. ARROW-LEFT VOLTAR À QUESTÃO 226 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+      "explanation": "O exemplo demonstra claramente a relação de ’todo-parte’ característica dos temas derivados."
     }
   ],
   "answer_key": "E",
@@ -13185,9 +13173,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Selecionar os parágrafos que possuem o maior número de informações novas (Remas). 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Selecionar os parágrafos que possuem o maior número de informações novas (Remas).",
       "is_correct": false,
-      "explanation": "Apenas informações novas sem conexão com o que foi dito gerariam um texto fragmentado. ARROW-LEFT VOLTAR À QUESTÃO 227"
+      "explanation": "Apenas informações novas sem conexão com o que foi dito gerariam um texto fragmentado."
     }
   ],
   "answer_key": "D",
@@ -13245,13 +13233,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Apresentação de um ponto de vista contrário ou de ressalvas à tese inicialmente exposta.",
       "is_correct": true,
-      "explanation": "A antítese representa o confronto necessário para o desenvolvimento do raciocínio dialético. ARROW-LEFT VOLTAR À QUESTÃO 228"
+      "explanation": "A antítese representa o confronto necessário para o desenvolvimento do raciocínio dialético."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Na dialética, a antítese é o contraponto, o ’outro lado’ da questão, essencial para a posterior síntese. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
-    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: Na dialética, a antítese é o contraponto, o ’outro lado’ da questão, essencial para a posterior síntese. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação"
+    "resolution": "Na dialética, a antítese é o contraponto, o ’outro lado’ da questão, essencial para a posterior síntese.",
+    "theoretical_content": "A progressão temática é o modo como o texto mantém um assunto e acrescenta informações novas. Em cada parágrafo, costuma haver um tópico (informação conhecida ou ponto de partida) e um comentário (informação nova), que se conectam ao tema global. A progressão pode ocorrer pela manutenção do mesmo tópico, pela derivação de subtópicos ou pela retomada de um elemento anterior como ponto de partida para uma nova informação.\n\nO parágrafo é uma unidade de organização textual que desenvolve uma ideia ou etapa do raciocínio. A introdução apresenta o tema e delimita o enfoque; o desenvolvimento explica, exemplifica, compara ou argumenta; a conclusão retoma e fecha a linha de pensamento. Essa organização varia conforme o gênero e a finalidade.\n\nA paragrafação deve evitar tanto a fragmentação excessiva quanto blocos longos com ideias diferentes. Um bom parágrafo possui unidade temática, articulação interna e relação clara com os demais. Para ordenar trechos, observe referentes pronominais, conectivos, continuidade de tópico, relações de causa e consequência e a sequência lógica das informações.\n\nAplicação ao problema apresentado: Na dialética, a antítese é o contraponto, o ’outro lado’ da questão, essencial para a posterior síntese."
   }
 }
 ```
@@ -13289,9 +13277,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "Causa -> Consequência -> Nova Causa. 1. Língua Portuguesa 1.5. Progressão Temática e Paragrafação",
+      "text": "Causa -> Consequência -> Nova Causa.",
       "is_correct": false,
-      "explanation": "Embora a relação causa/consequência seja uma técnica de desenvolvimento, ela não define por si só o método dedutivo. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "Embora a relação causa/consequência seja uma técnica de desenvolvimento, ela não define por si só o método dedutivo."
     },
     {
       "id": "D",
@@ -13301,9 +13289,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Narração de fatos -> Descrição de cenários -> Opinião implícita. 1.5.4 Gabaritos e Comentários 195",
+      "text": "Narração de fatos -> Descrição de cenários -> Opinião implícita.",
       "is_correct": false,
-      "explanation": "Esta sequência refere-se a tipos textuais (narração/descrição) e não ao método de raciocínio lógico dedutivo. ARROW-LEFT VOLTAR À QUESTÃO 229 1.6 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS 1.6.1 Questões Fáceis 230 Questão 230 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL No contexto da avaliação de competências de leitura em concursos públicos, a compreensão textual (também chamada de intelecção) distingue-se da interpretação por focar em aspectos específicos do texto. Assinale a alternativa que descreve corretamente a natureza da compreensão textual. A Trata-se de uma análise subjetiva que busca as intenções ocultas do autor. B Refere-se à identificação de informações explícitas e dados literais contidos no texto. C Envolve a criação de novos sentidos a partir de lacunas deixadas pelo narrador. D Consiste na produção de inferências lógicas que extrapolam os limites do que foi escrito. E Baseia-se exclusivamente no conhecimento prévio do candidato sobre o tema abordado. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 231 Questão 231 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL As bancas examinadoras utilizam comandos específicos para orientar o candidato sobre o tipo de análise requerida. Assinale a alternativa que apresenta um comando típico de uma questão de INTERPRETAÇÃO textual. A “De acordo com o texto...” B “Depreende-se do texto que...” C “O autor afirma que...” D “Segundo o texto...” E “Na linha 15, o texto diz que...” 232 Questão 232 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL Considere a seguinte frase: ’O candidato finalmente compreendeu a importância dos implícitos textuais’. A partir do advérbio ’finalmente’, pode-se depreender o seguinte pressuposto: A O candidato será aprovado no concurso público. B Havia uma expectativa ou demora para que a compreensão ocorresse. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … C O candidato é incapaz de entender conceitos complexos. D O candidato nunca estudou o tema anteriormente. E O tema de implícitos textuais é o mais difícil do edital. 233 Questão 233 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL A intertextualidade é um fenômeno central na construção de sentidos em diversos gêneros textuais. Quando um autor reelabora um texto alheio, mantendo o sentido original e a ideologia da fonte, mas utilizando novas estruturas lexicais e sintáticas, ocorre o processo de: A Pastiche. B Alusão. C Paráfrase. D Epígrafe. E Paródia. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 234 Questão 234 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL No início de muitos capítulos de livros ou artigos acadêmicos, é comum encontrar uma frase curta de outro autor que antecipa o tema ou a atmosfera do que será lido. Esse recurso de intertextualidade explícita é denominado: A Polifonia. B Epígrafe. C Paráfrase. D Interdiscursividade. E Citação direta. 235 Questão 235 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL Considere o seguinte fragmento: ”A educação é o caminho para a liberdade”, afirmou o pensador durante a conferência. Ao converter esse trecho para uma citação indireta, o redator deve observar certas normas de transposição. Assinale a alternativa que apresenta a correta aplicação da técnica de paráfrase para o trecho citado. A Segundo o pensador, a educação seria o caminho para a liberdade. B Durante a conferência, o pensador afirmou que a educação é o caminho para a liberdade. C O pensador afirmou que ”a educação é o caminho para a liberdade”. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … D A educação, conforme o pensador, é o ”caminho para a liberdade”. E O pensador afirmou: a educação é o caminho para a liberdade. 1.6.2 Questões de Nível Médio 236 Questão 236 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Durante a leitura de um texto, o candidato pode incorrer em erros que comprometem a resolução das questões. O erro que consiste em o candidato acrescentar informações de seu próprio conhecimento, indo além do que o texto permite inferir, é denominado: A Extrapolação. B Paráfrase. C Contradição. D Intelecção. E Redução. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 237 Questão 237 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere a seguinte frase: “O novo agente público finalmente compreendeu a importância da ética na Administração”. Com base nos conceitos de pressupostos e subentendidos, assinale a esta afirmação. A Não há pressupostos na frase, apenas informações explícitas sobre a conduta do agente. B O termo ’novo’ é um subentendido que indica que o agente é inexperiente em todas as áreas da vida. C A compreensão da ética é um dado meramente interpretativo, sem base textual no enunciado. D O advérbio ’finalmente’ é um marcador linguístico que gera o pressuposto de que o agente não compreendia a importância da ética anteriormente. E A frase apresenta um subentendido de que todos os outros agentes públicos são antiéticos. 238 Questão 238 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Um candidato, ao responder a uma questão de Língua Portuguesa, percebe que a alternativa considerada correta pela banca não está escrita literalmente no texto, mas pode ser deduzida logicamente a partir das informações apresentadas. Nesse caso, a questão exigiu do candidato um processo de: A Interpretação por inferência. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … B Análise de erro por redução. C Decodificação silábica. D Compreensão textual pura. E Identificação de paráfrase. 239 Questão 239 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Na resolução de questões de interpretação, três erros clássicos de leitura levam o candidato a marcar alternativas falsas: ir além do que o texto permite, tomar uma parte do texto pelo todo e entender o oposto do que foi dito. Esses erros são, respectivamente: A Explicitude, Reiteração e Coesão. B Elisão, Retificação e Conjunção. C Exegese, Reflexão e Comparação. D Enumeração, Redação e Coerência. E Extrapolação, Redução e Contradição. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 240 Questão 240 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Em um comunicado oficial sobre a modernização de processos, consta a seguinte afirmação: “A implementação do novo sistema de protocolo finalmente eliminou o acúmulo de processos físicos na unidade”. Analisando a frase sob a perspectiva da intelecção e da interpretação textual, assinale a esta afirmação. A O termo ’finalmente’ indica uma contradição, sugerindo que a eliminação do acúmulo ocorreu de forma não planejada pela Administração. B A afirmação de que o acúmulo de processos era um problema antigo constitui um subentendido, pois depende exclusivamente do contexto e não de marcas gramaticais. C A informação de que havia acúmulo de processos antes da implementação do sistema é um pressuposto garantido pelo marcador linguístico ’finalmente’. D Segundo a compreensão do texto, o autor afirma explicitamente que o novo sistema de protocolo é a única ferramenta capaz de gerir processos na unidade. E Depreende-se do texto que a unidade agora opera com eficiência máxima em todos os seus setores administrativos. 241 Questão 241 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere o seguinte fragmento extraído de um relatório de gestão: “Embora a implementação do sistema de agendamento eletrônico tenha eliminado as filas externas na unidade, o índice de resolutividade das demandas não acompanhou essa melhora, permanecendo idêntico ao do período anterior.” Com base na distinção técnica entre compreensão e interpretação textual, assinale a alternativa que apresenta uma inferência (interpretação) válida a partir do trecho. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … A A agilidade no acesso ao serviço não garante, por si só, a solução definitiva do problema apresentado pelo cidadão. B O índice de resolutividade das demandas permaneceu inalterado em relação ao período que antecedeu o novo sistema. C Os servidores da unidade não receberam treinamento adequado para operar o novo sistema de agendamento. D O sistema de agendamento eletrônico apresentou falhas técnicas que impediram o aumento da resolutividade. E A extinção das filas externas foi o resultado direto da implementação do agendamento eletrônico. 242 Questão 242 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO A distinção entre pressupostos e subentendidos é essencial para a análise crítica de textos. Analise a frase dita por um diretor a um funcionário: ’Notei que você ainda não entregou o relatório trimestral’. Sobre essa construção, assinale a alternativa que descreve corretamente os implícitos presentes: A Existe um pressuposto de que o funcionário deveria ter entregue o relatório em um momento anterior. B O fato de o relatório não ter sido entregue é um subentendido, pois o diretor pode negar essa afirmação. C O uso do verbo ’notar’ pressupõe que o diretor estava vigiando o funcionário durante todo o trimestre. D O termo ’ainda’ é um marcador de subentendido, sugerindo que o funcionário é preguiçoso. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … E A frase contém apenas informações explícitas, não havendo qualquer dimensão implícita a ser analisada. 243 Questão 243 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO As orações adjetivas podem funcionar como gatilhos de pressuposição dependendo de sua classificação (restritiva ou explicativa). Leia a frase abaixo: ’Os servidores que agem com ética devem ser valorizados.’ Com base nos conceitos de implícitos, é correto afirmar que: A A frase é uma generalização absoluta e não admite interpretações implícitas. B O autor subentende que os servidores éticos são a minoria na administração pública. C A frase pressupõe que todos os servidores, sem exceção, agem com ética. D A ausência de vírgulas indica uma oração explicativa, não gerando pressupostos. E A estrutura pressupõe a existência de servidores que não agem com ética. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 244 Questão 244 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere a relação entre um texto-fonte e um texto-derivado. Quando o novo texto utiliza a estrutura de uma obra consagrada para subverter seu sentido original, frequentemente com o objetivo de produzir humor ou crítica social, o candidato identifica o fenômeno da: A Interdiscursividade pura. B Alusão histórica. C Paráfrase explicativa. D Paródia. E Citação indireta. 245 Questão 245 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Sobre a distinção entre intertextualidade e plágio, assinale a alternativa que apresenta a orientação correta para a análise de textos em concursos públicos: A A alusão, por ser breve, é a única forma de intertextualidade que dispensa o conhecimento prévio do leitor. B A intertextualidade pressupõe que a fonte seja creditada ou que o leitor seja capaz de reconhecê-la como referência. C A intertextualidade ocorre apenas quando há citação direta entre aspas. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … D Toda paráfrase sem indicação nominal do autor original é considerada plágio, independentemente do contexto. E O plágio é um recurso estilístico legítimo quando o autor busca homenagear uma fonte clássica. 246 Questão 246 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Ao redigir um parecer técnico, um servidor utiliza a transcrição exata de um parágrafo de uma doutrina jurídica renomada para reforçar sua argumentação. Esse procedimento é um exemplo de: A Pastiche, para emular o estilo do doutrinador. B Paródia, visando criticar a doutrina mencionada. C Epígrafe, por situar o tema do parecer. D Citação direta, funcionando como argumento de autoridade. E Alusão, por ser uma referência rápida ao texto-fonte. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 247 Questão 247 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Em questões de interpretação de textos, a banca solicita que o candidato identifique a alternativa que ’mantém o sentido original e a correção gramatical’ de um trecho destacado. Do ponto de vista da intertextualidade, essa tarefa exige a construção de uma: A Interdiscursividade. B Paródia crítica. C Paráfrase. D Alusão temática. E Citação direta. 248 Questão 248 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere a situação em que um agente público, ao redigir um relatório de atividades, utiliza expressões como ’cláusulas pétreas da ética’ e ’trânsito em julgado da transparência’. Embora o texto não mencione uma lei específica ou transcreva trechos de obras jurídicas, ele incorpora o vocabulário e a autoridade do campo do Direito para reforçar uma mensagem na esfera administrativa. De acordo com a teoria da intertextualidade e da análise do discurso, esse fenômeno de absorção de um sistema de valores ou de uma linguagem típica de outra área do conhecimento é denominado: A Paráfrase, pois o autor está reescrevendo conceitos jurídicos com suas próprias palavras para manter o sentido original da norma. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … B Citação indireta, pois há a reprodução fiel do pensamento de juristas renomados, dispensando-se o uso de aspas por se tratar de domínio público. C Interdiscursividade, visto que ocorre a relação entre discursos e campos ideológicos distintos, manifestada pela apropriação de um léxico especializado. D Pastiche, dado que o autor busca imitar o estilo de redação de magistrados com o objetivo exclusivo de satirizar a burocracia do órgão. E Epígrafe, uma vez que os termos jurídicos funcionam como uma chave de leitura que antecipa o tema central do relatório administrativo. 249 Questão 249 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere a situação em que um autor redige uma crônica literária utilizando deliberadamente o vocabulário arcaico, a sintaxe complexa e a atmosfera melancólica típicas da produção de um autor clássico do Romantismo. O objetivo do cronista não é ridicularizar a obra original, mas sim emular seu estilo como forma de homenagem e exercício estético. De acordo com os conceitos de intertextualidade, essa imitação de estilo, que se diferencia da subversão crítica, é denominada: A Interdiscursividade. B Citação direta. C Pastiche. D Paródia. E Epígrafe. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 250 Questão 250 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO No processo de reescrita de textos para a elaboração de relatórios oficiais, a técnica de nominalização é frequentemente utilizada para conferir maior formalidade ao enunciado. Considere a frase original: ”É fundamental que o gestor analise os dados antes da tomada de decisão”. Assinale a alternativa que apresenta uma paráfrase correta baseada na nominalização do termo destacado. A A análise dos dados pelo gestor é fundamental antes da tomada de decisão. B Analisar os dados é fundamental para o gestor antes de decidir. C É fundamental que os dados sejam analisados pelo gestor antes da decisão. D O gestor deve analisar fundamentalmente os dados antes de tomar a decisão. E É fundamental que o gestor faça uma análise dos dados antes da tomada de decisão. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 1.6.3 Questões Difíceis 251 Questão 251 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL Diferenciar pressupostos de subentendidos é fundamental para questões de interpretação de alto nível. Sobre essa distinção, assinale a esta afirmação. A Os pressupostos são sugestões que dependem exclusivamente do contexto e podem ser negados pelo autor sem contradição. B O subentendido é mais fácil de identificar em provas do que o pressuposto, pois não depende da interpretação do receptor. C O pressuposto é uma informação implícita inquestionável, pois está ancorada em palavras presentes na superfície textual. D Tanto o pressuposto quanto o subentendido pertencem ao campo da compreensão textual (explicitude). E Os subentendidos são garantidos por marcadores linguísticos, como verbos de mudança de estado ou advérbios. 252 Questão 252 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL Analise a seguinte situação hipotética: Um texto discorre sobre o aumento da criminalidade em uma região e menciona que ’as políticas de segurança pública adotadas nos últimos dois anos ainda não produziram os efeitos esperados pela população’. Uma questão de prova afirma: ’Infere-se do texto que as políticas de segurança pública foram totalmente ineficazes’. De acordo com as diretrizes de leitura, essa afirmação da banca estaria: 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … A Incorreta, pois o texto trata de compreensão e a afirmação trata de interpretação. B Incorreta, pois incorre no erro de extrapolação ao usar o termo ’totalmente’. C Correta, pois se não produziram os efeitos esperados, são ineficazes. D Incorreta, pois o comando ’infere-se’ exige que a resposta esteja escrita literalmente. E Correta, pois o termo ’ainda não’ indica que nunca produzirão efeitos. 253 Questão 253 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL A ’Prova da Negação’ é um recurso técnico utilizado para distinguir pressupostos de subentendidos. Considere o enunciado: ’O Brasil parou de crescer economicamente neste semestre’. Aplicando a técnica da negação, assinale a conclusão correta: A Tanto na afirmação quanto na negação, o crescimento econômico é visto como uma opinião subjetiva, logo, um subentendido. B A negação da frase mantém viva a informação de que o país crescia antes, o que caracteriza a informação como um pressuposto. C Ao negar a frase (’O Brasil não parou de crescer’), a informação de que o país crescia anteriormente desaparece, provando ser um subentendido. D A prova da negação é inaplicável neste caso, pois verbos de mudança de estado não admitem formas negativas na pragmática. E A negação da frase altera o sentido do verbo ’parar’, transformando um pressuposto em uma ironia contextual. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 254 Questão 254 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL Em uma reunião de condomínio, o síndico afirma: ’O caixa do prédio está no vermelho e a pintura da fachada está descascando’. Um morador responde: ’Eu sempre paguei minhas cotas em dia’. Considerando a Teoria das Implicaturas e os conceitos de implícitos, assinale a alternativa que apresenta a análise INCORRETA: A O subentendido, neste caso, é denegável; o morador poderia dizer que apenas fez um comentário positivo sobre sua conduta, sem intenção de rebater o síndico. B O morador utiliza um subentendido para se defender de uma acusação que sequer foi feita explicitamente pelo síndico. C A afirmação do morador é um pressuposto lógico da fala do síndico, uma vez que o déficit no caixa decorre obrigatoriamente da inadimplência deste morador específico. D A resposta do morador gera um subentendido de que ele não deve ser responsabilizado pela falta de verba. E O advérbio ’sempre’ na fala do morador funciona como um marcador de pressuposto, indicando a regularidade de sua conduta no passado. 255 Questão 255 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL No que tange aos conceitos de polifonia e interdiscursividade, assinale a afirmação correta: 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … A A polifonia ocorre quando o autor silencia vozes divergentes para garantir a unidade ideológica do texto. B A interdiscursividade é sinônimo de paráfrase, pois ambas buscam repetir o sentido de um discurso anterior. C A interdiscursividade limita-se à relação formal entre dois textos escritos, ignorando aspectos ideológicos. D A polifonia é um recurso exclusivo da paródia, visto que apenas nela há o confronto de vozes. E Um texto polifônico é aquele que apresenta diversas vozes ou pontos de vista, permitindo o diálogo interno entre opiniões distintas. 256 Questão 256 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL Em questões de interpretação e reescrita, a preservação da modalização é crucial. Considere a seguinte afirmação de um especialista: ”É possível que a implementação do novo sistema reduza os custos operacionais em curto prazo”. Assinale a alternativa que apresenta uma paráfrase que mantém a fidelidade à intenção original do autor. A A implementação do novo sistema reduzirá os custos operacionais em curto prazo. B O novo sistema tem como objetivo principal a redução dos custos operacionais em curto prazo. C A redução dos custos operacionais em curto prazo é uma consequência inevitável do novo sistema. D Existe a probabilidade de que os custos operacionais diminuam em curto prazo com o novo sistema. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … E Certamente, os custos operacionais serão reduzidos em curto prazo com o novo sistema. 257 Questão 257 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL No que tange à intertextualidade e ao uso de citações em textos técnicos, analise a seguinte referência: ”A eficiência administrativa é o pilar da gestão moderna (Oliveira apud Souza)”. Com base nas normas de citação e no sentido do termo destacado, assinale a afirmação correta. A Oliveira é o autor da ideia original, mas o redator teve acesso a ela por meio da obra de Souza. B A expressão indica que Oliveira e Souza escreveram o texto em coautoria. C Souza é o autor da frase original e Oliveira é o autor do texto que está sendo lido. D A citação é direta e literal, indicando que Souza copiou o erro original de Oliveira. E O termo destacado indica que a citação de Oliveira foi contestada por Souza no texto original. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 1.6.4 Gabaritos e Comentários"
+      "explanation": "Esta sequência refere-se a tipos textuais (narração/descrição) e não ao método de raciocínio lógico dedutivo.9 1.6 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS 1.6.1 Questões Fáceis 230 Questão 230 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL No contexto da avaliação de competências de leitura em concursos públicos, a compreensão textual (também chamada de intelecção) distingue-se da interpretação por focar em aspectos específicos do texto. Assinale a alternativa que descreve corretamente a natureza da compreensão textual. A Trata-se de uma análise subjetiva que busca as intenções ocultas do autor. B Refere-se à identificação de informações explícitas e dados literais contidos no texto. C Envolve a criação de novos sentidos a partir de lacunas deixadas pelo narrador. D Consiste na produção de inferências lógicas que extrapolam os limites do que foi escrito. E Baseia-se exclusivamente no conhecimento prévio do candidato sobre o tema abordado. 231 Questão 231 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL As bancas examinadoras utilizam comandos específicos para orientar o candidato sobre o tipo de análise requerida. Assinale a alternativa que apresenta um comando típico de uma questão de INTERPRETAÇÃO textual. A “De acordo com o texto...” B “Depreende-se do texto que...” C “O autor afirma que...” D “Segundo o texto...” E “Na linha 15, o texto diz que...” 232 Questão 232 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL Considere a seguinte frase: ’O candidato finalmente compreendeu a importância dos implícitos textuais’. A partir do advérbio ’finalmente’, pode-se depreender o seguinte pressuposto: A O candidato será aprovado no concurso público. B Havia uma expectativa ou demora para que a compreensão ocorresse. C O candidato é incapaz de entender conceitos complexos. D O candidato nunca estudou o tema anteriormente. E O tema de implícitos textuais é o mais difícil do edital. 233 Questão 233 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL A intertextualidade é um fenômeno central na construção de sentidos em diversos gêneros textuais. Quando um autor reelabora um texto alheio, mantendo o sentido original e a ideologia da fonte, mas utilizando novas estruturas lexicais e sintáticas, ocorre o processo de: A Pastiche. B Alusão. C Paráfrase. D Epígrafe. E Paródia. 234 Questão 234 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL No início de muitos capítulos de livros ou artigos acadêmicos, é comum encontrar uma frase curta de outro autor que antecipa o tema ou a atmosfera do que será lido. Esse recurso de intertextualidade explícita é denominado: A Polifonia. B Epígrafe. C Paráfrase. D Interdiscursividade. E Citação direta. 235 Questão 235 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○FÁCIL Considere o seguinte fragmento: ”A educação é o caminho para a liberdade”, afirmou o pensador durante a conferência. Ao converter esse trecho para uma citação indireta, o redator deve observar certas normas de transposição. Assinale a alternativa que apresenta a correta aplicação da técnica de paráfrase para o trecho citado. A Segundo o pensador, a educação seria o caminho para a liberdade. B Durante a conferência, o pensador afirmou que a educação é o caminho para a liberdade. C O pensador afirmou que ”a educação é o caminho para a liberdade”. D A educação, conforme o pensador, é o ”caminho para a liberdade”. E O pensador afirmou: a educação é o caminho para a liberdade. 1.6.2 Questões de Nível Médio 236 Questão 236 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Durante a leitura de um texto, o candidato pode incorrer em erros que comprometem a resolução das questões. O erro que consiste em o candidato acrescentar informações de seu próprio conhecimento, indo além do que o texto permite inferir, é denominado: A Extrapolação. B Paráfrase. C Contradição. D Intelecção. E Redução. 237 Questão 237 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere a seguinte frase: “O novo agente público finalmente compreendeu a importância da ética na Administração”. Com base nos conceitos de pressupostos e subentendidos, assinale a esta afirmação. A Não há pressupostos na frase, apenas informações explícitas sobre a conduta do agente. B O termo ’novo’ é um subentendido que indica que o agente é inexperiente em todas as áreas da vida. C A compreensão da ética é um dado meramente interpretativo, sem base textual no enunciado. D O advérbio ’finalmente’ é um marcador linguístico que gera o pressuposto de que o agente não compreendia a importância da ética anteriormente. E A frase apresenta um subentendido de que todos os outros agentes públicos são antiéticos. 238 Questão 238 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Um candidato, ao responder a uma questão de Língua Portuguesa, percebe que a alternativa considerada correta pela banca não está escrita literalmente no texto, mas pode ser deduzida logicamente a partir das informações apresentadas. Nesse caso, a questão exigiu do candidato um processo de: A Interpretação por inferência. B Análise de erro por redução. C Decodificação silábica. D Compreensão textual pura. E Identificação de paráfrase. 239 Questão 239 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Na resolução de questões de interpretação, três erros clássicos de leitura levam o candidato a marcar alternativas falsas: ir além do que o texto permite, tomar uma parte do texto pelo todo e entender o oposto do que foi dito. Esses erros são, respectivamente: A Explicitude, Reiteração e Coesão. B Elisão, Retificação e Conjunção. C Exegese, Reflexão e Comparação. D Enumeração, Redação e Coerência. E Extrapolação, Redução e Contradição. 240 Questão 240 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Em um comunicado oficial sobre a modernização de processos, consta a seguinte afirmação: “A implementação do novo sistema de protocolo finalmente eliminou o acúmulo de processos físicos na unidade”. Analisando a frase sob a perspectiva da intelecção e da interpretação textual, assinale a esta afirmação. A O termo ’finalmente’ indica uma contradição, sugerindo que a eliminação do acúmulo ocorreu de forma não planejada pela Administração. B A afirmação de que o acúmulo de processos era um problema antigo constitui um subentendido, pois depende exclusivamente do contexto e não de marcas gramaticais. C A informação de que havia acúmulo de processos antes da implementação do sistema é um pressuposto garantido pelo marcador linguístico ’finalmente’. D Segundo a compreensão do texto, o autor afirma explicitamente que o novo sistema de protocolo é a única ferramenta capaz de gerir processos na unidade. E Depreende-se do texto que a unidade agora opera com eficiência máxima em todos os seus setores administrativos. 241 Questão 241 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere o seguinte fragmento extraído de um relatório de gestão: “Embora a implementação do sistema de agendamento eletrônico tenha eliminado as filas externas na unidade, o índice de resolutividade das demandas não acompanhou essa melhora, permanecendo idêntico ao do período anterior.” Com base na distinção técnica entre compreensão e interpretação textual, assinale a alternativa que apresenta uma inferência (interpretação) válida a partir do trecho. A A agilidade no acesso ao serviço não garante, por si só, a solução definitiva do problema apresentado pelo cidadão. B O índice de resolutividade das demandas permaneceu inalterado em relação ao período que antecedeu o novo sistema. C Os servidores da unidade não receberam treinamento adequado para operar o novo sistema de agendamento. D O sistema de agendamento eletrônico apresentou falhas técnicas que impediram o aumento da resolutividade. E A extinção das filas externas foi o resultado direto da implementação do agendamento eletrônico. 242 Questão 242 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO A distinção entre pressupostos e subentendidos é essencial para a análise crítica de textos. Analise a frase dita por um diretor a um funcionário: ’Notei que você ainda não entregou o relatório trimestral’. Sobre essa construção, assinale a alternativa que descreve corretamente os implícitos presentes: A Existe um pressuposto de que o funcionário deveria ter entregue o relatório em um momento anterior. B O fato de o relatório não ter sido entregue é um subentendido, pois o diretor pode negar essa afirmação. C O uso do verbo ’notar’ pressupõe que o diretor estava vigiando o funcionário durante todo o trimestre. D O termo ’ainda’ é um marcador de subentendido, sugerindo que o funcionário é preguiçoso. E A frase contém apenas informações explícitas, não havendo qualquer dimensão implícita a ser analisada. 243 Questão 243 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO As orações adjetivas podem funcionar como gatilhos de pressuposição dependendo de sua classificação (restritiva ou explicativa). Leia a frase abaixo: ’Os servidores que agem com ética devem ser valorizados.’ Com base nos conceitos de implícitos, é correto afirmar que: A A frase é uma generalização absoluta e não admite interpretações implícitas. B O autor subentende que os servidores éticos são a minoria na administração pública. C A frase pressupõe que todos os servidores, sem exceção, agem com ética. D A ausência de vírgulas indica uma oração explicativa, não gerando pressupostos. E A estrutura pressupõe a existência de servidores que não agem com ética. 244 Questão 244 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere a relação entre um texto-fonte e um texto-derivado. Quando o novo texto utiliza a estrutura de uma obra consagrada para subverter seu sentido original, frequentemente com o objetivo de produzir humor ou crítica social, o candidato identifica o fenômeno da: A Interdiscursividade pura. B Alusão histórica. C Paráfrase explicativa. D Paródia. E Citação indireta. 245 Questão 245 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Sobre a distinção entre intertextualidade e plágio, assinale a alternativa que apresenta a orientação correta para a análise de textos em concursos públicos: A A alusão, por ser breve, é a única forma de intertextualidade que dispensa o conhecimento prévio do leitor. B A intertextualidade pressupõe que a fonte seja creditada ou que o leitor seja capaz de reconhecê-la como referência. C A intertextualidade ocorre apenas quando há citação direta entre aspas. D Toda paráfrase sem indicação nominal do autor original é considerada plágio, independentemente do contexto. E O plágio é um recurso estilístico legítimo quando o autor busca homenagear uma fonte clássica. 246 Questão 246 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Ao redigir um parecer técnico, um servidor utiliza a transcrição exata de um parágrafo de uma doutrina jurídica renomada para reforçar sua argumentação. Esse procedimento é um exemplo de: A Pastiche, para emular o estilo do doutrinador. B Paródia, visando criticar a doutrina mencionada. C Epígrafe, por situar o tema do parecer. D Citação direta, funcionando como argumento de autoridade. E Alusão, por ser uma referência rápida ao texto-fonte. 247 Questão 247 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Em questões de interpretação de textos, a banca solicita que o candidato identifique a alternativa que ’mantém o sentido original e a correção gramatical’ de um trecho destacado. Do ponto de vista da intertextualidade, essa tarefa exige a construção de uma: A Interdiscursividade. B Paródia crítica. C Paráfrase. D Alusão temática. E Citação direta. 248 Questão 248 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere a situação em que um agente público, ao redigir um relatório de atividades, utiliza expressões como ’cláusulas pétreas da ética’ e ’trânsito em julgado da transparência’. Embora o texto não mencione uma lei específica ou transcreva trechos de obras jurídicas, ele incorpora o vocabulário e a autoridade do campo do Direito para reforçar uma mensagem na esfera administrativa. De acordo com a teoria da intertextualidade e da análise do discurso, esse fenômeno de absorção de um sistema de valores ou de uma linguagem típica de outra área do conhecimento é denominado: A Paráfrase, pois o autor está reescrevendo conceitos jurídicos com suas próprias palavras para manter o sentido original da norma. B Citação indireta, pois há a reprodução fiel do pensamento de juristas renomados, dispensando-se o uso de aspas por se tratar de domínio público. C Interdiscursividade, visto que ocorre a relação entre discursos e campos ideológicos distintos, manifestada pela apropriação de um léxico especializado. D Pastiche, dado que o autor busca imitar o estilo de redação de magistrados com o objetivo exclusivo de satirizar a burocracia do órgão. E Epígrafe, uma vez que os termos jurídicos funcionam como uma chave de leitura que antecipa o tema central do relatório administrativo. 249 Questão 249 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO Considere a situação em que um autor redige uma crônica literária utilizando deliberadamente o vocabulário arcaico, a sintaxe complexa e a atmosfera melancólica típicas da produção de um autor clássico do Romantismo. O objetivo do cronista não é ridicularizar a obra original, mas sim emular seu estilo como forma de homenagem e exercício estético. De acordo com os conceitos de intertextualidade, essa imitação de estilo, que se diferencia da subversão crítica, é denominada: A Interdiscursividade. B Citação direta. C Pastiche. D Paródia. E Epígrafe. 250 Questão 250 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○MÉDIO No processo de reescrita de textos para a elaboração de relatórios oficiais, a técnica de nominalização é frequentemente utilizada para conferir maior formalidade ao enunciado. Considere a frase original: ”É fundamental que o gestor analise os dados antes da tomada de decisão”. Assinale a alternativa que apresenta uma paráfrase correta baseada na nominalização do termo destacado. A A análise dos dados pelo gestor é fundamental antes da tomada de decisão. B Analisar os dados é fundamental para o gestor antes de decidir. C É fundamental que os dados sejam analisados pelo gestor antes da decisão. D O gestor deve analisar fundamentalmente os dados antes de tomar a decisão. E É fundamental que o gestor faça uma análise dos dados antes da tomada de decisão. 1.6.3 Questões Difíceis 251 Questão 251 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL Diferenciar pressupostos de subentendidos é fundamental para questões de interpretação de alto nível. Sobre essa distinção, assinale a esta afirmação. A Os pressupostos são sugestões que dependem exclusivamente do contexto e podem ser negados pelo autor sem contradição. B O subentendido é mais fácil de identificar em provas do que o pressuposto, pois não depende da interpretação do receptor. C O pressuposto é uma informação implícita inquestionável, pois está ancorada em palavras presentes na superfície textual. D Tanto o pressuposto quanto o subentendido pertencem ao campo da compreensão textual (explicitude). E Os subentendidos são garantidos por marcadores linguísticos, como verbos de mudança de estado ou advérbios. 252 Questão 252 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL Analise a seguinte situação hipotética: Um texto discorre sobre o aumento da criminalidade em uma região e menciona que ’as políticas de segurança pública adotadas nos últimos dois anos ainda não produziram os efeitos esperados pela população’. Uma questão de prova afirma: ’Infere-se do texto que as políticas de segurança pública foram totalmente ineficazes’. De acordo com as diretrizes de leitura, essa afirmação da banca estaria: A Incorreta, pois o texto trata de compreensão e a afirmação trata de interpretação. B Incorreta, pois incorre no erro de extrapolação ao usar o termo ’totalmente’. C Correta, pois se não produziram os efeitos esperados, são ineficazes. D Incorreta, pois o comando ’infere-se’ exige que a resposta esteja escrita literalmente. E Correta, pois o termo ’ainda não’ indica que nunca produzirão efeitos. 253 Questão 253 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL A ’Prova da Negação’ é um recurso técnico utilizado para distinguir pressupostos de subentendidos. Considere o enunciado: ’O Brasil parou de crescer economicamente neste semestre’. Aplicando a técnica da negação, assinale a conclusão correta: A Tanto na afirmação quanto na negação, o crescimento econômico é visto como uma opinião subjetiva, logo, um subentendido. B A negação da frase mantém viva a informação de que o país crescia antes, o que caracteriza a informação como um pressuposto. C Ao negar a frase (’O Brasil não parou de crescer’), a informação de que o país crescia anteriormente desaparece, provando ser um subentendido. D A prova da negação é inaplicável neste caso, pois verbos de mudança de estado não admitem formas negativas na pragmática. E A negação da frase altera o sentido do verbo ’parar’, transformando um pressuposto em uma ironia contextual. 254 Questão 254 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL Em uma reunião de condomínio, o síndico afirma: ’O caixa do prédio está no vermelho e a pintura da fachada está descascando’. Um morador responde: ’Eu sempre paguei minhas cotas em dia’. Considerando a Teoria das Implicaturas e os conceitos de implícitos, assinale a alternativa que apresenta a análise INCORRETA: A O subentendido, neste caso, é denegável; o morador poderia dizer que apenas fez um comentário positivo sobre sua conduta, sem intenção de rebater o síndico. B O morador utiliza um subentendido para se defender de uma acusação que sequer foi feita explicitamente pelo síndico. C A afirmação do morador é um pressuposto lógico da fala do síndico, uma vez que o déficit no caixa decorre obrigatoriamente da inadimplência deste morador específico. D A resposta do morador gera um subentendido de que ele não deve ser responsabilizado pela falta de verba. E O advérbio ’sempre’ na fala do morador funciona como um marcador de pressuposto, indicando a regularidade de sua conduta no passado. 255 Questão 255 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL No que tange aos conceitos de polifonia e interdiscursividade, assinale a afirmação correta: A A polifonia ocorre quando o autor silencia vozes divergentes para garantir a unidade ideológica do texto. B A interdiscursividade é sinônimo de paráfrase, pois ambas buscam repetir o sentido de um discurso anterior. C A interdiscursividade limita-se à relação formal entre dois textos escritos, ignorando aspectos ideológicos. D A polifonia é um recurso exclusivo da paródia, visto que apenas nela há o confronto de vozes. E Um texto polifônico é aquele que apresenta diversas vozes ou pontos de vista, permitindo o diálogo interno entre opiniões distintas. 256 Questão 256 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL Em questões de interpretação e reescrita, a preservação da modalização é crucial. Considere a seguinte afirmação de um especialista: ”É possível que a implementação do novo sistema reduza os custos operacionais em curto prazo”. Assinale a alternativa que apresenta uma paráfrase que mantém a fidelidade à intenção original do autor. A A implementação do novo sistema reduzirá os custos operacionais em curto prazo. B O novo sistema tem como objetivo principal a redução dos custos operacionais em curto prazo. C A redução dos custos operacionais em curto prazo é uma consequência inevitável do novo sistema. D Existe a probabilidade de que os custos operacionais diminuam em curto prazo com o novo sistema. E Certamente, os custos operacionais serão reduzidos em curto prazo com o novo sistema. 257 Questão 257 CITAÇÃO DO DISCURSO ALHEIO E INFORMAÇÕES IMPLÍCITAS ○○○DIFÍCIL No que tange à intertextualidade e ao uso de citações em textos técnicos, analise a seguinte referência: ”A eficiência administrativa é o pilar da gestão moderna (Oliveira apud Souza)”. Com base nas normas de citação e no sentido do termo destacado, assinale a afirmação correta. A Oliveira é o autor da ideia original, mas o redator teve acesso a ela por meio da obra de Souza. B A expressão indica que Oliveira e Souza escreveram o texto em coautoria. C Souza é o autor da frase original e Oliveira é o autor do texto que está sendo lido. D A citação é direta e literal, indicando que Souza copiou o erro original de Oliveira. E O termo destacado indica que a citação de Oliveira foi contestada por Souza no texto original. 1.6.4 Gabaritos e Comentários"
     }
   ],
   "answer_key": "D",
@@ -13359,9 +13347,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Baseia-se exclusivamente no conhecimento prévio do candidato sobre o tema abordado. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Baseia-se exclusivamente no conhecimento prévio do candidato sobre o tema abordado.",
       "is_correct": false,
-      "explanation": "Basear-se apenas em conhecimentos prévios é um erro de leitura chamado extrapolação. ARROW-LEFT VOLTAR À QUESTÃO 230 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "Basear-se apenas em conhecimentos prévios é um erro de leitura chamado extrapolação."
     }
   ],
   "answer_key": "B",
@@ -13419,7 +13407,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "“Na linha 15, o texto diz que...”",
       "is_correct": false,
-      "explanation": "A indicação de uma linha específica para verificar o que o texto ’diz’ é característica de compreensão. ARROW-LEFT VOLTAR À QUESTÃO 231"
+      "explanation": "A indicação de uma linha específica para verificar o que o texto ’diz’ é característica de compreensão."
     }
   ],
   "answer_key": "B",
@@ -13457,7 +13445,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Havia uma expectativa ou demora para que a compreensão ocorresse. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Havia uma expectativa ou demora para que a compreensão ocorresse.",
       "is_correct": true,
       "explanation": "O gatilho ’finalmente’ pressupõe a ideia de que o fato era aguardado após um período de tempo ou esforço."
     },
@@ -13477,13 +13465,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O tema de implícitos textuais é o mais difícil do edital.",
       "is_correct": false,
-      "explanation": "O texto não faz uma comparação de dificuldade entre os temas do edital. ARROW-LEFT VOLTAR À QUESTÃO 232"
+      "explanation": "O texto não faz uma comparação de dificuldade entre os temas do edital."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "O advérbio ’finalmente’ atua como um marcador de pressuposição que indica que algo era esperado ou que houve um processo anterior de tentativa/espera. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
-    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: O advérbio ’finalmente’ atua como um marcador de pressuposição que indica que algo era esperado ou que houve um processo anterior de tentativa/espera. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+    "resolution": "O advérbio ’finalmente’ atua como um marcador de pressuposição que indica que algo era esperado ou que houve um processo anterior de tentativa/espera.",
+    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: O advérbio ’finalmente’ atua como um marcador de pressuposição que indica que algo era esperado ou que houve um processo anterior de tentativa/espera."
   }
 }
 ```
@@ -13523,7 +13511,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Paráfrase.",
       "is_correct": true,
-      "explanation": "A paráfrase é a voz da reiteração, onde se diz a mesma coisa com outras palavras, preservando a ideologia da fonte. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "A paráfrase é a voz da reiteração, onde se diz a mesma coisa com outras palavras, preservando a ideologia da fonte."
     },
     {
       "id": "D",
@@ -13533,9 +13521,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Paródia. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Paródia.",
       "is_correct": false,
-      "explanation": "A paródia pressupõe uma ruptura ou subversão do sentido original, geralmente com fins irônicos ou críticos. ARROW-LEFT VOLTAR À QUESTÃO 233"
+      "explanation": "A paródia pressupõe uma ruptura ou subversão do sentido original, geralmente com fins irônicos ou críticos."
     }
   ],
   "answer_key": "C",
@@ -13593,7 +13581,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Citação direta.",
       "is_correct": false,
-      "explanation": "Embora a epígrafe possa ser uma citação, o termo técnico para o recurso posicionado no início com função de ’chave de leitura’ é epígrafe. ARROW-LEFT VOLTAR À QUESTÃO 234 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "Embora a epígrafe possa ser uma citação, o termo técnico para o recurso posicionado no início com função de ’chave de leitura’ é epígrafe."
     }
   ],
   "answer_key": "B",
@@ -13637,7 +13625,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "O pensador afirmou que ”a educação é o caminho para a liberdade”. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "O pensador afirmou que ”a educação é o caminho para a liberdade”.",
       "is_correct": false,
       "explanation": "Esta alternativa mantém as aspas, o que caracteriza uma citação direta ou híbrida, e não uma citação indireta pura (paráfrase)."
     },
@@ -13651,7 +13639,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O pensador afirmou: a educação é o caminho para a liberdade. 1.6.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "A ausência de conectivo integrante e a manutenção da estrutura de pontuação de diálogo aproximam-se da citação direta, faltando a integração sintática exigida na paráfrase. ARROW-LEFT VOLTAR À QUESTÃO 235 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "A ausência de conectivo integrante e a manutenção da estrutura de pontuação de diálogo aproximam-se da citação direta, faltando a integração sintática exigida na paráfrase."
     }
   ],
   "answer_key": "B",
@@ -13707,9 +13695,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Redução. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Redução.",
       "is_correct": false,
-      "explanation": "A redução ocorre quando o candidato foca em apenas um detalhe e ignora o conjunto do texto. ARROW-LEFT VOLTAR À QUESTÃO 236"
+      "explanation": "A redução ocorre quando o candidato foca em apenas um detalhe e ignora o conjunto do texto."
     }
   ],
   "answer_key": "A",
@@ -13767,13 +13755,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A frase apresenta um subentendido de que todos os outros agentes públicos são antiéticos.",
       "is_correct": false,
-      "explanation": "Afirmar que ’todos os outros são antiéticos’ seria uma extrapolação, pois o texto foca apenas em um agente específico. ARROW-LEFT VOLTAR À QUESTÃO 237"
+      "explanation": "Afirmar que ’todos os outros são antiéticos’ seria uma extrapolação, pois o texto foca apenas em um agente específico."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Pressupostos são ideias implícitas que decorrem de marcadores linguísticos. O uso de ’finalmente’ pressupõe que houve uma demora ou uma situação anterior de incompreensão. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
-    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: Pressupostos são ideias implícitas que decorrem de marcadores linguísticos. O uso de ’finalmente’ pressupõe que houve uma demora ou uma situação anterior de incompreensão. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+    "resolution": "Pressupostos são ideias implícitas que decorrem de marcadores linguísticos. O uso de ’finalmente’ pressupõe que houve uma demora ou uma situação anterior de incompreensão.",
+    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: Pressupostos são ideias implícitas que decorrem de marcadores linguísticos. O uso de ’finalmente’ pressupõe que houve uma demora ou uma situação anterior de incompreensão."
   }
 }
 ```
@@ -13799,7 +13787,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Interpretação por inferência. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Interpretação por inferência.",
       "is_correct": true,
       "explanation": "A dedução lógica a partir de informações dadas define o processo de inferência/interpretação."
     },
@@ -13807,7 +13795,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Análise de erro por redução.",
       "is_correct": false,
-      "explanation": "Redução é um erro de leitura, não um processo de acerto baseado em dedução. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "Redução é um erro de leitura, não um processo de acerto baseado em dedução."
     },
     {
       "id": "C",
@@ -13825,7 +13813,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Identificação de paráfrase.",
       "is_correct": false,
-      "explanation": "A paráfrase mantém o sentido original de forma explícita, apenas trocando as palavras. ARROW-LEFT VOLTAR À QUESTÃO 238"
+      "explanation": "A paráfrase mantém o sentido original de forma explícita, apenas trocando as palavras."
     }
   ],
   "answer_key": "A",
@@ -13881,9 +13869,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Extrapolação, Redução e Contradição. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Extrapolação, Redução e Contradição.",
       "is_correct": true,
-      "explanation": "Extrapolação, Redução e Contradição são os três desvios analíticos mais comuns em provas. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … ARROW-LEFT VOLTAR À QUESTÃO 239"
+      "explanation": "Extrapolação, Redução e Contradição são os três desvios analíticos mais comuns em provas."
     }
   ],
   "answer_key": "E",
@@ -13941,7 +13929,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Depreende-se do texto que a unidade agora opera com eficiência máxima em todos os seus setores administrativos.",
       "is_correct": false,
-      "explanation": "Esta alternativa incorre no erro de extrapolação. O texto afirma apenas a eliminação do acúmulo de processos físicos, não permitindo concluir que a eficiência é ’máxima’ ou que atinge ’todos os setores’. ARROW-LEFT VOLTAR À QUESTÃO 240 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "Esta alternativa incorre no erro de extrapolação. O texto afirma apenas a eliminação do acúmulo de processos físicos, não permitindo concluir que a eficiência é ’máxima’ ou que atinge ’todos os setores’."
     }
   ],
   "answer_key": "C",
@@ -13969,7 +13957,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considere o seguinte fragmento extraído de um relatório de gestão: “Embora a implementação do sistema de agendamento eletrônico tenha eliminado as filas externas na unidade, o índice de resolutividade das demandas não acompanhou essa melhora, permanecendo idêntico ao do período anterior.” Com base na distinção técnica entre compreensão e interpretação textual, assinale a alternativa que apresenta uma inferência (interpretação) válida a partir do trecho. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+  "question_text": "Considere o seguinte fragmento extraído de um relatório de gestão: “Embora a implementação do sistema de agendamento eletrônico tenha eliminado as filas externas na unidade, o índice de resolutividade das demandas não acompanhou essa melhora, permanecendo idêntico ao do período anterior.” Com base na distinção técnica entre compreensão e interpretação textual, assinale a alternativa que apresenta uma inferência (interpretação) válida a partir do trecho.",
   "alternatives": [
     {
       "id": "A",
@@ -13999,7 +13987,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A extinção das filas externas foi o resultado direto da implementação do agenda- mento eletrônico.",
       "is_correct": false,
-      "explanation": "Esta alternativa trata de compreensão textual (intelecção). A informação está explicitamente grafada no texto (“agendamento eletrônico tenha eliminado as filas externas”). ARROW-LEFT VOLTAR À QUESTÃO 241 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "Esta alternativa trata de compreensão textual (intelecção). A informação está explicitamente grafada no texto (“agendamento eletrônico tenha eliminado as filas externas”)."
     }
   ],
   "answer_key": "A",
@@ -14049,7 +14037,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "O termo ’ainda’ é um marcador de subentendido, sugerindo que o funcionário é preguiçoso. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "O termo ’ainda’ é um marcador de subentendido, sugerindo que o funcionário é preguiçoso.",
       "is_correct": false,
       "explanation": "’Ainda’ é um marcador de pressuposto (linguístico), não de subentendido. A ideia de ’preguiça’ seria um subentendido maldoso, mas não o foco do advérbio."
     },
@@ -14057,7 +14045,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A frase contém apenas informações explícitas, não havendo qualquer dimensão implícita a ser analisada.",
       "is_correct": false,
-      "explanation": "A frase é rica em implícitos, especialmente pelo uso do advérbio ’ainda’. ARROW-LEFT VOLTAR À QUESTÃO 242"
+      "explanation": "A frase é rica em implícitos, especialmente pelo uso do advérbio ’ainda’."
     }
   ],
   "answer_key": "A",
@@ -14113,15 +14101,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A estrutura pressupõe a existência de servidores que não agem com ética. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "A estrutura pressupõe a existência de servidores que não agem com ética.",
       "is_correct": true,
-      "explanation": "Ao restringir a valorização apenas aos que agem com ética, pressupõe-se logicamente que existam outros que não agem dessa forma. ARROW-LEFT VOLTAR À QUESTÃO 243"
+      "explanation": "Ao restringir a valorização apenas aos que agem com ética, pressupõe-se logicamente que existam outros que não agem dessa forma."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Orações adjetivas restritivas (sem vírgulas) limitam o grupo, pressupondo que o universo total (servidores) se divide entre os que possuem a característica e os que não possuem. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
-    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: Orações adjetivas restritivas (sem vírgulas) limitam o grupo, pressupondo que o universo total (servidores) se divide entre os que possuem a característica e os que não possuem. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+    "resolution": "Orações adjetivas restritivas (sem vírgulas) limitam o grupo, pressupondo que o universo total (servidores) se divide entre os que possuem a característica e os que não possuem.",
+    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: Orações adjetivas restritivas (sem vírgulas) limitam o grupo, pressupondo que o universo total (servidores) se divide entre os que possuem a característica e os que não possuem."
   }
 }
 ```
@@ -14155,7 +14143,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Alusão histórica.",
       "is_correct": false,
-      "explanation": "A alusão é apenas uma menção breve, não necessariamente uma subversão estrutural do texto-fonte. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "A alusão é apenas uma menção breve, não necessariamente uma subversão estrutural do texto-fonte."
     },
     {
       "id": "C",
@@ -14173,7 +14161,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Citação indireta.",
       "is_correct": false,
-      "explanation": "A citação indireta é uma paráfrase que credita a autoria, sem necessariamente subverter o sentido. ARROW-LEFT VOLTAR À QUESTÃO 244"
+      "explanation": "A citação indireta é uma paráfrase que credita a autoria, sem necessariamente subverter o sentido."
     }
   ],
   "answer_key": "D",
@@ -14217,7 +14205,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "C",
-      "text": "A intertextualidade ocorre apenas quando há citação direta entre aspas. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "A intertextualidade ocorre apenas quando há citação direta entre aspas.",
       "is_correct": false,
       "explanation": "A intertextualidade pode ser implícita, não exigindo sempre aspas ou citação direta."
     },
@@ -14231,7 +14219,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O plágio é um recurso estilístico legítimo quando o autor busca homenagear uma fonte clássica.",
       "is_correct": false,
-      "explanation": "O plágio é a cópia sem crédito e não é considerado um recurso estilístico legítimo, mas sim uma prática indevida. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … ARROW-LEFT VOLTAR À QUESTÃO 245"
+      "explanation": "O plágio é a cópia sem crédito e não é considerado um recurso estilístico legítimo, mas sim uma prática indevida."
     }
   ],
   "answer_key": "B",
@@ -14287,9 +14275,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Alusão, por ser uma referência rápida ao texto-fonte. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Alusão, por ser uma referência rápida ao texto-fonte.",
       "is_correct": false,
-      "explanation": "A alusão é uma menção breve e indireta, enquanto a transcrição de um parágrafo inteiro é uma citação. ARROW-LEFT VOLTAR À QUESTÃO 246 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "A alusão é uma menção breve e indireta, enquanto a transcrição de um parágrafo inteiro é uma citação."
     }
   ],
   "answer_key": "D",
@@ -14347,7 +14335,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Citação direta.",
       "is_correct": false,
-      "explanation": "A citação direta é a cópia fiel, enquanto a reescritura exige mudanças na estrutura mantendo o sentido. ARROW-LEFT VOLTAR À QUESTÃO 247"
+      "explanation": "A citação direta é a cópia fiel, enquanto a reescritura exige mudanças na estrutura mantendo o sentido."
     }
   ],
   "answer_key": "C",
@@ -14379,7 +14367,7 @@ Linguagem denotativa e linguagem conotativa.
   "alternatives": [
     {
       "id": "A",
-      "text": "Paráfrase, pois o autor está reescrevendo conceitos jurídicos com suas próprias palavras para manter o sentido original da norma. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Paráfrase, pois o autor está reescrevendo conceitos jurídicos com suas próprias palavras para manter o sentido original da norma.",
       "is_correct": false,
       "explanation": "A paráfrase exige a retomada de um texto-fonte específico para reafirmar seu sentido. No enunciado, não há um texto original sendo reescrito, mas sim a adoção de um estilo/vocabulário de uma área inteira."
     },
@@ -14405,13 +14393,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Epígrafe, uma vez que os termos jurídicos funcionam como uma chave de leitura que antecipa o tema central do relatório administrativo.",
       "is_correct": false,
-      "explanation": "A epígrafe é um recurso de localização específica (no início do texto ou capítulo) e consiste em uma citação curta, o que não corresponde ao uso de termos espalhados pelo corpo do relatório. ARROW-LEFT VOLTAR À QUESTÃO 248"
+      "explanation": "A epígrafe é um recurso de localização específica (no início do texto ou capítulo) e consiste em uma citação curta, o que não corresponde ao uso de termos espalhados pelo corpo do relatório."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A interdiscursividade refere-se à relação entre discursos (maneiras de ver o mundo e vocabulários específicos de certas áreas). No caso, o texto administrativo ’conversa’ com o discurso jurídico ao adotar seus termos técnicos para conferir autoridade e peso 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … ideológico à mensagem, sem necessariamente citar um texto-fonte concreto.",
-    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: A interdiscursividade refere-se à relação entre discursos (maneiras de ver o mundo e vocabulários específicos de certas áreas). No caso, o texto administrativo ’conversa’ com o discurso jurídico ao adotar seus termos técnicos para conferir autoridade e peso 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … ideológico à mensagem, sem necessariamente citar um texto-fonte concreto."
+    "resolution": "A interdiscursividade refere-se à relação entre discursos (maneiras de ver o mundo e vocabulários específicos de certas áreas). No caso, o texto administrativo ’conversa’ com o discurso jurídico ao adotar seus termos técnicos para conferir autoridade e peso ideológico à mensagem, sem necessariamente citar um texto-fonte concreto.",
+    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: A interdiscursividade refere-se à relação entre discursos (maneiras de ver o mundo e vocabulários específicos de certas áreas). No caso, o texto administrativo ’conversa’ com o discurso jurídico ao adotar seus termos técnicos para conferir autoridade e peso ideológico à mensagem, sem necessariamente citar um texto-fonte concreto."
   }
 }
 ```
@@ -14461,15 +14449,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Epígrafe. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Epígrafe.",
       "is_correct": false,
-      "explanation": "A epígrafe é uma citação curta colocada no início de uma obra ou capítulo para servir de chave de leitura ou introdução temática, não se confundindo com a imitação integral de um estilo. ARROW-LEFT VOLTAR À QUESTÃO 249"
+      "explanation": "A epígrafe é uma citação curta colocada no início de uma obra ou capítulo para servir de chave de leitura ou introdução temática, não se confundindo com a imitação integral de um estilo."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "O pastiche é um procedimento intertextual que consiste na imitação do estilo, da forma ou do gênero de outro autor ou obra. Diferente da paródia, o pastiche não possui uma finalidade satírica ou de ruptura crítica; ele busca emular as características estéticas do texto-fonte, muitas vezes como forma de homenagem ou exercício de estilo. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
-    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: O pastiche é um procedimento intertextual que consiste na imitação do estilo, da forma ou do gênero de outro autor ou obra. Diferente da paródia, o pastiche não possui uma finalidade satírica ou de ruptura crítica; ele busca emular as características estéticas do texto-fonte, muitas vezes como forma de homenagem ou exercício de estilo. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+    "resolution": "O pastiche é um procedimento intertextual que consiste na imitação do estilo, da forma ou do gênero de outro autor ou obra. Diferente da paródia, o pastiche não possui uma finalidade satírica ou de ruptura crítica; ele busca emular as características estéticas do texto-fonte, muitas vezes como forma de homenagem ou exercício de estilo.",
+    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: O pastiche é um procedimento intertextual que consiste na imitação do estilo, da forma ou do gênero de outro autor ou obra. Diferente da paródia, o pastiche não possui uma finalidade satírica ou de ruptura crítica; ele busca emular as características estéticas do texto-fonte, muitas vezes como forma de homenagem ou exercício de estilo."
   }
 }
 ```
@@ -14519,9 +14507,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "É fundamental que o gestor faça uma análise dos dados antes da tomada de decisão. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 1.6.3 Questões Difíceis",
+      "text": "É fundamental que o gestor faça uma análise dos dados antes da tomada de decisão. 1.6.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "Embora utilize o substantivo ’análise’, a estrutura mantém o verbo auxiliar ’faça’, resultando em uma perífrase verbal, e não em uma nominalização plena da oração. ARROW-LEFT VOLTAR À QUESTÃO 250"
+      "explanation": "Embora utilize o substantivo ’análise’, a estrutura mantém o verbo auxiliar ’faça’, resultando em uma perífrase verbal, e não em uma nominalização plena da oração."
     }
   ],
   "answer_key": "A",
@@ -14555,7 +14543,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "A",
       "text": "Os pressupostos são sugestões que dependem exclusivamente do contexto e podem ser negados pelo autor sem contradição.",
       "is_correct": false,
-      "explanation": "Esta é a definição de subentendido. O pressuposto não pode ser negado sem gerar incoerência com o marcador linguístico usado. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "Esta é a definição de subentendido. O pressuposto não pode ser negado sem gerar incoerência com o marcador linguístico usado."
     },
     {
       "id": "B",
@@ -14579,7 +14567,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Os subentendidos são garantidos por marcadores linguísticos, como verbos de mudança de estado ou advérbios.",
       "is_correct": false,
-      "explanation": "Quem é garantido por marcadores linguísticos é o pressuposto, não o subentendido. ARROW-LEFT VOLTAR À QUESTÃO 251"
+      "explanation": "Quem é garantido por marcadores linguísticos é o pressuposto, não o subentendido."
     }
   ],
   "answer_key": "C",
@@ -14607,7 +14595,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise a seguinte situação hipotética: Um texto discorre sobre o aumento da criminalidade em uma região e menciona que ’as políticas de segurança pública adotadas nos últimos dois anos ainda não produziram os efeitos esperados pela população’. Uma questão de prova afirma: ’Infere-se do texto que as políticas de segurança pública foram totalmente ineficazes’. De acordo com as diretrizes de leitura, essa afirmação da banca estaria: 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+  "question_text": "Analise a seguinte situação hipotética: Um texto discorre sobre o aumento da criminalidade em uma região e menciona que ’as políticas de segurança pública adotadas nos últimos dois anos ainda não produziram os efeitos esperados pela população’. Uma questão de prova afirma: ’Infere-se do texto que as políticas de segurança pública foram totalmente ineficazes’. De acordo com as diretrizes de leitura, essa afirmação da banca estaria:",
   "alternatives": [
     {
       "id": "A",
@@ -14631,13 +14619,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Incorreta, pois o comando ’infere-se’ exige que a resposta esteja escrita literalmente.",
       "is_correct": false,
-      "explanation": "O comando ’infere-se’ é justamente para o que NÃO está escrito literalmente. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "O comando ’infere-se’ é justamente para o que NÃO está escrito literalmente."
     },
     {
       "id": "E",
       "text": "Correta, pois o termo ’ainda não’ indica que nunca produzirão efeitos.",
       "is_correct": false,
-      "explanation": "’Ainda não’ pressupõe que os efeitos podem vir a ocorrer no futuro, contradizendo a ideia de que ’nunca’ ocorrerão. ARROW-LEFT VOLTAR À QUESTÃO 252"
+      "explanation": "’Ainda não’ pressupõe que os efeitos podem vir a ocorrer no futuro, contradizendo a ideia de que ’nunca’ ocorrerão."
     }
   ],
   "answer_key": "B",
@@ -14693,9 +14681,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A negação da frase altera o sentido do verbo ’parar’, transformando um pressuposto em uma ironia contextual. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "A negação da frase altera o sentido do verbo ’parar’, transformando um pressuposto em uma ironia contextual.",
       "is_correct": false,
-      "explanation": "A negação não altera a natureza do gatilho linguístico do verbo de mudança de estado. ARROW-LEFT VOLTAR À QUESTÃO 253 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …"
+      "explanation": "A negação não altera a natureza do gatilho linguístico do verbo de mudança de estado."
     }
   ],
   "answer_key": "B",
@@ -14753,7 +14741,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "O advérbio ’sempre’ na fala do morador funciona como um marcador de pressu- posto, indicando a regularidade de sua conduta no passado.",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa, pois ’sempre’ é um marcador iterativo/temporal que pressupõe a repetição do ato ao longo do tempo. ARROW-LEFT VOLTAR À QUESTÃO 254"
+      "explanation": "Esta afirmação está certa, pois ’sempre’ é um marcador iterativo/temporal que pressupõe a repetição do ato ao longo do tempo."
     }
   ],
   "answer_key": "C",
@@ -14781,7 +14769,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que tange aos conceitos de polifonia e interdiscursividade, assinale a afirmação correta: 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+  "question_text": "No que tange aos conceitos de polifonia e interdiscursividade, assinale a afirmação correta:",
   "alternatives": [
     {
       "id": "A",
@@ -14811,13 +14799,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Um texto polifônico é aquele que apresenta diversas vozes ou pontos de vista, permitindo o diálogo interno entre opiniões distintas.",
       "is_correct": true,
-      "explanation": "Conforme o material, a polifonia refere-se à presença de várias vozes ou pontos de vista dentro de um mesmo texto. ARROW-LEFT VOLTAR À QUESTÃO 255"
+      "explanation": "Conforme o material, a polifonia refere-se à presença de várias vozes ou pontos de vista dentro de um mesmo texto."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … A polifonia, segundo Bakhtin, é a coexistência de múltiplas vozes e perspectivas dentro de uma mesma unidade textual.",
-    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … A polifonia, segundo Bakhtin, é a coexistência de múltiplas vozes e perspectivas dentro de uma mesma unidade textual."
+    "resolution": "A polifonia, segundo Bakhtin, é a coexistência de múltiplas vozes e perspectivas dentro de uma mesma unidade textual.",
+    "theoretical_content": "O discurso direto reproduz a fala ou o pensamento de uma personagem ou fonte com marcas de citação, como dois-pontos, travessão ou aspas. O discurso indireto incorpora o conteúdo da fala à voz do narrador, normalmente com oração subordinada introduzida por “que” ou “se”, ajustando pronomes, tempos verbais e referências dêiticas. O discurso indireto livre combina a voz do narrador e a perspectiva da personagem sem marcas introdutórias explícitas.\n\nA transformação entre discurso direto e indireto exige observar pessoa gramatical, tempos e modos verbais, pronomes, advérbios de tempo e lugar e contexto enunciativo. “Hoje” pode passar a “naquele dia”; “aqui” pode tornar-se “ali”; pronomes de primeira pessoa podem ser ajustados à perspectiva do narrador. Essas mudanças dependem da situação, não são substituições mecânicas.\n\nInformações implícitas podem surgir por pressupostos e subentendidos. Pressupostos são acionados por elementos linguísticos (por exemplo, “voltou” pressupõe uma situação anterior); subentendidos dependem mais do contexto e da intenção comunicativa. É preciso distinguir o que está linguisticamente pressuposto daquilo que o leitor apenas imagina.\n\nAplicação ao problema apresentado: A polifonia, segundo Bakhtin, é a coexistência de múltiplas vozes e perspectivas dentro de uma mesma unidade textual."
   }
 }
 ```
@@ -14861,7 +14849,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Existe a probabilidade de que os custos operacionais diminuam em curto prazo com o novo sistema. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- …",
+      "text": "Existe a probabilidade de que os custos operacionais diminuam em curto prazo com o novo sistema.",
       "is_correct": true,
       "explanation": "A expressão ’Existe a probabilidade’ mantém a equivalência semântica com ’É possível’, respeitando a cautela do autor original."
     },
@@ -14869,7 +14857,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Certamente, os custos operacionais serão reduzidos em curto prazo com o novo sistema.",
       "is_correct": false,
-      "explanation": "O advérbio ’Certamente’ confere um valor de verdade absoluta que contradiz o termo ’possível’ do original. ARROW-LEFT VOLTAR À QUESTÃO 256"
+      "explanation": "O advérbio ’Certamente’ confere um valor de verdade absoluta que contradiz o termo ’possível’ do original."
     }
   ],
   "answer_key": "D",
@@ -14915,7 +14903,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Souza é o autor da frase original e Oliveira é o autor do texto que está sendo lido.",
       "is_correct": false,
-      "explanation": "A ordem está invertida: Oliveira é o autor citado e Souza é a fonte de onde a citação foi extraída. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "A ordem está invertida: Oliveira é o autor citado e Souza é a fonte de onde a citação foi extraída."
     },
     {
       "id": "D",
@@ -14925,7 +14913,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O termo destacado indica que a citação de Oliveira foi contestada por Souza no texto original. 1. Língua Portuguesa 1.6. Citação do Discurso Alheio e Informações Im- … 1.6.4 Gabaritos e Comentários 230",
+      "text": "O termo destacado indica que a citação de Oliveira foi contestada por Souza no texto original.",
       "is_correct": false,
       "explanation": "’Apud’ indica fonte de referência, não uma relação de oposição ou contestação entre autores."
     }
@@ -14967,7 +14955,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "Senti que minha estrela brilhou quando consegui o emprego.",
       "is_correct": false,
-      "explanation": "O termo é usado de forma figurada para representar sorte ou sucesso. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "O termo é usado de forma figurada para representar sorte ou sucesso."
     },
     {
       "id": "C",
@@ -14983,9 +14971,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Aquela criança é a estrela que ilumina a vida de seus pais. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "Aquela criança é a estrela que ilumina a vida de seus pais.",
       "is_correct": false,
-      "explanation": "O termo é usado de forma figurada (metáfora) para expressar afeto e importância emocional. ARROW-LEFT VOLTAR À QUESTÃO 258"
+      "explanation": "O termo é usado de forma figurada (metáfora) para expressar afeto e importância emocional."
     }
   ],
   "answer_key": "A",
@@ -15043,7 +15031,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Depende estritamente do contexto emocional para que seu sentido seja compreen- dido.",
       "is_correct": false,
-      "explanation": "A denotação busca a objetividade e independe de nuances emocionais para ser clara. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa ARROW-LEFT VOLTAR À QUESTÃO 259"
+      "explanation": "A denotação busca a objetividade e independe de nuances emocionais para ser clara."
     }
   ],
   "answer_key": "C",
@@ -15099,9 +15087,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O candidato precisa cultivar a paciência durante a preparação. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "O candidato precisa cultivar a paciência durante a preparação.",
       "is_correct": true,
-      "explanation": "’Cultivar’ está sendo usado de forma figurada, indicando o desenvolvimento de uma virtude. ARROW-LEFT VOLTAR À QUESTÃO 260 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "’Cultivar’ está sendo usado de forma figurada, indicando o desenvolvimento de uma virtude."
     }
   ],
   "answer_key": "E",
@@ -15157,9 +15145,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O sentido conotativo busca a transparência e a objetividade máxima para evitar múltiplas interpretações. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "O sentido conotativo busca a transparência e a objetividade máxima para evitar múltiplas interpretações.",
       "is_correct": false,
-      "explanation": "Essas são características da denotação; a conotação foca na plurissignificação e na subjetividade. ARROW-LEFT VOLTAR À QUESTÃO 261"
+      "explanation": "Essas são características da denotação; a conotação foca na plurissignificação e na subjetividade."
     }
   ],
   "answer_key": "D",
@@ -15217,13 +15205,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Utiliza trocadilhos para facilitar a memorização de uma marca comercial. 1.7.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "Trocadilhos para memorização de marca são típicos da publicidade. ARROW-LEFT VOLTAR À QUESTÃO 262"
+      "explanation": "Trocadilhos para memorização de marca são típicos da publicidade."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Correta. A plurissignificação e a abertura interpretativa são marcas fundamentais do texto literário, ao contrário da publicidade, que tende a direcionar o sentido. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
-    "theoretical_content": "A linguagem denotativa emprega palavras em sentido literal, mais estável e diretamente relacionado ao referente; é frequente em textos técnicos, científicos, administrativos e informativos que priorizam precisão. A linguagem conotativa mobiliza sentidos figurados, associações e efeitos expressivos, comuns em textos literários, publicitários e argumentativos, embora ambas possam coexistir em um mesmo gênero.\n\nFiguras de linguagem alteram ou ampliam o sentido: metáfora estabelece uma relação implícita de semelhança; comparação explicita o elemento comparativo; metonímia substitui um termo por outro com relação de proximidade; personificação atribui características humanas a seres não humanos; hipérbole exagera; eufemismo suaviza; ironia produz sentido que pode contrariar o literal. O contexto é indispensável para reconhecer o efeito.\n\nAo interpretar, verifique se a expressão pode ser entendida literalmente sem contradição. Se houver deslocamento semântico, examine a imagem, a comparação ou a intenção crítica produzida. Não classifique como figurado apenas porque a expressão parece incomum: considere o uso e o contexto.\n\nAplicação ao problema apresentado: Correta. A plurissignificação e a abertura interpretativa são marcas fundamentais do texto literário, ao contrário da publicidade, que tende a direcionar o sentido. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+    "resolution": "Correta. A plurissignificação e a abertura interpretativa são marcas fundamentais do texto literário, ao contrário da publicidade, que tende a direcionar o sentido.",
+    "theoretical_content": "A linguagem denotativa emprega palavras em sentido literal, mais estável e diretamente relacionado ao referente; é frequente em textos técnicos, científicos, administrativos e informativos que priorizam precisão. A linguagem conotativa mobiliza sentidos figurados, associações e efeitos expressivos, comuns em textos literários, publicitários e argumentativos, embora ambas possam coexistir em um mesmo gênero.\n\nFiguras de linguagem alteram ou ampliam o sentido: metáfora estabelece uma relação implícita de semelhança; comparação explicita o elemento comparativo; metonímia substitui um termo por outro com relação de proximidade; personificação atribui características humanas a seres não humanos; hipérbole exagera; eufemismo suaviza; ironia produz sentido que pode contrariar o literal. O contexto é indispensável para reconhecer o efeito.\n\nAo interpretar, verifique se a expressão pode ser entendida literalmente sem contradição. Se houver deslocamento semântico, examine a imagem, a comparação ou a intenção crítica produzida. Não classifique como figurado apenas porque a expressão parece incomum: considere o uso e o contexto.\n\nAplicação ao problema apresentado: Correta. A plurissignificação e a abertura interpretativa são marcas fundamentais do texto literário, ao contrário da publicidade, que tende a direcionar o sentido."
   }
 }
 ```
@@ -15245,7 +15233,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A linguagem conotativa é marcada pela plurissignificação e pela subjetividade, sendo amplamente utilizada em textos literários e publicitários. Analise o fragmento abaixo: ’A inflação é um leão que consome o poder de compra do trabalhador.’ Assinale a alternativa que descreve corretamente o fenômeno linguístico presente no termo destacado: 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+  "question_text": "A linguagem conotativa é marcada pela plurissignificação e pela subjetividade, sendo amplamente utilizada em textos literários e publicitários. Analise o fragmento abaixo: ’A inflação é um leão que consome o poder de compra do trabalhador.’ Assinale a alternativa que descreve corretamente o fenômeno linguístico presente no termo destacado:",
   "alternatives": [
     {
       "id": "A",
@@ -15263,7 +15251,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "C",
       "text": "Uso denotativo, pois a inflação e o leão possuem características físicas idênticas.",
       "is_correct": false,
-      "explanation": "A inflação é um conceito abstrato e não possui características físicas de um animal. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "A inflação é um conceito abstrato e não possui características físicas de um animal."
     },
     {
       "id": "D",
@@ -15275,7 +15263,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Uso de polissemia técnica, comum em manuais de instrução e documentos oficiais.",
       "is_correct": false,
-      "explanation": "A conotação afasta-se da linguagem técnica e oficial, que preza pela denotação. ARROW-LEFT VOLTAR À QUESTÃO 263"
+      "explanation": "A conotação afasta-se da linguagem técnica e oficial, que preza pela denotação."
     }
   ],
   "answer_key": "A",
@@ -15331,9 +15319,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Uma letra de música popular brasileira. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "Uma letra de música popular brasileira.",
       "is_correct": false,
-      "explanation": "Letras de música são textos artísticos que utilizam a conotação como base estética. ARROW-LEFT VOLTAR À QUESTÃO 264 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "Letras de música são textos artísticos que utilizam a conotação como base estética."
     }
   ],
   "answer_key": "C",
@@ -15391,7 +15379,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Em I e II, a palavra é utilizada em sentido denotativo.",
       "is_correct": false,
-      "explanation": "A segunda frase não é literal. ARROW-LEFT VOLTAR À QUESTÃO 265"
+      "explanation": "A segunda frase não é literal."
     }
   ],
   "answer_key": "B",
@@ -15441,7 +15429,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Manuais de instrução e relatórios técnicos administrativos. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "Manuais de instrução e relatórios técnicos administrativos.",
       "is_correct": true,
       "explanation": "Manuais e relatórios exigem linguagem objetiva e unívoca para evitar erros de interpretação."
     },
@@ -15449,7 +15437,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Crônicas narrativas e contos de ficção científica.",
       "is_correct": false,
-      "explanation": "A literatura, em geral, explora a subjetividade e o sentido figurado. ARROW-LEFT VOLTAR À QUESTÃO 266"
+      "explanation": "A literatura, em geral, explora a subjetividade e o sentido figurado."
     }
   ],
   "answer_key": "D",
@@ -15501,13 +15489,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "D",
       "text": "Em ambos os casos, a palavra é denotativa, pois refere-se à luminosidade.",
       "is_correct": false,
-      "explanation": "Em II, ’brilho’ não é luz física, mas uma metáfora para intensidade emocional. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "Em II, ’brilho’ não é luz física, mas uma metáfora para intensidade emocional."
     },
     {
       "id": "E",
       "text": "A palavra ’brilho’ é inerentemente conotativa, independentemente do contexto.",
       "is_correct": false,
-      "explanation": "Nenhuma palavra é conotativa por natureza; o sentido depende do contexto de uso. ARROW-LEFT VOLTAR À QUESTÃO 267"
+      "explanation": "Nenhuma palavra é conotativa por natureza; o sentido depende do contexto de uso."
     }
   ],
   "answer_key": "B",
@@ -15535,7 +15523,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que tange às funções da linguagem, a denotação e a conotação estabelecem relações específicas com os elementos da comunicação. Assinale a alternativa que apresenta uma 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa correlação CORRETA:",
+  "question_text": "No que tange às funções da linguagem, a denotação e a conotação estabelecem relações específicas com os elementos da comunicação. Assinale a alternativa que apresenta uma correlação CORRETA:",
   "alternatives": [
     {
       "id": "A",
@@ -15565,7 +15553,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A denotação é essencial na função poética, onde a forma da mensagem é o foco.",
       "is_correct": false,
-      "explanation": "A função poética utiliza predominantemente a conotação. ARROW-LEFT VOLTAR À QUESTÃO 268 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "A função poética utiliza predominantemente a conotação."
     }
   ],
   "answer_key": "A",
@@ -15621,9 +15609,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Trata-se de um recurso de linguagem conotativa que utiliza a metáfora para associar 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa a destruição ambiental ao fogo.",
+      "text": "Trata-se de um recurso de linguagem conotativa que utiliza a metáfora para associar a destruição ambiental ao fogo.",
       "is_correct": true,
-      "explanation": "A conotação serve aqui para criar uma imagem mental de destruição, facilitando a memorização e o apelo emocional. ARROW-LEFT VOLTAR À QUESTÃO 269"
+      "explanation": "A conotação serve aqui para criar uma imagem mental de destruição, facilitando a memorização e o apelo emocional."
     }
   ],
   "answer_key": "E",
@@ -15679,15 +15667,15 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "Em textos literários, a ambiguidade é um defeito que impede o leitor de compre- ender a mensagem real do autor. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "Em textos literários, a ambiguidade é um defeito que impede o leitor de compre- ender a mensagem real do autor.",
       "is_correct": false,
-      "explanation": "Na literatura, a ambiguidade contribui para a plurissignificação, permitindo várias camadas de leitura. ARROW-LEFT VOLTAR À QUESTÃO 270"
+      "explanation": "Na literatura, a ambiguidade contribui para a plurissignificação, permitindo várias camadas de leitura."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "Correta. Enquanto em textos técnicos a ambiguidade é um erro (vício), em textos literários e publicitários ela é um recurso intencional para enriquecer o sentido ou criar trocadilhos. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
-    "theoretical_content": "A linguagem denotativa emprega palavras em sentido literal, mais estável e diretamente relacionado ao referente; é frequente em textos técnicos, científicos, administrativos e informativos que priorizam precisão. A linguagem conotativa mobiliza sentidos figurados, associações e efeitos expressivos, comuns em textos literários, publicitários e argumentativos, embora ambas possam coexistir em um mesmo gênero.\n\nFiguras de linguagem alteram ou ampliam o sentido: metáfora estabelece uma relação implícita de semelhança; comparação explicita o elemento comparativo; metonímia substitui um termo por outro com relação de proximidade; personificação atribui características humanas a seres não humanos; hipérbole exagera; eufemismo suaviza; ironia produz sentido que pode contrariar o literal. O contexto é indispensável para reconhecer o efeito.\n\nAo interpretar, verifique se a expressão pode ser entendida literalmente sem contradição. Se houver deslocamento semântico, examine a imagem, a comparação ou a intenção crítica produzida. Não classifique como figurado apenas porque a expressão parece incomum: considere o uso e o contexto.\n\nAplicação ao problema apresentado: Correta. Enquanto em textos técnicos a ambiguidade é um erro (vício), em textos literários e publicitários ela é um recurso intencional para enriquecer o sentido ou criar trocadilhos. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+    "resolution": "Correta. Enquanto em textos técnicos a ambiguidade é um erro (vício), em textos literários e publicitários ela é um recurso intencional para enriquecer o sentido ou criar trocadilhos.",
+    "theoretical_content": "A linguagem denotativa emprega palavras em sentido literal, mais estável e diretamente relacionado ao referente; é frequente em textos técnicos, científicos, administrativos e informativos que priorizam precisão. A linguagem conotativa mobiliza sentidos figurados, associações e efeitos expressivos, comuns em textos literários, publicitários e argumentativos, embora ambas possam coexistir em um mesmo gênero.\n\nFiguras de linguagem alteram ou ampliam o sentido: metáfora estabelece uma relação implícita de semelhança; comparação explicita o elemento comparativo; metonímia substitui um termo por outro com relação de proximidade; personificação atribui características humanas a seres não humanos; hipérbole exagera; eufemismo suaviza; ironia produz sentido que pode contrariar o literal. O contexto é indispensável para reconhecer o efeito.\n\nAo interpretar, verifique se a expressão pode ser entendida literalmente sem contradição. Se houver deslocamento semântico, examine a imagem, a comparação ou a intenção crítica produzida. Não classifique como figurado apenas porque a expressão parece incomum: considere o uso e o contexto.\n\nAplicação ao problema apresentado: Correta. Enquanto em textos técnicos a ambiguidade é um erro (vício), em textos literários e publicitários ela é um recurso intencional para enriquecer o sentido ou criar trocadilhos."
   }
 }
 ```
@@ -15721,7 +15709,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "No primeiro exemplo, furar é conotativo; no segundo, é denotativo.",
       "is_correct": false,
-      "explanation": "É o oposto: no primeiro é denotativo (furo físico) e no segundo é conotativo (sentido figurado). 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "É o oposto: no primeiro é denotativo (furo físico) e no segundo é conotativo (sentido figurado)."
     },
     {
       "id": "C",
@@ -15739,7 +15727,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Em ambos os casos, a palavra furar é utilizada em seu sentido estritamente denota- tivo.",
       "is_correct": false,
-      "explanation": "No segundo caso, o uso é figurado (conotativo). ARROW-LEFT VOLTAR À QUESTÃO 271"
+      "explanation": "No segundo caso, o uso é figurado (conotativo)."
     }
   ],
   "answer_key": "C",
@@ -15777,7 +15765,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "B",
-      "text": "Um anúncio de analgésico que diz: ”Diga adeus à dor de cabeça”. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "Um anúncio de analgésico que diz: ”Diga adeus à dor de cabeça”.",
       "is_correct": false,
       "explanation": "Trata-se de uma expressão idiomática/metáfora para o fim da dor, não personificação."
     },
@@ -15797,7 +15785,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Um comercial de creme dental onde a escova de dentes conversa com o consumidor sobre higiene. 1.7.3 Questões Difíceis",
       "is_correct": true,
-      "explanation": "Atribuir a capacidade de conversar a um objeto inanimado (escova) é um exemplo clássico de personificação. ARROW-LEFT VOLTAR À QUESTÃO 272 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "Atribuir a capacidade de conversar a um objeto inanimado (escova) é um exemplo clássico de personificação."
     }
   ],
   "answer_key": "E",
@@ -15853,9 +15841,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "É denotativo, uma vez que a palavra ’chão’ mantém seu sentido original de super- fície de apoio. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "É denotativo, uma vez que a palavra ’chão’ mantém seu sentido original de super- fície de apoio.",
       "is_correct": false,
-      "explanation": "Se o sentido fosse literal, a frase indicaria que o chão sumiu de fato, o que não é o caso. ARROW-LEFT VOLTAR À QUESTÃO 273"
+      "explanation": "Se o sentido fosse literal, a frase indicaria que o chão sumiu de fato, o que não é o caso."
     }
   ],
   "answer_key": "B",
@@ -15913,13 +15901,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "Fui ao banco para pagar as contas de energia.",
       "is_correct": false,
-      "explanation": "Sentido denotativo (instituição financeira). ARROW-LEFT VOLTAR À QUESTÃO 274"
+      "explanation": "Sentido denotativo (instituição financeira)."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Na a afirmação apresentada, ’banco’ é usado metaforicamente para representar um lugar abstrato de depósito de sentimentos, o que caracteriza a conotação. Nas demais, os sentidos são polissêmicos, mas ainda dentro da denotação (objeto, instituição, formação geográfica 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa ou conjunto de informações).",
-    "theoretical_content": "A linguagem denotativa emprega palavras em sentido literal, mais estável e diretamente relacionado ao referente; é frequente em textos técnicos, científicos, administrativos e informativos que priorizam precisão. A linguagem conotativa mobiliza sentidos figurados, associações e efeitos expressivos, comuns em textos literários, publicitários e argumentativos, embora ambas possam coexistir em um mesmo gênero.\n\nFiguras de linguagem alteram ou ampliam o sentido: metáfora estabelece uma relação implícita de semelhança; comparação explicita o elemento comparativo; metonímia substitui um termo por outro com relação de proximidade; personificação atribui características humanas a seres não humanos; hipérbole exagera; eufemismo suaviza; ironia produz sentido que pode contrariar o literal. O contexto é indispensável para reconhecer o efeito.\n\nAo interpretar, verifique se a expressão pode ser entendida literalmente sem contradição. Se houver deslocamento semântico, examine a imagem, a comparação ou a intenção crítica produzida. Não classifique como figurado apenas porque a expressão parece incomum: considere o uso e o contexto.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, ’banco’ é usado metaforicamente para representar um lugar abstrato de depósito de sentimentos, o que caracteriza a conotação. Nas demais, os sentidos são polissêmicos, mas ainda dentro da denotação (objeto, instituição, formação geográfica 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa ou conjunto de informações)."
+    "resolution": "Na a afirmação apresentada, ’banco’ é usado metaforicamente para representar um lugar abstrato de depósito de sentimentos, o que caracteriza a conotação. Nas demais, os sentidos são polissêmicos, mas ainda dentro da denotação (objeto, instituição, formação geográfica ou conjunto de informações).",
+    "theoretical_content": "A linguagem denotativa emprega palavras em sentido literal, mais estável e diretamente relacionado ao referente; é frequente em textos técnicos, científicos, administrativos e informativos que priorizam precisão. A linguagem conotativa mobiliza sentidos figurados, associações e efeitos expressivos, comuns em textos literários, publicitários e argumentativos, embora ambas possam coexistir em um mesmo gênero.\n\nFiguras de linguagem alteram ou ampliam o sentido: metáfora estabelece uma relação implícita de semelhança; comparação explicita o elemento comparativo; metonímia substitui um termo por outro com relação de proximidade; personificação atribui características humanas a seres não humanos; hipérbole exagera; eufemismo suaviza; ironia produz sentido que pode contrariar o literal. O contexto é indispensável para reconhecer o efeito.\n\nAo interpretar, verifique se a expressão pode ser entendida literalmente sem contradição. Se houver deslocamento semântico, examine a imagem, a comparação ou a intenção crítica produzida. Não classifique como figurado apenas porque a expressão parece incomum: considere o uso e o contexto.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, ’banco’ é usado metaforicamente para representar um lugar abstrato de depósito de sentimentos, o que caracteriza a conotação. Nas demais, os sentidos são polissêmicos, mas ainda dentro da denotação (objeto, instituição, formação geográfica ou conjunto de informações)."
   }
 }
 ```
@@ -15941,7 +15929,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Em textos de opinião ou crônicas, é comum o uso de termos que, embora pareçam técnicos, adquirem carga conotativa. Leia o fragmento: ’A burocracia estatal é um labirinto sem saída para o cidadão comum.’ Sobre o uso do termo destacado, analise as afirmações abaixo: I. O termo é conotativo porque a burocracia não é uma construção física de paredes e 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa corredores. II. O autor utiliza a denotação para informar com precisão a arquitetura dos prédios públicos. III. A carga semântica do termo depende do contexto para expressar a ideia de dificuldade e confusão. Está correto o que se afirma em:",
+  "question_text": "Em textos de opinião ou crônicas, é comum o uso de termos que, embora pareçam técnicos, adquirem carga conotativa. Leia o fragmento: ’A burocracia estatal é um labirinto sem saída para o cidadão comum.’ Sobre o uso do termo destacado, analise as afirmações abaixo: I. O termo é conotativo porque a burocracia não é uma construção física de paredes e corredores. II. O autor utiliza a denotação para informar com precisão a arquitetura dos prédios públicos. III. A carga semântica do termo depende do contexto para expressar a ideia de dificuldade e confusão. Está correto o que se afirma em:",
   "alternatives": [
     {
       "id": "A",
@@ -15953,7 +15941,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "I, apenas.",
       "is_correct": false,
-      "explanation": "A afirmação III também está correta. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "A afirmação III também está correta."
     },
     {
       "id": "C",
@@ -15971,7 +15959,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "II, apenas.",
       "is_correct": false,
-      "explanation": "A afirmação II é falsa, pois o sentido não é arquitetônico/literal. ARROW-LEFT VOLTAR À QUESTÃO 275"
+      "explanation": "A afirmação II é falsa, pois o sentido não é arquitetônico/literal."
     }
   ],
   "answer_key": "A",
@@ -16021,7 +16009,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "D",
-      "text": "Em textos conotativos, a ambiguidade pode ser usada propositalmente para gerar humor ou reflexão. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "Em textos conotativos, a ambiguidade pode ser usada propositalmente para gerar humor ou reflexão.",
       "is_correct": true,
       "explanation": "A conotação permite o jogo de palavras e a exploração de duplos sentidos."
     },
@@ -16029,7 +16017,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A ambiguidade é exclusiva da linguagem denotativa, ocorrendo quando uma palavra tem apenas um sentido.",
       "is_correct": false,
-      "explanation": "A ambiguidade pressupõe mais de um sentido, o oposto do sentido único. ARROW-LEFT VOLTAR À QUESTÃO 276 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+      "explanation": "A ambiguidade pressupõe mais de um sentido, o oposto do sentido único."
     }
   ],
   "answer_key": "D",
@@ -16085,9 +16073,9 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "A linguagem denotativa é essencialmente informativa, enquanto a conotação é essencialmente expressiva. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+      "text": "A linguagem denotativa é essencialmente informativa, enquanto a conotação é essencialmente expressiva.",
       "is_correct": false,
-      "explanation": "Esta é a distinção funcional básica entre os dois institutos. ARROW-LEFT VOLTAR À QUESTÃO 277"
+      "explanation": "Esta é a distinção funcional básica entre os dois institutos."
     }
   ],
   "answer_key": "D",
@@ -16145,13 +16133,13 @@ Linguagem denotativa e linguagem conotativa.
       "id": "E",
       "text": "A interpretação exige que o leitor relacione o conceito biológico de inatividade (hibernação) com a falta de rendimento financeiro.",
       "is_correct": true,
-      "explanation": "É necessário associar a ideia de ’ficar parado/inativo’ (hibernar) com o dinheiro que não está rendendo. ARROW-LEFT VOLTAR À QUESTÃO 278"
+      "explanation": "É necessário associar a ideia de ’ficar parado/inativo’ (hibernar) com o dinheiro que não está rendendo."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Correta. A competência enciclopédica é o conhecimento de mundo que permite ao leitor transpor o sentido de um domínio (biologia) para outro (finanças) para entender a metáfora. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
-    "theoretical_content": "A linguagem denotativa emprega palavras em sentido literal, mais estável e diretamente relacionado ao referente; é frequente em textos técnicos, científicos, administrativos e informativos que priorizam precisão. A linguagem conotativa mobiliza sentidos figurados, associações e efeitos expressivos, comuns em textos literários, publicitários e argumentativos, embora ambas possam coexistir em um mesmo gênero.\n\nFiguras de linguagem alteram ou ampliam o sentido: metáfora estabelece uma relação implícita de semelhança; comparação explicita o elemento comparativo; metonímia substitui um termo por outro com relação de proximidade; personificação atribui características humanas a seres não humanos; hipérbole exagera; eufemismo suaviza; ironia produz sentido que pode contrariar o literal. O contexto é indispensável para reconhecer o efeito.\n\nAo interpretar, verifique se a expressão pode ser entendida literalmente sem contradição. Se houver deslocamento semântico, examine a imagem, a comparação ou a intenção crítica produzida. Não classifique como figurado apenas porque a expressão parece incomum: considere o uso e o contexto.\n\nAplicação ao problema apresentado: Correta. A competência enciclopédica é o conhecimento de mundo que permite ao leitor transpor o sentido de um domínio (biologia) para outro (finanças) para entender a metáfora. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa"
+    "resolution": "Correta. A competência enciclopédica é o conhecimento de mundo que permite ao leitor transpor o sentido de um domínio (biologia) para outro (finanças) para entender a metáfora.",
+    "theoretical_content": "A linguagem denotativa emprega palavras em sentido literal, mais estável e diretamente relacionado ao referente; é frequente em textos técnicos, científicos, administrativos e informativos que priorizam precisão. A linguagem conotativa mobiliza sentidos figurados, associações e efeitos expressivos, comuns em textos literários, publicitários e argumentativos, embora ambas possam coexistir em um mesmo gênero.\n\nFiguras de linguagem alteram ou ampliam o sentido: metáfora estabelece uma relação implícita de semelhança; comparação explicita o elemento comparativo; metonímia substitui um termo por outro com relação de proximidade; personificação atribui características humanas a seres não humanos; hipérbole exagera; eufemismo suaviza; ironia produz sentido que pode contrariar o literal. O contexto é indispensável para reconhecer o efeito.\n\nAo interpretar, verifique se a expressão pode ser entendida literalmente sem contradição. Se houver deslocamento semântico, examine a imagem, a comparação ou a intenção crítica produzida. Não classifique como figurado apenas porque a expressão parece incomum: considere o uso e o contexto.\n\nAplicação ao problema apresentado: Correta. A competência enciclopédica é o conhecimento de mundo que permite ao leitor transpor o sentido de um domínio (biologia) para outro (finanças) para entender a metáfora."
   }
 }
 ```
@@ -16173,7 +16161,7 @@ Linguagem denotativa e linguagem conotativa.
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No texto literário, a conotação contribui para a chamada ”função poética”. Leia o trecho abaixo: ”O tempo é um tecelão que fia os dias com fios de memória e esquecimento.” Sobre o uso do termo destacado, assinale a análise correta. 1. Língua Portuguesa 1.7. Linguagem Denotativa e Linguagem Conotativa",
+  "question_text": "No texto literário, a conotação contribui para a chamada ”função poética”. Leia o trecho abaixo: ”O tempo é um tecelão que fia os dias com fios de memória e esquecimento.” Sobre o uso do termo destacado, assinale a análise correta.",
   "alternatives": [
     {
       "id": "A",
@@ -16185,7 +16173,7 @@ Linguagem denotativa e linguagem conotativa.
       "id": "B",
       "text": "O termo é uma metonímia, pois substitui o instrumento (relógio) pelo profissional que o opera.",
       "is_correct": false,
-      "explanation": "Não há relação de contiguidade física ou causal que caracterize metonímia neste contexto. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Não há relação de contiguidade física ou causal que caracterize metonímia neste contexto."
     },
     {
       "id": "C",
@@ -16201,7 +16189,7 @@ Linguagem denotativa e linguagem conotativa.
     },
     {
       "id": "E",
-      "text": "O autor utiliza o termo em sentido denotativo para explicar a profissão de tecelagem em épocas passadas. 1.7.4 Gabaritos e Comentários 258",
+      "text": "O autor utiliza o termo em sentido denotativo para explicar a profissão de tecelagem em épocas passadas.",
       "is_correct": false,
       "explanation": "O sentido é figurado; o texto não é um manual sobre tecelagem."
     }

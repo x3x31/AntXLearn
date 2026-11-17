@@ -65,9 +65,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Função Administrativa. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Função Administrativa.",
       "is_correct": false,
-      "explanation": "A função administrativa refere-se à gestão interna da própria Câmara (pessoal, serviços e estrutura). ARROW-LEFT VOLTAR À QUESTÃO 644 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A função administrativa refere-se à gestão interna da própria Câmara (pessoal, serviços e estrutura)."
     }
   ],
   "answer_key": "B",
@@ -125,7 +125,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "30 anos.",
       "is_correct": false,
-      "explanation": "30 anos é a idade mínima para o cargo de Governador. ARROW-LEFT VOLTAR À QUESTÃO 645"
+      "explanation": "30 anos é a idade mínima para o cargo de Governador."
     }
   ],
   "answer_key": "B",
@@ -175,7 +175,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "D",
-      "text": "Presidente, 1º Secretário e 2º Secretário. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Presidente, 1º Secretário e 2º Secretário.",
       "is_correct": true,
       "explanation": "Esta alternativa reflete exatamente a composição do núcleo diretivo efetivo da Casa Legislativa."
     },
@@ -183,13 +183,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Presidente, 1º Vice-Presidente e 1º Secretário.",
       "is_correct": false,
-      "explanation": "O 1º Vice-Presidente é membro eventual, não compondo o rol de membros efetivos da Mesa Diretora. ARROW-LEFT VOLTAR À QUESTÃO 646"
+      "explanation": "O 1º Vice-Presidente é membro eventual, não compondo o rol de membros efetivos da Mesa Diretora."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Conforme as regras de organização interna, a Mesa é composta efetivamente pelo Presidente, pelo 1º Secretário e pelo 2º Secretário. Os demais cargos (Vice-Presidentes e Secretários adicionais) só integram a Mesa quando em efetivo exercício de substituição. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\np) presidir a sessão ou sessões de eleição da Mesa Diretora do segundo biênio ou de cargos\nAo Presidente da Câmara compete, privativamente:\nmandato de Vereador, nos termos deste Regimento Interno;\n\nArt. 8°. Esta Resolução entra em vigor na data de sua publicação.\nDos Presidentes, Vice-presidentes e Secretários das Comissões Permanentes\nDa Substituição da Mesa Diretora\nREGIMENTO INTERNO DA CÂMARA MUNICIPAL DE MOSSORO\n\nAplicação à questão: Conforme as regras de organização interna, a Mesa é composta efetivamente pelo Presidente, pelo 1º Secretário e pelo 2º Secretário. Os demais cargos (Vice-Presidentes e Secretários adicionais) só integram a Mesa quando em efetivo exercício de substituição. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "Conforme as regras de organização interna, a Mesa é composta efetivamente pelo Presidente, pelo 1º Secretário e pelo 2º Secretário. Os demais cargos (Vice-Presidentes e Secretários adicionais) só integram a Mesa quando em efetivo exercício de substituição.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\np) presidir a sessão ou sessões de eleição da Mesa Diretora do segundo biênio ou de cargos\nAo Presidente da Câmara compete, privativamente:\nmandato de Vereador, nos termos deste Regimento Interno;\n\nArt. 8°. Esta Resolução entra em vigor na data de sua publicação.\nDos Presidentes, Vice-presidentes e Secretários das Comissões Permanentes\nDa Substituição da Mesa Diretora\nREGIMENTO INTERNO DA CÂMARA MUNICIPAL DE MOSSORO\n\nAplicação à questão: Conforme as regras de organização interna, a Mesa é composta efetivamente pelo Presidente, pelo 1º Secretário e pelo 2º Secretário. Os demais cargos (Vice-Presidentes e Secretários adicionais) só integram a Mesa quando em efetivo exercício de substituição."
   }
 }
 ```
@@ -223,7 +223,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "Sorteio realizado em sessão pública pelo Presidente.",
       "is_correct": false,
-      "explanation": "O Regimento não prevê sorteio para esta finalidade, utilizando critérios objetivos de idade e votação anterior. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O Regimento não prevê sorteio para esta finalidade, utilizando critérios objetivos de idade e votação anterior."
     },
     {
       "id": "C",
@@ -241,7 +241,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Idade mais elevada do candidato.",
       "is_correct": true,
-      "explanation": "O vereador mais idoso tem preferência em caso de empate na votação para a Mesa. ARROW-LEFT VOLTAR À QUESTÃO 647"
+      "explanation": "O vereador mais idoso tem preferência em caso de empate na votação para a Mesa."
     }
   ],
   "answer_key": "E",
@@ -269,7 +269,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No âmbito da organização interna da Câmara Municipal de Mossoró, a responsabilidade primordial pela lavratura das atas das sessões plenárias e pelo registro dos precedentes regimentais para uso futuro recai sobre o: 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+  "question_text": "No âmbito da organização interna da Câmara Municipal de Mossoró, a responsabilidade primordial pela lavratura das atas das sessões plenárias e pelo registro dos precedentes regimentais para uso futuro recai sobre o:",
   "alternatives": [
     {
       "id": "A",
@@ -299,7 +299,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "1º Secretário.",
       "is_correct": false,
-      "explanation": "O 1º Secretário foca na gestão operacional da sessão (chamada, leitura de expediente e controle de oradores). 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 648"
+      "explanation": "O 1º Secretário foca na gestão operacional da sessão (chamada, leitura de expediente e controle de oradores)."
     }
   ],
   "answer_key": "C",
@@ -355,9 +355,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Vereador que obteve a maior votação no pleito eleitoral, independentemente da idade. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Vereador que obteve a maior votação no pleito eleitoral, independentemente da idade.",
       "is_correct": false,
-      "explanation": "O critério de ser o mais votado é subsidiário, aplicando-se apenas em caso de empate na idade entre os vereadores presentes. ARROW-LEFT VOLTAR À QUESTÃO 649 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O critério de ser o mais votado é subsidiário, aplicando-se apenas em caso de empate na idade entre os vereadores presentes."
     }
   ],
   "answer_key": "C",
@@ -415,7 +415,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O documento de renúncia é lido em plenário pelo primeiro secretário.",
       "is_correct": true,
-      "explanation": "O termo lido em plenário marca o momento exato em que a renúncia se torna efetiva, conforme as normas de organização interna. ARROW-LEFT VOLTAR À QUESTÃO 650"
+      "explanation": "O termo lido em plenário marca o momento exato em que a renúncia se torna efetiva, conforme as normas de organização interna."
     }
   ],
   "answer_key": "E",
@@ -465,7 +465,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "D",
-      "text": "Cada comissão é composta por 5 membros titulares e 3 suplentes. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Cada comissão é composta por 5 membros titulares e 3 suplentes.",
       "is_correct": false,
       "explanation": "O número de titulares é 3 e o de suplentes é 2, não 5 e 3."
     },
@@ -473,13 +473,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "A composição varia de acordo com a importância da comissão, sendo no mínimo 3 membros.",
       "is_correct": false,
-      "explanation": "A composição é fixa (3 titulares e 2 suplentes) e não varia conforme a importância da comissão. ARROW-LEFT VOLTAR À QUESTÃO 651"
+      "explanation": "A composição é fixa (3 titulares e 2 suplentes) e não varia conforme a importância da comissão."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Conforme as regras de organização da Casa, cada comissão permanente possui uma 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … estrutura fixa de 3 titulares e 2 suplentes.",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nb) Determinar a distribuição de matéria às Comissões Permanentes ou Temporárias, após\na) designar seus membros titulares e suplentes mediante comunicação dos Líderes dos\nO preencher, por nomeação, as vagas verificadas nas Comissões Permanentes e\n\nArt. 42.\nV - pela vacância do cargo ocasionada por outros motivos previstos neste Regimento Interno.\n\nAplicação à questão: Conforme as regras de organização da Casa, cada comissão permanente possui uma 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … estrutura fixa de 3 titulares e 2 suplentes."
+    "resolution": "Conforme as regras de organização da Casa, cada comissão permanente possui uma estrutura fixa de 3 titulares e 2 suplentes.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nb) Determinar a distribuição de matéria às Comissões Permanentes ou Temporárias, após\na) designar seus membros titulares e suplentes mediante comunicação dos Líderes dos\nO preencher, por nomeação, as vagas verificadas nas Comissões Permanentes e\n\nArt. 42.\nV - pela vacância do cargo ocasionada por outros motivos previstos neste Regimento Interno.\n\nAplicação à questão: Conforme as regras de organização da Casa, cada comissão permanente possui uma estrutura fixa de 3 titulares e 2 suplentes."
   }
 }
 ```
@@ -513,7 +513,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "O Relator-Geral da Comissão de Orçamento, Finanças e Contabilidade.",
       "is_correct": false,
-      "explanation": "O relator é um membro da própria comissão, não havendo impedimento para sua atuação. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O relator é um membro da própria comissão, não havendo impedimento para sua atuação."
     },
     {
       "id": "C",
@@ -531,7 +531,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O Vereador que exercer a liderança de bancada ou bloco parlamentar.",
       "is_correct": false,
-      "explanation": "Líderes de bancada podem e costumam integrar comissões, inclusive indicando seus membros. ARROW-LEFT VOLTAR À QUESTÃO 652"
+      "explanation": "Líderes de bancada podem e costumam integrar comissões, inclusive indicando seus membros."
     }
   ],
   "answer_key": "D",
@@ -559,7 +559,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que tange ao funcionamento das Comissões Permanentes da Câmara Municipal de Mossoró, as reuniões ordinárias devem ocorrer periodicamente para a instrução das 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … matérias legislativas. De acordo com as normas regimentais, tais reuniões ocorrem em quais dias da semana?",
+  "question_text": "No que tange ao funcionamento das Comissões Permanentes da Câmara Municipal de Mossoró, as reuniões ordinárias devem ocorrer periodicamente para a instrução das matérias legislativas. De acordo com as normas regimentais, tais reuniões ocorrem em quais dias da semana?",
   "alternatives": [
     {
       "id": "A",
@@ -589,7 +589,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Diariamente, de segunda a sexta-feira.",
       "is_correct": false,
-      "explanation": "As reuniões ordinárias não são diárias; possuem dias específicos definidos no cronograma legislativo. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 653"
+      "explanation": "As reuniões ordinárias não são diárias; possuem dias específicos definidos no cronograma legislativo."
     }
   ],
   "answer_key": "B",
@@ -645,9 +645,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Exposição. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Exposição.",
       "is_correct": false,
-      "explanation": "A exposição (relato da matéria) é parte integrante do parecer. ARROW-LEFT VOLTAR À QUESTÃO 654 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A exposição (relato da matéria) é parte integrante do parecer."
     }
   ],
   "answer_key": "C",
@@ -705,7 +705,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Até o final da sessão legislativa em curso, independentemente da data de criação.",
       "is_correct": false,
-      "explanation": "Embora as comissões temporárias se extingam ao final da Legislatura, o prazo de funcionamento da CEI é contado em dias (90 dias) a partir de sua instalação. ARROW-LEFT VOLTAR À QUESTÃO 655 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Embora as comissões temporárias se extingam ao final da Legislatura, o prazo de funcionamento da CEI é contado em dias (90 dias) a partir de sua instalação."
     }
   ],
   "answer_key": "A",
@@ -749,7 +749,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "C",
-      "text": "A comissão pode ser prorrogada por período superior ao dobro do prazo original- mente concedido. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A comissão pode ser prorrogada por período superior ao dobro do prazo original- mente concedido.",
       "is_correct": false,
       "explanation": "O prazo de prorrogação deve ser menor ou igual ao prazo original."
     },
@@ -763,7 +763,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "A prorrogação ocorre automaticamente se o relatório não for apresentado no prazo original.",
       "is_correct": false,
-      "explanation": "Se o prazo findar sem pedido de prorrogação, a comissão é extinta automaticamente. ARROW-LEFT VOLTAR À QUESTÃO 656"
+      "explanation": "Se o prazo findar sem pedido de prorrogação, a comissão é extinta automaticamente."
     }
   ],
   "answer_key": "B",
@@ -819,15 +819,15 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Maioria simples dos membros e 20 minutos. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Maioria simples dos membros e 20 minutos.",
       "is_correct": false,
-      "explanation": "O quórum de 1/3 é inferior à maioria simples, e o tempo de tolerância previsto é de 15 minutos. ARROW-LEFT VOLTAR À QUESTÃO 657"
+      "explanation": "O quórum de 1/3 é inferior à maioria simples, e o tempo de tolerância previsto é de 15 minutos."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "Conforme as regras regimentais, o quórum para abertura dos trabalhos é de 1/3 dos membros da Casa, com uma tolerância de espera de 15 minutos antes do cancelamento da sessão por falta de quórum. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nà Câmara ou a qualquer de seus membros, advertindo-o e, em caso de insistência,\nO organizar a Ordem do Dia, no mínimo 24 (vinte e quatro) horas antes da sessão\nAo Presidente da Câmara compete, privativamente:\n\nArt. 153.\nO Presidente declarará aberta a sessão à hora prevista para o inicio dos trabalhos após\nprazo de tolerância de 15 (quinze) minutos, o Presidente declarará encerrada a sessão, lavrando-se ata\n§1° Não havendo número regimental para a instalação, o Presidente aguardará 15 (quinze) minutos,\n\nAplicação à questão: Conforme as regras regimentais, o quórum para abertura dos trabalhos é de 1/3 dos membros da Casa, com uma tolerância de espera de 15 minutos antes do cancelamento da sessão por falta de quórum. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "Conforme as regras regimentais, o quórum para abertura dos trabalhos é de 1/3 dos membros da Casa, com uma tolerância de espera de 15 minutos antes do cancelamento da sessão por falta de quórum.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nà Câmara ou a qualquer de seus membros, advertindo-o e, em caso de insistência,\nO organizar a Ordem do Dia, no mínimo 24 (vinte e quatro) horas antes da sessão\nAo Presidente da Câmara compete, privativamente:\n\nArt. 153.\nO Presidente declarará aberta a sessão à hora prevista para o inicio dos trabalhos após\nprazo de tolerância de 15 (quinze) minutos, o Presidente declarará encerrada a sessão, lavrando-se ata\n§1° Não havendo número regimental para a instalação, o Presidente aguardará 15 (quinze) minutos,\n\nAplicação à questão: Conforme as regras regimentais, o quórum para abertura dos trabalhos é de 1/3 dos membros da Casa, com uma tolerância de espera de 15 minutos antes do cancelamento da sessão por falta de quórum."
   }
 }
 ```
@@ -867,7 +867,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "C",
       "text": "Ordem do Dia, Expediente e Explicação Pessoal.",
       "is_correct": false,
-      "explanation": "A Ordem do Dia não é a primeira fase; ela ocorre após o Expediente. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A Ordem do Dia não é a primeira fase; ela ocorre após o Expediente."
     },
     {
       "id": "D",
@@ -879,7 +879,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Expediente, Ordem do Dia e Explicação Pessoal.",
       "is_correct": true,
-      "explanation": "Esta é a sequência exata estabelecida para o funcionamento das sessões ordinárias. ARROW-LEFT VOLTAR À QUESTÃO 658"
+      "explanation": "Esta é a sequência exata estabelecida para o funcionamento das sessões ordinárias."
     }
   ],
   "answer_key": "E",
@@ -935,9 +935,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Debate de temas de interesse público com participação popular obrigatória. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Debate de temas de interesse público com participação popular obrigatória.",
       "is_correct": false,
-      "explanation": "Embora possam ter convidados, o objetivo não é o debate de temas, mas a celebração cívica. ARROW-LEFT VOLTAR À QUESTÃO 659 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Embora possam ter convidados, o objetivo não é o debate de temas, mas a celebração cívica."
     }
   ],
   "answer_key": "B",
@@ -995,7 +995,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Dois terços dos membros.",
       "is_correct": false,
-      "explanation": "O quórum de dois terços é qualificado e reservado a situações excepcionais, como alteração do Regimento ou perda de mandato. ARROW-LEFT VOLTAR À QUESTÃO 660"
+      "explanation": "O quórum de dois terços é qualificado e reservado a situações excepcionais, como alteração do Regimento ou perda de mandato."
     }
   ],
   "answer_key": "A",
@@ -1027,7 +1027,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "Em caso de falha técnica no sistema eletrônico, a proposição deve aguardar o 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … restabelecimento do serviço, sendo proibido o uso de meio físico.",
+      "text": "Em caso de falha técnica no sistema eletrônico, a proposição deve aguardar o restabelecimento do serviço, sendo proibido o uso de meio físico.",
       "is_correct": false,
       "explanation": "O meio físico é expressamente permitido como exceção em caso de falha técnica ou falta de regulamentação do sistema eletrônico."
     },
@@ -1053,13 +1053,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "As proposições devem ser apresentadas exclusivamente em suporte físico (papel) para garantir a segurança jurídica.",
       "is_correct": false,
-      "explanation": "O suporte físico tornou-se a exceção, permitida apenas em casos específicos como falha técnica. ARROW-LEFT VOLTAR À QUESTÃO 661"
+      "explanation": "O suporte físico tornou-se a exceção, permitida apenas em casos específicos como falha técnica."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A norma estabelece a digitalização como padrão, exigindo que as proposições sejam apresentadas eletronicamente e assinadas digitalmente. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\ne) determinar o arquivamento ou desarquivamento de proposições, nos termos regimentais;\nvigentes e as determinações deste Regimento;\nmandato de Vereador, nos termos deste Regimento Interno;\n\nArt. 81.\ngramatical e lógico das proposições que tramitarem pela Câmara, excetuando-se as leis\ne) opinar sobre proposições referentes à matéria tributária, abertura de créditos, empréstimos\na) examinar e emitir parecer sobre todas as proposições e matérias relativas ao disciplinamento\n\nAplicação à questão: A norma estabelece a digitalização como padrão, exigindo que as proposições sejam apresentadas eletronicamente e assinadas digitalmente. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "A norma estabelece a digitalização como padrão, exigindo que as proposições sejam apresentadas eletronicamente e assinadas digitalmente.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\ne) determinar o arquivamento ou desarquivamento de proposições, nos termos regimentais;\nvigentes e as determinações deste Regimento;\nmandato de Vereador, nos termos deste Regimento Interno;\n\nArt. 81.\ngramatical e lógico das proposições que tramitarem pela Câmara, excetuando-se as leis\ne) opinar sobre proposições referentes à matéria tributária, abertura de créditos, empréstimos\na) examinar e emitir parecer sobre todas as proposições e matérias relativas ao disciplinamento\n\nAplicação à questão: A norma estabelece a digitalização como padrão, exigindo que as proposições sejam apresentadas eletronicamente e assinadas digitalmente."
   }
 }
 ```
@@ -1093,7 +1093,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "Projeto de Lei, dependendo de sanção do Prefeito.",
       "is_correct": false,
-      "explanation": "Projetos de Lei regulam matérias que dependem de sanção do Prefeito, o que não se aplica a honrarias da Câmara. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Projetos de Lei regulam matérias que dependem de sanção do Prefeito, o que não se aplica a honrarias da Câmara."
     },
     {
       "id": "C",
@@ -1109,9 +1109,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Decreto Legislativo, pois produz efeitos externos e prescinde de sanção do Prefeito. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Decreto Legislativo, pois produz efeitos externos e prescinde de sanção do Prefeito.",
       "is_correct": true,
-      "explanation": "O Decreto Legislativo é utilizado para casos de efeitos externos (como títulos e licenças ao prefeito) sem necessidade de sanção. ARROW-LEFT VOLTAR À QUESTÃO 662"
+      "explanation": "O Decreto Legislativo é utilizado para casos de efeitos externos (como títulos e licenças ao prefeito) sem necessidade de sanção."
     }
   ],
   "answer_key": "E",
@@ -1169,7 +1169,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Moção de congratulação.",
       "is_correct": false,
-      "explanation": "Embora seja uma manifestação, o termo técnico para a sugestão de medidas de interesse público é indicação. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 663"
+      "explanation": "Embora seja uma manifestação, o termo técnico para a sugestão de medidas de interesse público é indicação."
     }
   ],
   "answer_key": "D",
@@ -1219,7 +1219,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "D",
-      "text": "Pedido de vista de um projeto de lei. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Pedido de vista de um projeto de lei.",
       "is_correct": false,
       "explanation": "O pedido de vista é um requerimento escrito e decidido pelo Plenário."
     },
@@ -1227,7 +1227,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Solicitação para falar sentado ou da tribuna.",
       "is_correct": true,
-      "explanation": "Solicitar a palavra ou pedir para falar sentado são exemplos de requerimentos verbais decididos pelo Presidente. ARROW-LEFT VOLTAR À QUESTÃO 664 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Solicitar a palavra ou pedir para falar sentado são exemplos de requerimentos verbais decididos pelo Presidente."
     }
   ],
   "answer_key": "E",
@@ -1285,7 +1285,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "15 dias, caso a matéria verse sobre leis orçamentárias ou codificação.",
       "is_correct": false,
-      "explanation": "O prazo de 3 dias para distribuição aplica-se de forma geral, não havendo essa dilação para 15 dias no despacho inicial. ARROW-LEFT VOLTAR À QUESTÃO 665"
+      "explanation": "O prazo de 3 dias para distribuição aplica-se de forma geral, não havendo essa dilação para 15 dias no despacho inicial."
     }
   ],
   "answer_key": "D",
@@ -1313,7 +1313,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Durante os debates em Plenário, os parlamentares podem fazer uso do aparte, que consiste na interrupção breve do orador para esclarecimentos. Sobre esse instituto, 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … assinale a alternativa correta:",
+  "question_text": "Durante os debates em Plenário, os parlamentares podem fazer uso do aparte, que consiste na interrupção breve do orador para esclarecimentos. Sobre esse instituto, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -1343,13 +1343,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O orador é obrigado a conceder o aparte sempre que solicitado por um Líder de Bancada.",
       "is_correct": false,
-      "explanation": "O aparte depende sempre da permissão (licença) do orador que está com a palavra. ARROW-LEFT VOLTAR À QUESTÃO 666"
+      "explanation": "O aparte depende sempre da permissão (licença) do orador que está com a palavra."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O aparte é vedado em momentos específicos de fala técnica ou pessoal, como Explicação Pessoal e Questão de Ordem, além de exigir licença do orador. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 225.\nI - vista de projetos, observado o previsto no Art. 240 deste Regimento;\ndo Art. 131 deste Regimento;\nSerão discutidos pelo Plenário, e escritos, os requerimentos que solicitem:\n\nArt. 27.\nd) declarar a hora destinada ao Expediente, à Ordem do Dia e à Explicação Pessoal e os\nj) Cumprir e fazer cumprir o Regimento Interno;\nmandato de Vereador, nos termos deste Regimento Interno;\n\nAplicação à questão: O aparte é vedado em momentos específicos de fala técnica ou pessoal, como Explicação Pessoal e Questão de Ordem, além de exigir licença do orador. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "O aparte é vedado em momentos específicos de fala técnica ou pessoal, como Explicação Pessoal e Questão de Ordem, além de exigir licença do orador.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 225.\nI - vista de projetos, observado o previsto no Art. 240 deste Regimento;\ndo Art. 131 deste Regimento;\nSerão discutidos pelo Plenário, e escritos, os requerimentos que solicitem:\n\nArt. 27.\nd) declarar a hora destinada ao Expediente, à Ordem do Dia e à Explicação Pessoal e os\nj) Cumprir e fazer cumprir o Regimento Interno;\nmandato de Vereador, nos termos deste Regimento Interno;\n\nAplicação à questão: O aparte é vedado em momentos específicos de fala técnica ou pessoal, como Explicação Pessoal e Questão de Ordem, além de exigir licença do orador."
   }
 }
 ```
@@ -1389,7 +1389,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "C",
       "text": "15 dias corridos.",
       "is_correct": false,
-      "explanation": "O prazo regimental é contado em dias úteis, não corridos. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O prazo regimental é contado em dias úteis, não corridos."
     },
     {
       "id": "D",
@@ -1399,9 +1399,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "30 dias úteis. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "30 dias úteis.",
       "is_correct": false,
-      "explanation": "O prazo de 30 dias refere-se à apreciação do veto pela Câmara, não à sanção inicial. ARROW-LEFT VOLTAR À QUESTÃO 667"
+      "explanation": "O prazo de 30 dias refere-se à apreciação do veto pela Câmara, não à sanção inicial."
     }
   ],
   "answer_key": "D",
@@ -1459,7 +1459,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Podem alterar o mérito do projeto para adequá-lo à vontade da maioria.",
       "is_correct": false,
-      "explanation": "É expressamente proibido alterar o mérito do projeto na fase de Redação Final. ARROW-LEFT VOLTAR À QUESTÃO 668 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "É expressamente proibido alterar o mérito do projeto na fase de Redação Final."
     }
   ],
   "answer_key": "C",
@@ -1491,7 +1491,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "0,1% do eleitorado local. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "0,1% do eleitorado local.",
       "is_correct": false,
       "explanation": "O percentual de 0,1% (um décimo por cento) refere-se ao requisito para que eleitores solicitem a realização de audiências públicas."
     },
@@ -1517,7 +1517,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "20% do eleitorado local.",
       "is_correct": false,
-      "explanation": "O valor de 20% é excessivo e não corresponde à norma regimental. ARROW-LEFT VOLTAR À QUESTÃO 669"
+      "explanation": "O valor de 20% é excessivo e não corresponde à norma regimental."
     }
   ],
   "answer_key": "C",
@@ -1573,15 +1573,15 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "60 dias. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "60 dias.",
       "is_correct": false,
-      "explanation": "60 dias é o prazo total para a Câmara julgar as contas ou o tempo que elas ficam à disposição do contribuinte. ARROW-LEFT VOLTAR À QUESTÃO 670"
+      "explanation": "60 dias é o prazo total para a Câmara julgar as contas ou o tempo que elas ficam à disposição do contribuinte."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "O Regimento Interno estabelece o prazo de 15 dias para que o Prefeito apresente sua defesa após ser notificado pessoalmente sobre o parecer das contas. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\n1) mandar publicar os pareceres do Tribunal de Contas sobre as contas do Prefeito e da\nno mesmo prazo observado em relação ao Tribunal de Contas do Estado;\nmandato de Vereador, nos termos deste Regimento Interno;\n\nArt. 6°\nI - o Prefeito, os Vereadores e as Vereadoras deverão apresentar, no ato da posse, documento\nde eleição da mesa diretora, nos termos em que dispuserem este Regimento Interno e a Lei Orgânica\nV - Após a posse dos Vereadores e das Vereadoras, o Presidente dos trabalhos conduzirá o processo\n\nAplicação à questão: O Regimento Interno estabelece o prazo de 15 dias para que o Prefeito apresente sua defesa após ser notificado pessoalmente sobre o parecer das contas. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "O Regimento Interno estabelece o prazo de 15 dias para que o Prefeito apresente sua defesa após ser notificado pessoalmente sobre o parecer das contas.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\n1) mandar publicar os pareceres do Tribunal de Contas sobre as contas do Prefeito e da\nno mesmo prazo observado em relação ao Tribunal de Contas do Estado;\nmandato de Vereador, nos termos deste Regimento Interno;\n\nArt. 6°\nI - o Prefeito, os Vereadores e as Vereadoras deverão apresentar, no ato da posse, documento\nde eleição da mesa diretora, nos termos em que dispuserem este Regimento Interno e a Lei Orgânica\nV - Após a posse dos Vereadores e das Vereadoras, o Presidente dos trabalhos conduzirá o processo\n\nAplicação à questão: O Regimento Interno estabelece o prazo de 15 dias para que o Prefeito apresente sua defesa após ser notificado pessoalmente sobre o parecer das contas."
   }
 }
 ```
@@ -1615,7 +1615,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "3 minutos.",
       "is_correct": false,
-      "explanation": "O tempo de 3 minutos aplica-se a requerimentos, pareceres, questões de ordem, explicação pessoal e declaração de voto. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O tempo de 3 minutos aplica-se a requerimentos, pareceres, questões de ordem, explicação pessoal e declaração de voto."
     },
     {
       "id": "C",
@@ -1633,7 +1633,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "15 minutos.",
       "is_correct": false,
-      "explanation": "Não há previsão regimental de 15 minutos para a discussão individual de projetos e vetos nos moldes citados. ARROW-LEFT VOLTAR À QUESTÃO 671"
+      "explanation": "Não há previsão regimental de 15 minutos para a discussão individual de projetos e vetos nos moldes citados."
     }
   ],
   "answer_key": "C",
@@ -1683,7 +1683,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "D",
-      "text": "É permitido o uso de expressões injuriosas, desde que proferidas no calor da 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … discussão política.",
+      "text": "É permitido o uso de expressões injuriosas, desde que proferidas no calor da discussão política.",
       "is_correct": false,
       "explanation": "É expressamente proibido o uso de termos descorteses ou injuriosos, sob pena de sanções por quebra de decoro."
     },
@@ -1691,7 +1691,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O tratamento dispensado aos pares deve ser informal, visando a proximidade entre os representantes.",
       "is_correct": false,
-      "explanation": "O Regimento exige o uso de termos formais como ’Excelência’ ou ’Nobre Colega’. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 672"
+      "explanation": "O Regimento exige o uso de termos formais como ’Excelência’ ou ’Nobre Colega’."
     }
   ],
   "answer_key": "B",
@@ -1747,9 +1747,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "15 de janeiro e 20 de dezembro. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "15 de janeiro e 20 de dezembro.",
       "is_correct": false,
-      "explanation": "As datas de início (01/02) e fim (23/12) estão em desacordo com o Regimento. ARROW-LEFT VOLTAR À QUESTÃO 673 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "As datas de início (01/02) e fim (23/12) estão em desacordo com o Regimento."
     }
   ],
   "answer_key": "C",
@@ -1807,7 +1807,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Questão de Ordem Irrecorrível. 2.1.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "Embora uma questão de ordem possa originar um precedente, o nome do instituto que orienta casos futuros é Precedente Regimental. ARROW-LEFT VOLTAR À QUESTÃO 674"
+      "explanation": "Embora uma questão de ordem possa originar um precedente, o nome do instituto que orienta casos futuros é Precedente Regimental."
     }
   ],
   "answer_key": "C",
@@ -1851,7 +1851,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "C",
-      "text": "Vereador que exerceu o cargo de Primeiro-Secretário na legislatura anterior. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Vereador que exerceu o cargo de Primeiro-Secretário na legislatura anterior.",
       "is_correct": false,
       "explanation": "Não há previsão para que membros da Mesa anterior presidam a instalação da nova legislatura."
     },
@@ -1865,13 +1865,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Vereador que obteve a maior votação nominal no pleito correspondente.",
       "is_correct": false,
-      "explanation": "O critério de maior votação é utilizado apenas como critério de desempate, caso haja vereadores com a mesma idade. ARROW-LEFT VOLTAR À QUESTÃO 675"
+      "explanation": "O critério de maior votação é utilizado apenas como critério de desempate, caso haja vereadores com a mesma idade."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "O Regimento Interno estabelece que a sessão de instalação será presidida pelo vereador mais idoso entre os presentes. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nAo Presidente da Câmara compete, privativamente:\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nArt. 4°\nVereador mais idoso entre os presentes ou, caso essa condição seja comum a dois ou mais Vereadores,\nA Câmara Municipal instalar-se-á em sessão solene de posse no dia 1° de janeiro de\ncada legislatura, no ano subsequente ao da eleição, independentemente de número, sob a presidência do\n\nAplicação à questão: O Regimento Interno estabelece que a sessão de instalação será presidida pelo vereador mais idoso entre os presentes. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "O Regimento Interno estabelece que a sessão de instalação será presidida pelo vereador mais idoso entre os presentes.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nAo Presidente da Câmara compete, privativamente:\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nArt. 4°\nVereador mais idoso entre os presentes ou, caso essa condição seja comum a dois ou mais Vereadores,\nA Câmara Municipal instalar-se-á em sessão solene de posse no dia 1° de janeiro de\ncada legislatura, no ano subsequente ao da eleição, independentemente de número, sob a presidência do\n\nAplicação à questão: O Regimento Interno estabelece que a sessão de instalação será presidida pelo vereador mais idoso entre os presentes."
   }
 }
 ```
@@ -1905,7 +1905,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "I, apenas.",
       "is_correct": false,
-      "explanation": "Embora a afirmação I esteja correta, a afirmação III também está, tornando a alternativa incompleta. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Embora a afirmação I esteja correta, a afirmação III também está, tornando a alternativa incompleta."
     },
     {
       "id": "C",
@@ -1921,9 +1921,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "II e III, apenas. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "II e III, apenas.",
       "is_correct": false,
-      "explanation": "A afirmação II está errada, o que invalida a alternativa. ARROW-LEFT VOLTAR À QUESTÃO 676"
+      "explanation": "A afirmação II está errada, o que invalida a alternativa."
     }
   ],
   "answer_key": "C",
@@ -1981,7 +1981,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O registro das chapas deve ser realizado com antecedência mínima de 24 horas da sessão.",
       "is_correct": false,
-      "explanation": "O registro de chapa deve ocorrer até 1 (uma) hora antes do início da sessão de eleição. ARROW-LEFT VOLTAR À QUESTÃO 677 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O registro de chapa deve ocorrer até 1 (uma) hora antes do início da sessão de eleição."
     }
   ],
   "answer_key": "C",
@@ -2025,7 +2025,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "C",
-      "text": "5 (cinco) sessões plenárias consecutivas, independentemente de justificativa. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "5 (cinco) sessões plenárias consecutivas, independentemente de justificativa.",
       "is_correct": false,
       "explanation": "A regra refere-se às reuniões da Mesa Diretora (órgão administrativo/político) e não às sessões plenárias (onde se votam as leis)."
     },
@@ -2039,7 +2039,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "5 (cinco) reuniões ordinárias consecutivas, sem justificativa aceita pela Mesa.",
       "is_correct": true,
-      "explanation": "Esta é a regra específica para a vacância de cargo na Mesa por absenteísmo em reuniões do colegiado. ARROW-LEFT VOLTAR À QUESTÃO 678"
+      "explanation": "Esta é a regra específica para a vacância de cargo na Mesa por absenteísmo em reuniões do colegiado."
     }
   ],
   "answer_key": "E",
@@ -2095,15 +2095,15 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "1º Secretário. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "1º Secretário.",
       "is_correct": false,
-      "explanation": "O 1º Secretário não possui competência regimental para promulgação de leis em substituição ao Presidente. ARROW-LEFT VOLTAR À QUESTÃO 679"
+      "explanation": "O 1º Secretário não possui competência regimental para promulgação de leis em substituição ao Presidente."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "O Regimento Interno estabelece uma ordem supletiva para a promulgação: se o Presidente da Câmara não o fizer, a atribuição recai sobre o 1º Vice-Presidente. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nParágrafo único. O Presidente poderá delegar ao Vice-Presidente competência que lhe seja própria.\nk) promulgar as Resoluções e os Decretos Legislativos, bem como as Leis com sanção tácita\nCâmara, no prazo legal, as quantias requisitadas ou a parcela correspondente ao\n\nArt. 8°. Esta Resolução entra em vigor na data de sua publicação.\nREGIMENTO INTERNO DA CÂMARA MUNICIPAL DE MOSSORO\nPRESIDENTE DA CÂMARA MUNICIPAL DE MOSSORO\nDas Atribuições do Vice-presidente\n\nAplicação à questão: O Regimento Interno estabelece uma ordem supletiva para a promulgação: se o Presidente da Câmara não o fizer, a atribuição recai sobre o 1º Vice-Presidente. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "O Regimento Interno estabelece uma ordem supletiva para a promulgação: se o Presidente da Câmara não o fizer, a atribuição recai sobre o 1º Vice-Presidente.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nParágrafo único. O Presidente poderá delegar ao Vice-Presidente competência que lhe seja própria.\nk) promulgar as Resoluções e os Decretos Legislativos, bem como as Leis com sanção tácita\nCâmara, no prazo legal, as quantias requisitadas ou a parcela correspondente ao\n\nArt. 8°. Esta Resolução entra em vigor na data de sua publicação.\nREGIMENTO INTERNO DA CÂMARA MUNICIPAL DE MOSSORO\nPRESIDENTE DA CÂMARA MUNICIPAL DE MOSSORO\nDas Atribuições do Vice-presidente\n\nAplicação à questão: O Regimento Interno estabelece uma ordem supletiva para a promulgação: se o Presidente da Câmara não o fizer, a atribuição recai sobre o 1º Vice-Presidente."
   }
 }
 ```
@@ -2137,7 +2137,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "O Balanço Geral anual deve ser publicado no Diário Oficial, sendo dispensado o envio ao TCE/RN.",
       "is_correct": false,
-      "explanation": "O envio do Balanço Geral ao TCE/RN é obrigação constitucional e regimental inafastável. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O envio do Balanço Geral ao TCE/RN é obrigação constitucional e regimental inafastável."
     },
     {
       "id": "C",
@@ -2155,7 +2155,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Os balancetes mensais são encaminhados diretamente ao Prefeito para consolida- ção.",
       "is_correct": false,
-      "explanation": "A Câmara possui autonomia administrativa e financeira; seus balancetes são apresentados ao seu próprio Plenário. ARROW-LEFT VOLTAR À QUESTÃO 680"
+      "explanation": "A Câmara possui autonomia administrativa e financeira; seus balancetes são apresentados ao seu próprio Plenário."
     }
   ],
   "answer_key": "C",
@@ -2187,7 +2187,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "Maioria qualificada de dois terços, por se tratarem de matérias de alta relevância institucional. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Maioria qualificada de dois terços, por se tratarem de matérias de alta relevância institucional.",
       "is_correct": false,
       "explanation": "O quórum de 2/3 (qualificada) é reservado para situações mais extremas, como alteração do Regimento, da Lei Orgânica ou destituição da Mesa."
     },
@@ -2213,7 +2213,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Maioria simples, considerando apenas os vereadores presentes na sessão.",
       "is_correct": false,
-      "explanation": "A maioria simples é o quórum residual para matérias gerais, não se aplicando a códigos, estatutos ou vetos. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 681"
+      "explanation": "A maioria simples é o quórum residual para matérias gerais, não se aplicando a códigos, estatutos ou vetos."
     }
   ],
   "answer_key": "D",
@@ -2269,9 +2269,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Emitir parecer sobre a remuneração do Prefeito, do Vice-Prefeito e dos Vereadores. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Emitir parecer sobre a remuneração do Prefeito, do Vice-Prefeito e dos Vereadores.",
       "is_correct": true,
-      "explanation": "A análise de remuneração de agentes políticos é matéria financeira, logo, afeta à COFC. ARROW-LEFT VOLTAR À QUESTÃO 682 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A análise de remuneração de agentes políticos é matéria financeira, logo, afeta à COFC."
     }
   ],
   "answer_key": "E",
@@ -2329,7 +2329,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O Vereador que pertencer ao partido com a maior bancada na Casa.",
       "is_correct": false,
-      "explanation": "A proporcionalidade partidária é observada antes da eleição; no empate individual da eleição, usa-se a idade. ARROW-LEFT VOLTAR À QUESTÃO 683"
+      "explanation": "A proporcionalidade partidária é observada antes da eleição; no empate individual da eleição, usa-se a idade."
     }
   ],
   "answer_key": "B",
@@ -2373,7 +2373,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "C",
-      "text": "O Presidente da Comissão dispõe de 5 dias para designar o relator da matéria. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "O Presidente da Comissão dispõe de 5 dias para designar o relator da matéria.",
       "is_correct": false,
       "explanation": "O prazo para o Presidente da Comissão designar o relator é de 2 dias, e não 5."
     },
@@ -2387,13 +2387,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O pedido de vista suspende o processo por 5 dias úteis, independentemente da fase em que se encontra.",
       "is_correct": false,
-      "explanation": "O prazo de vista é de 2 dias corridos e só pode ser solicitado após o relatório estar pronto. ARROW-LEFT VOLTAR À QUESTÃO 684"
+      "explanation": "O prazo de vista é de 2 dias corridos e só pode ser solicitado após o relatório estar pronto."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "O relator possui um prazo de 8 dias para a entrega do voto por escrito, e o regimento enfatiza que este prazo é improrrogável. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 48.\nreunião da Comissão, para apresentação, por escrito, de defesa prévia, no prazo de 10 (dez) dias.\ndiligências que entender necessárias, emitindo, no prazo de 20 (vinte) dias, seu parecer.\n§4° Findo o prazo estabelecido no §3°, a Comissão, de posse ou não da defesa prévia, procederá às\n\nArt. 49.\nFindo o prazo de 20 (vinte) dias e concluindo pela procedência das acusações, a\nComissão deverá apresentar, na primeira sessão ordinária subsequente, Projeto de Resolução propondo a\n§2° Os Vereadores e o relator da Comissão Processante e o denunciado ou denunciados terão cada\n\nAplicação à questão: O relator possui um prazo de 8 dias para a entrega do voto por escrito, e o regimento enfatiza que este prazo é improrrogável. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "O relator possui um prazo de 8 dias para a entrega do voto por escrito, e o regimento enfatiza que este prazo é improrrogável.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 48.\nreunião da Comissão, para apresentação, por escrito, de defesa prévia, no prazo de 10 (dez) dias.\ndiligências que entender necessárias, emitindo, no prazo de 20 (vinte) dias, seu parecer.\n§4° Findo o prazo estabelecido no §3°, a Comissão, de posse ou não da defesa prévia, procederá às\n\nArt. 49.\nFindo o prazo de 20 (vinte) dias e concluindo pela procedência das acusações, a\nComissão deverá apresentar, na primeira sessão ordinária subsequente, Projeto de Resolução propondo a\n§2° Os Vereadores e o relator da Comissão Processante e o denunciado ou denunciados terão cada\n\nAplicação à questão: O relator possui um prazo de 8 dias para a entrega do voto por escrito, e o regimento enfatiza que este prazo é improrrogável."
   }
 }
 ```
@@ -2427,7 +2427,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "Suspensão do direito de voto nas reuniões da comissão por 30 dias.",
       "is_correct": false,
-      "explanation": "A punição é a saída da comissão (destituição), não apenas suspensão do voto. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A punição é a saída da comissão (destituição), não apenas suspensão do voto."
     },
     {
       "id": "C",
@@ -2443,9 +2443,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Advertência por escrito e perda de 10% do subsídio mensal. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Advertência por escrito e perda de 10% do subsídio mensal.",
       "is_correct": false,
-      "explanation": "A sanção prevista é a destituição e o impedimento de participar de comissões, não multa pecuniária. ARROW-LEFT VOLTAR À QUESTÃO 685"
+      "explanation": "A sanção prevista é a destituição e o impedimento de participar de comissões, não multa pecuniária."
     }
   ],
   "answer_key": "A",
@@ -2503,7 +2503,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O voto em separado só pode ser apresentado pelo Presidente da Câmara.",
       "is_correct": false,
-      "explanation": "Qualquer membro da comissão que divirja do relator pode apresentar voto em separado. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 686"
+      "explanation": "Qualquer membro da comissão que divirja do relator pode apresentar voto em separado."
     }
   ],
   "answer_key": "C",
@@ -2541,7 +2541,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "B",
-      "text": "Decretar a prisão administrativa da autoridade por crime de desobediência. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Decretar a prisão administrativa da autoridade por crime de desobediência.",
       "is_correct": false,
       "explanation": "O Poder Legislativo não possui competência para decretar prisão administrativa em sede de comissão de inquérito."
     },
@@ -2561,7 +2561,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Determinar a busca e apreensão de documentos por meio da guarda municipal.",
       "is_correct": false,
-      "explanation": "A busca e apreensão é medida sujeita à reserva de jurisdição, dependendo de autorização de um magistrado. ARROW-LEFT VOLTAR À QUESTÃO 687 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A busca e apreensão é medida sujeita à reserva de jurisdição, dependendo de autorização de um magistrado."
     }
   ],
   "answer_key": "A",
@@ -2617,9 +2617,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "A extinção imediata da comissão por falta de consenso sobre o objeto investigado. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A extinção imediata da comissão por falta de consenso sobre o objeto investigado.",
       "is_correct": false,
-      "explanation": "A rejeição do relatório do relator não extingue a comissão; apenas altera a autoria do documento final. ARROW-LEFT VOLTAR À QUESTÃO 688"
+      "explanation": "A rejeição do relatório do relator não extingue a comissão; apenas altera a autoria do documento final."
     }
   ],
   "answer_key": "A",
@@ -2677,13 +2677,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Reunião de líderes que antecede a Ordem do Dia.",
       "is_correct": false,
-      "explanation": "A leitura deve ocorrer em sessão plenária (Expediente), e não em reunião restrita de líderes. ARROW-LEFT VOLTAR À QUESTÃO 689"
+      "explanation": "A leitura deve ocorrer em sessão plenária (Expediente), e não em reunião restrita de líderes."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A publicidade do trabalho das comissões temporárias é garantida pela leitura do relatório 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … no expediente da primeira sessão ordinária após a entrega do documento.",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 43.\nprimeira sessão ordinária seguinte, ou em sessão extraordinária convocada para esse fim, para completar o\nVagando-se qualquer cargo da Mesa Diretora, será realizada eleição no Expediente da\neleição, para se completar o período do mandato, na sessão imediata àquela em que ocorreu a renúncia\n\nArt. 49.\nComissão deverá apresentar, na primeira sessão ordinária subsequente, Projeto de Resolução propondo a\n§2° Os Vereadores e o relator da Comissão Processante e o denunciado ou denunciados terão cada\n§3° Terão preferência na ordem de inscrição, respectivamente, o relator da Comissão Processante e\n\nAplicação à questão: A publicidade do trabalho das comissões temporárias é garantida pela leitura do relatório 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … no expediente da primeira sessão ordinária após a entrega do documento."
+    "resolution": "A publicidade do trabalho das comissões temporárias é garantida pela leitura do relatório no expediente da primeira sessão ordinária após a entrega do documento.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 43.\nprimeira sessão ordinária seguinte, ou em sessão extraordinária convocada para esse fim, para completar o\nVagando-se qualquer cargo da Mesa Diretora, será realizada eleição no Expediente da\neleição, para se completar o período do mandato, na sessão imediata àquela em que ocorreu a renúncia\n\nArt. 49.\nComissão deverá apresentar, na primeira sessão ordinária subsequente, Projeto de Resolução propondo a\n§2° Os Vereadores e o relator da Comissão Processante e o denunciado ou denunciados terão cada\n§3° Terão preferência na ordem de inscrição, respectivamente, o relator da Comissão Processante e\n\nAplicação à questão: A publicidade do trabalho das comissões temporárias é garantida pela leitura do relatório no expediente da primeira sessão ordinária após a entrega do documento."
   }
 }
 ```
@@ -2711,11 +2711,11 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "A",
       "text": "I, II e III.",
       "is_correct": false,
-      "explanation": "A afirmação III está errada, pois a ordem de assinatura privilegia quem redigiu o documento. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A afirmação III está errada, pois a ordem de assinatura privilegia quem redigiu o documento."
     },
     {
       "id": "B",
-      "text": "I e III, apenas. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "I e III, apenas.",
       "is_correct": false,
       "explanation": "A afirmação III está errada, invalidando a alternativa."
     },
@@ -2735,7 +2735,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "II e III, apenas.",
       "is_correct": false,
-      "explanation": "A afirmação III está errada, pois o redator assina primeiro, seguido pelos demais membros. ARROW-LEFT VOLTAR À QUESTÃO 690"
+      "explanation": "A afirmação III está errada, pois o redator assina primeiro, seguido pelos demais membros."
     }
   ],
   "answer_key": "D",
@@ -2791,9 +2791,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "A Tribuna Popular pode ser utilizada tanto em sessões ordinárias quanto em sessões extraordinárias. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A Tribuna Popular pode ser utilizada tanto em sessões ordinárias quanto em sessões extraordinárias.",
       "is_correct": false,
-      "explanation": "A Tribuna Popular é um instituto das sessões ordinárias (fase de Expediente), não ocorrendo em sessões extraordinárias. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 691"
+      "explanation": "A Tribuna Popular é um instituto das sessões ordinárias (fase de Expediente), não ocorrendo em sessões extraordinárias."
     }
   ],
   "answer_key": "B",
@@ -2851,7 +2851,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Admitem a discussão de qualquer assunto de interesse público, desde que aprovado pelo Presidente.",
       "is_correct": false,
-      "explanation": "A pauta é restrita e vinculada ao ato de convocação, não sendo livre. ARROW-LEFT VOLTAR À QUESTÃO 692 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A pauta é restrita e vinculada ao ato de convocação, não sendo livre."
     }
   ],
   "answer_key": "B",
@@ -2907,9 +2907,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "O quórum deve ser verificado obrigatoriamente no início e no final da solenidade. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "O quórum deve ser verificado obrigatoriamente no início e no final da solenidade.",
       "is_correct": false,
-      "explanation": "Não há verificação de presença (quórum) em sessões solenes. ARROW-LEFT VOLTAR À QUESTÃO 693"
+      "explanation": "Não há verificação de presença (quórum) em sessões solenes."
     }
   ],
   "answer_key": "C",
@@ -2965,15 +2965,15 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "A matéria rejeitada somente poderá ser renovada na mesma sessão legislativa mediante proposta da maioria absoluta dos membros da Câmara. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A matéria rejeitada somente poderá ser renovada na mesma sessão legislativa mediante proposta da maioria absoluta dos membros da Câmara.",
       "is_correct": true,
-      "explanation": "Esta é a exceção prevista para a regra da irrepetibilidade no processo legislativo municipal. ARROW-LEFT VOLTAR À QUESTÃO 694"
+      "explanation": "Esta é a exceção prevista para a regra da irrepetibilidade no processo legislativo municipal."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A regra da irrepetibilidade impede a reapresentação de matéria rejeitada na mesma sessão legislativa, salvo se houver proposta da maioria absoluta dos membros. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\nd) proceder às licitações para compras, obras e serviços da Câmara, obedecida a legislação\n\nArt. 187.\nV - que tenha sido rejeitada ou vetada na mesma sessão legislativa e não seja subscrita pela maioria\nabsoluta da Câmara;\nA Presidência deixará de receber, no ato do protocolo, qualquer proposição:\n\nAplicação à questão: A regra da irrepetibilidade impede a reapresentação de matéria rejeitada na mesma sessão legislativa, salvo se houver proposta da maioria absoluta dos membros. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "A regra da irrepetibilidade impede a reapresentação de matéria rejeitada na mesma sessão legislativa, salvo se houver proposta da maioria absoluta dos membros.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\nd) proceder às licitações para compras, obras e serviços da Câmara, obedecida a legislação\n\nArt. 187.\nV - que tenha sido rejeitada ou vetada na mesma sessão legislativa e não seja subscrita pela maioria\nabsoluta da Câmara;\nA Presidência deixará de receber, no ato do protocolo, qualquer proposição:\n\nAplicação à questão: A regra da irrepetibilidade impede a reapresentação de matéria rejeitada na mesma sessão legislativa, salvo se houver proposta da maioria absoluta dos membros."
   }
 }
 ```
@@ -3007,7 +3007,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "Exige requerimento subscrito por, no mínimo, dois terços dos Vereadores para ser concedido.",
       "is_correct": false,
-      "explanation": "O requerimento exige 1/3 dos Vereadores ou iniciativa da Mesa, não 2/3. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O requerimento exige 1/3 dos Vereadores ou iniciativa da Mesa, não 2/3."
     },
     {
       "id": "C",
@@ -3025,7 +3025,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Não poderá ser concedido a projeto que tenha sido protocolado há menos de 8 (oito) dias.",
       "is_correct": true,
-      "explanation": "Conforme o ’Bizu da Urgência Especial’ do material, o projeto deve ter pelo menos 8 dias de protocolo. ARROW-LEFT VOLTAR À QUESTÃO 695"
+      "explanation": "Conforme o ’Bizu da Urgência Especial’ do material, o projeto deve ter pelo menos 8 dias de protocolo."
     }
   ],
   "answer_key": "E",
@@ -3057,7 +3057,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "Trate de assuntos de interesse local que não sejam considerados urgentes pela Mesa Diretora. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Trate de assuntos de interesse local que não sejam considerados urgentes pela Mesa Diretora.",
       "is_correct": false,
       "explanation": "A urgência não é requisito para a aceitação de uma proposição ordinária."
     },
@@ -3083,7 +3083,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Apresente erros gramaticais ou de digitação passíveis de correção pela Secretaria.",
       "is_correct": false,
-      "explanation": "Erros formais simples geralmente são corrigidos ou emendados, não gerando rejeição de plano se a matéria for inteligível. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 696"
+      "explanation": "Erros formais simples geralmente são corrigidos ou emendados, não gerando rejeição de plano se a matéria for inteligível."
     }
   ],
   "answer_key": "C",
@@ -3139,9 +3139,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Deve ser feito verbalmente e decidido de imediato pelo Presidente. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Deve ser feito verbalmente e decidido de imediato pelo Presidente.",
       "is_correct": false,
-      "explanation": "O requerimento para retirada de proposição deve ser obrigatoriamente escrito. ARROW-LEFT VOLTAR À QUESTÃO 697 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O requerimento para retirada de proposição deve ser obrigatoriamente escrito."
     }
   ],
   "answer_key": "D",
@@ -3199,7 +3199,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O parlamentar pode utilizar o requerimento para sugerir obras, desde que justifique a urgência.",
       "is_correct": false,
-      "explanation": "É proibido dar forma de requerimento a assuntos que devem ser objeto de indicação. ARROW-LEFT VOLTAR À QUESTÃO 698"
+      "explanation": "É proibido dar forma de requerimento a assuntos que devem ser objeto de indicação."
     }
   ],
   "answer_key": "C",
@@ -3237,7 +3237,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "B",
-      "text": "Projetos de Lei Ordinária que tratem de denominação de logradouros. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Projetos de Lei Ordinária que tratem de denominação de logradouros.",
       "is_correct": false,
       "explanation": "Projetos de lei ordinária comuns seguem a regra da votação única."
     },
@@ -3257,13 +3257,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Projetos de Decreto Legislativo sobre concessão de honrarias.",
       "is_correct": false,
-      "explanation": "Decretos Legislativos, via de regra, possuem votação única. ARROW-LEFT VOLTAR À QUESTÃO 699"
+      "explanation": "Decretos Legislativos, via de regra, possuem votação única."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A norma exige rito mais rigoroso (dois turnos) para Emendas à Lei Orgânica, Leis Orçamentárias e Projetos de Codificação. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\ne) anunciar a Ordem do Dia e submeter à discussão e votação a matéria dela constante;\nj) submeter à discussão e votação a matéria a isso destinada, bem como estabelecer o ponto\nmandato de Vereador, nos termos deste Regimento Interno;\n\nArt. 81.\ngramatical e lógico das proposições que tramitarem pela Câmara, excetuando-se as leis\nc) receber as emendas às leis orçamentárias do Município;\ne) opinar sobre proposições referentes à matéria tributária, abertura de créditos, empréstimos\n\nAplicação à questão: A norma exige rito mais rigoroso (dois turnos) para Emendas à Lei Orgânica, Leis Orçamentárias e Projetos de Codificação. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "A norma exige rito mais rigoroso (dois turnos) para Emendas à Lei Orgânica, Leis Orçamentárias e Projetos de Codificação.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\ne) anunciar a Ordem do Dia e submeter à discussão e votação a matéria dela constante;\nj) submeter à discussão e votação a matéria a isso destinada, bem como estabelecer o ponto\nmandato de Vereador, nos termos deste Regimento Interno;\n\nArt. 81.\ngramatical e lógico das proposições que tramitarem pela Câmara, excetuando-se as leis\nc) receber as emendas às leis orçamentárias do Município;\ne) opinar sobre proposições referentes à matéria tributária, abertura de créditos, empréstimos\n\nAplicação à questão: A norma exige rito mais rigoroso (dois turnos) para Emendas à Lei Orgânica, Leis Orçamentárias e Projetos de Codificação."
   }
 }
 ```
@@ -3303,7 +3303,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "C",
       "text": "Dois terços dos parlamentares, para qualquer tipo de matéria.",
       "is_correct": false,
-      "explanation": "Dois terços é um quórum qualificado exigido apenas para matérias específicas (ex: cassação), não para o início geral da Ordem do Dia. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Dois terços é um quórum qualificado exigido apenas para matérias específicas (ex: cassação), não para o início geral da Ordem do Dia."
     },
     {
       "id": "D",
@@ -3313,9 +3313,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Um terço dos membros da Casa Legislativa. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Um terço dos membros da Casa Legislativa.",
       "is_correct": false,
-      "explanation": "Um terço é quórum para abertura da sessão (expediente), mas não para a Ordem do Dia. ARROW-LEFT VOLTAR À QUESTÃO 700"
+      "explanation": "Um terço é quórum para abertura da sessão (expediente), mas não para a Ordem do Dia."
     }
   ],
   "answer_key": "D",
@@ -3373,7 +3373,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Decisão sobre o adiamento de discussão de matéria ordinária.",
       "is_correct": false,
-      "explanation": "Pedidos de adiamento são questões procedimentais votadas simbolicamente. ARROW-LEFT VOLTAR À QUESTÃO 701 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Pedidos de adiamento são questões procedimentais votadas simbolicamente."
     }
   ],
   "answer_key": "B",
@@ -3423,7 +3423,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "D",
-      "text": "Só podem ser solicitados por Líderes de Bancada. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Só podem ser solicitados por Líderes de Bancada.",
       "is_correct": false,
       "explanation": "Vereadores individualmente podem solicitar, respeitadas as regras regimentais."
     },
@@ -3431,7 +3431,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Exigem o pagamento de taxa de expediente para serem processados.",
       "is_correct": false,
-      "explanation": "Não existe cobrança de taxas para atos do processo legislativo parlamentar. ARROW-LEFT VOLTAR À QUESTÃO 702"
+      "explanation": "Não existe cobrança de taxas para atos do processo legislativo parlamentar."
     }
   ],
   "answer_key": "C",
@@ -3489,13 +3489,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "A Câmara tem o prazo de 15 dias corridos para deliberar sobre o veto.",
       "is_correct": false,
-      "explanation": "O prazo para a Câmara apreciar o veto é de 30 dias. ARROW-LEFT VOLTAR À QUESTÃO 703"
+      "explanation": "O prazo para a Câmara apreciar o veto é de 30 dias."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Se a Câmara não deliberar sobre o veto em 30 dias, ocorre o sobrestamento (trancamento) da pauta, impedindo outras votações até que o veto seja apreciado. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\no prazo previsto para sua apreciação, os projetos de lei de iniciativa do Executivo\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nArt. 187.\nIV - que, sendo de iniciativa popular, não atenda aos requisitos do Art. 283 deste Regimento;\ndentro de 10 (dez) dias e encaminhado pelo Presidente à Comissão de Constituição, Justiça e Redação,\ncujo parecer em forma de projeto de Resolução será incluído na Ordem do Dia e apreciado pelo\n\nAplicação à questão: Se a Câmara não deliberar sobre o veto em 30 dias, ocorre o sobrestamento (trancamento) da pauta, impedindo outras votações até que o veto seja apreciado. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "Se a Câmara não deliberar sobre o veto em 30 dias, ocorre o sobrestamento (trancamento) da pauta, impedindo outras votações até que o veto seja apreciado.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\no prazo previsto para sua apreciação, os projetos de lei de iniciativa do Executivo\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nArt. 187.\nIV - que, sendo de iniciativa popular, não atenda aos requisitos do Art. 283 deste Regimento;\ndentro de 10 (dez) dias e encaminhado pelo Presidente à Comissão de Constituição, Justiça e Redação,\ncujo parecer em forma de projeto de Resolução será incluído na Ordem do Dia e apreciado pelo\n\nAplicação à questão: Se a Câmara não deliberar sobre o veto em 30 dias, ocorre o sobrestamento (trancamento) da pauta, impedindo outras votações até que o veto seja apreciado."
   }
 }
 ```
@@ -3517,7 +3517,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No processo legislativo orçamentário, os parlamentares podem apresentar emendas aos projetos da Lei Orçamentária Anual (LOA), do Plano Plurianual (PPA) e da Lei de Diretrizes Orçamentárias (LDO). Contudo, existem vedações técnicas para a indicação 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … de recursos. De acordo com o regramento vigente, as emendas ao projeto de lei de orçamento anual NÃO podem indicar recursos provenientes da anulação de despesas relativas a:",
+  "question_text": "No processo legislativo orçamentário, os parlamentares podem apresentar emendas aos projetos da Lei Orçamentária Anual (LOA), do Plano Plurianual (PPA) e da Lei de Diretrizes Orçamentárias (LDO). Contudo, existem vedações técnicas para a indicação de recursos. De acordo com o regramento vigente, as emendas ao projeto de lei de orçamento anual NÃO podem indicar recursos provenientes da anulação de despesas relativas a:",
   "alternatives": [
     {
       "id": "A",
@@ -3529,7 +3529,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "Publicidade institucional e eventos culturais.",
       "is_correct": false,
-      "explanation": "Publicidade e eventos não estão no rol de vedações absolutas para anulação de despesa via emenda. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Publicidade e eventos não estão no rol de vedações absolutas para anulação de despesa via emenda."
     },
     {
       "id": "C",
@@ -3547,7 +3547,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Pessoal e seus encargos, serviço da dívida e convênios.",
       "is_correct": true,
-      "explanation": "Estas três categorias (pessoal, dívida e convênios) são protegidas contra anulação por emendas parlamentares. ARROW-LEFT VOLTAR À QUESTÃO 704"
+      "explanation": "Estas três categorias (pessoal, dívida e convênios) são protegidas contra anulação por emendas parlamentares."
     }
   ],
   "answer_key": "E",
@@ -3597,7 +3597,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "D",
-      "text": "Providenciar a correção dos vícios de linguagem e de técnica legislativa para que o projeto possa tramitar. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Providenciar a correção dos vícios de linguagem e de técnica legislativa para que o projeto possa tramitar.",
       "is_correct": true,
       "explanation": "É dever da CCJR sanar os vícios de linguagem e técnica legislativa, garantindo o direito político dos cidadãos."
     },
@@ -3605,7 +3605,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Encaminhar o projeto ao Poder Executivo para que este realize as correções neces- sárias.",
       "is_correct": false,
-      "explanation": "A responsabilidade de adequação técnica é da própria Câmara, por meio de sua comissão competente (CCJR). 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 705"
+      "explanation": "A responsabilidade de adequação técnica é da própria Câmara, por meio de sua comissão competente (CCJR)."
     }
   ],
   "answer_key": "D",
@@ -3663,7 +3663,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Maioria simples dos membros presentes.",
       "is_correct": false,
-      "explanation": "A maioria simples é insuficiente para temas de tamanha relevância política. ARROW-LEFT VOLTAR À QUESTÃO 706 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A maioria simples é insuficiente para temas de tamanha relevância política."
     }
   ],
   "answer_key": "A",
@@ -3691,7 +3691,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "As audiências públicas são instrumentos fundamentais para a instrução de matérias legislativas. Segundo o Regimento Interno, entidades da sociedade civil podem solicitar a realização dessas audiências, desde que estejam legalmente constituídas há, pelo 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … menos:",
+  "question_text": "As audiências públicas são instrumentos fundamentais para a instrução de matérias legislativas. Segundo o Regimento Interno, entidades da sociedade civil podem solicitar a realização dessas audiências, desde que estejam legalmente constituídas há, pelo menos:",
   "alternatives": [
     {
       "id": "A",
@@ -3721,7 +3721,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "1 ano.",
       "is_correct": true,
-      "explanation": "O requisito temporal de 1 ano visa garantir a estabilidade e a representatividade da entidade solicitante. ARROW-LEFT VOLTAR À QUESTÃO 707"
+      "explanation": "O requisito temporal de 1 ano visa garantir a estabilidade e a representatividade da entidade solicitante."
     }
   ],
   "answer_key": "E",
@@ -3777,15 +3777,15 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "A necessidade de pagamento de taxas de protocolo. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A necessidade de pagamento de taxas de protocolo.",
       "is_correct": false,
-      "explanation": "O direito de petição é gratuito, não sendo admitida a cobrança de taxas. ARROW-LEFT VOLTAR À QUESTÃO 708"
+      "explanation": "O direito de petição é gratuito, não sendo admitida a cobrança de taxas."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O direito de petição é amplo, mas o Regimento Interno veda o anonimato, exigindo a identificação clara do autor da reclamação ou sugestão. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\nd) proceder às licitações para compras, obras e serviços da Câmara, obedecida a legislação\n\nArt. 290.\nregularmente constituída há mais de 1 (um) ano, contra ato ou omissão das autoridades e entidades\nAs petições, reclamações e representações de qualquer munícipe ou de entidade local,\n1 - encaminhadas por escrito, vedado o anonimato do autor ou autores;\n\nAplicação à questão: O direito de petição é amplo, mas o Regimento Interno veda o anonimato, exigindo a identificação clara do autor da reclamação ou sugestão. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "O direito de petição é amplo, mas o Regimento Interno veda o anonimato, exigindo a identificação clara do autor da reclamação ou sugestão.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\nd) proceder às licitações para compras, obras e serviços da Câmara, obedecida a legislação\n\nArt. 290.\nregularmente constituída há mais de 1 (um) ano, contra ato ou omissão das autoridades e entidades\nAs petições, reclamações e representações de qualquer munícipe ou de entidade local,\n1 - encaminhadas por escrito, vedado o anonimato do autor ou autores;\n\nAplicação à questão: O direito de petição é amplo, mas o Regimento Interno veda o anonimato, exigindo a identificação clara do autor da reclamação ou sugestão."
   }
 }
 ```
@@ -3819,7 +3819,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "Exercer cargo, função ou emprego remunerado em entidades paraestatais, inde- pendentemente da forma de provimento.",
       "is_correct": false,
-      "explanation": "A vedação desde a diplomação refere-se a cargos demissíveis ’ad nutum’. O exercício de outros cargos remunerados em entidades públicas segue a regra de compatibilidade após a posse. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A vedação desde a diplomação refere-se a cargos demissíveis ’ad nutum’. O exercício de outros cargos remunerados em entidades públicas segue a regra de compatibilidade após a posse."
     },
     {
       "id": "C",
@@ -3837,7 +3837,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Firmar ou manter contrato com o Município ou suas empresas, salvo quando o contrato obedecer a cláusulas uniformes.",
       "is_correct": true,
-      "explanation": "Firmar ou manter contrato com o Município, suas autarquias, empresas públicas, sociedades de economia mista ou empresas concessionárias de serviço público é vedado desde a diplomação. ARROW-LEFT VOLTAR À QUESTÃO 709"
+      "explanation": "Firmar ou manter contrato com o Município, suas autarquias, empresas públicas, sociedades de economia mista ou empresas concessionárias de serviço público é vedado desde a diplomação."
     }
   ],
   "answer_key": "E",
@@ -3875,7 +3875,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "B",
-      "text": "Superior a 30 dias. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Superior a 30 dias.",
       "is_correct": true,
       "explanation": "A convocação do suplente em caso de licença do titular exige que o período de afastamento seja superior a 30 dias."
     },
@@ -3895,7 +3895,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Apenas em casos de vacância definitiva por morte ou renúncia.",
       "is_correct": false,
-      "explanation": "Além da vacância definitiva, a licença temporária superior a 30 dias e a investidura em cargos de Secretário também geram convocação. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 710"
+      "explanation": "Além da vacância definitiva, a licença temporária superior a 30 dias e a investidura em cargos de Secretário também geram convocação."
     }
   ],
   "answer_key": "B",
@@ -3951,9 +3951,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Dá direito à manutenção integral do subsídio parlamentar. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Dá direito à manutenção integral do subsídio parlamentar.",
       "is_correct": false,
-      "explanation": "Licenças para interesse particular geralmente não são remuneradas. ARROW-LEFT VOLTAR À QUESTÃO 711 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Licenças para interesse particular geralmente não são remuneradas."
     }
   ],
   "answer_key": "C",
@@ -4011,7 +4011,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Os prazos não correm durante o recesso, exceto para matérias de convocação extraordinária e Comissões Processantes.",
       "is_correct": true,
-      "explanation": "Esta alternativa apresenta a regra de suspensão e as duas exceções previstas no conteúdo regimental. ARROW-LEFT VOLTAR À QUESTÃO 712"
+      "explanation": "Esta alternativa apresenta a regra de suspensão e as duas exceções previstas no conteúdo regimental."
     }
   ],
   "answer_key": "E",
@@ -4043,7 +4043,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "A presidência da Comissão Representativa é exercida pelo Vereador mais idoso da Casa. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A presidência da Comissão Representativa é exercida pelo Vereador mais idoso da Casa.",
       "is_correct": false,
       "explanation": "A Comissão Representativa é presidida pelo Presidente da Câmara Municipal."
     },
@@ -4069,13 +4069,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "A Comissão é eleita livremente, sem necessidade de observar a proporcionalidade partidária.",
       "is_correct": false,
-      "explanation": "A composição da Comissão deve respeitar, tanto quanto possível, a proporcionalidade partidária. ARROW-LEFT VOLTAR À QUESTÃO 713"
+      "explanation": "A composição da Comissão deve respeitar, tanto quanto possível, a proporcionalidade partidária."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "Uma das funções precípuas da Comissão Representativa durante o recesso é zelar pelas prerrogativas do Legislativo, o que inclui autorizar o afastamento do Chefe do Executivo 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … por período superior a 15 dias.",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nconvocação de sessões extraordinárias no período normal de funcionamento ou durante o\nmandato de Vereador, nos termos deste Regimento Interno;\ni) Autorizar a realização de eventos culturais ou artísticos no edifício da Câmara, fixando-\n\nArt. 46.\ndesempenho de suas atribuições regimentais, ou quando exorbite das atribuições a ele conferidas por\neste Regimento.\nCâmara, assegurado o direito de ampla defesa.\n\nAplicação à questão: Uma das funções precípuas da Comissão Representativa durante o recesso é zelar pelas prerrogativas do Legislativo, o que inclui autorizar o afastamento do Chefe do Executivo 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … por período superior a 15 dias."
+    "resolution": "Uma das funções precípuas da Comissão Representativa durante o recesso é zelar pelas prerrogativas do Legislativo, o que inclui autorizar o afastamento do Chefe do Executivo por período superior a 15 dias.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nconvocação de sessões extraordinárias no período normal de funcionamento ou durante o\nmandato de Vereador, nos termos deste Regimento Interno;\ni) Autorizar a realização de eventos culturais ou artísticos no edifício da Câmara, fixando-\n\nArt. 46.\ndesempenho de suas atribuições regimentais, ou quando exorbite das atribuições a ele conferidas por\neste Regimento.\nCâmara, assegurado o direito de ampla defesa.\n\nAplicação à questão: Uma das funções precípuas da Comissão Representativa durante o recesso é zelar pelas prerrogativas do Legislativo, o que inclui autorizar o afastamento do Chefe do Executivo por período superior a 15 dias."
   }
 }
 ```
@@ -4103,7 +4103,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "A",
       "text": "Aplica-se a legislação processual civil (CPC) no que for aplicável.",
       "is_correct": true,
-      "explanation": "O CPC é a norma de aplicação subsidiária prevista para a contagem de prazos. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O CPC é a norma de aplicação subsidiária prevista para a contagem de prazos."
     },
     {
       "id": "B",
@@ -4125,9 +4125,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Aplica-se o Código Civil apenas para prazos de natureza patrimonial. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … 2.1.3 Questões Difíceis",
+      "text": "Aplica-se o Código Civil apenas para prazos de natureza patrimonial. 2.1.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "A aplicação subsidiária mencionada é do CPC, de forma geral para a contagem, e não do Código Civil. ARROW-LEFT VOLTAR À QUESTÃO 714"
+      "explanation": "A aplicação subsidiária mencionada é do CPC, de forma geral para a contagem, e não do Código Civil."
     }
   ],
   "answer_key": "A",
@@ -4185,7 +4185,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Candidatos eleitos que estejam acometidos por doenças infectocontagiosas graves.",
       "is_correct": false,
-      "explanation": "Embora seja um motivo de saúde, o Regimento especifica a licençagestante como a hipótese para videoconferência. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 715"
+      "explanation": "Embora seja um motivo de saúde, o Regimento especifica a licençagestante como a hipótese para videoconferência."
     }
   ],
   "answer_key": "A",
@@ -4223,7 +4223,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "B",
-      "text": "A fiscalização é exercida com o auxílio do Tribunal de Contas do Estado, que emite parecer prévio sobre as contas anuais. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A fiscalização é exercida com o auxílio do Tribunal de Contas do Estado, que emite parecer prévio sobre as contas anuais.",
       "is_correct": true,
       "explanation": "O auxílio do TCE é requisito constitucional e regimental para o exercício da fiscalização externa das contas."
     },
@@ -4243,7 +4243,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O controle exercido pela Câmara limita-se aos atos do Prefeito, não abrangendo as contas da própria Mesa Diretora.",
       "is_correct": false,
-      "explanation": "A fiscalização abrange as contas do Município, o que inclui tanto o Executivo quanto o Legislativo (Mesa). ARROW-LEFT VOLTAR À QUESTÃO 716 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A fiscalização abrange as contas do Município, o que inclui tanto o Executivo quanto o Legislativo (Mesa)."
     }
   ],
   "answer_key": "B",
@@ -4299,9 +4299,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Regulamentação dos serviços administrativos da instituição. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Regulamentação dos serviços administrativos da instituição.",
       "is_correct": true,
-      "explanation": "A regulamentação de serviços, por ser matéria estrutural e normativa da Casa, deve ser feita via Ato. ARROW-LEFT VOLTAR À QUESTÃO 717"
+      "explanation": "A regulamentação de serviços, por ser matéria estrutural e normativa da Casa, deve ser feita via Ato."
     }
   ],
   "answer_key": "E",
@@ -4359,13 +4359,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Seja ratificado pelo Tribunal de Contas do Estado (TCE/RN) antes de produzir efeitos.",
       "is_correct": false,
-      "explanation": "O TCE/RN fiscaliza as contas, mas não ratifica atos internos de delegação de competência administrativa. ARROW-LEFT VOLTAR À QUESTÃO 718"
+      "explanation": "O TCE/RN fiscaliza as contas, mas não ratifica atos internos de delegação de competência administrativa."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "A delegação administrativa exige formalidade, devendo especificar quem transfere a competência, quem a recebe e qual a matéria delegada. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\ndevidamente formalizada, que verse sobre matéria alheia à competência da Câmara, ou\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nArt. 37.\nA delegação de competência será utilizada como instrumento de descentralização\npelos serviços administrativos da Câmara delegar competência para a prática de atos administrativos.\n§2° O ato de delegação identificará precisamente a autoridade delegante, a autoridade delegada e as\n\nAplicação à questão: A delegação administrativa exige formalidade, devendo especificar quem transfere a competência, quem a recebe e qual a matéria delegada. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "A delegação administrativa exige formalidade, devendo especificar quem transfere a competência, quem a recebe e qual a matéria delegada.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\ndevidamente formalizada, que verse sobre matéria alheia à competência da Câmara, ou\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nArt. 37.\nA delegação de competência será utilizada como instrumento de descentralização\npelos serviços administrativos da Câmara delegar competência para a prática de atos administrativos.\n§2° O ato de delegação identificará precisamente a autoridade delegante, a autoridade delegada e as\n\nAplicação à questão: A delegação administrativa exige formalidade, devendo especificar quem transfere a competência, quem a recebe e qual a matéria delegada."
   }
 }
 ```
@@ -4391,7 +4391,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "1º Secretário, 1º Secretário e 2º Secretário. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "1º Secretário, 1º Secretário e 2º Secretário.",
       "is_correct": true,
       "explanation": "O 1º Secretário acumula a gestão da frequência e dos oradores, enquanto o 2º Secretário é seu substituto regimental."
     },
@@ -4399,7 +4399,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "1º Secretário, 1º Secretário e 1º Vice-Presidente.",
       "is_correct": false,
-      "explanation": "O 1º Vice-Presidente não substitui o 1º Secretário; essa função é do 2º Secretário. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O 1º Vice-Presidente não substitui o 1º Secretário; essa função é do 2º Secretário."
     },
     {
       "id": "C",
@@ -4417,7 +4417,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Presidente, 1º Secretário e 1º Vice-Presidente.",
       "is_correct": false,
-      "explanation": "O Presidente não certifica frequência e o 1º Vice substitui o Presidente, não o Secretário. ARROW-LEFT VOLTAR À QUESTÃO 719"
+      "explanation": "O Presidente não certifica frequência e o 1º Vice substitui o Presidente, não o Secretário."
     }
   ],
   "answer_key": "A",
@@ -4473,9 +4473,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "A Comissão Processante será composta por três vereadores indicados pelo Presi- dente da Casa. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A Comissão Processante será composta por três vereadores indicados pelo Presi- dente da Casa.",
       "is_correct": false,
-      "explanation": "Os membros da Comissão Processante são sorteados, excluindo-se o denunciante e o denunciado. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 720"
+      "explanation": "Os membros da Comissão Processante são sorteados, excluindo-se o denunciante e o denunciado."
     }
   ],
   "answer_key": "D",
@@ -4533,7 +4533,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "A dispensa de formalidades regimentais por proposta da Reunião de Lideranças depende de decisão unânime de seus integrantes.",
       "is_correct": true,
-      "explanation": "A decisão unânime é o requisito essencial para que o colégio de líderes possa flexibilizar as regras procedimentais comuns. ARROW-LEFT VOLTAR À QUESTÃO 721 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A decisão unânime é o requisito essencial para que o colégio de líderes possa flexibilizar as regras procedimentais comuns."
     }
   ],
   "answer_key": "E",
@@ -4561,7 +4561,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Sobre o funcionamento e a dinâmica de trabalho das Comissões Permanentes, analise a seguinte situação hipotética: Durante a realização da Ordem do Dia em uma sessão ordinária no Plenário, a Comissão de Constituição, Justiça e Redação convoca uma reunião extraordinária para deliberar sobre um projeto urgente. Com base nas normas de funcionamento da Câmara de Mossoró, essa reunião: 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+  "question_text": "Sobre o funcionamento e a dinâmica de trabalho das Comissões Permanentes, analise a seguinte situação hipotética: Durante a realização da Ordem do Dia em uma sessão ordinária no Plenário, a Comissão de Constituição, Justiça e Redação convoca uma reunião extraordinária para deliberar sobre um projeto urgente. Com base nas normas de funcionamento da Câmara de Mossoró, essa reunião:",
   "alternatives": [
     {
       "id": "A",
@@ -4591,7 +4591,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "É proibida apenas se houver votação nominal em curso no Plenário.",
       "is_correct": false,
-      "explanation": "A proibição abrange todo o período da Ordem do Dia, não apenas o momento da votação nominal. ARROW-LEFT VOLTAR À QUESTÃO 722"
+      "explanation": "A proibição abrange todo o período da Ordem do Dia, não apenas o momento da votação nominal."
     }
   ],
   "answer_key": "D",
@@ -4647,15 +4647,15 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "O pedido de vista de um projeto em tramitação ordinária suspende o processo por até 5 dias. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "O pedido de vista de um projeto em tramitação ordinária suspende o processo por até 5 dias.",
       "is_correct": false,
-      "explanation": "O prazo de vista em projetos de tramitação ordinária é de no máximo 2 dias. ARROW-LEFT VOLTAR À QUESTÃO 723"
+      "explanation": "O prazo de vista em projetos de tramitação ordinária é de no máximo 2 dias."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "A norma estabelece o prazo mínimo de 24 horas para a convocação das reuniões das comissões. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nc) zelar pelos prazos do processo legislativo e daqueles concedidos às Comissões e ao\nb) Determinar a distribuição de matéria às Comissões Permanentes ou Temporárias, após\nO preencher, por nomeação, as vagas verificadas nas Comissões Permanentes e\n\nArt. 85.\ndas sessões da Câmara, salvo disposição específica prevista neste Regimento Interno.\nParágrafo Único. As Comissões Permanentes não poderão reunir-se durante a fase da Ordem do Dia\nregime de tramitação ordinária, e pelo prazo máximo de 2 (dois) dias;\n\nAplicação à questão: A norma estabelece o prazo mínimo de 24 horas para a convocação das reuniões das comissões. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "A norma estabelece o prazo mínimo de 24 horas para a convocação das reuniões das comissões.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nc) zelar pelos prazos do processo legislativo e daqueles concedidos às Comissões e ao\nb) Determinar a distribuição de matéria às Comissões Permanentes ou Temporárias, após\nO preencher, por nomeação, as vagas verificadas nas Comissões Permanentes e\n\nArt. 85.\ndas sessões da Câmara, salvo disposição específica prevista neste Regimento Interno.\nParágrafo Único. As Comissões Permanentes não poderão reunir-se durante a fase da Ordem do Dia\nregime de tramitação ordinária, e pelo prazo máximo de 2 (dois) dias;\n\nAplicação à questão: A norma estabelece o prazo mínimo de 24 horas para a convocação das reuniões das comissões."
   }
 }
 ```
@@ -4695,7 +4695,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "C",
       "text": "A presidência caberá ao Presidente da Câmara Municipal, independentemente das comissões envolvidas.",
       "is_correct": false,
-      "explanation": "O Presidente da Câmara não integra nem preside comissões permanentes. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O Presidente da Câmara não integra nem preside comissões permanentes."
     },
     {
       "id": "D",
@@ -4705,9 +4705,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "A presidência será exercida pelo Presidente da Comissão de Constituição, Justiça e Redação (CCJR), caso esta participe da reunião. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A presidência será exercida pelo Presidente da Comissão de Constituição, Justiça e Redação (CCJR), caso esta participe da reunião.",
       "is_correct": true,
-      "explanation": "Se a CCJR estiver presente na reunião conjunta, seu Presidente assume o comando dos trabalhos. ARROW-LEFT VOLTAR À QUESTÃO 724"
+      "explanation": "Se a CCJR estiver presente na reunião conjunta, seu Presidente assume o comando dos trabalhos."
     }
   ],
   "answer_key": "E",
@@ -4765,7 +4765,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "A CCJR deve obrigatoriamente redigir um novo texto (substitutivo) para sanar os vícios, antes de enviar ao Plenário.",
       "is_correct": false,
-      "explanation": "A CCJR aponta o vício; cabe ao Plenário decidir se o projeto deve ser arquivado ou se deve prosseguir. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 725"
+      "explanation": "A CCJR aponta o vício; cabe ao Plenário decidir se o projeto deve ser arquivado ou se deve prosseguir."
     }
   ],
   "answer_key": "D",
@@ -4797,7 +4797,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "Se o Poder Executivo não responder ao pedido de informação em 15 dias, o projeto é aprovado por decurso de prazo. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Se o Poder Executivo não responder ao pedido de informação em 15 dias, o projeto é aprovado por decurso de prazo.",
       "is_correct": false,
       "explanation": "Se o Executivo não responder em 30 dias, o prazo da comissão simplesmente volta a correr; não há aprovação automática do projeto."
     },
@@ -4823,7 +4823,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "A realização de audiências públicas sobresta o prazo da comissão por 10 dias úteis.",
       "is_correct": true,
-      "explanation": "Este é o prazo exato de sobrestamento previsto para a realização de audiências públicas. ARROW-LEFT VOLTAR À QUESTÃO 726 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Este é o prazo exato de sobrestamento previsto para a realização de audiências públicas."
     }
   ],
   "answer_key": "E",
@@ -4879,9 +4879,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "20 dias e 48 horas. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "20 dias e 48 horas.",
       "is_correct": false,
-      "explanation": "Embora 48 horas seja um prazo comum em outros ritos, para a convocação de reuniões da CEI o prazo mínimo é de 24 horas. ARROW-LEFT VOLTAR À QUESTÃO 727"
+      "explanation": "Embora 48 horas seja um prazo comum em outros ritos, para a convocação de reuniões da CEI o prazo mínimo é de 24 horas."
     }
   ],
   "answer_key": "B",
@@ -4939,13 +4939,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Podem ser criadas por ato do Presidente ou por requerimento de, no mínimo, 1/3 dos Vereadores.",
       "is_correct": true,
-      "explanation": "O regimento prevê essas duas vias (ato da presidência ou requerimento de 1/3) para a instauração da comissão processante. ARROW-LEFT VOLTAR À QUESTÃO 728"
+      "explanation": "O regimento prevê essas duas vias (ato da presidência ou requerimento de 1/3) para a instauração da comissão processante."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "As Comissões Processantes possuem um rito de criação que privilegia tanto a iniciativa da Presidência quanto o direito da minoria parlamentar (1/3). 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\n1) Publicar os atos da Mesa Diretora e da Presidência, Portarias, Resoluções e Decretos.\nforem movidas contra a Câmara ou contra ato da Mesa ou da Presidência;\nquanto às atividades da Mesa Diretora:\n\nArt. 119.\nII - destituição dos membros da Mesa Diretora, nos termos dos Art. 46 a Art. 51 deste Regimento.\nI - apurar infrações político-administrativas dos Vereadores, no desempenho de suas funções, nos\nAs Comissões Processantes serão constituídas com as seguintes finalidades:\n\nAplicação à questão: As Comissões Processantes possuem um rito de criação que privilegia tanto a iniciativa da Presidência quanto o direito da minoria parlamentar (1/3). 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "As Comissões Processantes possuem um rito de criação que privilegia tanto a iniciativa da Presidência quanto o direito da minoria parlamentar (1/3).",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\n1) Publicar os atos da Mesa Diretora e da Presidência, Portarias, Resoluções e Decretos.\nforem movidas contra a Câmara ou contra ato da Mesa ou da Presidência;\nquanto às atividades da Mesa Diretora:\n\nArt. 119.\nII - destituição dos membros da Mesa Diretora, nos termos dos Art. 46 a Art. 51 deste Regimento.\nI - apurar infrações político-administrativas dos Vereadores, no desempenho de suas funções, nos\nAs Comissões Processantes serão constituídas com as seguintes finalidades:\n\nAplicação à questão: As Comissões Processantes possuem um rito de criação que privilegia tanto a iniciativa da Presidência quanto o direito da minoria parlamentar (1/3)."
   }
 }
 ```
@@ -4971,7 +4971,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "A comissão é extinta de pleno direito por não ter apresentado o relatório nem solicitado prorrogação até o 45º dia. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A comissão é extinta de pleno direito por não ter apresentado o relatório nem solicitado prorrogação até o 45º dia.",
       "is_correct": false,
       "explanation": "Esta situação é válida, pois o decurso de prazo sem manifestação gera a extinção automática da comissão."
     },
@@ -4979,7 +4979,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "Um membro da comissão, descontente com a conclusão da maioria, apresenta um voto em separado para ser anexado ao relatório.",
       "is_correct": false,
-      "explanation": "Esta situação é válida, pois o regimento assegura o direito ao voto em separado para membros dissidentes. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Esta situação é válida, pois o regimento assegura o direito ao voto em separado para membros dissidentes."
     },
     {
       "id": "C",
@@ -4997,7 +4997,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O relatório final, após aprovado pela comissão, é disponibilizado integralmente a qualquer Vereador que solicitar cópia, independentemente de requerimento formal.",
       "is_correct": false,
-      "explanation": "Esta situação é válida, especialmente em Comissões de Inquérito, onde o acesso à informação pelos parlamentares é direto. ARROW-LEFT VOLTAR À QUESTÃO 729"
+      "explanation": "Esta situação é válida, especialmente em Comissões de Inquérito, onde o acesso à informação pelos parlamentares é direto."
     }
   ],
   "answer_key": "D",
@@ -5049,13 +5049,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "D",
       "text": "Uma vez aprovado o relatório pelo Plenário, cabe ao Relator da comissão encami- nhar pessoalmente as conclusões ao Ministério Público.",
       "is_correct": false,
-      "explanation": "O encaminhamento oficial é feito pelo Presidente da Câmara, que representa a instituição, e não pelo relator individualmente. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "O encaminhamento oficial é feito pelo Presidente da Câmara, que representa a instituição, e não pelo relator individualmente."
     },
     {
       "id": "E",
-      "text": "Aprovado o relatório pelo Plenário, o Presidente da Câmara deverá dar o encami- nhamento sugerido, conforme a natureza das conclusões. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Aprovado o relatório pelo Plenário, o Presidente da Câmara deverá dar o encami- nhamento sugerido, conforme a natureza das conclusões.",
       "is_correct": true,
-      "explanation": "Compete ao Presidente da Câmara efetivar as medidas sugeridas no relatório que obteve a aprovação do Plenário. ARROW-LEFT VOLTAR À QUESTÃO 730"
+      "explanation": "Compete ao Presidente da Câmara efetivar as medidas sugeridas no relatório que obteve a aprovação do Plenário."
     }
   ],
   "answer_key": "E",
@@ -5113,7 +5113,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "30 minutos.",
       "is_correct": false,
-      "explanation": "30 minutos é considerado um tempo excessivo para uma suspensão de parecer oral durante a dinâmica da sessão. ARROW-LEFT VOLTAR À QUESTÃO 731 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "30 minutos é considerado um tempo excessivo para uma suspensão de parecer oral durante a dinâmica da sessão."
     }
   ],
   "answer_key": "C",
@@ -5145,7 +5145,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "O adiamento pode ser solicitado a qualquer momento, inclusive após o anúncio do resultado da votação. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "O adiamento pode ser solicitado a qualquer momento, inclusive após o anúncio do resultado da votação.",
       "is_correct": false,
       "explanation": "Após o resultado, a matéria está decidida, não cabendo adiamento."
     },
@@ -5171,7 +5171,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O pedido de adiamento só é cabível se formulado antes de iniciada a votação da matéria.",
       "is_correct": true,
-      "explanation": "O limite preclusivo para o pedido de adiamento é o início da votação. ARROW-LEFT VOLTAR À QUESTÃO 732"
+      "explanation": "O limite preclusivo para o pedido de adiamento é o início da votação."
     }
   ],
   "answer_key": "E",
@@ -5227,15 +5227,15 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "O recesso parlamentar é automático e independe da conclusão de votações orça- mentárias, que podem ser transferidas para o ano seguinte. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "O recesso parlamentar é automático e independe da conclusão de votações orça- mentárias, que podem ser transferidas para o ano seguinte.",
       "is_correct": false,
-      "explanation": "O recesso não é automático se as obrigações orçamentárias não tiverem sido cumpridas pelos vereadores. ARROW-LEFT VOLTAR À QUESTÃO 733"
+      "explanation": "O recesso não é automático se as obrigações orçamentárias não tiverem sido cumpridas pelos vereadores."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Por força de normas de responsabilidade e organização política, o Legislativo não pode 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … entrar em recesso sem votar as peças orçamentárias fundamentais, como a LDO.",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\nd) proceder às licitações para compras, obras e serviços da Câmara, obedecida a legislação\n\nArt. 81.\nc) receber as emendas às leis orçamentárias do Município;\ngramatical e lógico das proposições que tramitarem pela Câmara, excetuando-se as leis\norçamentárias, os pareceres do Tribunal de Contas, os requerimentos e indicações;\n\nAplicação à questão: Por força de normas de responsabilidade e organização política, o Legislativo não pode 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … entrar em recesso sem votar as peças orçamentárias fundamentais, como a LDO."
+    "resolution": "Por força de normas de responsabilidade e organização política, o Legislativo não pode entrar em recesso sem votar as peças orçamentárias fundamentais, como a LDO.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\nd) proceder às licitações para compras, obras e serviços da Câmara, obedecida a legislação\n\nArt. 81.\nc) receber as emendas às leis orçamentárias do Município;\ngramatical e lógico das proposições que tramitarem pela Câmara, excetuando-se as leis\norçamentárias, os pareceres do Tribunal de Contas, os requerimentos e indicações;\n\nAplicação à questão: Por força de normas de responsabilidade e organização política, o Legislativo não pode entrar em recesso sem votar as peças orçamentárias fundamentais, como a LDO."
   }
 }
 ```
@@ -5287,7 +5287,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Homenagem ao padroeiro do município.",
       "is_correct": false,
-      "explanation": "Homenagens religiosas ou cívicas dependem de convocação ou requerimento. ARROW-LEFT VOLTAR À QUESTÃO 734"
+      "explanation": "Homenagens religiosas ou cívicas dependem de convocação ou requerimento."
     }
   ],
   "answer_key": "A",
@@ -5319,7 +5319,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "Poderão usar da palavra as autoridades e homenageados, a critério da Presidência. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Poderão usar da palavra as autoridades e homenageados, a critério da Presidência.",
       "is_correct": true,
       "explanation": "O programa da sessão solene permite que autoridades, homenageados e representantes falem, conforme critério da Presidência."
     },
@@ -5339,13 +5339,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "D",
       "text": "Apenas o autor da proposição e o homenageado podem discursar.",
       "is_correct": false,
-      "explanation": "Não há essa restrição binária no Regimento para sessões solenes. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Não há essa restrição binária no Regimento para sessões solenes."
     },
     {
       "id": "E",
       "text": "É obrigatória a concessão da palavra a todos os líderes partidários por 5 minutos.",
       "is_correct": false,
-      "explanation": "A fala de líderes é típica do Pequeno ou Grande Expediente de sessões ordinárias, que não existem na solene. ARROW-LEFT VOLTAR À QUESTÃO 735"
+      "explanation": "A fala de líderes é típica do Pequeno ou Grande Expediente de sessões ordinárias, que não existem na solene."
     }
   ],
   "answer_key": "A",
@@ -5401,9 +5401,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Projeto de Lei com pareceres favoráveis de todas as comissões competentes. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Projeto de Lei com pareceres favoráveis de todas as comissões competentes.",
       "is_correct": true,
-      "explanation": "Esta é uma das exceções expressas à regra do arquivamento ao fim dos 4 anos de mandato. ARROW-LEFT VOLTAR À QUESTÃO 736 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Esta é uma das exceções expressas à regra do arquivamento ao fim dos 4 anos de mandato."
     }
   ],
   "answer_key": "E",
@@ -5461,7 +5461,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "A emissão do parecer pela Comissão de Constituição, Justiça e Redação.",
       "is_correct": false,
-      "explanation": "A tramitação nas comissões é anterior à discussão em plenário, mas o limite regimental é o início da discussão. ARROW-LEFT VOLTAR À QUESTÃO 737"
+      "explanation": "A tramitação nas comissões é anterior à discussão em plenário, mas o limite regimental é o início da discussão."
     }
   ],
   "answer_key": "A",
@@ -5499,7 +5499,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "B",
-      "text": "Converter automaticamente o requerimento em indicação e providenciar o envio ao Prefeito. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Converter automaticamente o requerimento em indicação e providenciar o envio ao Prefeito.",
       "is_correct": false,
       "explanation": "O regimento não prevê a conversão automática, mas sim o não recebimento por erro de forma."
     },
@@ -5519,13 +5519,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Encaminhar o requerimento para a Comissão de Constituição, Justiça e Redação para adequação formal.",
       "is_correct": false,
-      "explanation": "A proibição de recepção é direta, não sendo caso de remessa para correção em comissão. ARROW-LEFT VOLTAR À QUESTÃO 738"
+      "explanation": "A proibição de recepção é direta, não sendo caso de remessa para correção em comissão."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "Existe uma vedação regimental explícita que proíbe dar forma de requerimento a assuntos que deveriam ser tratados como indicação (sugestões de interesse público ao Executivo). 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 229.\nIndicação é o ato escrito em que o Vereador sugere medida de interesse público às\nCÂMARA MUNICIPAL DE MOSSORNRN\n\nArt. 27.\nquanto às atividades da Mesa Diretora:\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nAplicação à questão: Existe uma vedação regimental explícita que proíbe dar forma de requerimento a assuntos que deveriam ser tratados como indicação (sugestões de interesse público ao Executivo). 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "Existe uma vedação regimental explícita que proíbe dar forma de requerimento a assuntos que deveriam ser tratados como indicação (sugestões de interesse público ao Executivo).",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 229.\nIndicação é o ato escrito em que o Vereador sugere medida de interesse público às\nCÂMARA MUNICIPAL DE MOSSORNRN\n\nArt. 27.\nquanto às atividades da Mesa Diretora:\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nAplicação à questão: Existe uma vedação regimental explícita que proíbe dar forma de requerimento a assuntos que deveriam ser tratados como indicação (sugestões de interesse público ao Executivo)."
   }
 }
 ```
@@ -5559,7 +5559,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "Requerimentos de pesar ou congratulações são decididos pelo Presidente de forma terminativa.",
       "is_correct": false,
-      "explanation": "Manifestações de pesar ou congratulações são decididas pelo Plenário. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Manifestações de pesar ou congratulações são decididas pelo Plenário."
     },
     {
       "id": "C",
@@ -5575,9 +5575,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Pedidos de informações ao Prefeito são sempre verbais para garantir a celeridade da fiscalização. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "Pedidos de informações ao Prefeito são sempre verbais para garantir a celeridade da fiscalização.",
       "is_correct": false,
-      "explanation": "Pedidos de informações ao Prefeito devem ser obrigatoriamente escritos. ARROW-LEFT VOLTAR À QUESTÃO 739"
+      "explanation": "Pedidos de informações ao Prefeito devem ser obrigatoriamente escritos."
     }
   ],
   "answer_key": "D",
@@ -5635,7 +5635,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O pedido de urgência é automaticamente arquivado, sem possibilidade de recurso.",
       "is_correct": false,
-      "explanation": "O parecer da CCJR, neste caso, não tem efeito terminativo sobre o pedido de urgência. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 740"
+      "explanation": "O parecer da CCJR, neste caso, não tem efeito terminativo sobre o pedido de urgência."
     }
   ],
   "answer_key": "C",
@@ -5673,7 +5673,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "B",
-      "text": "O parlamentar perderá o mandato imediatamente por quebra de decoro parlamen- 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … tar.",
+      "text": "O parlamentar perderá o mandato imediatamente por quebra de decoro parlamen- tar.",
       "is_correct": false,
       "explanation": "Embora possa gerar processo ético, a perda de mandato não é uma consequência automática e imediata descrita nesta regra de votação."
     },
@@ -5693,7 +5693,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "A votação será considerada nula em qualquer hipótese, independentemente do resultado.",
       "is_correct": false,
-      "explanation": "A nulidade não é absoluta em ’qualquer hipótese’, mas vinculada ao caráter decisivo do voto. ARROW-LEFT VOLTAR À QUESTÃO 741 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A nulidade não é absoluta em ’qualquer hipótese’, mas vinculada ao caráter decisivo do voto."
     }
   ],
   "answer_key": "D",
@@ -5749,9 +5749,9 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "A aprovação de um Código exige quórum de dois terços dos membros da Casa. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "A aprovação de um Código exige quórum de dois terços dos membros da Casa.",
       "is_correct": false,
-      "explanation": "O quórum para aprovação de leis codificadas segue a regra geral de maioria absoluta, não dois terços. ARROW-LEFT VOLTAR À QUESTÃO 742"
+      "explanation": "O quórum para aprovação de leis codificadas segue a regra geral de maioria absoluta, não dois terços."
     }
   ],
   "answer_key": "C",
@@ -5809,13 +5809,13 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O projeto de Lei Orçamentária Anual (LOA) deve ser enviado pelo Prefeito até 15 de abril de cada ano.",
       "is_correct": false,
-      "explanation": "O prazo de 15 de abril refere-se ao envio da LDO. A LOA deve ser enviada até 30 de agosto. ARROW-LEFT VOLTAR À QUESTÃO 743"
+      "explanation": "O prazo de 15 de abril refere-se ao envio da LDO. A LOA deve ser enviada até 30 de agosto."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Existe uma vedação constitucional e regimental que impede o encerramento da sessão legislativa (recesso) enquanto a LDO (no meio do ano) ou a LOA (no fim do ano) não forem votadas. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nc) zelar pelos prazos do processo legislativo e daqueles concedidos às Comissões e ao\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nArt. 24.\napresentar ao Plenário, na sessão de encerramento do ano legislativo, resenha dos\nRegimento ou por Resolução da Câmara Municipal, ou delas implicitamente decorrentes:\nRegimento Interno.\n\nAplicação à questão: Existe uma vedação constitucional e regimental que impede o encerramento da sessão legislativa (recesso) enquanto a LDO (no meio do ano) ou a LOA (no fim do ano) não forem votadas. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "Existe uma vedação constitucional e regimental que impede o encerramento da sessão legislativa (recesso) enquanto a LDO (no meio do ano) ou a LOA (no fim do ano) não forem votadas.",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 27.\nc) zelar pelos prazos do processo legislativo e daqueles concedidos às Comissões e ao\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\n\nArt. 24.\napresentar ao Plenário, na sessão de encerramento do ano legislativo, resenha dos\nRegimento ou por Resolução da Câmara Municipal, ou delas implicitamente decorrentes:\nRegimento Interno.\n\nAplicação à questão: Existe uma vedação constitucional e regimental que impede o encerramento da sessão legislativa (recesso) enquanto a LDO (no meio do ano) ou a LOA (no fim do ano) não forem votadas."
   }
 }
 ```
@@ -5841,7 +5841,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "alternatives": [
     {
       "id": "A",
-      "text": "O Prefeito tem 15 dias úteis; se não o fizer, a lei é considerada promulgada automaticamente pela publicação no Diário Oficial. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "O Prefeito tem 15 dias úteis; se não o fizer, a lei é considerada promulgada automaticamente pela publicação no Diário Oficial.",
       "is_correct": false,
       "explanation": "O prazo de 15 dias úteis é para a sanção/veto inicial, não para a promulgação após rejeição de veto."
     },
@@ -5849,7 +5849,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "B",
       "text": "O Presidente da Câmara promulga imediatamente; se não o fizer em 24 horas, o Prefeito assume a obrigação.",
       "is_correct": false,
-      "explanation": "A primeira oportunidade de promulgação após a rejeição do veto ainda é do Prefeito, e o prazo é de 48h. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "A primeira oportunidade de promulgação após a rejeição do veto ainda é do Prefeito, e o prazo é de 48h."
     },
     {
       "id": "C",
@@ -5867,7 +5867,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "O Prefeito tem 48 horas; se não o fizer, o Presidente da Câmara o fará em igual prazo; se este omitir-se, cabe ao Vice-Presidente.",
       "is_correct": true,
-      "explanation": "Reflete exatamente a hierarquia de responsabilidade e os prazos de 48 horas para cada autoridade. ARROW-LEFT VOLTAR À QUESTÃO 744"
+      "explanation": "Reflete exatamente a hierarquia de responsabilidade e os prazos de 48 horas para cada autoridade."
     }
   ],
   "answer_key": "E",
@@ -5917,7 +5917,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "D",
-      "text": "I, apenas. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
+      "text": "I, apenas.",
       "is_correct": false,
       "explanation": "A afirmação III também está correta, pois a revelia está prevista no regimento."
     },
@@ -5925,7 +5925,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "I, II e III.",
       "is_correct": false,
-      "explanation": "A afirmação II está incorreta, impedindo que todos os itens estejam certos. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … ARROW-LEFT VOLTAR À QUESTÃO 745"
+      "explanation": "A afirmação II está incorreta, impedindo que todos os itens estejam certos."
     }
   ],
   "answer_key": "B",
@@ -5983,7 +5983,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Prática de ato de corrupção ou improbidade administrativa.",
       "is_correct": false,
-      "explanation": "Corrupção exige processo de cassação, com direito a ampla defesa e votação pelo Plenário. ARROW-LEFT VOLTAR À QUESTÃO 746 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+      "explanation": "Corrupção exige processo de cassação, com direito a ampla defesa e votação pelo Plenário."
     }
   ],
   "answer_key": "C",
@@ -6011,7 +6011,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "O processo de cassação de mandato de um vereador por infração político-administrativa é um rito rigoroso. Segundo as normas aplicáveis à Câmara de Mossoró, para que ocorra 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … a cassação do mandato, é necessário o voto favorável de, no mínimo:",
+  "question_text": "O processo de cassação de mandato de um vereador por infração político-administrativa é um rito rigoroso. Segundo as normas aplicáveis à Câmara de Mossoró, para que ocorra a cassação do mandato, é necessário o voto favorável de, no mínimo:",
   "alternatives": [
     {
       "id": "A",
@@ -6041,7 +6041,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
       "id": "E",
       "text": "Unanimidade dos membros da Comissão de Ética.",
       "is_correct": false,
-      "explanation": "A decisão final é do Plenário, não apenas de uma comissão, e o quórum é sobre o total de membros da Casa. ARROW-LEFT VOLTAR À QUESTÃO 747"
+      "explanation": "A decisão final é do Plenário, não apenas de uma comissão, e o quórum é sobre o total de membros da Casa."
     }
   ],
   "answer_key": "C",
@@ -6097,15 +6097,15 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Os Precedentes Regimentais exigem quórum de maioria qualificada para serem 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … integrados ao ordenamento interno.",
+      "text": "Os Precedentes Regimentais exigem quórum de maioria qualificada para serem integrados ao ordenamento interno.",
       "is_correct": false,
-      "explanation": "O quórum exigido para precedentes é o de maioria absoluta, não qualificada. ARROW-LEFT VOLTAR À QUESTÃO 748"
+      "explanation": "O quórum exigido para precedentes é o de maioria absoluta, não qualificada."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A reforma do Regimento, por ser a norma interna fundamental, exige o instrumento de Projeto de Resolução e um quórum mais rigoroso (maioria qualificada). 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …",
-    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 341.\nprocedidas no Regimento Interno, bem como dos precedentes regimentais aprovados, publicando-os.\nO Regimento Interno poderá ser alterado ou reformado por meio de Projeto de\n§1° A apreciação do projeto de alteração ou reforma do Regimento obedecerá às normas vigentes\n\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\nd) proceder às licitações para compras, obras e serviços da Câmara, obedecida a legislação\n\nAplicação à questão: A reforma do Regimento, por ser a norma interna fundamental, exige o instrumento de Projeto de Resolução e um quórum mais rigoroso (maioria qualificada). 2. Legislação 2.1. Regimento Interno da Câmara Municipal de …"
+    "resolution": "A reforma do Regimento, por ser a norma interna fundamental, exige o instrumento de Projeto de Resolução e um quórum mais rigoroso (maioria qualificada).",
+    "theoretical_content": "O Regimento Interno é a norma que disciplina a organização e o funcionamento da Câmara Municipal: composição e atribuições dos órgãos, sessões, Mesa Diretora, Plenário, comissões, proposições, debates, votações, quóruns, prazos e procedimentos. Sua aplicação deve respeitar a Constituição Federal, a Constituição Estadual e a Lei Orgânica municipal. As regras regimentais organizam o processo legislativo e a atividade parlamentar, não podendo contrariar normas hierarquicamente superiores.\n\nA leitura deve distinguir competência, procedimento, prazo e quórum. Competência indica quem pode praticar o ato; procedimento define as etapas e a forma; prazo delimita o tempo; quórum estabelece o número mínimo de membros para instalação ou deliberação. Maioria simples, maioria absoluta e quórum qualificado não são expressões equivalentes: a maioria absoluta corresponde a mais da metade da composição total; a simples considera os votos dos presentes, observadas as exigências de presença; quóruns qualificados exigem fração específica do total.\n\nNo processo legislativo, diferencie discussão, votação, sanção, veto, promulgação e publicação. Também é essencial separar votação simbólica de nominal, pedido de vista de adiamento, sessão ordinária de extraordinária e atribuições do Presidente, da Mesa, das comissões e do Plenário. A regra concreta deve ser conferida no dispositivo do Regimento aplicável ao caso; não se deve transportar automaticamente procedimentos de outras câmaras.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 341.\nprocedidas no Regimento Interno, bem como dos precedentes regimentais aprovados, publicando-os.\nO Regimento Interno poderá ser alterado ou reformado por meio de Projeto de\n§1° A apreciação do projeto de alteração ou reforma do Regimento obedecerá às normas vigentes\n\nArt. 27.\nmandato de Vereador, nos termos deste Regimento Interno;\nj) Cumprir e fazer cumprir o Regimento Interno;\nd) proceder às licitações para compras, obras e serviços da Câmara, obedecida a legislação\n\nAplicação à questão: A reforma do Regimento, por ser a norma interna fundamental, exige o instrumento de Projeto de Resolução e um quórum mais rigoroso (maioria qualificada)."
   }
 }
 ```
@@ -6155,7 +6155,7 @@ Material composto por 105 questões, de Legislação sobre o Regimento Interno d
     },
     {
       "id": "E",
-      "text": "Fica suspenso, a menos que haja convocação extraordinária do Plenário. 2. Legislação 2.1. Regimento Interno da Câmara Municipal de … 2.1.4 Gabaritos e Comentários 644",
+      "text": "Fica suspenso, a menos que haja convocação extraordinária do Plenário.",
       "is_correct": false,
       "explanation": "A convocação extraordinária é outra exceção, mas a Comissão Processante independe dela para ter seus prazos mantidos."
     }

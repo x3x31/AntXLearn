@@ -1,5 +1,5 @@
 ---
-schema_version: "1.0"
+schema_version: "1."
 material_id: "BAS-001"
 bank: null
 subject: "Língua Portuguesa"
@@ -14,17 +14,8 @@ language: "pt-BR"
 
 # Identificação do Material
 
-Material composto por 363 questões, sobre Conhecimento Linguístico: 
-Variação linguística; 
-Classes de palavras: usos e adequações; 
-Convenções  da  norma  padrão  (no  âmbito  da  concordância,  da regência, da ortografia e da acentuação gráfica); 
-Organização do período simples e do período composto; 
-Pontuação; 
-Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hiperonímia). 
-
-
-
- questões originais transcritas de ConhecimentoBasico_questoes.pdf. Para os conteúdos de legislação, foram utilizados os documentos contidos em Legislação.zip: Regimento Interno da Câmara Municipal de Mossoró, Lei Orgânica do Município de Mossoró e Lei nº 8.429/1992. As explicações teóricas foram desenvolvidas para fins didáticos; os gabaritos foram mantidos conforme a apostila.
+Material composto por 363 questões, sobre 
+Conhecimento Linguístico: Variação linguística; Classes de palavras: usos e adequações; Convenções  da  norma  padrão  (no  âmbito  da  concordância,  da regência, da ortografia e da acentuação gráfica); Organização do período simples e do período composto; Pontuação; Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hiperonímia). 
 
 # Questões
 
@@ -70,13 +61,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Regionalismo, uma vez que a origem geográfica do falante determina a formalidade do texto.",
       "is_correct": false,
-      "explanation": "O regionalismo é uma variação geográfica (diatópica), não um critério de escolha de nível de formalidade. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "O regionalismo é uma variação geográfica (diatópica), não um critério de escolha de nível de formalidade."
     },
     {
       "id": "E",
-      "text": "Correção absoluta, pois a norma culta é a única forma legítima de expressão em qualquer situação. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "Correção absoluta, pois a norma culta é a única forma legítima de expressão em qualquer situação.",
       "is_correct": false,
-      "explanation": "Não existe ’correção absoluta’ na linguística; o que existe é a adequação ao contexto de uso. ARROW-LEFT VOLTAR À QUESTÃO 280"
+      "explanation": "Não existe ’correção absoluta’ na linguística; o que existe é a adequação ao contexto de uso."
     }
   ],
   "answer_key": "A",
@@ -134,7 +125,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Obediência estrita às regras de concordância nominal e verbal da norma padrão.",
       "is_correct": false,
-      "explanation": "A obediência estrita à norma padrão é característica do registro formal. ARROW-LEFT VOLTAR À QUESTÃO 281 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "A obediência estrita à norma padrão é característica do registro formal."
     }
   ],
   "answer_key": "A",
@@ -172,7 +163,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Cabe ressaltar que a observância das normas vigentes é indispensável para a 1. Língua Portuguesa 1.8. Variação Linguística validade do ato.",
+      "text": "Cabe ressaltar que a observância das normas vigentes é indispensável para a validade do ato.",
       "is_correct": false,
       "explanation": "A construção é formal, utilizando termos adequados como ’observância’ e ’indispensável’."
     },
@@ -192,7 +183,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Diante do exposto, submetemos o presente relatório à apreciação da autoridade superior.",
       "is_correct": false,
-      "explanation": "Trata-se de um fecho ou transição comum em relatórios oficiais, mantendo o padrão culto. ARROW-LEFT VOLTAR À QUESTÃO 282"
+      "explanation": "Trata-se de um fecho ou transição comum em relatórios oficiais, mantendo o padrão culto."
     }
   ],
   "answer_key": "C",
@@ -248,15 +239,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Diamésica. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "Diamésica.",
       "is_correct": false,
-      "explanation": "Embora o termo exista em linguística para tratar da diferença entre fala e escrita, não é o foco do conteúdo base e não descreve variações regionais. ARROW-LEFT VOLTAR À QUESTÃO 283"
+      "explanation": "Embora o termo exista em linguística para tratar da diferença entre fala e escrita, não é o foco do conteúdo base e não descreve variações regionais."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A variação diatópica (ou regional/geográfica) refere-se às variações que ocorrem em 1. Língua Portuguesa 1.8. Variação Linguística função da localização geográfica dos falantes, manifestando-se no léxico, na fonologia ou na sintaxe.",
-    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: A variação diatópica (ou regional/geográfica) refere-se às variações que ocorrem em 1. Língua Portuguesa 1.8. Variação Linguística função da localização geográfica dos falantes, manifestando-se no léxico, na fonologia ou na sintaxe."
+    "resolution": "A variação diatópica (ou regional/geográfica) refere-se às variações que ocorrem em função da localização geográfica dos falantes, manifestando-se no léxico, na fonologia ou na sintaxe.",
+    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: A variação diatópica (ou regional/geográfica) refere-se às variações que ocorrem em função da localização geográfica dos falantes, manifestando-se no léxico, na fonologia ou na sintaxe."
   }
 }
 ```
@@ -284,7 +275,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Profissional.",
       "is_correct": false,
-      "explanation": "A variação profissional é um tipo de variação social (jargão), não relacionada à evolução temporal. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "A variação profissional é um tipo de variação social (jargão), não relacionada à evolução temporal."
     },
     {
       "id": "B",
@@ -308,7 +299,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Situacional.",
       "is_correct": false,
-      "explanation": "A variação situacional (diafásica) depende do contexto de comunicação. ARROW-LEFT VOLTAR À QUESTÃO 284"
+      "explanation": "A variação situacional (diafásica) depende do contexto de comunicação."
     }
   ],
   "answer_key": "D",
@@ -346,7 +337,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Apresenta o maior número possível de termos técnicos e arcaísmos para demonstrar erudição. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "Apresenta o maior número possível de termos técnicos e arcaísmos para demonstrar erudição.",
       "is_correct": false,
       "explanation": "O uso excessivo de termos técnicos ou arcaicos sem necessidade configura hiperformance ou hipercorrecionismo, uma forma de inadequação."
     },
@@ -360,13 +351,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Ajusta-se aos elementos da comunicação, como o interlocutor, o canal, o assunto e a intenção.",
       "is_correct": true,
-      "explanation": "A adequação pressupõe que o falante considere todos os pilares da situação comunicativa para atingir a eficiência na mensagem. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "A adequação pressupõe que o falante considere todos os pilares da situação comunicativa para atingir a eficiência na mensagem."
     },
     {
       "id": "E",
       "text": "Evita qualquer tipo de gíria ou expressão coloquial, mesmo em conversas informais entre amigos.",
       "is_correct": false,
-      "explanation": "Em conversas informais entre amigos (relação simétrica), o uso de gírias é perfeitamente adequado ao contexto. ARROW-LEFT VOLTAR À QUESTÃO 285"
+      "explanation": "Em conversas informais entre amigos (relação simétrica), o uso de gírias é perfeitamente adequado ao contexto."
     }
   ],
   "answer_key": "D",
@@ -422,9 +413,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O processo tá aí pra você ver. Vê se consegue agilizar esse lado pra nós. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "O processo tá aí pra você ver. Vê se consegue agilizar esse lado pra nós.",
       "is_correct": false,
-      "explanation": "O tom é excessivamente informal e a linguagem é coloquial (’tá’, ’agilizar esse lado’). ARROW-LEFT VOLTAR À QUESTÃO 286 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "O tom é excessivamente informal e a linguagem é coloquial (’tá’, ’agilizar esse lado’)."
     }
   ],
   "answer_key": "A",
@@ -482,7 +473,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Trata-se de uma atitude discriminatória perante variedades linguísticas conside- radas de menor prestígio social, frequentemente associadas a grupos com menor escolaridade.",
       "is_correct": true,
-      "explanation": "O preconceito ocorre quando se utiliza a norma padrão como régua de superioridade social para discriminar variedades de menor prestígio. ARROW-LEFT VOLTAR À QUESTÃO 287"
+      "explanation": "O preconceito ocorre quando se utiliza a norma padrão como régua de superioridade social para discriminar variedades de menor prestígio."
     }
   ],
   "answer_key": "E",
@@ -514,7 +505,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Arcaísmos linguísticos. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "Arcaísmos linguísticos.",
       "is_correct": false,
       "explanation": "Arcaísmos são palavras que caíram em desuso, o que não é o caso de termos tão frequentes na fala atual."
     },
@@ -540,13 +531,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Reduções e contrações.",
       "is_correct": true,
-      "explanation": "O uso de ’tá’, ’pra’, ’tô’ e ’cê’ representa o encurtamento de palavras para agilizar a comunicação oral, conforme listado nas marcas de oralidade. ARROW-LEFT VOLTAR À QUESTÃO 288"
+      "explanation": "O uso de ’tá’, ’pra’, ’tô’ e ’cê’ representa o encurtamento de palavras para agilizar a comunicação oral, conforme listado nas marcas de oralidade."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Os termos destacados são formas encurtadas de palavras da norma padrão (você, está, estou, para), típicas da agilidade do canal oral. 1. Língua Portuguesa 1.8. Variação Linguística",
-    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: Os termos destacados são formas encurtadas de palavras da norma padrão (você, está, estou, para), típicas da agilidade do canal oral. 1. Língua Portuguesa 1.8. Variação Linguística"
+    "resolution": "Os termos destacados são formas encurtadas de palavras da norma padrão (você, está, estou, para), típicas da agilidade do canal oral.",
+    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: Os termos destacados são formas encurtadas de palavras da norma padrão (você, está, estou, para), típicas da agilidade do canal oral."
   }
 }
 ```
@@ -574,7 +565,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Solecismos, que representam erros graves de sintaxe que impedem a compreensão da mensagem.",
       "is_correct": false,
-      "explanation": "Solecismos são desvios de sintaxe (concordância, regência). As reduções citadas são variações morfológicas e fonéticas que não impedem a compreensão. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Solecismos são desvios de sintaxe (concordância, regência). As reduções citadas são variações morfológicas e fonéticas que não impedem a compreensão."
     },
     {
       "id": "B",
@@ -596,9 +587,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Marcadores conversacionais, cuja função principal é preencher pausas no raciocínio do falante. 1. Língua Portuguesa 1.8. Variação Linguística 1.8.2 Questões de Nível Médio",
+      "text": "Marcadores conversacionais, cuja função principal é preencher pausas no raciocínio do falante. 1.8.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "Marcadores conversacionais são termos como ’né?’, ’entende?’ ou ’tipo assim’, usados para manter o contato ou preencher silêncios, não para substituir verbos ou pronomes. ARROW-LEFT VOLTAR À QUESTÃO 289"
+      "explanation": "Marcadores conversacionais são termos como ’né?’, ’entende?’ ou ’tipo assim’, usados para manter o contato ou preencher silêncios, não para substituir verbos ou pronomes."
     }
   ],
   "answer_key": "D",
@@ -650,13 +641,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Nós fomos lá na repartição para resolver o problema do documento.",
       "is_correct": false,
-      "explanation": "Embora melhore a concordância, mantém o termo ’lá’ e o vocabulário é excessivamente simples para um relatório oficial. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Embora melhore a concordância, mantém o termo ’lá’ e o vocabulário é excessivamente simples para um relatório oficial."
     },
     {
       "id": "E",
       "text": "A gente foi à instituição para dirimir a questão documental.",
       "is_correct": false,
-      "explanation": "A expressão ’a gente’ é considerada informal e deve ser evitada em documentos oficiais. ARROW-LEFT VOLTAR À QUESTÃO 290"
+      "explanation": "A expressão ’a gente’ é considerada informal e deve ser evitada em documentos oficiais."
     }
   ],
   "answer_key": "C",
@@ -706,7 +697,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "A gíria e o jargão são sinônimos perfeitos e podem ser usados indistintamente na norma culta. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "A gíria e o jargão são sinônimos perfeitos e podem ser usados indistintamente na norma culta.",
       "is_correct": false,
       "explanation": "Gíria é informal e efêmera; jargão é técnico. Nenhum dos dois é sinônimo do outro."
     },
@@ -714,7 +705,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O uso de termos técnicos (jargões) é inadequado em qualquer tipo de documento oficial.",
       "is_correct": false,
-      "explanation": "Em documentos técnicos de áreas específicas, o uso do jargão da área é necessário e adequado. ARROW-LEFT VOLTAR À QUESTÃO 291 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Em documentos técnicos de áreas específicas, o uso do jargão da área é necessário e adequado."
     }
   ],
   "answer_key": "C",
@@ -770,9 +761,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A utilização do pronome ’mesmo’ para substituir pronomes pessoais (ex: ’Vi o diretor e falei com o mesmo’) é desaconselhada no registro formal. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "A utilização do pronome ’mesmo’ para substituir pronomes pessoais (ex: ’Vi o diretor e falei com o mesmo’) é desaconselhada no registro formal.",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa, pois o uso de ’mesmo’ como pronome pessoal é um vício de linguagem, portanto não é o gabarito. ARROW-LEFT VOLTAR À QUESTÃO 292"
+      "explanation": "Esta afirmação está certa, pois o uso de ’mesmo’ como pronome pessoal é um vício de linguagem, portanto não é o gabarito."
     }
   ],
   "answer_key": "D",
@@ -830,13 +821,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Em uma conversa por aplicativo de mensagens com um subordinado hierárquico.",
       "is_correct": false,
-      "explanation": "Aplicativos de mensagens, mesmo em ambiente profissional, costumam aceitar um registro mais descontraído (semi-formal). ARROW-LEFT VOLTAR À QUESTÃO 293"
+      "explanation": "Aplicativos de mensagens, mesmo em ambiente profissional, costumam aceitar um registro mais descontraído (semi-formal)."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "Atas de reuniões oficiais são documentos públicos que exigem o registro formal para 1. Língua Portuguesa 1.8. Variação Linguística garantir a clareza, a impessoalidade e a validade jurídica.",
-    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: Atas de reuniões oficiais são documentos públicos que exigem o registro formal para 1. Língua Portuguesa 1.8. Variação Linguística garantir a clareza, a impessoalidade e a validade jurídica."
+    "resolution": "Atas de reuniões oficiais são documentos públicos que exigem o registro formal para garantir a clareza, a impessoalidade e a validade jurídica.",
+    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: Atas de reuniões oficiais são documentos públicos que exigem o registro formal para garantir a clareza, a impessoalidade e a validade jurídica."
   }
 }
 ```
@@ -864,7 +855,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "O uso da mesóclise em situações de extrema formalidade, como em discursos solenes.",
       "is_correct": false,
-      "explanation": "A mesóclise, embora rara no cotidiano, é uma estrutura prevista na norma culta e adequada a contextos de alta formalidade. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "A mesóclise, embora rara no cotidiano, é uma estrutura prevista na norma culta e adequada a contextos de alta formalidade."
     },
     {
       "id": "B",
@@ -874,7 +865,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "O emprego do termo ’o mesmo’ com a função de pronome pessoal para retomar 1. Língua Portuguesa 1.8. Variação Linguística um substantivo mencionado anteriormente.",
+      "text": "O emprego do termo ’o mesmo’ com a função de pronome pessoal para retomar um substantivo mencionado anteriormente.",
       "is_correct": true,
       "explanation": "O uso de ’o mesmo’ como retomada anafórica de pessoas ou coisas é um erro comum de quem tenta parecer formal sem seguir a norma padrão, sendo um exemplo clássico de pseudoformalidade."
     },
@@ -888,7 +879,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A preferência por períodos compostos por subordinação em detrimento de frases curtas e fragmentadas.",
       "is_correct": false,
-      "explanation": "Períodos compostos por subordinação são características desejáveis do registro formal, pois conferem complexidade e precisão ao texto. ARROW-LEFT VOLTAR À QUESTÃO 294"
+      "explanation": "Períodos compostos por subordinação são características desejáveis do registro formal, pois conferem complexidade e precisão ao texto."
     }
   ],
   "answer_key": "C",
@@ -934,7 +925,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "O candidato utilizou uma variação diatópica adequada ao contexto de seleção profissional.",
       "is_correct": false,
-      "explanation": "O problema não é regional (diatópico), mas sim de registro/formalidade (diafásico). 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "O problema não é regional (diatópico), mas sim de registro/formalidade (diafásico)."
     },
     {
       "id": "D",
@@ -944,9 +935,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O uso de ’tô’ e ’massa’ configura um erro gramatical absoluto, independentemente do contexto. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "O uso de ’tô’ e ’massa’ configura um erro gramatical absoluto, independentemente do contexto.",
       "is_correct": false,
-      "explanation": "Na linguística moderna, não se fala em ’erro absoluto’, mas em adequação ao contexto. No registro informal, tais formas são aceitáveis. ARROW-LEFT VOLTAR À QUESTÃO 295"
+      "explanation": "Na linguística moderna, não se fala em ’erro absoluto’, mas em adequação ao contexto. No registro informal, tais formas são aceitáveis."
     }
   ],
   "answer_key": "B",
@@ -1004,7 +995,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Variação Diastrática, especificamente manifestada por meio de jargões profissio- nais.",
       "is_correct": true,
-      "explanation": "Jargões profissionais são exemplos clássicos de variação diastrática, pois identificam o falante como pertencente a um grupo social/profissional. ARROW-LEFT VOLTAR À QUESTÃO 296 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Jargões profissionais são exemplos clássicos de variação diastrática, pois identificam o falante como pertencente a um grupo social/profissional."
     }
   ],
   "answer_key": "E",
@@ -1036,7 +1027,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Variações linguísticas como ’a gente fomos’ são consideradas corretas em qualquer documento oficial, desde que a mensagem seja compreendida. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "Variações linguísticas como ’a gente fomos’ são consideradas corretas em qualquer documento oficial, desde que a mensagem seja compreendida.",
       "is_correct": false,
       "explanation": "Em documentos oficiais, exige-se a norma padrão. ’A gente fomos’ é inadequado nesse contexto."
     },
@@ -1062,7 +1053,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O conceito de adequação substitui a dicotomia rígida de ’certo/errado’ pela análise de ’adequado/inadequado’ ao contexto comunicativo.",
       "is_correct": true,
-      "explanation": "Esta é a base do ensino moderno de língua portuguesa e do que é cobrado em concursos sobre variação. ARROW-LEFT VOLTAR À QUESTÃO 297"
+      "explanation": "Esta é a base do ensino moderno de língua portuguesa e do que é cobrado em concursos sobre variação."
     }
   ],
   "answer_key": "E",
@@ -1118,15 +1109,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A adequação linguística determina que o falante deve sempre utilizar o registro mais complexo possível para impor autoridade. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "A adequação linguística determina que o falante deve sempre utilizar o registro mais complexo possível para impor autoridade.",
       "is_correct": false,
-      "explanation": "A autoridade não deve ser imposta por complexidade desnecessária, mas pela clareza e adequação ao cargo e à função. ARROW-LEFT VOLTAR À QUESTÃO 298"
+      "explanation": "A autoridade não deve ser imposta por complexidade desnecessária, mas pela clareza e adequação ao cargo e à função."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A assimetria na relação exige o cumprimento de protocolos de tratamento e o uso da 1. Língua Portuguesa 1.8. Variação Linguística norma padrão para manter o respeito e a formalidade do ato.",
-    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: A assimetria na relação exige o cumprimento de protocolos de tratamento e o uso da 1. Língua Portuguesa 1.8. Variação Linguística norma padrão para manter o respeito e a formalidade do ato."
+    "resolution": "A assimetria na relação exige o cumprimento de protocolos de tratamento e o uso da norma padrão para manter o respeito e a formalidade do ato.",
+    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: A assimetria na relação exige o cumprimento de protocolos de tratamento e o uso da norma padrão para manter o respeito e a formalidade do ato."
   }
 }
 ```
@@ -1154,7 +1145,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Fizemos o levantamento e vimos o erro na rede. Vamos consertar o quanto antes para o serviço continuar fluindo.",
       "is_correct": false,
-      "explanation": "Embora clara, ainda utiliza verbos simples (’vimos’, ’vamos consertar’) que conferem um tom menos profissional que a alternativa D. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Embora clara, ainda utiliza verbos simples (’vimos’, ’vamos consertar’) que conferem um tom menos profissional que a alternativa D."
     },
     {
       "id": "B",
@@ -1176,9 +1167,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Nós fizemos a busca dos dados e vimos que a rede estava ruim. Vamos arrumar logo para o serviço não travar. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "Nós fizemos a busca dos dados e vimos que a rede estava ruim. Vamos arrumar logo para o serviço não travar.",
       "is_correct": false,
-      "explanation": "Mantém termos coloquiais como ’arrumar’ e ’travar’. ARROW-LEFT VOLTAR À QUESTÃO 299"
+      "explanation": "Mantém termos coloquiais como ’arrumar’ e ’travar’."
     }
   ],
   "answer_key": "D",
@@ -1230,13 +1221,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "O emprego do futuro do pretérito: ’Poderia, por gentileza, encaminhar os docu- mentos?’.",
       "is_correct": true,
-      "explanation": "A atenuação pelo uso de formas verbais polidas é uma característica da competência comunicativa em registros formais. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "A atenuação pelo uso de formas verbais polidas é uma característica da competência comunicativa em registros formais."
     },
     {
       "id": "E",
       "text": "O uso do imperativo direto: ’Envie os documentos imediatamente’.",
       "is_correct": false,
-      "explanation": "O imperativo direto pode soar agressivo ou autoritário demais em certos contextos administrativos. ARROW-LEFT VOLTAR À QUESTÃO 300"
+      "explanation": "O imperativo direto pode soar agressivo ou autoritário demais em certos contextos administrativos."
     }
   ],
   "answer_key": "D",
@@ -1274,7 +1265,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Adjetivos que qualificam o estado emocional do falante durante a interação. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "Adjetivos que qualificam o estado emocional do falante durante a interação.",
       "is_correct": false,
       "explanation": "Não são adjetivos; são expressões expletivas ou fáticas."
     },
@@ -1294,7 +1285,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Elementos de coesão nominal que substituem substantivos mencionados anterior- mente no discurso.",
       "is_correct": false,
-      "explanation": "Eles não funcionam como anáforas ou substitutos nominais. ARROW-LEFT VOLTAR À QUESTÃO 301 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Eles não funcionam como anáforas ou substitutos nominais."
     }
   ],
   "answer_key": "D",
@@ -1350,9 +1341,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A norma padrão é a única forma correta de expressão, devendo as outras variedades ser eliminadas pelo sistema educacional. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "A norma padrão é a única forma correta de expressão, devendo as outras variedades ser eliminadas pelo sistema educacional.",
       "is_correct": false,
-      "explanation": "A norma padrão é uma variedade de prestígio, mas não a única legítima; a educação deve ensinar a norma padrão sem extirpar a variedade original do aluno. ARROW-LEFT VOLTAR À QUESTÃO 302"
+      "explanation": "A norma padrão é uma variedade de prestígio, mas não a única legítima; a educação deve ensinar a norma padrão sem extirpar a variedade original do aluno."
     }
   ],
   "answer_key": "C",
@@ -1410,13 +1401,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A construção é um exemplo de variação diatópica, utilizada exclusivamente por falantes da região Sul do Brasil.",
       "is_correct": false,
-      "explanation": "Essa construção é comum em diversas regiões do Brasil, sendo uma variação de registro (oralidade) e não apenas regional (diatópica). ARROW-LEFT VOLTAR À QUESTÃO 303"
+      "explanation": "Essa construção é comum em diversas regiões do Brasil, sendo uma variação de registro (oralidade) e não apenas regional (diatópica)."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Na fala, é comum evitar a preposição antes do relativo (’O livro de que falei’) e usar 1. Língua Portuguesa 1.8. Variação Linguística uma estratégia de retomada no final da frase (’falei dele’).",
-    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: Na fala, é comum evitar a preposição antes do relativo (’O livro de que falei’) e usar 1. Língua Portuguesa 1.8. Variação Linguística uma estratégia de retomada no final da frase (’falei dele’)."
+    "resolution": "Na fala, é comum evitar a preposição antes do relativo (’O livro de que falei’) e usar uma estratégia de retomada no final da frase (’falei dele’).",
+    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: Na fala, é comum evitar a preposição antes do relativo (’O livro de que falei’) e usar uma estratégia de retomada no final da frase (’falei dele’)."
   }
 }
 ```
@@ -1438,7 +1429,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No contexto da administração pública, um servidor redige um relatório oficial utilizando expressões como ’a gente resolveu’ e ’os processo tá parado’. De acordo com os princípios da sociolinguística e o conceito de adequação linguística, assinale a alternativa que avalia corretamente essa situação. 1. Língua Portuguesa 1.8. Variação Linguística",
+  "question_text": "No contexto da administração pública, um servidor redige um relatório oficial utilizando expressões como ’a gente resolveu’ e ’os processo tá parado’. De acordo com os princípios da sociolinguística e o conceito de adequação linguística, assinale a alternativa que avalia corretamente essa situação.",
   "alternatives": [
     {
       "id": "A",
@@ -1468,7 +1459,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O servidor cometeu erros que demonstram incapacidade cognitiva e falta de domínio do idioma português. 1.8.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "A variação linguística não está relacionada à capacidade cognitiva, mas a fatores sociais, educacionais e de contexto. ARROW-LEFT VOLTAR À QUESTÃO 304"
+      "explanation": "A variação linguística não está relacionada à capacidade cognitiva, mas a fatores sociais, educacionais e de contexto."
     }
   ],
   "answer_key": "D",
@@ -1512,9 +1503,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "As variações diastráticas devem ser eliminadas da língua, pois representam a degradação do idioma nacional. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "As variações diastráticas devem ser eliminadas da língua, pois representam a degradação do idioma nacional.",
       "is_correct": false,
-      "explanation": "Variações são fenômenos naturais e não podem ser ’eliminadas’, nem representam degradação. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Variações são fenômenos naturais e não podem ser ’eliminadas’, nem representam degradação."
     },
     {
       "id": "D",
@@ -1526,7 +1517,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A norma culta é a única variação diastrática que possui gramática e lógica interna estruturada.",
       "is_correct": false,
-      "explanation": "Todas as variedades linguísticas possuem lógica e regras internas, mesmo as não padronizadas. ARROW-LEFT VOLTAR À QUESTÃO 305"
+      "explanation": "Todas as variedades linguísticas possuem lógica e regras internas, mesmo as não padronizadas."
     }
   ],
   "answer_key": "A",
@@ -1582,9 +1573,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Uso de jargão técnico jurídico que justifica a quebra da estrutura sintática da frase. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "Uso de jargão técnico jurídico que justifica a quebra da estrutura sintática da frase.",
       "is_correct": false,
-      "explanation": "Não há jargão técnico jurídico, e o jargão não justificaria erros de sintaxe na norma culta. ARROW-LEFT VOLTAR À QUESTÃO 306 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Não há jargão técnico jurídico, e o jargão não justificaria erros de sintaxe na norma culta."
     }
   ],
   "answer_key": "A",
@@ -1642,7 +1633,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Uma estrutura de voz passiva sintética, adequada para conferir impessoalidade ao texto oficial.",
       "is_correct": false,
-      "explanation": "Não há voz passiva sintética na frase; a estrutura é ativa, mas com a quebra sintática mencionada. ARROW-LEFT VOLTAR À QUESTÃO 307 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Não há voz passiva sintética na frase; a estrutura é ativa, mas com a quebra sintática mencionada."
     }
   ],
   "answer_key": "B",
@@ -1670,7 +1661,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que se refere às distinções entre ’Norma Padrão’ e ’Norma Culta’, analise as assertivas abaixo: I. A Norma Padrão é um modelo idealizado e abstrato, servindo como baliza para a gramática normativa. II. A Norma Culta corresponde ao uso real da língua por falantes escolarizados em situações formais, podendo apresentar leves divergências em relação à norma padrão. III. O uso do verbo ’ter’ com sentido de ’existir’ (ex: ’Tem muitos 1. Língua Portuguesa 1.8. Variação Linguística servidores no saguão’) é plenamente aceito pela Norma Padrão escrita. Está(ão) correta(s):",
+  "question_text": "No que se refere às distinções entre ’Norma Padrão’ e ’Norma Culta’, analise as assertivas abaixo: I. A Norma Padrão é um modelo idealizado e abstrato, servindo como baliza para a gramática normativa. II. A Norma Culta corresponde ao uso real da língua por falantes escolarizados em situações formais, podendo apresentar leves divergências em relação à norma padrão. III. O uso do verbo ’ter’ com sentido de ’existir’ (ex: ’Tem muitos servidores no saguão’) é plenamente aceito pela Norma Padrão escrita. Está(ão) correta(s):",
   "alternatives": [
     {
       "id": "A",
@@ -1700,7 +1691,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Apenas I e II.",
       "is_correct": true,
-      "explanation": "I e II refletem as definições técnicas do conteúdo base. ARROW-LEFT VOLTAR À QUESTÃO 308"
+      "explanation": "I e II refletem as definições técnicas do conteúdo base."
     }
   ],
   "answer_key": "E",
@@ -1732,7 +1723,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "4 - 2 - 3 - 1 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "4 - 2 - 3 - 1",
       "is_correct": false,
       "explanation": "Inverteu a posição da variação social com a histórica."
     },
@@ -1758,13 +1749,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "1 - 3 - 2 - 4",
       "is_correct": false,
-      "explanation": "Sequência totalmente desconexa com as definições. ARROW-LEFT VOLTAR À QUESTÃO 309"
+      "explanation": "Sequência totalmente desconexa com as definições."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A sequência correta associa: (4) Diafásica ao registro; (3) Diacrônica ao tempo/história; (2) Diastrática aos grupos sociais/profissionais; (1) Diatópica às regiões geográficas. 1. Língua Portuguesa 1.8. Variação Linguística",
-    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: A sequência correta associa: (4) Diafásica ao registro; (3) Diacrônica ao tempo/história; (2) Diastrática aos grupos sociais/profissionais; (1) Diatópica às regiões geográficas. 1. Língua Portuguesa 1.8. Variação Linguística"
+    "resolution": "A sequência correta associa: (4) Diafásica ao registro; (3) Diacrônica ao tempo/história; (2) Diastrática aos grupos sociais/profissionais; (1) Diatópica às regiões geográficas.",
+    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: A sequência correta associa: (4) Diafásica ao registro; (3) Diacrônica ao tempo/história; (2) Diastrática aos grupos sociais/profissionais; (1) Diatópica às regiões geográficas."
   }
 }
 ```
@@ -1804,7 +1795,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Classificação de variações regionais como ’sotaques’ e variações sociais como ’erros’.",
       "is_correct": false,
-      "explanation": "Embora o preconceito se manifeste assim, a alternativa E é mais abrangente e conceitualmente precisa sobre a natureza do fenômeno. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "Embora o preconceito se manifeste assim, a alternativa E é mais abrangente e conceitualmente precisa sobre a natureza do fenômeno."
     },
     {
       "id": "D",
@@ -1814,9 +1805,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Marginalização de indivíduos ou grupos baseada na forma como falam, frequen- temente associando o domínio da norma padrão a uma suposta superioridade intelectual. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "Marginalização de indivíduos ou grupos baseada na forma como falam, frequen- temente associando o domínio da norma padrão a uma suposta superioridade intelectual.",
       "is_correct": true,
-      "explanation": "O preconceito linguístico atrela o valor do indivíduo ao seu modo de falar, ignorando a pluralidade da língua. ARROW-LEFT VOLTAR À QUESTÃO 310"
+      "explanation": "O preconceito linguístico atrela o valor do indivíduo ao seu modo de falar, ignorando a pluralidade da língua."
     }
   ],
   "answer_key": "E",
@@ -1874,7 +1865,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Um palestrante utilizando uma linguagem clara e acessível para explicar um tema complexo ao público leigo.",
       "is_correct": false,
-      "explanation": "Isso demonstra competência comunicativa (adequação ao público leigo), não hipercorrecionismo. 1. Língua Portuguesa 1.8. Variação Linguística ARROW-LEFT VOLTAR À QUESTÃO 311"
+      "explanation": "Isso demonstra competência comunicativa (adequação ao público leigo), não hipercorrecionismo."
     }
   ],
   "answer_key": "D",
@@ -1902,7 +1893,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Em questões de interpretação de textos literários, a adequação linguística é frequentemente analisada sob o prisma da verossimilhança. Leia o fragmento abaixo: ’— Ó de casa! Tem ninguém não? Queria saber se o sinhô num viu umas rês passano por aqui cedo.’ Sobre a linguagem utilizada pelo personagem, é correto afirmar que: 1. Língua Portuguesa 1.8. Variação Linguística",
+  "question_text": "Em questões de interpretação de textos literários, a adequação linguística é frequentemente analisada sob o prisma da verossimilhança. Leia o fragmento abaixo: ’— Ó de casa! Tem ninguém não? Queria saber se o sinhô num viu umas rês passano por aqui cedo.’ Sobre a linguagem utilizada pelo personagem, é correto afirmar que:",
   "alternatives": [
     {
       "id": "A",
@@ -1932,7 +1923,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A adequação linguística só seria atingida se o personagem falasse de acordo com a norma culta, visto que o livro é um suporte formal.",
       "is_correct": false,
-      "explanation": "O suporte (livro) não obriga que todos os personagens contidos nele utilizem a norma culta. ARROW-LEFT VOLTAR À QUESTÃO 312 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "O suporte (livro) não obriga que todos os personagens contidos nele utilizem a norma culta."
     }
   ],
   "answer_key": "D",
@@ -1988,9 +1979,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A espontaneidade do canal oral torna impossível a existência de um registro formal 1. Língua Portuguesa 1.8. Variação Linguística em palestras ou discursos públicos.",
+      "text": "A espontaneidade do canal oral torna impossível a existência de um registro formal em palestras ou discursos públicos.",
       "is_correct": false,
-      "explanation": "Existe o registro formal oral, utilizado em conferências, julgamentos e cerimônias oficiais. ARROW-LEFT VOLTAR À QUESTÃO 313"
+      "explanation": "Existe o registro formal oral, utilizado em conferências, julgamentos e cerimônias oficiais."
     }
   ],
   "answer_key": "A",
@@ -2046,15 +2037,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A norma culta foi eleita historicamente como o modelo de prestígio por estar associada aos grupos que detêm o poder político e econômico. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "A norma culta foi eleita historicamente como o modelo de prestígio por estar associada aos grupos que detêm o poder político e econômico.",
       "is_correct": true,
-      "explanation": "O conteúdo destaca que a norma culta é a variedade de prestígio associada ao poder e à educação formal, funcionando como uma convenção para garantir a unidade em documentos oficiais. ARROW-LEFT VOLTAR À QUESTÃO 314"
+      "explanation": "O conteúdo destaca que a norma culta é a variedade de prestígio associada ao poder e à educação formal, funcionando como uma convenção para garantir a unidade em documentos oficiais."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A norma padrão não é ’melhor’ intrinsecamente, mas é a variedade que ganhou prestígio 1. Língua Portuguesa 1.8. Variação Linguística social por ser utilizada pelas elites e instituições.",
-    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: A norma padrão não é ’melhor’ intrinsecamente, mas é a variedade que ganhou prestígio 1. Língua Portuguesa 1.8. Variação Linguística social por ser utilizada pelas elites e instituições."
+    "resolution": "A norma padrão não é ’melhor’ intrinsecamente, mas é a variedade que ganhou prestígio social por ser utilizada pelas elites e instituições.",
+    "theoretical_content": "A língua é heterogênea e varia conforme região, grupo social, época, situação comunicativa e modalidade. A variação diatópica relaciona-se ao espaço geográfico; a diastrática, a grupos sociais; a diafásica, ao grau de formalidade e à situação; e a diacrônica, às mudanças ao longo do tempo. Essas variedades são sistemáticas e não representam, por si, deficiência linguística.\n\nA norma-padrão é uma referência convencional usada em contextos formais e na escrita monitorada. Adequação linguística significa escolher recursos compatíveis com interlocutor, gênero, finalidade e contexto. Um registro informal pode ser adequado numa conversa entre amigos e inadequado num ofício. A linguagem formal não exige rebuscamento: clareza, precisão, concisão e cortesia são fundamentais.\n\nEstratégias de polidez e atenuação, como perguntas indiretas, modalizadores e futuro do pretérito (“Poderia encaminhar...?”), reduzem a imposição de um pedido. A escolha linguística deve ser avaliada pela adequação à situação, sem preconceito contra variedades regionais ou populares.\n\nAplicação ao problema apresentado: A norma padrão não é ’melhor’ intrinsecamente, mas é a variedade que ganhou prestígio social por ser utilizada pelas elites e instituições."
   }
 }
 ```
@@ -2082,7 +2073,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Facilita a alfabetização ao ignorar as diferenças entre a fala e a escrita.",
       "is_correct": false,
-      "explanation": "O mito dificulta o ensino ao não reconhecer que o aluno traz uma bagagem linguística diferente da escola. 1. Língua Portuguesa 1.8. Variação Linguística"
+      "explanation": "O mito dificulta o ensino ao não reconhecer que o aluno traz uma bagagem linguística diferente da escola."
     },
     {
       "id": "B",
@@ -2106,7 +2097,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Incentiva o respeito às diferentes formas de falar de cada região do Brasil.",
       "is_correct": false,
-      "explanation": "O mito faz o oposto: ele gera intolerância às diferenças regionais e sociais. ARROW-LEFT VOLTAR À QUESTÃO 315"
+      "explanation": "O mito faz o oposto: ele gera intolerância às diferenças regionais e sociais."
     }
   ],
   "answer_key": "C",
@@ -2144,7 +2135,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "O ensino da norma padrão na escola deve visar à eliminação total das variedades linguísticas regionais para garantir a unidade nacional. 1. Língua Portuguesa 1.8. Variação Linguística",
+      "text": "O ensino da norma padrão na escola deve visar à eliminação total das variedades linguísticas regionais para garantir a unidade nacional.",
       "is_correct": false,
       "explanation": "O papel da escola, segundo a sociolinguística moderna, é ampliar o repertório do aluno (ensinar a norma padrão) sem desvalorizar sua identidade linguística original."
     },
@@ -2152,7 +2143,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "A variação diastrática refere-se exclusivamente às mudanças que a língua sofre ao longo dos séculos, não tendo relação com o preconceito atual.",
       "is_correct": false,
-      "explanation": "Variação diastrática é a variação social (entre diferentes classes ou grupos sociais), e é justamente nela que o preconceito linguístico mais se manifesta. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Variação diastrática é a variação social (entre diferentes classes ou grupos sociais), e é justamente nela que o preconceito linguístico mais se manifesta."
     },
     {
       "id": "D",
@@ -2162,7 +2153,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O preconceito linguístico atinge de forma igualitária todos os falantes, indepen- dentemente de sua classe social ou nível de escolaridade. 1.8.4 Gabaritos e Comentários 280",
+      "text": "O preconceito linguístico atinge de forma igualitária todos os falantes, indepen- dentemente de sua classe social ou nível de escolaridade.",
       "is_correct": false,
       "explanation": "O preconceito linguístico é direcionado majoritariamente a grupos socialmente vulnerabilizados e a variedades de menor prestígio."
     }
@@ -2216,13 +2207,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Elipse, pois marca a omissão de um termo facilmente subentendido.",
       "is_correct": false,
-      "explanation": "A elipse é a omissão de um termo; no caso, o termo ’Ele’ está explicitamente escrito. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "A elipse é a omissão de um termo; no caso, o termo ’Ele’ está explicitamente escrito."
     },
     {
       "id": "E",
-      "text": "Anáfora, pois retoma o substantivo ’projeto’ mencionado anteriormente. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Anáfora, pois retoma o substantivo ’projeto’ mencionado anteriormente.",
       "is_correct": true,
-      "explanation": "O pronome ’Ele’ funciona como um elemento anafórico ao recuperar o referente ’projeto’ para evitar a repetição. ARROW-LEFT VOLTAR À QUESTÃO 317"
+      "explanation": "O pronome ’Ele’ funciona como um elemento anafórico ao recuperar o referente ’projeto’ para evitar a repetição."
     }
   ],
   "answer_key": "E",
@@ -2280,7 +2271,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Adição, somando uma nova informação positiva ao contexto.",
       "is_correct": false,
-      "explanation": "Conjunções aditivas seriam ’e’, ’nem’ ou ’bem como’. ARROW-LEFT VOLTAR À QUESTÃO 318 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Conjunções aditivas seriam ’e’, ’nem’ ou ’bem como’."
     }
   ],
   "answer_key": "D",
@@ -2324,7 +2315,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "Elipse, visto que omite um termo que o leitor deve depreender pelo contexto. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Elipse, visto que omite um termo que o leitor deve depreender pelo contexto.",
       "is_correct": false,
       "explanation": "A elipse consiste na omissão de um termo, enquanto no enunciado o termo ’isto’ está explicitamente presente."
     },
@@ -2338,7 +2329,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Conjunção adversativa, pois estabelece uma relação de oposição entre as orações.",
       "is_correct": false,
-      "explanation": "’Isto’ é um pronome demonstrativo e não uma conjunção; além disso, não há valor de oposição na frase. ARROW-LEFT VOLTAR À QUESTÃO 319"
+      "explanation": "’Isto’ é um pronome demonstrativo e não uma conjunção; além disso, não há valor de oposição na frase."
     }
   ],
   "answer_key": "B",
@@ -2396,13 +2387,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Verbo, Artigo e Preposição.",
       "is_correct": false,
-      "explanation": "Verbos e artigos são classes variáveis; o verbo flexiona em tempo, modo, número e pessoa. ARROW-LEFT VOLTAR À QUESTÃO 320"
+      "explanation": "Verbos e artigos são classes variáveis; o verbo flexiona em tempo, modo, número e pessoa."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "As classes invariáveis são aquelas que mantêm sua forma fixa independentemente do 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações contexto sintático, compreendendo advérbios, preposições, conjunções e interjeições.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: As classes invariáveis são aquelas que mantêm sua forma fixa independentemente do 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações contexto sintático, compreendendo advérbios, preposições, conjunções e interjeições."
+    "resolution": "As classes invariáveis são aquelas que mantêm sua forma fixa independentemente do contexto sintático, compreendendo advérbios, preposições, conjunções e interjeições.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: As classes invariáveis são aquelas que mantêm sua forma fixa independentemente do contexto sintático, compreendendo advérbios, preposições, conjunções e interjeições."
   }
 }
 ```
@@ -2424,7 +2415,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considere a seguinte frase: ’O amanhã é uma incerteza, mas o hoje deve ser vivido com intensidade’. As palavras destacadas ’amanhã’ e ’hoje’, originalmente advérbios de 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações tempo, exercem, neste contexto, a função de:",
+  "question_text": "Considere a seguinte frase: ’O amanhã é uma incerteza, mas o hoje deve ser vivido com intensidade’. As palavras destacadas ’amanhã’ e ’hoje’, originalmente advérbios de tempo, exercem, neste contexto, a função de:",
   "alternatives": [
     {
       "id": "A",
@@ -2436,7 +2427,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Substantivos, devido ao processo de derivação imprópria.",
       "is_correct": true,
-      "explanation": "Qualquer palavra precedida de artigo ou outro determinante torna-se um substantivo no contexto. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Qualquer palavra precedida de artigo ou outro determinante torna-se um substantivo no contexto."
     },
     {
       "id": "C",
@@ -2454,7 +2445,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Conjunções, pois ligam as orações do período composto.",
       "is_correct": false,
-      "explanation": "As palavras não possuem função conectiva oracional. ARROW-LEFT VOLTAR À QUESTÃO 321"
+      "explanation": "As palavras não possuem função conectiva oracional."
     }
   ],
   "answer_key": "B",
@@ -2510,9 +2501,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Invariáveis, variáveis, invariáveis e variáveis. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Invariáveis, variáveis, invariáveis e variáveis.",
       "is_correct": false,
-      "explanation": "’Muito’ e ’não’ são advérbios, portanto, invariáveis. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações ARROW-LEFT VOLTAR À QUESTÃO 322"
+      "explanation": "’Muito’ e ’não’ são advérbios, portanto, invariáveis."
     }
   ],
   "answer_key": "C",
@@ -2570,7 +2561,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Os primeiros relatórios foram entregues com atraso.",
       "is_correct": false,
-      "explanation": "’Primeiros’ é um numeral ordinal, classe variável que concorda em gênero e número com o substantivo ’relatórios’. ARROW-LEFT VOLTAR À QUESTÃO 323 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Primeiros’ é um numeral ordinal, classe variável que concorda em gênero e número com o substantivo ’relatórios’."
     }
   ],
   "answer_key": "D",
@@ -2620,7 +2611,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Artigo, Numeral, Pronome e Preposição. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Artigo, Numeral, Pronome e Preposição.",
       "is_correct": false,
       "explanation": "Artigo, numeral e pronome são classes variáveis, que concordam com o substantivo a que se referem."
     },
@@ -2628,7 +2619,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Preposição, Conjunção, Advérbio e Interjeição.",
       "is_correct": true,
-      "explanation": "Advérbio, preposição, conjunção e interjeição não sofrem flexão de gênero e número (as formas afetivas de advérbio, como ’cedinho’, não descaracterizam a regra geral). ARROW-LEFT VOLTAR À QUESTÃO 324"
+      "explanation": "Advérbio, preposição, conjunção e interjeição não sofrem flexão de gênero e número (as formas afetivas de advérbio, como ’cedinho’, não descaracterizam a regra geral)."
     }
   ],
   "answer_key": "E",
@@ -2686,13 +2677,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Ele comprou duas canetas azuis. (Pronome)",
       "is_correct": false,
-      "explanation": "’Duas’ indica quantidade exata, sendo um numeral. ARROW-LEFT VOLTAR À QUESTÃO 325"
+      "explanation": "’Duas’ indica quantidade exata, sendo um numeral."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A palavra ’amanhã’, originalmente um advérbio de tempo, torna-se substantivo pela anteposição do artigo ’O’. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A palavra ’amanhã’, originalmente um advérbio de tempo, torna-se substantivo pela anteposição do artigo ’O’. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+    "resolution": "A palavra ’amanhã’, originalmente um advérbio de tempo, torna-se substantivo pela anteposição do artigo ’O’.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A palavra ’amanhã’, originalmente um advérbio de tempo, torna-se substantivo pela anteposição do artigo ’O’."
   }
 }
 ```
@@ -2714,7 +2705,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No fragmento ’O frio gelo da Antártida desafia os exploradores’, o termo destacado exerce uma função específica na relação entre substantivo e adjetivo. Assinale a alternativa que define corretamente essa classificação. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+  "question_text": "No fragmento ’O frio gelo da Antártida desafia os exploradores’, o termo destacado exerce uma função específica na relação entre substantivo e adjetivo. Assinale a alternativa que define corretamente essa classificação.",
   "alternatives": [
     {
       "id": "A",
@@ -2726,7 +2717,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Adjetivo explicativo, pois expressa uma qualidade intrínseca e inerente ao substan- tivo gelo.",
       "is_correct": true,
-      "explanation": "Adjetivos explicativos indicam qualidades essenciais ou inerentes ao ser nomeado pelo substantivo. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Adjetivos explicativos indicam qualidades essenciais ou inerentes ao ser nomeado pelo substantivo."
     },
     {
       "id": "C",
@@ -2744,7 +2735,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Determinante numeral, pois quantifica a intensidade da temperatura do gelo.",
       "is_correct": false,
-      "explanation": "’Frio’ é um adjetivo qualificativo, não um numeral, que indicaria quantidade ou ordem. ARROW-LEFT VOLTAR À QUESTÃO 326"
+      "explanation": "’Frio’ é um adjetivo qualificativo, não um numeral, que indicaria quantidade ou ordem."
     }
   ],
   "answer_key": "B",
@@ -2796,13 +2787,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Substantivo comum, uma vez que está posicionado antes de outro substantivo na oração.",
       "is_correct": false,
-      "explanation": "Embora esteja antes do substantivo, ’branca’ mantém sua função de caracterizador (adjetivo) e não de núcleo (substantivo). 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Embora esteja antes do substantivo, ’branca’ mantém sua função de caracterizador (adjetivo) e não de núcleo (substantivo)."
     },
     {
       "id": "E",
-      "text": "Adjetivo restritivo, pois especifica a cor da neve entre outras cores possíveis no 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações contexto.",
+      "text": "Adjetivo restritivo, pois especifica a cor da neve entre outras cores possíveis no contexto.",
       "is_correct": false,
-      "explanation": "O adjetivo restritivo serve para particularizar um ser dentro de uma espécie (ex: ’neve suja’). Como a brancura é própria da neve, o valor é explicativo. ARROW-LEFT VOLTAR À QUESTÃO 327"
+      "explanation": "O adjetivo restritivo serve para particularizar um ser dentro de uma espécie (ex: ’neve suja’). Como a brancura é própria da neve, o valor é explicativo."
     }
   ],
   "answer_key": "C",
@@ -2860,7 +2851,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Determinante, determinante e caracterizador.",
       "is_correct": true,
-      "explanation": "”Estes”(pronome) e ”dois”(numeral) são determinantes que delimitam o substantivo ”projetos”; ”inovadores”é um adjetivo que qualifica/caracteriza o substantivo. ARROW-LEFT VOLTAR À QUESTÃO 328 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "”Estes”(pronome) e ”dois”(numeral) são determinantes que delimitam o substantivo ”projetos”; ”inovadores”é um adjetivo que qualifica/caracteriza o substantivo."
     }
   ],
   "answer_key": "E",
@@ -2892,7 +2883,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "O artigo ’Um’ introduz um referente novo, enquanto o artigo ’O’ retoma esse 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações referente, estabelecendo coesão anafórica.",
+      "text": "O artigo ’Um’ introduz um referente novo, enquanto o artigo ’O’ retoma esse referente, estabelecendo coesão anafórica.",
       "is_correct": true,
       "explanation": "Esta alternativa descreve perfeitamente a função de progressão textual dos artigos no exemplo dado."
     },
@@ -2918,7 +2909,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O artigo ’O’ funciona, nesse contexto, como um pronome demonstrativo equivalente a ’aquele’.",
       "is_correct": false,
-      "explanation": "Embora o artigo definido possa ter valor de demonstrativo em certos contextos (ex: ’o que’), aqui ele atua estritamente como artigo definido retomando o substantivo ’homem’. ARROW-LEFT VOLTAR À QUESTÃO 329"
+      "explanation": "Embora o artigo definido possa ter valor de demonstrativo em certos contextos (ex: ’o que’), aqui ele atua estritamente como artigo definido retomando o substantivo ’homem’."
     }
   ],
   "answer_key": "A",
@@ -2974,15 +2965,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Vivemos uma época onde a tecnologia domina as relações sociais. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Vivemos uma época onde a tecnologia domina as relações sociais.",
       "is_correct": false,
-      "explanation": "’Época’ refere-se a tempo, não a lugar físico. O correto seria ’em que’ ou ’na qual’. ARROW-LEFT VOLTAR À QUESTÃO 330"
+      "explanation": "’Época’ refere-se a tempo, não a lugar físico. O correto seria ’em que’ ou ’na qual’."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações O pronome relativo ’onde’ deve ser utilizado exclusivamente para retomar lugares físicos. ’Brasil’ é um lugar físico/geográfico.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações O pronome relativo ’onde’ deve ser utilizado exclusivamente para retomar lugares físicos. ’Brasil’ é um lugar físico/geográfico."
+    "resolution": "Classes de Palavras: Usos e Adequações O pronome relativo ’onde’ deve ser utilizado exclusivamente para retomar lugares físicos. ’Brasil’ é um lugar físico/geográfico.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: O pronome relativo ’onde’ deve ser utilizado exclusivamente para retomar lugares físicos. ’Brasil’ é um lugar físico/geográfico."
   }
 }
 ```
@@ -3034,7 +3025,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O candidato deve comparecer ao prédio onde será realizada a prova com antece- dência mínima de uma hora.",
       "is_correct": true,
-      "explanation": "O pronome retoma ’prédio’, um lugar físico, atendendo aos requisitos gramaticais de coesão espacial. ARROW-LEFT VOLTAR À QUESTÃO 331"
+      "explanation": "O pronome retoma ’prédio’, um lugar físico, atendendo aos requisitos gramaticais de coesão espacial."
     }
   ],
   "answer_key": "E",
@@ -3066,7 +3057,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "A transição do artigo indefinido ’Uma’ para o definido ’A’ marca a progressão textual, transformando um elemento novo em um referente já conhecido. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "A transição do artigo indefinido ’Uma’ para o definido ’A’ marca a progressão textual, transformando um elemento novo em um referente já conhecido.",
       "is_correct": true,
       "explanation": "Esse é o mecanismo clássico de coesão referencial por meio de artigos: introdução (indefinido) e retomada (definido)."
     },
@@ -3080,7 +3071,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "O uso de ’Uma’ indica que a falha já era de conhecimento prévio de todos os agentes envolvidos na situação.",
       "is_correct": false,
-      "explanation": "O artigo indefinido ’Uma’ é usado justamente para apresentar um elemento novo, não previamente conhecido. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "O artigo indefinido ’Uma’ é usado justamente para apresentar um elemento novo, não previamente conhecido."
     },
     {
       "id": "D",
@@ -3092,7 +3083,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O artigo ’A’ exerce função catafórica, pois prepara o leitor para uma informação que será detalhada nos parágrafos seguintes.",
       "is_correct": false,
-      "explanation": "O artigo ’A’ exerce função anafórica, pois retoma o termo ’falha’ mencionado anteriormente. ARROW-LEFT VOLTAR À QUESTÃO 332"
+      "explanation": "O artigo ’A’ exerce função anafórica, pois retoma o termo ’falha’ mencionado anteriormente."
     }
   ],
   "answer_key": "A",
@@ -3148,9 +3139,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Conformidade, indicando que o estudo segue um padrão. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Conformidade, indicando que o estudo segue um padrão.",
       "is_correct": false,
-      "explanation": "A conformidade exigiria conectivos como ’conforme’ ou ’segundo’. ARROW-LEFT VOLTAR À QUESTÃO 333 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "A conformidade exigiria conectivos como ’conforme’ ou ’segundo’."
     }
   ],
   "answer_key": "B",
@@ -3208,7 +3199,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Destino.",
       "is_correct": false,
-      "explanation": "O valor de destino refere-se a deslocamento físico ou direção (ex: ’viajou para a capital’). ARROW-LEFT VOLTAR À QUESTÃO 334"
+      "explanation": "O valor de destino refere-se a deslocamento físico ou direção (ex: ’viajou para a capital’)."
     }
   ],
   "answer_key": "C",
@@ -3264,15 +3255,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Destino. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Destino.",
       "is_correct": true,
-      "explanation": "O termo indica o ponto de chegada ou direção do movimento do servidor. ARROW-LEFT VOLTAR À QUESTÃO 335"
+      "explanation": "O termo indica o ponto de chegada ou direção do movimento do servidor."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações A preposição ’para’, quando associada a verbos de movimento (como ’dirigir-se’, ’ir’, ’partir’), indica o lugar para onde se vai, ou seja, o destino.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações A preposição ’para’, quando associada a verbos de movimento (como ’dirigir-se’, ’ir’, ’partir’), indica o lugar para onde se vai, ou seja, o destino."
+    "resolution": "Classes de Palavras: Usos e Adequações A preposição ’para’, quando associada a verbos de movimento (como ’dirigir-se’, ’ir’, ’partir’), indica o lugar para onde se vai, ou seja, o destino.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A preposição ’para’, quando associada a verbos de movimento (como ’dirigir-se’, ’ir’, ’partir’), indica o lugar para onde se vai, ou seja, o destino."
   }
 }
 ```
@@ -3300,7 +3291,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Companhia.",
       "is_correct": false,
-      "explanation": "A relação de companhia pressupõe a presença de outro ser acompanhando o sujeito (ex: ’Saiu com o colega’). 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "A relação de companhia pressupõe a presença de outro ser acompanhando o sujeito (ex: ’Saiu com o colega’)."
     },
     {
       "id": "B",
@@ -3324,7 +3315,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Causa.",
       "is_correct": false,
-      "explanation": "A causa indica o motivo (ex: ’Tremeu com o frio’). ARROW-LEFT VOLTAR À QUESTÃO 336"
+      "explanation": "A causa indica o motivo (ex: ’Tremeu com o frio’)."
     }
   ],
   "answer_key": "D",
@@ -3362,7 +3353,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Adjetivo, conjunção e verbo. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Adjetivo, conjunção e verbo.",
       "is_correct": false,
       "explanation": "Embora modifique adjetivos e verbos, o advérbio não atua sobre conjunções."
     },
@@ -3376,13 +3367,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Verbo, adjetivo e outro advérbio.",
       "is_correct": true,
-      "explanation": "Esta alternativa define precisamente o papel do advérbio como ’satélite’ dessas três classes específicas. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Esta alternativa define precisamente o papel do advérbio como ’satélite’ dessas três classes específicas."
     },
     {
       "id": "E",
       "text": "Substantivo, adjetivo e verbo.",
       "is_correct": false,
-      "explanation": "O advérbio não modifica substantivos; essa é uma função primária do adjetivo. ARROW-LEFT VOLTAR À QUESTÃO 337"
+      "explanation": "O advérbio não modifica substantivos; essa é uma função primária do adjetivo."
     }
   ],
   "answer_key": "D",
@@ -3438,9 +3429,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Os alunos saíram às pressas após o sinal tocar. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Os alunos saíram às pressas após o sinal tocar.",
       "is_correct": false,
-      "explanation": "’Às pressas’ indica o modo como os alunos saíram. ARROW-LEFT VOLTAR À QUESTÃO 338 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Às pressas’ indica o modo como os alunos saíram."
     }
   ],
   "answer_key": "D",
@@ -3498,7 +3489,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Eles estudaram bastantes para a prova de conhecimentos específicos.",
       "is_correct": false,
-      "explanation": "O termo modifica o verbo ’estudaram’, agindo como advérbio de intensidade, devendo permanecer no singular (invariável). ARROW-LEFT VOLTAR À QUESTÃO 339"
+      "explanation": "O termo modifica o verbo ’estudaram’, agindo como advérbio de intensidade, devendo permanecer no singular (invariável)."
     }
   ],
   "answer_key": "A",
@@ -3554,15 +3545,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Havia menos vagas do que o esperado para o cargo em questão. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações 1.9.2 Questões de Nível Médio",
+      "text": "Havia menos vagas do que o esperado para o cargo em questão. 1.9.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "O termo ’menos’ foi usado corretamente como invariável. Portanto, não é o gabarito. ARROW-LEFT VOLTAR À QUESTÃO 340"
+      "explanation": "O termo ’menos’ foi usado corretamente como invariável. Portanto, não é o gabarito."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A palavra ’menos’ é um advérbio e, portanto, invariável. A forma ’menas’ não existe na norma culta da língua portuguesa, independentemente do gênero do substantivo a que 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações se refere.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A palavra ’menos’ é um advérbio e, portanto, invariável. A forma ’menas’ não existe na norma culta da língua portuguesa, independentemente do gênero do substantivo a que 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações se refere."
+    "resolution": "A palavra ’menos’ é um advérbio e, portanto, invariável. A forma ’menas’ não existe na norma culta da língua portuguesa, independentemente do gênero do substantivo a que se refere.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A palavra ’menos’ é um advérbio e, portanto, invariável. A forma ’menas’ não existe na norma culta da língua portuguesa, independentemente do gênero do substantivo a que se refere."
   }
 }
 ```
@@ -3590,7 +3581,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "O termo ’Esta’ refere-se a ’técnica’ e ’aquela’ refere-se a ’ética’.",
       "is_correct": true,
-      "explanation": "Conforme a norma culta, ’esta’ retoma o referente imediato (técnica) e ’aquela’ o referente remoto (ética). 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Conforme a norma culta, ’esta’ retoma o referente imediato (técnica) e ’aquela’ o referente remoto (ética)."
     },
     {
       "id": "B",
@@ -3612,9 +3603,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O termo ’Esta’ refere-se a ’ética’ por ser o primeiro elemento mencionado. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "O termo ’Esta’ refere-se a ’ética’ por ser o primeiro elemento mencionado.",
       "is_correct": false,
-      "explanation": "’Esta’ retoma o termo mais próximo, que no caso é ’técnica’. ARROW-LEFT VOLTAR À QUESTÃO 341"
+      "explanation": "’Esta’ retoma o termo mais próximo, que no caso é ’técnica’."
     }
   ],
   "answer_key": "A",
@@ -3672,7 +3663,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A onça foi vista na mata. O animal parecia estar caçando.",
       "is_correct": true,
-      "explanation": "’Animal’ é o hiperônimo (termo geral) que retoma ’onça’ (hipônimo/termo específico). 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações ARROW-LEFT VOLTAR À QUESTÃO 342"
+      "explanation": "’Animal’ é o hiperônimo (termo geral) que retoma ’onça’ (hipônimo/termo específico)."
     }
   ],
   "answer_key": "E",
@@ -3722,7 +3713,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Desejo apenas isto: que todos cumpram suas metas. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Desejo apenas isto: que todos cumpram suas metas.",
       "is_correct": false,
       "explanation": "Apresenta um caso de catáfora (’isto’ antecipando a oração seguinte)."
     },
@@ -3730,7 +3721,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Aqui se trabalha com dedicação; ali, com desleixo.",
       "is_correct": false,
-      "explanation": "Embora haja elipse do verbo ’trabalha’, a alternativa A é um exemplo mais clássico de zeugma (elipse de termo já mencionado). ARROW-LEFT VOLTAR À QUESTÃO 343 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Embora haja elipse do verbo ’trabalha’, a alternativa A é um exemplo mais clássico de zeugma (elipse de termo já mencionado)."
     }
   ],
   "answer_key": "A",
@@ -3788,7 +3779,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Advérbio, Adjetivo, Pronome.",
       "is_correct": false,
-      "explanation": "Em III, ’meio’ não substitui nem acompanha nome com função pronominal; é o núcleo do objeto. ARROW-LEFT VOLTAR À QUESTÃO 344"
+      "explanation": "Em III, ’meio’ não substitui nem acompanha nome com função pronominal; é o núcleo do objeto."
     }
   ],
   "answer_key": "A",
@@ -3816,7 +3807,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A palavra ’bastante’ pode assumir diferentes funções gramaticais a depender do contexto. Assinale a opção em que ’bastante’ é classificado como um advérbio. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+  "question_text": "A palavra ’bastante’ pode assumir diferentes funções gramaticais a depender do contexto. Assinale a opção em que ’bastante’ é classificado como um advérbio.",
   "alternatives": [
     {
       "id": "A",
@@ -3846,13 +3837,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Temos bastantes problemas para resolver hoje.",
       "is_correct": false,
-      "explanation": "É um pronome indefinido, pois acompanha e flexiona em concordância com o substantivo ’problemas’. ARROW-LEFT VOLTAR À QUESTÃO 345"
+      "explanation": "É um pronome indefinido, pois acompanha e flexiona em concordância com o substantivo ’problemas’."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Em ’estudaram bastante’, a palavra modifica o verbo ’estudar’, indicando intensidade e permanecendo invariável, o que caracteriza o advérbio. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Em ’estudaram bastante’, a palavra modifica o verbo ’estudar’, indicando intensidade e permanecendo invariável, o que caracteriza o advérbio. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+    "resolution": "Em ’estudaram bastante’, a palavra modifica o verbo ’estudar’, indicando intensidade e permanecendo invariável, o que caracteriza o advérbio.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Em ’estudaram bastante’, a palavra modifica o verbo ’estudar’, indicando intensidade e permanecendo invariável, o que caracteriza o advérbio."
   }
 }
 ```
@@ -3892,7 +3883,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Aquela casa precisa de reformas urgentes.",
       "is_correct": false,
-      "explanation": "’Aquela’ acompanha o substantivo ’casa’, sendo um pronome adjetivo. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Aquela’ acompanha o substantivo ’casa’, sendo um pronome adjetivo."
     },
     {
       "id": "D",
@@ -3902,9 +3893,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Minha caneta azul desapareceu ontem. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Minha caneta azul desapareceu ontem.",
       "is_correct": false,
-      "explanation": "’Minha’ acompanha o substantivo ’caneta’, sendo um pronome adjetivo. ARROW-LEFT VOLTAR À QUESTÃO 346"
+      "explanation": "’Minha’ acompanha o substantivo ’caneta’, sendo um pronome adjetivo."
     }
   ],
   "answer_key": "A",
@@ -3956,13 +3947,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Advérbio de modo, pois modifica o verbo ”priorizar”, indicando a maneira como o atendimento deve ocorrer.",
       "is_correct": false,
-      "explanation": "A palavra não modifica o verbo, o adjetivo ou outro advérbio para indicar circunstância de modo; ela introduz o parâmetro normativo da frase. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "A palavra não modifica o verbo, o adjetivo ou outro advérbio para indicar circunstância de modo; ela introduz o parâmetro normativo da frase."
     },
     {
       "id": "E",
       "text": "Preposição, pois atua como um conectivo que estabelece uma relação de conformi- dade entre as ideias.",
       "is_correct": true,
-      "explanation": "Trata-se de uma preposição acidental com valor semântico de conformidade, ligando palavras e estabelecendo dependência. ARROW-LEFT VOLTAR À QUESTÃO 347"
+      "explanation": "Trata-se de uma preposição acidental com valor semântico de conformidade, ligando palavras e estabelecendo dependência."
     }
   ],
   "answer_key": "E",
@@ -3990,7 +3981,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considere o emprego do termo muito nas duas frases abaixo: I. O servidor apresentou muitos relatórios durante a reunião. II. Os candidatos estavam muito preparados para o certame. Do ponto de vista morfológico, as ocorrências destacadas classificam-se, respectivamente, como: 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+  "question_text": "Considere o emprego do termo muito nas duas frases abaixo: I. O servidor apresentou muitos relatórios durante a reunião. II. Os candidatos estavam muito preparados para o certame. Do ponto de vista morfológico, as ocorrências destacadas classificam-se, respectivamente, como:",
   "alternatives": [
     {
       "id": "A",
@@ -4020,7 +4011,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Adjetivo e Advérbio de intensidade.",
       "is_correct": false,
-      "explanation": "’Muito’ não possui natureza de adjetivo (que qualifica substantivos), mas sim de pronome ou advérbio. ARROW-LEFT VOLTAR À QUESTÃO 348 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Muito’ não possui natureza de adjetivo (que qualifica substantivos), mas sim de pronome ou advérbio."
     }
   ],
   "answer_key": "D",
@@ -4076,9 +4067,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Advérbio de modo, pois indica como o agente se desloca. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Advérbio de modo, pois indica como o agente se desloca.",
       "is_correct": false,
-      "explanation": "Advérbios são invariáveis e modificam verbos, adjetivos ou advérbios; aqui, o termo é o núcleo do sujeito. ARROW-LEFT VOLTAR À QUESTÃO 349"
+      "explanation": "Advérbios são invariáveis e modificam verbos, adjetivos ou advérbios; aqui, o termo é o núcleo do sujeito."
     }
   ],
   "answer_key": "A",
@@ -4136,13 +4127,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A preposição liga palavras, estabelecendo uma relação de dependência entre elas.",
       "is_correct": true,
-      "explanation": "Esta é a definição funcional da preposição: liga palavras numa relação de subordinação (ex: ’casa de madeira’). ARROW-LEFT VOLTAR À QUESTÃO 350"
+      "explanation": "Esta é a definição funcional da preposição: liga palavras numa relação de subordinação (ex: ’casa de madeira’)."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A preposição é a classe invariável que conecta duas palavras, criando uma relação de 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações subordinação (dependência) entre elas (ex: ’casa de madeira’).",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A preposição é a classe invariável que conecta duas palavras, criando uma relação de 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações subordinação (dependência) entre elas (ex: ’casa de madeira’)."
+    "resolution": "A preposição é a classe invariável que conecta duas palavras, criando uma relação de subordinação (dependência) entre elas (ex: ’casa de madeira’).",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A preposição é a classe invariável que conecta duas palavras, criando uma relação de subordinação (dependência) entre elas (ex: ’casa de madeira’)."
   }
 }
 ```
@@ -4170,7 +4161,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Pronome adjetivo, pois acompanha e quantifica o substantivo cautela.",
       "is_correct": true,
-      "explanation": "Como acompanha o substantivo ’cautela’, funciona como pronome adjetivo. Uma prova é a possibilidade de flexão: ’Houve bastantes motivos’. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Como acompanha o substantivo ’cautela’, funciona como pronome adjetivo. Uma prova é a possibilidade de flexão: ’Houve bastantes motivos’."
     },
     {
       "id": "B",
@@ -4186,7 +4177,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Conjunção, pois estabelece uma relação de causa. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Conjunção, pois estabelece uma relação de causa.",
       "is_correct": false,
       "explanation": "Não liga orações nem estabelece nexo lógico-causal."
     },
@@ -4194,7 +4185,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Adjetivo, pois caracteriza a Administração Pública.",
       "is_correct": false,
-      "explanation": "’Bastante’ não atribui uma qualidade intrínseca, mas uma quantidade indefinida. ARROW-LEFT VOLTAR À QUESTÃO 351"
+      "explanation": "’Bastante’ não atribui uma qualidade intrínseca, mas uma quantidade indefinida."
     }
   ],
   "answer_key": "A",
@@ -4240,7 +4231,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "As preposições e as conjunções são conectivos invariáveis que desempenham o mesmo papel sintático, diferenciando-se apenas pelo fato de a preposição ligar orações e a conjunção ligar palavras.",
       "is_correct": false,
-      "explanation": "O item inverte as funções: as preposições ligam tipicamente palavras (relação de subordinação), enquanto as conjunções ligam orações ou termos de mesma função sintática. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "O item inverte as funções: as preposições ligam tipicamente palavras (relação de subordinação), enquanto as conjunções ligam orações ou termos de mesma função sintática."
     },
     {
       "id": "D",
@@ -4250,9 +4241,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O adjetivo, embora pertença ao grupo das classes variáveis, pode assumir valor adverbial em determinados contextos, permanecendo, nessa situação, invariável quanto ao gênero e ao número. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "O adjetivo, embora pertença ao grupo das classes variáveis, pode assumir valor adverbial em determinados contextos, permanecendo, nessa situação, invariável quanto ao gênero e ao número.",
       "is_correct": true,
-      "explanation": "Reflete o fenômeno da transposição de classes onde um adjetivo exerce função de advérbio (modificador), tornando-se invariável no contexto. ARROW-LEFT VOLTAR À QUESTÃO 352"
+      "explanation": "Reflete o fenômeno da transposição de classes onde um adjetivo exerce função de advérbio (modificador), tornando-se invariável no contexto."
     }
   ],
   "answer_key": "E",
@@ -4304,13 +4295,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Advérbio de tempo – Advérbio de modo – Adjetivo.",
       "is_correct": false,
-      "explanation": "’Amanhã’ não é advérbio de tempo nesta construção sintática devido ao processo de substantivação provocado pelo determinante ’O’. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Amanhã’ não é advérbio de tempo nesta construção sintática devido ao processo de substantivação provocado pelo determinante ’O’."
     },
     {
       "id": "E",
       "text": "Advérbio de tempo – Adjetivo – Advérbio de intensidade.",
       "is_correct": false,
-      "explanation": "O termo ’amanhã’ não é advérbio neste contexto, pois está antecedido por artigo, o que o torna um substantivo. Além disso, ’melhores’ é um adjetivo que qualifica ’resultados’, e não um advérbio. ARROW-LEFT VOLTAR À QUESTÃO 353"
+      "explanation": "O termo ’amanhã’ não é advérbio neste contexto, pois está antecedido por artigo, o que o torna um substantivo. Além disso, ’melhores’ é um adjetivo que qualifica ’resultados’, e não um advérbio."
     }
   ],
   "answer_key": "B",
@@ -4354,7 +4345,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "Trata-se de um simples funcionário. / Trata-se de um funcionário simples. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Trata-se de um simples funcionário. / Trata-se de um funcionário simples.",
       "is_correct": false,
       "explanation": "’Simples funcionário’ significa ’apenas um funcionário’; ’funcionário simples’ significa alguém humilde ou sem sofisticação."
     },
@@ -4368,7 +4359,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Encontrei um velho amigo na praça. / Encontrei um amigo velho na praça.",
       "is_correct": false,
-      "explanation": "’Velho amigo’ refere-se ao tempo de amizade; ’amigo velho’ refere-se à idade cronológica da pessoa. ARROW-LEFT VOLTAR À QUESTÃO 354 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Velho amigo’ refere-se ao tempo de amizade; ’amigo velho’ refere-se à idade cronológica da pessoa."
     }
   ],
   "answer_key": "D",
@@ -4426,7 +4417,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O jardim da casa estava extremamente florido.",
       "is_correct": false,
-      "explanation": "’Florido’ é um adjetivo qualificativo, indicando um estado que pode ser intensificado (’extremamente florido’). ARROW-LEFT VOLTAR À QUESTÃO 355"
+      "explanation": "’Florido’ é um adjetivo qualificativo, indicando um estado que pode ser intensificado (’extremamente florido’)."
     }
   ],
   "answer_key": "D",
@@ -4454,7 +4445,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Os determinantes têm o papel de delimitar a extensão do substantivo. No trecho ’Aqueles dois pequenos problemas foram resolvidos’, os termos que exercem valor determinativo são: 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+  "question_text": "Os determinantes têm o papel de delimitar a extensão do substantivo. No trecho ’Aqueles dois pequenos problemas foram resolvidos’, os termos que exercem valor determinativo são:",
   "alternatives": [
     {
       "id": "A",
@@ -4484,13 +4475,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Aqueles, dois e pequenos.",
       "is_correct": false,
-      "explanation": "’Pequenos’ não é determinante, mas sim um caracterizador (adjetivo). ARROW-LEFT VOLTAR À QUESTÃO 356"
+      "explanation": "’Pequenos’ não é determinante, mas sim um caracterizador (adjetivo)."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Os determinantes são palavras que indicam posse, quantidade, localização ou especifici1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações dade (artigos, pronomes adjetivos e numerais). ’Aqueles’ é pronome demonstrativo e ’dois’ é numeral. ’Pequenos’ é um adjetivo (caracterizador).",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Os determinantes são palavras que indicam posse, quantidade, localização ou especifici1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações dade (artigos, pronomes adjetivos e numerais). ’Aqueles’ é pronome demonstrativo e ’dois’ é numeral. ’Pequenos’ é um adjetivo (caracterizador)."
+    "resolution": "Os determinantes são palavras que indicam posse, quantidade, localização ou especificiClasses de Palavras: Usos e Adequações dade (artigos, pronomes adjetivos e numerais). ’Aqueles’ é pronome demonstrativo e ’dois’ é numeral. ’Pequenos’ é um adjetivo (caracterizador).",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Os determinantes são palavras que indicam posse, quantidade, localização ou especificiClasses de Palavras: Usos e Adequações dade (artigos, pronomes adjetivos e numerais). ’Aqueles’ é pronome demonstrativo e ’dois’ é numeral. ’Pequenos’ é um adjetivo (caracterizador)."
   }
 }
 ```
@@ -4524,7 +4515,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Problema de estômago — Problema hepático.",
       "is_correct": true,
-      "explanation": "Esta afirmação está errada porque ’hepático’ é relativo ao fígado, não ao estômago. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Esta afirmação está errada porque ’hepático’ é relativo ao fígado, não ao estômago."
     },
     {
       "id": "C",
@@ -4540,9 +4531,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Amor de pai — Amor paterno. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Amor de pai — Amor paterno.",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa, portanto não é o gabarito. ARROW-LEFT VOLTAR À QUESTÃO 357"
+      "explanation": "Esta afirmação está certa, portanto não é o gabarito."
     }
   ],
   "answer_key": "B",
@@ -4594,13 +4585,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "A anteposição do adjetivo em ’tecnológico parque’ preserva o valor objetivo e a correção gramatical da expressão, mantendo sua natureza classificadora.",
       "is_correct": false,
-      "explanation": "Uma das características dos adjetivos relacionais é que eles não admitem a anteposição ao substantivo sob pena de perda de sentido ou incorreção gramatical. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Uma das características dos adjetivos relacionais é que eles não admitem a anteposição ao substantivo sob pena de perda de sentido ou incorreção gramatical."
     },
     {
       "id": "E",
       "text": "Todos os termos destacados exercem valor determinativo no sintagma nominal, uma vez que delimitam a extensão dos substantivos a que se referem.",
       "is_correct": false,
-      "explanation": "Os adjetivos exercem valor caracterizador (qualificando ou classificando). O valor determinativo é exercido por artigos, numerais e pronomes adjetivos. ARROW-LEFT VOLTAR À QUESTÃO 358"
+      "explanation": "Os adjetivos exercem valor caracterizador (qualificando ou classificando). O valor determinativo é exercido por artigos, numerais e pronomes adjetivos."
     }
   ],
   "answer_key": "B",
@@ -4632,7 +4623,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "O uso de ’este’ e ’aquela’ está incorreto, pois ambos deveriam ser substituídos por ’esse’ e ’essa’. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "O uso de ’este’ e ’aquela’ está incorreto, pois ambos deveriam ser substituídos por ’esse’ e ’essa’.",
       "is_correct": false,
       "explanation": "O uso está gramaticalmente correto para a distinção de referentes em uma enumeração binária."
     },
@@ -4658,7 +4649,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O pronome ’aquela’ refere-se a ’foco’, por ser o termo mais próximo.",
       "is_correct": false,
-      "explanation": "’Aquela’ retoma o termo mais distante, que no caso é ’disciplina’. ARROW-LEFT VOLTAR À QUESTÃO 359 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Aquela’ retoma o termo mais distante, que no caso é ’disciplina’."
     }
   ],
   "answer_key": "C",
@@ -4714,9 +4705,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A árvore cujos frutos são venenosos deve ser sinalizada. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "A árvore cujos frutos são venenosos deve ser sinalizada.",
       "is_correct": true,
-      "explanation": "O pronome concorda com ’frutos’ (masculino plural) e estabelece a posse (frutos da árvore), sem uso de artigo. ARROW-LEFT VOLTAR À QUESTÃO 360"
+      "explanation": "O pronome concorda com ’frutos’ (masculino plural) e estabelece a posse (frutos da árvore), sem uso de artigo."
     }
   ],
   "answer_key": "E",
@@ -4774,7 +4765,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Exófora, pois o referente está fora do texto, dependendo do contexto situacional.",
       "is_correct": false,
-      "explanation": "O referente (’que todos os candidatos...’) está presente dentro do próprio texto, caracterizando referência endofórica. ARROW-LEFT VOLTAR À QUESTÃO 361"
+      "explanation": "O referente (’que todos os candidatos...’) está presente dentro do próprio texto, caracterizando referência endofórica."
     }
   ],
   "answer_key": "D",
@@ -4808,11 +4799,11 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "O termo ’esta’ exerce função catafórica, uma vez que introduz a definição do conceito de eficácia que aparece logo em seguida.",
       "is_correct": false,
-      "explanation": "O termo ’esta’ exerce função anafórica, pois retoma o substantivo ’eficácia’ já mencionado no texto. A catáfora ocorre quando o pronome antecipa uma informação que ainda não foi escrita. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "O termo ’esta’ exerce função anafórica, pois retoma o substantivo ’eficácia’ já mencionado no texto. A catáfora ocorre quando o pronome antecipa uma informação que ainda não foi escrita."
     },
     {
       "id": "B",
-      "text": "A substituição de ’esta’ por ’essa’ manteria a precisão gramatical e a clareza da referência distributiva em relação aos termos antecedentes. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "A substituição de ’esta’ por ’essa’ manteria a precisão gramatical e a clareza da referência distributiva em relação aos termos antecedentes.",
       "is_correct": false,
       "explanation": "Para a função de retomada distributiva de dois termos, a gramática normativa prescreve o par ’este/aquele’. O uso de ’essa’ prejudicaria a distinção clara de qual antecedente está sendo retomado."
     },
@@ -4832,7 +4823,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O pronome ’Isso’ possui valor catafórico, uma vez que projeta o sentido do texto para a conduta do agente público mencionada ao final.",
       "is_correct": false,
-      "explanation": "O pronome ’Isso’ possui valor anafórico resumitivo, pois sintetiza e retoma toda a ideia exposta anteriormente (a busca pela eficiência e eficácia) para servir de base à afirmação seguinte. ARROW-LEFT VOLTAR À QUESTÃO 362"
+      "explanation": "O pronome ’Isso’ possui valor anafórico resumitivo, pois sintetiza e retoma toda a ideia exposta anteriormente (a busca pela eficiência e eficácia) para servir de base à afirmação seguinte."
     }
   ],
   "answer_key": "D",
@@ -4878,7 +4869,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "O concurseiro vive como um monge durante o período de preparação.",
       "is_correct": false,
-      "explanation": "O valor é comparativo, traçando um paralelo entre o estilo de vida do concurseiro e o de um monge. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "O valor é comparativo, traçando um paralelo entre o estilo de vida do concurseiro e o de um monge."
     },
     {
       "id": "D",
@@ -4888,9 +4879,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Como diz o ditado, quem cedo madruga, Deus ajuda. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Como diz o ditado, quem cedo madruga, Deus ajuda.",
       "is_correct": false,
-      "explanation": "Trata-se de um valor conformativo, indicando conformidade com o ditado. ARROW-LEFT VOLTAR À QUESTÃO 363"
+      "explanation": "Trata-se de um valor conformativo, indicando conformidade com o ditado."
     }
   ],
   "answer_key": "D",
@@ -4948,7 +4939,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Concessão, pois indica um fato que ocorre apesar da complexidade do edital.",
       "is_correct": false,
-      "explanation": "A concessão indicaria uma oposição frustrada (ex: ’Embora fosse complexo, não desistiram’). ARROW-LEFT VOLTAR À QUESTÃO 364 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "A concessão indicaria uma oposição frustrada (ex: ’Embora fosse complexo, não desistiram’)."
     }
   ],
   "answer_key": "B",
@@ -4992,7 +4983,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "Conformidade. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Conformidade.",
       "is_correct": false,
       "explanation": "A conformidade exigiria conectivos como ’conforme’, ’segundo’ ou ’como’."
     },
@@ -5006,7 +4997,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Comparação.",
       "is_correct": false,
-      "explanation": "A comparação estabeleceria um paralelo entre dois elementos (ex: ’a demanda foi como a do ano anterior’). ARROW-LEFT VOLTAR À QUESTÃO 365"
+      "explanation": "A comparação estabeleceria um paralelo entre dois elementos (ex: ’a demanda foi como a do ano anterior’)."
     }
   ],
   "answer_key": "A",
@@ -5062,15 +5053,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Condição, indicando uma hipótese necessária para a melhoria do serviço. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Condição, indicando uma hipótese necessária para a melhoria do serviço.",
       "is_correct": false,
-      "explanation": "Não há uma estrutura hipotética (se, caso), mas sim a descrição de fatos em andamento. ARROW-LEFT VOLTAR À QUESTÃO 366"
+      "explanation": "Não há uma estrutura hipotética (se, caso), mas sim a descrição de fatos em andamento."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A locução ’à medida que’ é tipicamente proporcional, indicando que o desenvolvimento de uma ação (implementação) acompanha o desenvolvimento de outra (melhora da 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações eficiência) de forma gradual.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A locução ’à medida que’ é tipicamente proporcional, indicando que o desenvolvimento de uma ação (implementação) acompanha o desenvolvimento de outra (melhora da 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações eficiência) de forma gradual."
+    "resolution": "A locução ’à medida que’ é tipicamente proporcional, indicando que o desenvolvimento de uma ação (implementação) acompanha o desenvolvimento de outra (melhora da eficiência) de forma gradual.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A locução ’à medida que’ é tipicamente proporcional, indicando que o desenvolvimento de uma ação (implementação) acompanha o desenvolvimento de outra (melhora da eficiência) de forma gradual."
   }
 }
 ```
@@ -5098,7 +5089,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "meio - muito",
       "is_correct": false,
-      "explanation": "Embora ’meio’ esteja correto, ’muito’ deveria estar no plural (’muitos’) para concordar com ’recursos’. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Embora ’meio’ esteja correto, ’muito’ deveria estar no plural (’muitos’) para concordar com ’recursos’."
     },
     {
       "id": "B",
@@ -5122,7 +5113,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "meias - bastante",
       "is_correct": false,
-      "explanation": "Apresenta erro tanto na flexão de ’meio’ (que deveria ser invariável) quanto na de ’bastante’ (que deveria ser plural). ARROW-LEFT VOLTAR À QUESTÃO 367"
+      "explanation": "Apresenta erro tanto na flexão de ’meio’ (que deveria ser invariável) quanto na de ’bastante’ (que deveria ser plural)."
     }
   ],
   "answer_key": "D",
@@ -5174,13 +5165,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "O relator apresentou o texto clara e objetivamente.",
       "is_correct": true,
-      "explanation": "Segue a regra de estilo e economia linguística prevista para advérbios em sequência. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Segue a regra de estilo e economia linguística prevista para advérbios em sequência."
     },
     {
       "id": "E",
-      "text": "O relator apresentou o texto claramentes e objetivamente. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "O relator apresentou o texto claramentes e objetivamente.",
       "is_correct": false,
-      "explanation": "Advérbios são invariáveis; a forma ’claramentes’ é inexistente na língua portuguesa. ARROW-LEFT VOLTAR À QUESTÃO 368"
+      "explanation": "Advérbios são invariáveis; a forma ’claramentes’ é inexistente na língua portuguesa."
     }
   ],
   "answer_key": "D",
@@ -5238,7 +5229,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Substantivo, exercendo a função de objeto direto do verbo comprar.",
       "is_correct": false,
-      "explanation": "’Caro’ não é o objeto direto; o objeto direto é ’o direito de disputar a final’. ARROW-LEFT VOLTAR À QUESTÃO 369 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Caro’ não é o objeto direto; o objeto direto é ’o direito de disputar a final’."
     }
   ],
   "answer_key": "B",
@@ -5270,7 +5261,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "A expressão ’a caneta’ constitui uma locução adverbial de instrumento, e o vocá- 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações bulo ’firme’ atua como um adjetivo adverbializado, permanecendo invariável por modificar o verbo.",
+      "text": "A expressão ’a caneta’ constitui uma locução adverbial de instrumento, e o vocá- bulo ’firme’ atua como um adjetivo adverbializado, permanecendo invariável por modificar o verbo.",
       "is_correct": true,
       "explanation": "Identifica precisamente a locução de instrumento e o fenômeno do adjetivo adverbializado, que é uma característica de invariabilidade dos advérbios."
     },
@@ -5296,7 +5287,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O termo ’a caneta’ expressa uma circunstância de modo, enquanto ’firme’ é um adjetivo que deveria obrigatoriamente flexionar-se para concordar com o sujeito ’agente público’.",
       "is_correct": false,
-      "explanation": "’A caneta’ é classificada como instrumento (conforme o quadro de circunstâncias do conteúdo base). ’Firme’, como advérbio, não deve flexionar-se. ARROW-LEFT VOLTAR À QUESTÃO 370 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’A caneta’ é classificada como instrumento (conforme o quadro de circunstâncias do conteúdo base). ’Firme’, como advérbio, não deve flexionar-se."
     }
   ],
   "answer_key": "A",
@@ -5352,9 +5343,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A porta da sala de reuniões estava meia aberta quando o agente chegou. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "A porta da sala de reuniões estava meia aberta quando o agente chegou.",
       "is_correct": false,
-      "explanation": "O termo ’meio’ com sentido de ’um pouco’ (advérbio) é invariável. O correto seria ’meio aberta’. ARROW-LEFT VOLTAR À QUESTÃO 371"
+      "explanation": "O termo ’meio’ com sentido de ’um pouco’ (advérbio) é invariável. O correto seria ’meio aberta’."
     }
   ],
   "answer_key": "A",
@@ -5412,13 +5403,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Os abaixos-assinados foram entregues à administração da Casa.",
       "is_correct": true,
-      "explanation": "O erro está na flexão do advérbio ’abaixo’. O plural correto é ’abaixo-assinados’. ARROW-LEFT VOLTAR À QUESTÃO 372"
+      "explanation": "O erro está na flexão do advérbio ’abaixo’. O plural correto é ’abaixo-assinados’."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Em ’abaixo-assinado’, o primeiro elemento (’abaixo’) é um advérbio, portanto invariável. Apenas o segundo elemento (’assinado’), que é um adjetivo/particípio, deve flexionar. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações O correto é ’abaixo-assinados’.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Em ’abaixo-assinado’, o primeiro elemento (’abaixo’) é um advérbio, portanto invariável. Apenas o segundo elemento (’assinado’), que é um adjetivo/particípio, deve flexionar. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações O correto é ’abaixo-assinados’."
+    "resolution": "Em ’abaixo-assinado’, o primeiro elemento (’abaixo’) é um advérbio, portanto invariável. Apenas o segundo elemento (’assinado’), que é um adjetivo/particípio, deve flexionar. O correto é ’abaixo-assinados’.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Em ’abaixo-assinado’, o primeiro elemento (’abaixo’) é um advérbio, portanto invariável. Apenas o segundo elemento (’assinado’), que é um adjetivo/particípio, deve flexionar. O correto é ’abaixo-assinados’."
   }
 }
 ```
@@ -5446,11 +5437,11 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Eles só desejavam que o cronograma do concurso fosse cumprido.",
       "is_correct": false,
-      "explanation": "’Só’ equivale a ’apenas’ (advérbio), sendo invariável. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Só’ equivale a ’apenas’ (advérbio), sendo invariável."
     },
     {
       "id": "B",
-      "text": "Eles estão sós porque preferem o silêncio para a concentração. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Eles estão sós porque preferem o silêncio para a concentração.",
       "is_correct": false,
       "explanation": "’Sós’ equivale a ’sozinhos’ (adjetivo), concordando com o sujeito ’Eles’."
     },
@@ -5470,7 +5461,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Os servidores ficaram sós na repartição após o encerramento do expediente.",
       "is_correct": false,
-      "explanation": "’Sós’ equivale a ’sozinhos’ (adjetivo), concordando com ’servidores’. ARROW-LEFT VOLTAR À QUESTÃO 373"
+      "explanation": "’Sós’ equivale a ’sozinhos’ (adjetivo), concordando com ’servidores’."
     }
   ],
   "answer_key": "D",
@@ -5526,9 +5517,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Aquelas canetas são caras, mas possuem uma durabilidade superior. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações 1.9.3 Questões Difíceis",
+      "text": "Aquelas canetas são caras, mas possuem uma durabilidade superior. 1.9.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "’Caras’ é adjetivo e concorda com ’canetas’. ARROW-LEFT VOLTAR À QUESTÃO 374 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Caras’ é adjetivo e concorda com ’canetas’."
     }
   ],
   "answer_key": "B",
@@ -5586,7 +5577,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Tempo, lugar e pessoa.",
       "is_correct": false,
-      "explanation": "’Este’ não é dêixis de pessoa (eu, tu, nós). ARROW-LEFT VOLTAR À QUESTÃO 375"
+      "explanation": "’Este’ não é dêixis de pessoa (eu, tu, nós)."
     }
   ],
   "answer_key": "C",
@@ -5630,7 +5621,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "A Administração Pública deve zelar por seus princípios fundamentais. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "A Administração Pública deve zelar por seus princípios fundamentais.",
       "is_correct": false,
       "explanation": "’Seus’ refere-se inequivocamente aos princípios da Administração Pública."
     },
@@ -5644,13 +5635,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O servidor entregou ao chefe sua pasta de documentos.",
       "is_correct": true,
-      "explanation": "(Gabarito para a questão que pede a ambiguidade). Esta alternativa está errada do ponto de vista da clareza, pois ’sua’ pode se referir tanto ao servidor quanto ao chefe. ARROW-LEFT VOLTAR À QUESTÃO 376"
+      "explanation": "(Gabarito para a questão que pede a ambiguidade). Esta alternativa está errada do ponto de vista da clareza, pois ’sua’ pode se referir tanto ao servidor quanto ao chefe."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Na a afirmação apresentada, não é possível determinar se a pasta pertence ao servidor ou ao chefe, caracterizando ambiguidade pelo uso do possessivo de 3ª pessoa. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, não é possível determinar se a pasta pertence ao servidor ou ao chefe, caracterizando ambiguidade pelo uso do possessivo de 3ª pessoa. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+    "resolution": "Na a afirmação apresentada, não é possível determinar se a pasta pertence ao servidor ou ao chefe, caracterizando ambiguidade pelo uso do possessivo de 3ª pessoa.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, não é possível determinar se a pasta pertence ao servidor ou ao chefe, caracterizando ambiguidade pelo uso do possessivo de 3ª pessoa."
   }
 }
 ```
@@ -5684,7 +5675,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Porquanto",
       "is_correct": false,
-      "explanation": "’Porquanto’ é uma conjunção causal ou explicativa. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Porquanto’ é uma conjunção causal ou explicativa."
     },
     {
       "id": "C",
@@ -5700,9 +5691,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Todavia 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Todavia",
       "is_correct": false,
-      "explanation": "’Todavia’ é adversativa (coordenativa), enquanto ’conquanto’ é concessiva (subordinativa). ARROW-LEFT VOLTAR À QUESTÃO 377"
+      "explanation": "’Todavia’ é adversativa (coordenativa), enquanto ’conquanto’ é concessiva (subordinativa)."
     }
   ],
   "answer_key": "D",
@@ -5754,13 +5745,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Apenas II e III.",
       "is_correct": false,
-      "explanation": "A afirmação III está errada porque o pronome ’Esse’ é anafórico (retoma), não catafórico (antecipa). 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "A afirmação III está errada porque o pronome ’Esse’ é anafórico (retoma), não catafórico (antecipa)."
     },
     {
       "id": "E",
-      "text": "I, II e III. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "I, II e III.",
       "is_correct": false,
-      "explanation": "A afirmação III invalida esta alternativa. ARROW-LEFT VOLTAR À QUESTÃO 378"
+      "explanation": "A afirmação III invalida esta alternativa."
     }
   ],
   "answer_key": "C",
@@ -5818,7 +5809,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "É um substantivo, exercendo a função de núcleo do sujeito.",
       "is_correct": true,
-      "explanation": "A palavra sofreu derivação imprópria e atua como núcleo do sujeito ’O falar pausado do palestrante’. ARROW-LEFT VOLTAR À QUESTÃO 379 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "A palavra sofreu derivação imprópria e atua como núcleo do sujeito ’O falar pausado do palestrante’."
     }
   ],
   "answer_key": "E",
@@ -5874,9 +5865,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Pronome adjetivo, pois determina a rapidez dos candidatos. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Pronome adjetivo, pois determina a rapidez dos candidatos.",
       "is_correct": false,
-      "explanation": "Não possui função de acompanhamento ou substituição pronominal. ARROW-LEFT VOLTAR À QUESTÃO 380"
+      "explanation": "Não possui função de acompanhamento ou substituição pronominal."
     }
   ],
   "answer_key": "A",
@@ -5934,13 +5925,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Advérbio de intensidade e Advérbio de intensidade.",
       "is_correct": true,
-      "explanation": "Ambas as ocorrências modificam termos (verbo e adjetivo) que exigem o advérbio para expressar intensidade. ARROW-LEFT VOLTAR À QUESTÃO 381"
+      "explanation": "Ambas as ocorrências modificam termos (verbo e adjetivo) que exigem o advérbio para expressar intensidade."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Na primeira ocorrência, ’muito’ modifica o verbo ’leram’ (intensidade). Na segunda, modifica o adjetivo ’preparadas’ (intensidade). Em ambos os casos, é invariável e 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações modifica classes que não são substantivos.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Na primeira ocorrência, ’muito’ modifica o verbo ’leram’ (intensidade). Na segunda, modifica o adjetivo ’preparadas’ (intensidade). Em ambos os casos, é invariável e 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações modifica classes que não são substantivos."
+    "resolution": "Na primeira ocorrência, ’muito’ modifica o verbo ’leram’ (intensidade). Na segunda, modifica o adjetivo ’preparadas’ (intensidade). Em ambos os casos, é invariável e modifica classes que não são substantivos.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Na primeira ocorrência, ’muito’ modifica o verbo ’leram’ (intensidade). Na segunda, modifica o adjetivo ’preparadas’ (intensidade). Em ambos os casos, é invariável e modifica classes que não são substantivos."
   }
 }
 ```
@@ -5966,9 +5957,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Pronome adjetivo, advérbio de intensidade e pronome substantivo. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Pronome adjetivo, advérbio de intensidade e pronome substantivo.",
       "is_correct": false,
-      "explanation": "’Bastantes’ não é advérbio neste caso, pois variou para o plural concordando com ’provas’; advérbios são invariáveis. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Bastantes’ não é advérbio neste caso, pois variou para o plural concordando com ’provas’; advérbios são invariáveis."
     },
     {
       "id": "B",
@@ -5992,7 +5983,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Pronome adjetivo, adjetivo e pronome substantivo.",
       "is_correct": true,
-      "explanation": "A análise identifica corretamente a relação de acompanhamento (pronome adjetivo), caracterização/suficiência (adjetivo) e substituição (pronome substantivo). ARROW-LEFT VOLTAR À QUESTÃO 382"
+      "explanation": "A análise identifica corretamente a relação de acompanhamento (pronome adjetivo), caracterização/suficiência (adjetivo) e substituição (pronome substantivo)."
     }
   ],
   "answer_key": "E",
@@ -6048,9 +6039,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Morfologicamente é um pronome adjetivo e sintaticamente é o sujeito da oração. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Morfologicamente é um pronome adjetivo e sintaticamente é o sujeito da oração.",
       "is_correct": false,
-      "explanation": "’Bons’ não é pronome, mas sim um adjetivo qualificativo. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações ARROW-LEFT VOLTAR À QUESTÃO 383"
+      "explanation": "’Bons’ não é pronome, mas sim um adjetivo qualificativo."
     }
   ],
   "answer_key": "C",
@@ -6108,7 +6099,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O termo ’brasileiro’ mantém-se como adjetivo em ambas as construções, alterando- se apenas o valor determinativo.",
       "is_correct": false,
-      "explanation": "’Brasileiro’ muda de substantivo para adjetivo conforme a posição relativa ao outro termo e ao artigo. ARROW-LEFT VOLTAR À QUESTÃO 384 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Brasileiro’ muda de substantivo para adjetivo conforme a posição relativa ao outro termo e ao artigo."
     }
   ],
   "answer_key": "A",
@@ -6146,7 +6137,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "O adjetivo ’econômico’ poderia ser intensificado como ’muito econômico’ sem alterar sua natureza classificatória. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "O adjetivo ’econômico’ poderia ser intensificado como ’muito econômico’ sem alterar sua natureza classificatória.",
       "is_correct": false,
       "explanation": "Se dissermos ’plano muito econômico’, o adjetivo mudaria de sentido (de ’relativo à economia’ para ’barato’), transformando-se em qualificativo."
     },
@@ -6166,7 +6157,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Todos são adjetivos qualificativos, pois atribuem características subjetivas aos substantivos.",
       "is_correct": false,
-      "explanation": "Eles são objetivos e classificatórios, características de adjetivos relacionais, não qualificativos. ARROW-LEFT VOLTAR À QUESTÃO 385"
+      "explanation": "Eles são objetivos e classificatórios, características de adjetivos relacionais, não qualificativos."
     }
   ],
   "answer_key": "C",
@@ -6222,15 +6213,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Na estrutura I, o foco recai sobre a nacionalidade do indivíduo, sendo ’alemão’ o núcleo do sujeito. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Na estrutura I, o foco recai sobre a nacionalidade do indivíduo, sendo ’alemão’ o núcleo do sujeito.",
       "is_correct": false,
-      "explanation": "Na estrutura I, ’médico’ é o núcleo (substantivo) e ’alemão’ é o adjetivo que o restringe. ARROW-LEFT VOLTAR À QUESTÃO 386"
+      "explanation": "Na estrutura I, ’médico’ é o núcleo (substantivo) e ’alemão’ é o adjetivo que o restringe."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações Em português, a ordem padrão do sintagma nominal com artigo é ’Artigo + Substantivo (Núcleo) + Adjetivo’. Em ’O alemão médico’, o artigo ’O’ substantiva a palavra imediatamente seguinte (’alemão’), tornando-a o núcleo do sujeito, enquanto ’médico’ passa a caracterizar esse indivíduo.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações Em português, a ordem padrão do sintagma nominal com artigo é ’Artigo + Substantivo (Núcleo) + Adjetivo’. Em ’O alemão médico’, o artigo ’O’ substantiva a palavra imediatamente seguinte (’alemão’), tornando-a o núcleo do sujeito, enquanto ’médico’ passa a caracterizar esse indivíduo."
+    "resolution": "Classes de Palavras: Usos e Adequações Em português, a ordem padrão do sintagma nominal com artigo é ’Artigo + Substantivo (Núcleo) + Adjetivo’. Em ’O alemão médico’, o artigo ’O’ substantiva a palavra imediatamente seguinte (’alemão’), tornando-a o núcleo do sujeito, enquanto ’médico’ passa a caracterizar esse indivíduo.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Em português, a ordem padrão do sintagma nominal com artigo é ’Artigo + Substantivo (Núcleo) + Adjetivo’. Em ’O alemão médico’, o artigo ’O’ substantiva a palavra imediatamente seguinte (’alemão’), tornando-a o núcleo do sujeito, enquanto ’médico’ passa a caracterizar esse indivíduo."
   }
 }
 ```
@@ -6282,13 +6273,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Funciona como um adjetivo explicativo, indicando uma qualidade inerente a qualquer gestão.",
       "is_correct": false,
-      "explanation": "É um adjetivo restritivo, pois especifica o tipo de gestão entre outros possíveis (financeira, escolar, técnica), e não uma qualidade inerente a toda e qualquer gestão. ARROW-LEFT VOLTAR À QUESTÃO 387"
+      "explanation": "É um adjetivo restritivo, pois especifica o tipo de gestão entre outros possíveis (financeira, escolar, técnica), e não uma qualidade inerente a toda e qualquer gestão."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Adjetivos relacionais (como ’administrativa’, derivado do substantivo ’administração’) indicam uma relação de área ou finalidade, são objetivos, não aceitam variação de grau e não podem ser antepostos ao substantivo. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Adjetivos relacionais (como ’administrativa’, derivado do substantivo ’administração’) indicam uma relação de área ou finalidade, são objetivos, não aceitam variação de grau e não podem ser antepostos ao substantivo. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+    "resolution": "Adjetivos relacionais (como ’administrativa’, derivado do substantivo ’administração’) indicam uma relação de área ou finalidade, são objetivos, não aceitam variação de grau e não podem ser antepostos ao substantivo.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: Adjetivos relacionais (como ’administrativa’, derivado do substantivo ’administração’) indicam uma relação de área ou finalidade, são objetivos, não aceitam variação de grau e não podem ser antepostos ao substantivo."
   }
 }
 ```
@@ -6314,7 +6305,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Preposição acidental, ligando o verbo ao seu complemento oracional. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Preposição acidental, ligando o verbo ao seu complemento oracional.",
       "is_correct": false,
       "explanation": "O termo não possui função conectiva de preposição."
     },
@@ -6322,7 +6313,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Artigo indefinido substantivado, conferindo valor genérico à oração.",
       "is_correct": false,
-      "explanation": "O termo não é um artigo e nem possui valor indefinido. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "O termo não é um artigo e nem possui valor indefinido."
     },
     {
       "id": "C",
@@ -6340,7 +6331,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Pronome pessoal oblíquo, funcionando como objeto direto do verbo concordar.",
       "is_correct": false,
-      "explanation": "Pronomes oblíquos substituem substantivos e não iniciam estruturas de relativo desta forma. ARROW-LEFT VOLTAR À QUESTÃO 388"
+      "explanation": "Pronomes oblíquos substituem substantivos e não iniciam estruturas de relativo desta forma."
     }
   ],
   "answer_key": "C",
@@ -6396,9 +6387,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O problema é este: a falta de investimento em educação básica. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "O problema é este: a falta de investimento em educação básica.",
       "is_correct": false,
-      "explanation": "’Este’ antecipa a explicação dentro do texto (catáfora/endofórica). 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações ARROW-LEFT VOLTAR À QUESTÃO 389"
+      "explanation": "’Este’ antecipa a explicação dentro do texto (catáfora/endofórica)."
     }
   ],
   "answer_key": "B",
@@ -6456,7 +6447,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Fiz os exercícios com atenção. / Fi-los com atenção.",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa, pois verbos terminados em ’r, s, z’ perdem a terminação e recebem ’lo, la, los, las’. ARROW-LEFT VOLTAR À QUESTÃO 390 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Esta afirmação está certa, pois verbos terminados em ’r, s, z’ perdem a terminação e recebem ’lo, la, los, las’."
     }
   ],
   "answer_key": "C",
@@ -6500,7 +6491,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "Todos chegaram cedo; estes eram os mais interessados. / Aquilo que vi me surpre- endeu. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Todos chegaram cedo; estes eram os mais interessados. / Aquilo que vi me surpre- endeu.",
       "is_correct": false,
       "explanation": "’Estes’ é anafórico (retoma ’todos’). ’Aquilo’ é exofórico ou anafórico dependendo do contexto, mas não há catáfora clara na estrutura apresentada."
     },
@@ -6514,7 +6505,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O servidor disse que ele terminaria o relatório. / Este documento aqui precisa de assinatura.",
       "is_correct": false,
-      "explanation": "’Ele’ é anafórico (retoma servidor) e ’Este’ é exofórico (aponta para o objeto presente). A ordem solicitada foi exofórica primeiro e catafórica depois. ARROW-LEFT VOLTAR À QUESTÃO 391"
+      "explanation": "’Ele’ é anafórico (retoma servidor) e ’Este’ é exofórico (aponta para o objeto presente). A ordem solicitada foi exofórica primeiro e catafórica depois."
     }
   ],
   "answer_key": "D",
@@ -6570,15 +6561,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Em I, o conectivo é causal; em II, o conectivo é adversativo. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Em I, o conectivo é causal; em II, o conectivo é adversativo.",
       "is_correct": false,
-      "explanation": "O ’pois’ não assume valor adversativo (oposição). ARROW-LEFT VOLTAR À QUESTÃO 392"
+      "explanation": "O ’pois’ não assume valor adversativo (oposição)."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações A posição do ’pois’ determina sua função: antes do verbo é explicativo; após o verbo (deslocado e entre vírgulas) é conclusivo.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações A posição do ’pois’ determina sua função: antes do verbo é explicativo; após o verbo (deslocado e entre vírgulas) é conclusivo."
+    "resolution": "Classes de Palavras: Usos e Adequações A posição do ’pois’ determina sua função: antes do verbo é explicativo; após o verbo (deslocado e entre vírgulas) é conclusivo.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A posição do ’pois’ determina sua função: antes do verbo é explicativo; após o verbo (deslocado e entre vírgulas) é conclusivo."
   }
 }
 ```
@@ -6606,7 +6597,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Embora o projeto tenha sido aprovado, sofreu severas críticas da oposição.",
       "is_correct": false,
-      "explanation": "Embora o sentido de oposição permaneça, a conjunção ’embora’ (concessiva) altera a hierarquia das orações e exige ajuste verbal. O ’mas’ enfatiza a crítica; o ’embora’ enfatiza a aprovação. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Embora o sentido de oposição permaneça, a conjunção ’embora’ (concessiva) altera a hierarquia das orações e exige ajuste verbal. O ’mas’ enfatiza a crítica; o ’embora’ enfatiza a aprovação."
     },
     {
       "id": "B",
@@ -6630,7 +6621,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O projeto foi aprovado, conquanto sofreu severas críticas da oposição.",
       "is_correct": false,
-      "explanation": "’Conquanto’ é uma conjunção concessiva e exige o verbo no subjuntivo (’sofra’ ou ’tivesse sofrido’), além de alterar a ênfase da frase. ARROW-LEFT VOLTAR À QUESTÃO 393"
+      "explanation": "’Conquanto’ é uma conjunção concessiva e exige o verbo no subjuntivo (’sofra’ ou ’tivesse sofrido’), além de alterar a ênfase da frase."
     }
   ],
   "answer_key": "C",
@@ -6676,11 +6667,11 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Adversativo, visto que estabelece um contraste entre a auditoria e o pagamento.",
       "is_correct": false,
-      "explanation": "Não há oposição entre os fatos; a suspensão é uma decorrência direta das falhas, não um contraste. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "Não há oposição entre os fatos; a suspensão é uma decorrência direta das falhas, não um contraste."
     },
     {
       "id": "D",
-      "text": "Causal, uma vez que apresenta o motivo da suspensão dos pagamentos. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Causal, uma vez que apresenta o motivo da suspensão dos pagamentos.",
       "is_correct": false,
       "explanation": "Embora as falhas sejam a causa, a conjunção ’pois’ (nesta posição) introduz a conclusão lógica do raciocínio, não a causa gramatical."
     },
@@ -6688,7 +6679,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Aditivo, pois acrescenta uma nova informação à análise do relatório.",
       "is_correct": false,
-      "explanation": "A conjunção não está apenas somando informações, mas estabelecendo uma relação de dependência lógica (inferência). ARROW-LEFT VOLTAR À QUESTÃO 394"
+      "explanation": "A conjunção não está apenas somando informações, mas estabelecendo uma relação de dependência lógica (inferência)."
     }
   ],
   "answer_key": "B",
@@ -6744,9 +6735,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Por causa dos esforços da equipe de tecnologia, o sistema permaneceu instável. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Por causa dos esforços da equipe de tecnologia, o sistema permaneceu instável.",
       "is_correct": false,
-      "explanation": "Altera o sentido para causa, o que é logicamente incoerente (esforços para restaurar não causariam instabilidade). 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações ARROW-LEFT VOLTAR À QUESTÃO 395"
+      "explanation": "Altera o sentido para causa, o que é logicamente incoerente (esforços para restaurar não causariam instabilidade)."
     }
   ],
   "answer_key": "D",
@@ -6804,7 +6795,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Os técnicos agiram muito rápido para conter o vazamento de gás.",
       "is_correct": false,
-      "explanation": "’Muito’ é um advérbio de intensidade que modifica outro advérbio (’rápido’). ARROW-LEFT VOLTAR À QUESTÃO 396 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações"
+      "explanation": "’Muito’ é um advérbio de intensidade que modifica outro advérbio (’rápido’)."
     }
   ],
   "answer_key": "C",
@@ -6854,7 +6845,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Muitas conscientemente. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Muitas conscientemente.",
       "is_correct": false,
       "explanation": "’Muitas’ é pronome e não pode modificar um advérbio; o correto seria o advérbio ’muito’."
     },
@@ -6862,7 +6853,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Bastante conscientemente.",
       "is_correct": true,
-      "explanation": "Mantém a circunstância de modo e a intensidade original, respeitando a invariabilidade do advérbio. ARROW-LEFT VOLTAR À QUESTÃO 397"
+      "explanation": "Mantém a circunstância de modo e a intensidade original, respeitando a invariabilidade do advérbio."
     }
   ],
   "answer_key": "E",
@@ -6920,13 +6911,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Os operários trabalhavam muito para entregar a obra. (Intensidade)",
       "is_correct": false,
-      "explanation": "O advérbio ’muito’ modifica o verbo ’trabalhavam’, intensificando a ação realizada pelos operários. ARROW-LEFT VOLTAR À QUESTÃO 398"
+      "explanation": "O advérbio ’muito’ modifica o verbo ’trabalhavam’, intensificando a ação realizada pelos operários."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A a afirmação apresentada está incorreta porque a locução ’com as mãos’ indica o instrumento ou o meio utilizado pelo artesão para realizar a ação de moldar, e não uma circunstância de 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações lugar. De acordo com o conteúdo de referência, expressões que indicam a ferramenta ou parte do corpo utilizada para uma ação são classificadas como circunstância de instrumento.",
-    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A a afirmação apresentada está incorreta porque a locução ’com as mãos’ indica o instrumento ou o meio utilizado pelo artesão para realizar a ação de moldar, e não uma circunstância de 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações lugar. De acordo com o conteúdo de referência, expressões que indicam a ferramenta ou parte do corpo utilizada para uma ação são classificadas como circunstância de instrumento."
+    "resolution": "A a afirmação apresentada está incorreta porque a locução ’com as mãos’ indica o instrumento ou o meio utilizado pelo artesão para realizar a ação de moldar, e não uma circunstância de lugar. De acordo com o conteúdo de referência, expressões que indicam a ferramenta ou parte do corpo utilizada para uma ação são classificadas como circunstância de instrumento.",
+    "theoretical_content": "As classes gramaticais organizam as palavras conforme propriedades morfológicas, sintáticas e semânticas. Substantivos nomeiam seres e conceitos; adjetivos caracterizam; artigos determinam; numerais quantificam ou ordenam; pronomes retomam ou acompanham nomes; verbos expressam processos, estados ou fenômenos; advérbios modificam verbos, adjetivos ou outros advérbios; preposições estabelecem dependência; conjunções conectam orações ou termos; interjeições expressam reações.\n\nA classificação depende do uso no contexto. Uma mesma forma pode pertencer a classes diferentes: “bastante” pode ser pronome indefinido/adjetivo quando acompanha um substantivo (“bastantes razões”) e advérbio quando modifica verbo, adjetivo ou advérbio (“trabalhou bastante”, invariável). Preposição liga termos estabelecendo relação de dependência; conjunção articula orações ou elementos de mesma função.\n\nPara classificar, observe o termo que a palavra acompanha ou modifica, sua flexão e sua função na oração. Não confunda classe morfológica com função sintática: substantivo é classe; sujeito e objeto são funções. A análise contextual é decisiva.\n\nAplicação ao problema apresentado: A a afirmação apresentada está incorreta porque a locução ’com as mãos’ indica o instrumento ou o meio utilizado pelo artesão para realizar a ação de moldar, e não uma circunstância de lugar. De acordo com o conteúdo de referência, expressões que indicam a ferramenta ou parte do corpo utilizada para uma ação são classificadas como circunstância de instrumento."
   }
 }
 ```
@@ -6952,7 +6943,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Se eles tivessem lido o edital, não cometeriam esse erro amanhã. 1. Língua Portuguesa 1.9. Classes de Palavras: Usos e Adequações",
+      "text": "Se eles tivessem lido o edital, não cometeriam esse erro amanhã.",
       "is_correct": false,
       "explanation": "’Tivessem lido’ (passado) não correlaciona logicamente com uma ação pontual futura ’amanhã’ da forma apresentada; a estrutura sugere uma hipótese sobre algo que já poderia ter ocorrido."
     },
@@ -6976,9 +6967,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Se o agente fizesse o relatório com atenção, não teria tantos erros. 1.9.4 Gabaritos e Comentários 317",
+      "text": "Se o agente fizesse o relatório com atenção, não teria tantos erros.",
       "is_correct": true,
-      "explanation": "Mantém a harmonia temporal exigida para situações hipotéticas no passado/presente. ARROW-LEFT VOLTAR À QUESTÃO 399 1.10 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL 1.10.1 Questões Fáceis 400 Questão 400 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL Considerando as normas de concordância verbal da norma-padrão, assinale a alternativa em que o verbo está flexionado corretamente em relação ao seu sujeito. A O conjunto de medidas econômicas anunciadas pelo governo surtiu efeito. B O fluxo de informações constantes nas redes sociais sobrecarregam o usuário. C O atraso nos pagamentos dos fornecedores geraram muitas reclamações. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … D A lista de documentos necessários para a inscrição foram publicadas ontem. E As vagas para o novo processo seletivo da instituição já se encerrou. 401 Questão 401 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL No que se refere à concordância com nomes próprios que possuem forma plural, assinale a esta afirmação. A As Minas Gerais é uma região de grande importância histórica. B Alagoas encantam os turistas com suas praias de águas cristalinas. C Os Andes atravessa diversos países da América do Sul. D Os Estados Unidos detém uma economia diversificada e robusta. E Minas Gerais produz uma grande quantidade de minério de ferro. 402 Questão 402 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL A concordância verbal com nomes próprios que apresentam forma de plural é determinada pela presença ou ausência de determinantes (artigos). Com base nessa regra da norma-padrão, assinale a esta afirmação. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … A Minas Gerais produzem uma vasta quantidade de minério de ferro para exportação. B Os Lusíadas, obra máxima de Camões, imortalizaram a história do povo português. C Os Estados Unidos exerce uma influência significativa na economia global contemporânea. D Os Andes estende-se por diversos países da América do Sul, formando uma vasta cadeia. E Alagoas encantam os turistas com suas praias de águas cristalinas e mornas. 403 Questão 403 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL Leia o texto para responder à questão. A praça e a biblioteca do bairro reabriram na segunda-feira, depois de seis meses de reforma. O prefeito, os vereadores e dezenas de moradores participaram da cerimônia, que terminou com uma apresentação da banda municipal. Assinale a alternativa em que a concordância verbal está de acordo com a norma-padrão. A Dezenas de moradores esteve presente na cerimônia. B A praça e a biblioteca do bairro reabriu na segunda-feira. C A banda municipal e o coral da escola encerrou a cerimônia. D O prefeito e os vereadores discursaram durante a cerimônia. E Os moradores do bairro participou da cerimônia de reabertura. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 404 Questão 404 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL Considerando as normas de concordância verbal da norma-padrão da língua portuguesa, assinale a alternativa em que o verbo haver foi empregado corretamente. A Naquela repartição, haviam servidores que trabalhavam há mais de trinta anos. B Houve sérias divergências entre os membros da comissão organizadora do evento. C Caso hajam desistências, os suplentes serão convocados imediatamente pela Administração. D Houveram muitos incidentes durante a realização do certame público no último domingo. E Não devem haver dúvidas sobre a integridade do processo de avaliação dos candidatos. 405 Questão 405 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL Assinale a alternativa que apresenta erro de concordância verbal quanto ao uso do verbo fazer. A Faz dez anos que o novo regulamento interno foi publicado oficialmente. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … B Fazem dois meses que os novos agentes públicos tomaram posse em seus cargos. C Deve fazer pelo menos uma semana que o relatório foi entregue à chefia. D Faz verões escaldantes nesta parte do país, o que exige atenção à saúde. E Naquela região serrana, costuma fazer dias muito frios durante o inverno. 406 Questão 406 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL No que diz respeito à concordância verbal, assinale a alternativa que apresenta o uso CORRETO dos verbos impessoais, de acordo com a norma-padrão da língua portuguesa. A Fazia dias que o sistema de protocolo apresentava instabilidades técnicas recorrentes. B Haviam diversos documentos pendentes de assinatura sobre a mesa do coordenador. C Fazem muitos meses que a Administração não realiza novas contratações para o setor. D Fazem verões extremamente rigorosos e secos naquela região do país. E Devem haver soluções mais eficientes para o problema do atendimento ao público. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 407 Questão 407 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL No que se refere à concordância verbal, a norma-padrão da língua portuguesa estabelece regras específicas para os verbos que não possuem sujeito. Com base nesse preceito, assinale a alternativa em que a redação está inteiramente CORRETA. A Houve bastantes intercorrências durante a realização do evento institucional. B Fazem aproximadamente dois anos que o novo sistema de protocolo foi implementado. C Existia, naquela repartição pública, diversos processos aguardando o parecer jurídico. D Haviam muitos documentos pendentes de análise sobre a mesa do coordenador. E Devem haver explicações plausíveis para o atraso na entrega do relatório final. 408 Questão 408 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL Considerando as regras de concordância verbal e a função da partícula ’se’, assinale a alternativa em que o verbo está flexionado corretamente de acordo com a norma-padrão: A Encontrou-se diversos erros no relatório final. B Aluga-se excelentes salas comerciais no centro. C Consertam-se aparelhos eletrônicos com garantia. D Vende-se automóveis seminovos revisados. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … E Busca-se novas oportunidades de investimento. 409 Questão 409 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL No que se refere ao uso do ’se’ como índice de indeterminação do sujeito, assinale a alternativa que apresenta a concordância correta: A Necessitam-se de novos servidores para o setor. B Confiam-se em resultados positivos este ano. C Acreditam-se em soluções milagrosas para a crise. D Apelam-se para o bom senso dos envolvidos. E Trata-se de mudanças estruturais necessárias. 410 Questão 410 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL Considerando as regras de concordância nominal para as palavras de natureza adjetiva ou adverbial, assinale a alternativa que preenche corretamente as lacunas da frase abaixo: ”A servidora parecia _____ preocupada com o prazo, por isso disse: ’Muito _____ pela 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … ajuda’.” A meio – obrigado B meio – obrigados C meia – obrigada D meia – obrigado E meio – obrigada 411 Questão 411 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL No que se refere ao uso das expressões ’anexo’ e ’em anexo’, assinale a alternativa que apresenta a concordância correta de acordo com a norma culta: A As certidões seguem em anexas ao processo administrativo. B As fotografias solicitadas seguem anexas ao relatório. C Seguem anexo as faturas referentes ao mês de janeiro. D Seguem em anexos os documentos de identificação. E A documentação necessária segue anexo ao requerimento. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 412 Questão 412 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○FÁCIL No que se refere à concordância nominal, quando um adjetivo qualifica dois ou mais substantivos e está posposto a eles (colocado depois), a norma culta permite variações. Assinale a alternativa em que a concordância do termo sublinhado está INCORRETA. A O servidor comprou computador e impressora novos. B O servidor comprou impressora e computador novos. C O servidor comprou impressora e computador novo. D O servidor comprou computador e impressora nova. E O servidor comprou impressora e computador novas. 1.10.2 Questões de Nível Médio 413 Questão 413 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Analise a frase a seguir: ’Grande parte dos servidores _____ favoravelmente à nova proposta de reestruturação.’ Assinale a alternativa que preenche corretamente a lacuna, considerando as possibilidades previstas na norma culta. A manifestou-se ou manifestaram-se. B manifestaram-se, apenas. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … C manifestou-se, apenas. D se manifestou, sendo a única forma aceita. E manifestariam-se, obrigatoriamente. 414 Questão 414 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO A concordância verbal com os pronomes relativos que e quem possui regras específicas. Assinale a alternativa gramaticalmente correta. A Fui eu quem organizou toda a documentação do setor. B Eram eles que mantinha a ordem durante as sessões. C Fomos nós que trouxe os relatórios para a reunião. D Fui eu que ajudou o novo estagiário na semana passada. E Fomos nós quem fizeram o projeto de lei. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 415 Questão 415 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Quanto à concordância do sujeito composto, assinale a alternativa que apresenta uma construção em desacordo com a norma-padrão. A Faltou coragem e determinação ao grupo de trabalho. B Bateram onze horas o relógio da matriz e o da sala. C O empenho e a dedicação são fundamentais para o sucesso. D Surgiram, de repente, uma dúvida e um receio. E O diretor e o coordenador assinou o termo de posse. 416 Questão 416 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO A conjunção ou pode indicar exclusão ou inclusão, alterando a concordância verbal. Assinale a esta afirmação quanto a esse aspecto. A O frio ou o calor excessivo causa desconforto aos presentes. B João ou Pedro será o escolhido para a vaga única de gerente. C Ana ou Beatriz serão a oradora oficial da turma. D O sedentarismo ou a má alimentação prejudica o coração. E Roma ou Paris serão a sede do próximo congresso internacional. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 417 Questão 417 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Analise a frase a seguir: ’Devem existir mecanismos de controle mais rígidos na gestão dos recursos.’ Se o verbo existir for substituído pelo verbo haver, mantendo-se o sentido original, a forma verbal resultante correta será: A Devem haver B Deve haver C Devem haverem D Hão de haver E Deve haverem 418 Questão 418 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO No que se refere à sintaxe da oração, assinale a alternativa que descreve corretamente o verbo e a função do termo destacado em: ’Havia muitos processos acumulados sobre a mesa do servidor’. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … A O verbo é de ligação e o termo destacado funciona como predicativo do sujeito. B O verbo é impessoal e ’muitos processos acumulados’ é o sujeito da oração. C O verbo é pessoal e concorda com o sujeito ’muitos processos acumulados’. D O verbo é transitivo indireto e o termo destacado é um objeto indireto. E O verbo é impessoal e ’muitos processos acumulados’ exerce a função de objeto direto. 419 Questão 419 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO O verbo haver pode ser empregado como pessoal ou impessoal, a depender do contexto. Assinale a alternativa em que o verbo haver é PESSOAL e, portanto, sua flexão de plural está correta. A Não houveram quaisquer reclamações registradas no livro de ocorrências. B Haviam muitas pessoas aguardando o início do atendimento na recepção. C Sempre houveram dúvidas sobre a interpretação daquele artigo da lei. D Os técnicos haviam terminado o relatório antes do prazo estipulado. E Devem haver formas mais simples de resolver este problema administrativo. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 420 Questão 420 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Analise a concordância das orações abaixo e assinale a opção que está em conformidade com as exigências da norma culta para a redação oficial. A Hão de existir alternativas viáveis para a redução de custos operacionais do órgão. B Houveram muitas dúvidas durante a apresentação do novo cronograma de atividades. C Já devem fazer dez anos que o servidor atua na mesma unidade administrativa. D Poderão haver novas convocações assim que o orçamento for devidamente aprovado. E Sempre houveram critérios rigorosos para a seleção de estagiários na instituição. 421 Questão 421 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Analise a frase a seguir: ’Devem-se observar rigorosamente os prazos estabelecidos no edital.’ Sobre a estrutura sintática e a concordância da frase acima, é correto afirmar que: A A transposição para a voz passiva analítica resultaria em: ’Deve-se ser observado os prazos’. B O termo ’os prazos estabelecidos’ exerce a função de objeto direto da locução verbal. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … C A frase está incorreta, pois o verbo auxiliar deveria permanecer no singular por causa da partícula ’se’. D O verbo auxiliar está no plural porque o ’se’ é índice de indeterminação do sujeito. E A partícula ’se’ é apassivadora, o que torna o termo ’os prazos estabelecidos’ o sujeito da oração. 422 Questão 422 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Assinale a opção em que a norma de concordância verbal foi DESRESPEITADA, considerando a função da partícula ’se’: A Vive-se em condições precárias naquelas regiões isoladas. B Comentou-se que as provas seriam adiadas para o próximo mês. C Tratam-se de questões fundamentais para o desenvolvimento do projeto. D Não se admitem comportamentos antiéticos nesta instituição. E Atribuíram-se aos candidatos as responsabilidades pelo atraso. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 423 Questão 423 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Analise as sentenças abaixo quanto ao emprego das palavras ’bastante’ e ’só’: I. Havia bastantes motivos para a interrupção da sessão. II. Os agentes públicos ficaram sós na sala de reuniões. III. Eles só queriam entender o regulamento da instituição. Está(ão) correta(s): A Apenas I e III. B I, II e III. C Apenas I. D Apenas II. E Apenas II e III. 424 Questão 424 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Assinale a alternativa que preenche, correta e respectivamente, as lacunas do texto a seguir: ”Os diretores _____ revisaram os textos, pois consideraram que as informações eram _____ para o público. No entanto, as propostas custaram _____ aos cofres da Administração.” A mesmos – bastante – caros B mesmo – bastante – caros 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … C mesmo – bastantes – caro D mesmos – bastantes – caros E mesmos – bastantes – caro 425 Questão 425 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO A concordância nominal está inteiramente correta em: A As mercadorias estavam meio caras devido à inflação. B Eles ficaram a sós no gabinete para tratar de temas sigilosos. C Seguem incluso os boletos para pagamento da taxa. D É meio-dia e meio, informou o relógio da praça central. E As candidatas mesmas decidiram entrar com o recurso. 426 Questão 426 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Analise a concordância nominal na seguinte frase: ’As prezadas mãe e filha compareceram à cerimônia’. A concordância do termo destacado justifica-se por: 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … A Tratar-se de um caso de substantivos sinônimos, onde o plural é facultativo. B Ser um adjetivo posposto que concorda com o elemento mais próximo. C Haver um erro gramatical, pois o adjetivo deveria concordar apenas com ’mãe’. D Ser um predicativo do sujeito anteposto, que exige concordância com o todo. E Ser um adjetivo anteposto a substantivos que indicam parentesco, exigindo o plural. 427 Questão 427 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○MÉDIO Assinale a alternativa que apresenta uma concordância nominal INADEQUADA de acordo com as normas da língua portuguesa. A Estavam desertos a vila e o vilarejo durante o feriado. B Encontrei o diretor e a secretária atentos ao cronograma. C O diretor e a secretária estavam atentos ao cronograma. D Estava deserta a vila e o vilarejo durante o feriado. E Estavam deserta a vila e o vilarejo durante o feriado. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 1.10.3 Questões Difíceis 428 Questão 428 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL Assinale a alternativa em que a concordância verbal está correta, considerando a presença da preposição com. A O professor com os alunos organizou a feira de ciências. B O pai, com os filhos, saíram cedo para o passeio. C O presidente, com seus ministros, anunciaram o novo pacote. D A coordenadora com a secretária redigiu o documento oficial. E O técnico com os jogadores comemoraram a vitória no vestiário. 429 Questão 429 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL Em certas situações, a norma culta permite que o verbo fique no singular mesmo com sujeito composto anteposto. Assinale a alternativa que ilustra essa exceção por gradação ou sinonímia. A O medo e a insegurança impediam o avanço do projeto. B A fome e a sede castigava os retirantes durante a seca. C Livros e revistas estava espalhada por toda a biblioteca. D O diretor e o secretário compareceu à cerimônia de abertura. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … E Uma palavra, um gesto, um olhar bastava para convencê-lo. 430 Questão 430 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL No que tange à hierarquia das pessoas gramaticais na concordância do sujeito composto, assinale a esta afirmação. A Tu e teu irmão fará a inscrição no período vespertino. B Eu, tu e ele fareis o trabalho conforme o combinado. C Eu e os demais conselheiros tomamos a decisão por unanimidade. D Tu e teus amigos saiu apressado da reunião. E Nem eu nem tu conseguistes resolver o problema proposto. 431 Questão 431 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL As bancas examinadoras frequentemente utilizam termos intercalados para dificultar a identificação do núcleo do sujeito. Assinale a alternativa em que a concordância verbal está inteiramente correta. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … A A necessidade de reformas estruturais em diversos setores da administração pública permanecem latente. B As propostas de alteração do regimento interno, que visam à melhoria dos processos, foi rejeitada. C A manutenção das máquinas, apesar de todos os esforços dos técnicos da empresa, foram concluídas. D A análise detalhada dos processos acumulados durante o último semestre revelou graves inconsistências. E A criação de novos mecanismos de controle e fiscalização dos gastos públicos parecem desnecessárias. 432 Questão 432 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL Analise as propostas de reescrita para a frase: ’Faz cinco anos que não ocorrem mudanças na estrutura organizacional’. I. Devem fazer cinco anos que não há mudanças na estrutura organizacional. II. Faz cinco anos que não existem mudanças na estrutura organizacional. III. Fazem cinco anos que não se vê mudanças na estrutura organizacional. Está(ão) correta(s) quanto à concordância verbal apenas: A II B I C III D II e III 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … E I e II 433 Questão 433 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL A substituição de verbos em questões de reescrita exige atenção à transposição da impessoalidade. Assinale a opção em que a substituição do verbo sublinhado foi feita de forma INADEQUADA à norma-padrão. A Devem existir soluções viáveis. / Deve haver soluções viáveis. B Aconteceram fatos estranhos ontem. / Houve fatos estranhos ontem. C Ocorreram muitos problemas na implantação. / Houveram muitos problemas na implantação. D Faz dez dias que ele não aparece. / Há dez dias que ele não aparece. E Existem muitos desafios a serem superados. / Há muitos desafios a serem superados. 434 Questão 434 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL O verbo haver pode comportar-se como pessoal ou impessoal a depender da função sintática que exerce no período. Assinale a alternativa em que a concordância verbal foi 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … plenamente respeitada. A Faziam dez anos que os processos haviam sido arquivados por falta de provas. B Haviam muitos interessados na vaga, mas poucos haviam se preparado adequadamente. C Poderiam haver, caso houvesse interesse, novas propostas de melhoria no setor. D Se houverem desistências entre os inscritos, os suplentes haviam de ser chamados. E Os gestores haviam solicitado que não houvesse interrupções durante o expediente. 435 Questão 435 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL O verbo haver pode assumir funções distintas na oração, comportando-se como pessoal ou impessoal a depender do contexto sintático. Assinale a alternativa em que o uso desse verbo está INCORRETO de acordo com as exigências da norma culta. A Hão de existir mecanismos mais eficientes para a fiscalização dos contratos vigentes. B Poderão haver novas convocações caso a demanda de trabalho aumente no próximo semestre. C Não deve haver quaisquer restrições ao acesso de informações públicas, salvo sigilo legal. D Sempre houve, entre os membros da equipe, uma preocupação com a ética profissional. E Os servidores haviam concluído o treinamento antes do prazo estipulado pela administração. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 436 Questão 436 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL A concordância verbal com a partícula ’se’ é um tema que exige atenção à transitividade. Avalie as sentenças abaixo: I. Pode-se prever novos cortes no orçamento para o próximo ano. II. Devem-se buscar soluções alternativas para o problema do tráfego. III. Há de se considerar as reivindicações dos servidores. Está(ão) correta(s) quanto à concordância apenas: A I B II e III C II D III E I e II 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 437 Questão 437 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL Em qual das alternativas a substituição da voz passiva analítica pela voz passiva sintética (com a partícula ’se’) foi realizada de forma INCORRETA quanto à concordância? A Provas foram colhidas. / Colheram-se provas. B O resultado foi divulgado. / Divulgou-se o resultado. C Créditos foram concedidos. / Concederam-se créditos. D Mudanças foram solicitadas. / Solicitaram-se mudanças. E Novas regras foram estabelecidas. / Estabeleceu-se novas regras. 438 Questão 438 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL Analise as duas construções abaixo quanto à sintaxe e à concordância: 1. Atribuíram-se aos novos servidores as tarefas mais complexas. 2. Tratou-se, naquelas reuniões, de questões meramente burocráticas. Sobre elas, assinale a afirmativa correta: A Em 2, o termo ’questões meramente burocráticas’ é o sujeito da oração. B Em 1, o termo ’as tarefas mais complexas’ exerce a função de sujeito paciente. C Em ambas as frases, a partícula ’se’ exerce a mesma função sintática. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … D Em 1, o ’se’ é índice de indeterminação do sujeito e o verbo deveria estar no singular. E Em 2, o verbo deveria estar no plural para concordar com o termo ’questões’. 439 Questão 439 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL No que tange às nuances da concordância nominal e às funções gramaticais das palavras, assinale a opção em que a norma culta foi RESPEITADA: A Elas só queriam ficar a sós para discutir o novo projeto. B Havia bastante razões para que o contrato fosse rescindido. C Mesmo cansadas, as servidoras terminaram o relatório anual. D As janelas do órgão público custaram caras para o erário. E A porta estava meia aberta quando o agente chegou ao local. 440 Questão 440 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL Assinale a alternativa que apresenta um erro de concordância nominal, conforme as regras para casos particulares: 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … A Os documentos próprios foram entregues ao setor de protocolo. B As cópias dos editais seguem anexas ao processo principal. C As taxas de inscrição para o certame estavam meia caras. D As funcionárias ficaram sós durante o intervalo do almoço. E Já é meio-dia e meia, portanto o expediente está encerrado. 441 Questão 441 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL No trecho ’Tinha amor e carinho eterno’, a concordância nominal do adjetivo destacado é permitida pela norma culta. Sobre esse caso específico, assinale a análise correta: A O erro reside no gênero, pois ’carinho’ exige que o adjetivo seja feminino para equilibrar a frase. B Trata-se de um adjetivo anteposto, por isso a concordância com o último termo é obrigatória. C O adjetivo está incorreto, pois deveria estar obrigatoriamente no plural (’eternos’). D A concordância é atrativa e serve para enfatizar a unidade ou gradação entre os substantivos sinônimos. E O adjetivo concorda com ’amor’, que é o núcleo mais importante da oração. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 442 Questão 442 CONVENÇÕES DA NORMA PADRÃO: CONCORDÂNCIA VERBAL E NOMINAL ○○○DIFÍCIL Considere as regras de concordância para adjetivos que se referem a múltiplos substantivos. Assinale a alternativa que apresenta uma estrutura que DESOBEDECE aos preceitos da norma gramatical. A Escolhemos mau lugar e hora para o início do projeto. B Velhos revistas e livros preenchiam as prateleiras da biblioteca. C O processo apresentava argumento e prova decisiva. D Consideramos perigosos o local e a situação. E Encontrei os queridos pai e mãe no pátio da instituição. 1.10.4 Gabaritos e Comentários"
+      "explanation": "Mantém a harmonia temporal exigida para situações hipotéticas no passado/presente."
     }
   ],
   "answer_key": "E",
@@ -7022,7 +7013,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "O atraso nos pagamentos dos fornecedores geraram muitas reclamações. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "O atraso nos pagamentos dos fornecedores geraram muitas reclamações.",
       "is_correct": false,
       "explanation": "O núcleo do sujeito é ’atraso’ (singular), exigindo a forma verbal ’gerou’."
     },
@@ -7036,7 +7027,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "As vagas para o novo processo seletivo da instituição já se encerrou.",
       "is_correct": false,
-      "explanation": "O núcleo do sujeito é ’vagas’ (plural), portanto o verbo deveria estar no plural: ’já se encerraram’. ARROW-LEFT VOLTAR À QUESTÃO 400"
+      "explanation": "O núcleo do sujeito é ’vagas’ (plural), portanto o verbo deveria estar no plural: ’já se encerraram’."
     }
   ],
   "answer_key": "A",
@@ -7082,7 +7073,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Os Andes atravessa diversos países da América do Sul.",
       "is_correct": false,
-      "explanation": "Nome geográfico no plural precedido de artigo plural (’Os’) leva o verbo ao plural: ’Os Andes atravessam’. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "Nome geográfico no plural precedido de artigo plural (’Os’) leva o verbo ao plural: ’Os Andes atravessam’."
     },
     {
       "id": "D",
@@ -7094,7 +7085,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Minas Gerais produz uma grande quantidade de minério de ferro.",
       "is_correct": true,
-      "explanation": "Sem artigo, o verbo permanece no singular. ARROW-LEFT VOLTAR À QUESTÃO 401"
+      "explanation": "Sem artigo, o verbo permanece no singular."
     }
   ],
   "answer_key": "E",
@@ -7122,7 +7113,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A concordância verbal com nomes próprios que apresentam forma de plural é determinada pela presença ou ausência de determinantes (artigos). Com base nessa regra da norma-padrão, assinale a alternativa correta. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+  "question_text": "A concordância verbal com nomes próprios que apresentam forma de plural é determinada pela presença ou ausência de determinantes (artigos). Com base nessa regra da norma-padrão, assinale a alternativa correta.",
   "alternatives": [
     {
       "id": "A",
@@ -7152,7 +7143,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Alagoas encantam os turistas com suas praias de águas cristalinas e mornas.",
       "is_correct": false,
-      "explanation": "Sem a presença de artigo, o nome próprio plural ’Alagoas’ exige o verbo no singular: ’Alagoas encanta’. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … ARROW-LEFT VOLTAR À QUESTÃO 402"
+      "explanation": "Sem a presença de artigo, o nome próprio plural ’Alagoas’ exige o verbo no singular: ’Alagoas encanta’."
     }
   ],
   "answer_key": "B",
@@ -7208,9 +7199,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Os moradores do bairro participou da cerimônia de reabertura. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Os moradores do bairro participou da cerimônia de reabertura.",
       "is_correct": false,
-      "explanation": "O núcleo ”moradores”está no plural: ”participaram”. ARROW-LEFT VOLTAR À QUESTÃO 403"
+      "explanation": "O núcleo ”moradores”está no plural: ”participaram”."
     }
   ],
   "answer_key": "D",
@@ -7268,13 +7259,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Não devem haver dúvidas sobre a integridade do processo de avaliação dos candi- datos.",
       "is_correct": false,
-      "explanation": "Em locuções verbais, se o verbo principal (’haver’) for impessoal, ele transmite a impessoalidade ao auxiliar. O correto é: ’Não deve haver dúvidas’. ARROW-LEFT VOLTAR À QUESTÃO 404"
+      "explanation": "Em locuções verbais, se o verbo principal (’haver’) for impessoal, ele transmite a impessoalidade ao auxiliar. O correto é: ’Não deve haver dúvidas’."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … O verbo ’haver’, quando empregado com sentido de ’ocorrer’, ’existir’ ou ’acontecer’, é impessoal, não possuindo sujeito. Por essa razão, deve permanecer obrigatoriamente na 3ª pessoa do singular.",
-    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … O verbo ’haver’, quando empregado com sentido de ’ocorrer’, ’existir’ ou ’acontecer’, é impessoal, não possuindo sujeito. Por essa razão, deve permanecer obrigatoriamente na 3ª pessoa do singular."
+    "resolution": "Convenções da Norma Padrão: Concordância … O verbo ’haver’, quando empregado com sentido de ’ocorrer’, ’existir’ ou ’acontecer’, é impessoal, não possuindo sujeito. Por essa razão, deve permanecer obrigatoriamente na 3ª pessoa do singular.",
+    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: O verbo ’haver’, quando empregado com sentido de ’ocorrer’, ’existir’ ou ’acontecer’, é impessoal, não possuindo sujeito. Por essa razão, deve permanecer obrigatoriamente na 3ª pessoa do singular."
   }
 }
 ```
@@ -7300,7 +7291,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Faz dez anos que o novo regulamento interno foi publicado oficialmente. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Faz dez anos que o novo regulamento interno foi publicado oficialmente.",
       "is_correct": false,
       "explanation": "A frase está correta: o verbo está no singular indicando tempo decorrido. Por isso, não é a resposta."
     },
@@ -7326,7 +7317,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Naquela região serrana, costuma fazer dias muito frios durante o inverno.",
       "is_correct": false,
-      "explanation": "A frase está correta: o verbo ’fazer’ indicando fenômeno climático é impessoal e, em locução verbal, mantém o auxiliar no singular. ARROW-LEFT VOLTAR À QUESTÃO 405"
+      "explanation": "A frase está correta: o verbo ’fazer’ indicando fenômeno climático é impessoal e, em locução verbal, mantém o auxiliar no singular."
     }
   ],
   "answer_key": "B",
@@ -7372,7 +7363,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Fazem muitos meses que a Administração não realiza novas contratações para o setor.",
       "is_correct": false,
-      "explanation": "O verbo ’fazer’ indicando tempo decorrido é impessoal; o correto seria ’Faz muitos meses’. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "O verbo ’fazer’ indicando tempo decorrido é impessoal; o correto seria ’Faz muitos meses’."
     },
     {
       "id": "D",
@@ -7382,9 +7373,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Devem haver soluções mais eficientes para o problema do atendimento ao público. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Devem haver soluções mais eficientes para o problema do atendimento ao público.",
       "is_correct": false,
-      "explanation": "Em locuções verbais onde o verbo principal é impessoal (’haver’ no sentido de existir), o verbo auxiliar (’dever’) também deve ficar no singular: ’Deve haver’. ARROW-LEFT VOLTAR À QUESTÃO 406"
+      "explanation": "Em locuções verbais onde o verbo principal é impessoal (’haver’ no sentido de existir), o verbo auxiliar (’dever’) também deve ficar no singular: ’Deve haver’."
     }
   ],
   "answer_key": "A",
@@ -7442,7 +7433,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Devem haver explicações plausíveis para o atraso na entrega do relatório final.",
       "is_correct": false,
-      "explanation": "Em locuções verbais onde o verbo principal é o ’haver’ impessoal (existir), o verbo auxiliar (’dever’) também deve permanecer no singular (’Deve haver’). 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … ARROW-LEFT VOLTAR À QUESTÃO 407"
+      "explanation": "Em locuções verbais onde o verbo principal é o ’haver’ impessoal (existir), o verbo auxiliar (’dever’) também deve permanecer no singular (’Deve haver’)."
     }
   ],
   "answer_key": "A",
@@ -7492,7 +7483,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Vende-se automóveis seminovos revisados. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Vende-se automóveis seminovos revisados.",
       "is_correct": false,
       "explanation": "O verbo ’vender’ (VTD) deveria estar no plural (’Vendem-se’) para concordar com o sujeito ’automóveis seminovos’."
     },
@@ -7500,7 +7491,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Busca-se novas oportunidades de investimento.",
       "is_correct": false,
-      "explanation": "O verbo ’buscar’ (VTD) deveria estar no plural (’Buscam-se’) para concordar com o sujeito ’novas oportunidades’. ARROW-LEFT VOLTAR À QUESTÃO 408 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "O verbo ’buscar’ (VTD) deveria estar no plural (’Buscam-se’) para concordar com o sujeito ’novas oportunidades’."
     }
   ],
   "answer_key": "C",
@@ -7558,7 +7549,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Trata-se de mudanças estruturais necessárias.",
       "is_correct": true,
-      "explanation": "O verbo ’tratar-se’ é VTI e está corretamente flexionado no singular, apesar do complemento plural ’mudanças estruturais’. ARROW-LEFT VOLTAR À QUESTÃO 409"
+      "explanation": "O verbo ’tratar-se’ é VTI e está corretamente flexionado no singular, apesar do complemento plural ’mudanças estruturais’."
     }
   ],
   "answer_key": "E",
@@ -7586,7 +7577,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considerando as regras de concordância nominal para as palavras de natureza adjetiva ou adverbial, assinale a alternativa que preenche corretamente as lacunas da frase abaixo: ”A servidora parecia _____ preocupada com o prazo, por isso disse: ’Muito _____ pela 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … ajuda’.”",
+  "question_text": "Considerando as regras de concordância nominal para as palavras de natureza adjetiva ou adverbial, assinale a alternativa que preenche corretamente as lacunas da frase abaixo: ”A servidora parecia _____ preocupada com o prazo, por isso disse: ’Muito _____ pela ajuda’.”",
   "alternatives": [
     {
       "id": "A",
@@ -7616,13 +7607,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "meio – obrigada",
       "is_correct": true,
-      "explanation": "’Meio’ é advérbio (invariável) e ’obrigada’ concorda com o gênero da servidora. ARROW-LEFT VOLTAR À QUESTÃO 410"
+      "explanation": "’Meio’ é advérbio (invariável) e ’obrigada’ concorda com o gênero da servidora."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … A palavra ’meio’ funciona como advérbio (equivalente a ’um pouco’), sendo invariável. A palavra ’obrigada’ deve concordar com o gênero de quem fala (feminino).",
-    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … A palavra ’meio’ funciona como advérbio (equivalente a ’um pouco’), sendo invariável. A palavra ’obrigada’ deve concordar com o gênero de quem fala (feminino)."
+    "resolution": "Convenções da Norma Padrão: Concordância … A palavra ’meio’ funciona como advérbio (equivalente a ’um pouco’), sendo invariável. A palavra ’obrigada’ deve concordar com o gênero de quem fala (feminino).",
+    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: A palavra ’meio’ funciona como advérbio (equivalente a ’um pouco’), sendo invariável. A palavra ’obrigada’ deve concordar com o gênero de quem fala (feminino)."
   }
 }
 ```
@@ -7650,7 +7641,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "As certidões seguem em anexas ao processo administrativo.",
       "is_correct": false,
-      "explanation": "A locução ’em anexo’ é invariável, portanto o correto seria ’em anexo’. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "A locução ’em anexo’ é invariável, portanto o correto seria ’em anexo’."
     },
     {
       "id": "B",
@@ -7672,9 +7663,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A documentação necessária segue anexo ao requerimento. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "A documentação necessária segue anexo ao requerimento.",
       "is_correct": false,
-      "explanation": "’Anexo’ deve concordar com ’documentação’, resultando na forma ’anexa’. ARROW-LEFT VOLTAR À QUESTÃO 411"
+      "explanation": "’Anexo’ deve concordar com ’documentação’, resultando na forma ’anexa’."
     }
   ],
   "answer_key": "B",
@@ -7720,7 +7711,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "O servidor comprou impressora e computador novo.",
       "is_correct": false,
-      "explanation": "A construção está correta, por isso não é a resposta: o adjetivo ’novo’ concorda atrativamente com o substantivo mais próximo ’computador’. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "A construção está correta, por isso não é a resposta: o adjetivo ’novo’ concorda atrativamente com o substantivo mais próximo ’computador’."
     },
     {
       "id": "D",
@@ -7732,7 +7723,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O servidor comprou impressora e computador novas. 1.10.2 Questões de Nível Médio",
       "is_correct": true,
-      "explanation": "Esta é a construção que contraria a norma, porque, ao concordar com o conjunto de gêneros distintos (masculino e feminino), o adjetivo deve assumir a forma masculina plural (’novos’), e não a feminina. ARROW-LEFT VOLTAR À QUESTÃO 412"
+      "explanation": "Esta é a construção que contraria a norma, porque, ao concordar com o conjunto de gêneros distintos (masculino e feminino), o adjetivo deve assumir a forma masculina plural (’novos’), e não a feminina."
     }
   ],
   "answer_key": "E",
@@ -7770,7 +7761,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "manifestaram-se, apenas. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "manifestaram-se, apenas.",
       "is_correct": false,
       "explanation": "Embora ’manifestaram-se’ esteja correto (concordando com ’servidores’), não é a única forma possível."
     },
@@ -7790,7 +7781,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "manifestariam-se, obrigatoriamente.",
       "is_correct": false,
-      "explanation": "O uso do futuro do pretérito não é obrigatório e a concordância não é restrita ao plural. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … ARROW-LEFT VOLTAR À QUESTÃO 413"
+      "explanation": "O uso do futuro do pretérito não é obrigatório e a concordância não é restrita ao plural."
     }
   ],
   "answer_key": "A",
@@ -7846,9 +7837,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Fomos nós quem fizeram o projeto de lei. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Fomos nós quem fizeram o projeto de lei.",
       "is_correct": false,
-      "explanation": "Com o pronome ’quem’, o verbo fica na 3ª pessoa do singular (’Fomos nós quem fez’) ou concorda com o antecedente (’Fomos nós quem fizemos’); a 3ª pessoa do plural (’fizeram’) não tem apoio em nenhum dos dois. ARROW-LEFT VOLTAR À QUESTÃO 414 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "Com o pronome ’quem’, o verbo fica na 3ª pessoa do singular (’Fomos nós quem fez’) ou concorda com o antecedente (’Fomos nós quem fizemos’); a 3ª pessoa do plural (’fizeram’) não tem apoio em nenhum dos dois."
     }
   ],
   "answer_key": "A",
@@ -7906,7 +7897,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O diretor e o coordenador assinou o termo de posse.",
       "is_correct": true,
-      "explanation": "Esta é a alternativa em desacordo. O sujeito ’O diretor e o coordenador’ está antes do verbo, exigindo o plural ’assinaram’. ARROW-LEFT VOLTAR À QUESTÃO 415"
+      "explanation": "Esta é a alternativa em desacordo. O sujeito ’O diretor e o coordenador’ está antes do verbo, exigindo o plural ’assinaram’."
     }
   ],
   "answer_key": "E",
@@ -7962,15 +7953,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Roma ou Paris serão a sede do próximo congresso internacional. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Roma ou Paris serão a sede do próximo congresso internacional.",
       "is_correct": false,
-      "explanation": "Se apenas uma cidade será a sede, o verbo deve ficar no singular (’será’). ARROW-LEFT VOLTAR À QUESTÃO 416"
+      "explanation": "Se apenas uma cidade será a sede, o verbo deve ficar no singular (’será’)."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … Como se trata de uma ’vaga única’, apenas um pode ser escolhido. O valor é de exclusão, exigindo o verbo no singular.",
-    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … Como se trata de uma ’vaga única’, apenas um pode ser escolhido. O valor é de exclusão, exigindo o verbo no singular."
+    "resolution": "Convenções da Norma Padrão: Concordância … Como se trata de uma ’vaga única’, apenas um pode ser escolhido. O valor é de exclusão, exigindo o verbo no singular.",
+    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Como se trata de uma ’vaga única’, apenas um pode ser escolhido. O valor é de exclusão, exigindo o verbo no singular."
   }
 }
 ```
@@ -8022,7 +8013,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Deve haverem",
       "is_correct": false,
-      "explanation": "A forma ’haverem’ está incorreta neste contexto de impessoalidade e estrutura de locução. ARROW-LEFT VOLTAR À QUESTÃO 417"
+      "explanation": "A forma ’haverem’ está incorreta neste contexto de impessoalidade e estrutura de locução."
     }
   ],
   "answer_key": "B",
@@ -8050,7 +8041,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que se refere à sintaxe da oração, assinale a alternativa que descreve corretamente o verbo e a função do termo destacado em: ’Havia muitos processos acumulados sobre a mesa do servidor’. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+  "question_text": "No que se refere à sintaxe da oração, assinale a alternativa que descreve corretamente o verbo e a função do termo destacado em: ’Havia muitos processos acumulados sobre a mesa do servidor’.",
   "alternatives": [
     {
       "id": "A",
@@ -8068,7 +8059,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "O verbo é pessoal e concorda com o sujeito ’muitos processos acumulados’.",
       "is_correct": false,
-      "explanation": "O verbo ’haver’ com sentido de existir é impessoal e não possui sujeito. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "O verbo ’haver’ com sentido de existir é impessoal e não possui sujeito."
     },
     {
       "id": "D",
@@ -8080,7 +8071,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O verbo é impessoal e ’muitos processos acumulados’ exerce a função de objeto direto.",
       "is_correct": true,
-      "explanation": "O verbo é impessoal (oração sem sujeito) e o termo que o complementa é o objeto direto. ARROW-LEFT VOLTAR À QUESTÃO 418"
+      "explanation": "O verbo é impessoal (oração sem sujeito) e o termo que o complementa é o objeto direto."
     }
   ],
   "answer_key": "E",
@@ -8136,9 +8127,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Devem haver formas mais simples de resolver este problema administrativo. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Devem haver formas mais simples de resolver este problema administrativo.",
       "is_correct": false,
-      "explanation": "Sentido de ’existir’, o auxiliar deveria ser ’Deve’. ARROW-LEFT VOLTAR À QUESTÃO 419 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "Sentido de ’existir’, o auxiliar deveria ser ’Deve’."
     }
   ],
   "answer_key": "D",
@@ -8196,7 +8187,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Sempre houveram critérios rigorosos para a seleção de estagiários na instituição.",
       "is_correct": false,
-      "explanation": "O verbo ’haver’ com sentido de ’existir’ é impessoal; o correto seria ’Sempre houve critérios’. ARROW-LEFT VOLTAR À QUESTÃO 420"
+      "explanation": "O verbo ’haver’ com sentido de ’existir’ é impessoal; o correto seria ’Sempre houve critérios’."
     }
   ],
   "answer_key": "A",
@@ -8234,7 +8225,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "O termo ’os prazos estabelecidos’ exerce a função de objeto direto da locução verbal. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "O termo ’os prazos estabelecidos’ exerce a função de objeto direto da locução verbal.",
       "is_correct": false,
       "explanation": "Na voz passiva (seja sintética ou analítica), o que seria objeto direto na voz ativa torna-se sujeito paciente."
     },
@@ -8254,13 +8245,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A partícula ’se’ é apassivadora, o que torna o termo ’os prazos estabelecidos’ o sujeito da oração.",
       "is_correct": true,
-      "explanation": "O ’se’ é partícula apassivadora e ’os prazos estabelecidos’ é o sujeito com o qual o verbo concorda. ARROW-LEFT VOLTAR À QUESTÃO 421"
+      "explanation": "O ’se’ é partícula apassivadora e ’os prazos estabelecidos’ é o sujeito com o qual o verbo concorda."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Na locução verbal ’devem-se observar’, o verbo principal ’observar’ é Transitivo Direto 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … (VTD). A presença da partícula ’se’ indica voz passiva sintética. Portanto, o termo ’os prazos estabelecidos’ é o sujeito paciente, e o verbo auxiliar ’dever’ deve concordar com ele no plural.",
-    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Na locução verbal ’devem-se observar’, o verbo principal ’observar’ é Transitivo Direto 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … (VTD). A presença da partícula ’se’ indica voz passiva sintética. Portanto, o termo ’os prazos estabelecidos’ é o sujeito paciente, e o verbo auxiliar ’dever’ deve concordar com ele no plural."
+    "resolution": "Na locução verbal ’devem-se observar’, o verbo principal ’observar’ é Transitivo Direto (VTD). A presença da partícula ’se’ indica voz passiva sintética. Portanto, o termo ’os prazos estabelecidos’ é o sujeito paciente, e o verbo auxiliar ’dever’ deve concordar com ele no plural.",
+    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Na locução verbal ’devem-se observar’, o verbo principal ’observar’ é Transitivo Direto (VTD). A presença da partícula ’se’ indica voz passiva sintética. Portanto, o termo ’os prazos estabelecidos’ é o sujeito paciente, e o verbo auxiliar ’dever’ deve concordar com ele no plural."
   }
 }
 ```
@@ -8310,9 +8301,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Atribuíram-se aos candidatos as responsabilidades pelo atraso. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Atribuíram-se aos candidatos as responsabilidades pelo atraso.",
       "is_correct": false,
-      "explanation": "A concordância está correta: o verbo ’atribuir’ é VTDI, o ’se’ é partícula apassivadora e o sujeito paciente é ’as responsabilidades’ (plural); não é a resposta. ARROW-LEFT VOLTAR À QUESTÃO 422"
+      "explanation": "A concordância está correta: o verbo ’atribuir’ é VTDI, o ’se’ é partícula apassivadora e o sujeito paciente é ’as responsabilidades’ (plural); não é a resposta."
     }
   ],
   "answer_key": "C",
@@ -8352,7 +8343,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "I, II e III.",
       "is_correct": true,
-      "explanation": "I está correta (bastantes = muitos); II está correta (sós = sozinhos); III está correta (só = apenas/somente). 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "I está correta (bastantes = muitos); II está correta (sós = sozinhos); III está correta (só = apenas/somente)."
     },
     {
       "id": "C",
@@ -8370,7 +8361,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Apenas II e III.",
       "is_correct": false,
-      "explanation": "A sentença I também está correta, pois ’bastantes’ equivale a ’muitos’. ARROW-LEFT VOLTAR À QUESTÃO 423"
+      "explanation": "A sentença I também está correta, pois ’bastantes’ equivale a ’muitos’."
     }
   ],
   "answer_key": "B",
@@ -8408,7 +8399,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "mesmo – bastante – caros 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "mesmo – bastante – caros",
       "is_correct": false,
       "explanation": "’Mesmo’ deveria estar no plural; ’bastante’ deveria estar no plural para concordar com ’informações’."
     },
@@ -8428,7 +8419,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "mesmos – bastantes – caro",
       "is_correct": true,
-      "explanation": "’Mesmos’ (pronome reforçativo), ’bastantes’ (adjetivo = muitas) e ’caro’ (advérbio de preço). ARROW-LEFT VOLTAR À QUESTÃO 424 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "’Mesmos’ (pronome reforçativo), ’bastantes’ (adjetivo = muitas) e ’caro’ (advérbio de preço)."
     }
   ],
   "answer_key": "E",
@@ -8486,7 +8477,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "As candidatas mesmas decidiram entrar com o recurso.",
       "is_correct": true,
-      "explanation": "’Mesmas’ concorda perfeitamente com ’candidatas’. ARROW-LEFT VOLTAR À QUESTÃO 425"
+      "explanation": "’Mesmas’ concorda perfeitamente com ’candidatas’."
     }
   ],
   "answer_key": "E",
@@ -8514,7 +8505,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise a concordância nominal na seguinte frase: ’As prezadas mãe e filha compareceram à cerimônia’. A concordância do termo destacado justifica-se por: 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+  "question_text": "Analise a concordância nominal na seguinte frase: ’As prezadas mãe e filha compareceram à cerimônia’. A concordância do termo destacado justifica-se por:",
   "alternatives": [
     {
       "id": "A",
@@ -8544,13 +8535,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Ser um adjetivo anteposto a substantivos que indicam parentesco, exigindo o plural.",
       "is_correct": true,
-      "explanation": "Conforme a exceção da regra de adjetivos antepostos, termos de parentesco exigem o plural. ARROW-LEFT VOLTAR À QUESTÃO 426"
+      "explanation": "Conforme a exceção da regra de adjetivos antepostos, termos de parentesco exigem o plural."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Correta. Quando o adjetivo está anteposto a nomes próprios ou substantivos que indicam títulos de parentesco, ele deve obrigatoriamente ir para o plural. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
-    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Correta. Quando o adjetivo está anteposto a nomes próprios ou substantivos que indicam títulos de parentesco, ele deve obrigatoriamente ir para o plural. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+    "resolution": "Correta. Quando o adjetivo está anteposto a nomes próprios ou substantivos que indicam títulos de parentesco, ele deve obrigatoriamente ir para o plural.",
+    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Correta. Quando o adjetivo está anteposto a nomes próprios ou substantivos que indicam títulos de parentesco, ele deve obrigatoriamente ir para o plural."
   }
 }
 ```
@@ -8584,7 +8575,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Encontrei o diretor e a secretária atentos ao cronograma.",
       "is_correct": false,
-      "explanation": "A concordância está adequada, por isso não é a resposta. O predicativo do objeto (’atentos’) refere-se a ’o diretor e a secretária’ e vai ao masculino plural. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "A concordância está adequada, por isso não é a resposta. O predicativo do objeto (’atentos’) refere-se a ’o diretor e a secretária’ e vai ao masculino plural."
     },
     {
       "id": "C",
@@ -8600,9 +8591,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Estavam deserta a vila e o vilarejo durante o feriado. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … 1.10.3 Questões Difíceis",
+      "text": "Estavam deserta a vila e o vilarejo durante o feriado. 1.10.3 Questões Difíceis",
       "is_correct": true,
-      "explanation": "Esta é a construção que contraria a norma, porque mistura o verbo no plural (’Estavam’) com o adjetivo no singular (’deserta’). Se o adjetivo refere-se ao conjunto no plural, deve ser ’desertos’. ARROW-LEFT VOLTAR À QUESTÃO 427"
+      "explanation": "Esta é a construção que contraria a norma, porque mistura o verbo no plural (’Estavam’) com o adjetivo no singular (’deserta’). Se o adjetivo refere-se ao conjunto no plural, deve ser ’desertos’."
     }
   ],
   "answer_key": "E",
@@ -8660,7 +8651,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O técnico com os jogadores comemoraram a vitória no vestiário.",
       "is_correct": true,
-      "explanation": "Sem vírgulas, a expressão tem valor de sujeito composto (técnico + jogadores), justificando o plural ’comemoraram’. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … ARROW-LEFT VOLTAR À QUESTÃO 428"
+      "explanation": "Sem vírgulas, a expressão tem valor de sujeito composto (técnico + jogadores), justificando o plural ’comemoraram’."
     }
   ],
   "answer_key": "E",
@@ -8710,7 +8701,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "O diretor e o secretário compareceu à cerimônia de abertura. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "O diretor e o secretário compareceu à cerimônia de abertura.",
       "is_correct": false,
       "explanation": "Sujeito composto por pessoas distintas sem sinonímia exige plural ’compareceram’."
     },
@@ -8718,7 +8709,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Uma palavra, um gesto, um olhar bastava para convencê-lo.",
       "is_correct": true,
-      "explanation": "Apresenta uma gradação de termos, permitindo o verbo no singular (’bastava’). ARROW-LEFT VOLTAR À QUESTÃO 429 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "Apresenta uma gradação de termos, permitindo o verbo no singular (’bastava’)."
     }
   ],
   "answer_key": "E",
@@ -8776,7 +8767,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Nem eu nem tu conseguistes resolver o problema proposto.",
       "is_correct": false,
-      "explanation": "’Eu e tu’ exige a 1ª pessoa do plural: ’conseguimos’. ARROW-LEFT VOLTAR À QUESTÃO 430"
+      "explanation": "’Eu e tu’ exige a 1ª pessoa do plural: ’conseguimos’."
     }
   ],
   "answer_key": "C",
@@ -8804,7 +8795,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "As bancas examinadoras frequentemente utilizam termos intercalados para dificultar a identificação do núcleo do sujeito. Assinale a alternativa em que a concordância verbal está inteiramente correta. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+  "question_text": "As bancas examinadoras frequentemente utilizam termos intercalados para dificultar a identificação do núcleo do sujeito. Assinale a alternativa em que a concordância verbal está inteiramente correta.",
   "alternatives": [
     {
       "id": "A",
@@ -8834,13 +8825,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A criação de novos mecanismos de controle e fiscalização dos gastos públicos parecem desnecessárias.",
       "is_correct": false,
-      "explanation": "O núcleo é ’criação’ (singular), logo o verbo deveria ser ’parece’. ARROW-LEFT VOLTAR À QUESTÃO 431"
+      "explanation": "O núcleo é ’criação’ (singular), logo o verbo deveria ser ’parece’."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O núcleo do sujeito é ’análise’ (singular). O verbo ’revelou’ concorda corretamente com ele, ignorando os termos intercalados e adjuntos no plural. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
-    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: O núcleo do sujeito é ’análise’ (singular). O verbo ’revelou’ concorda corretamente com ele, ignorando os termos intercalados e adjuntos no plural. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+    "resolution": "O núcleo do sujeito é ’análise’ (singular). O verbo ’revelou’ concorda corretamente com ele, ignorando os termos intercalados e adjuntos no plural.",
+    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: O núcleo do sujeito é ’análise’ (singular). O verbo ’revelou’ concorda corretamente com ele, ignorando os termos intercalados e adjuntos no plural."
   }
 }
 ```
@@ -8880,11 +8871,11 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "III",
       "is_correct": false,
-      "explanation": "O item III erra ao pluralizar ’Fazem’ para tempo decorrido e ao manter ’se vê’ no singular (o correto é ’se veem mudanças’). 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "O item III erra ao pluralizar ’Fazem’ para tempo decorrido e ao manter ’se vê’ no singular (o correto é ’se veem mudanças’)."
     },
     {
       "id": "D",
-      "text": "II e III 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "II e III",
       "is_correct": false,
       "explanation": "O item III possui erro de concordância no verbo ’fazer’."
     },
@@ -8892,7 +8883,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "I e II",
       "is_correct": false,
-      "explanation": "O item I possui erro de concordância no verbo auxiliar. ARROW-LEFT VOLTAR À QUESTÃO 432"
+      "explanation": "O item I possui erro de concordância no verbo auxiliar."
     }
   ],
   "answer_key": "A",
@@ -8950,7 +8941,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Existem muitos desafios a serem superados. / Há muitos desafios a serem supera- dos.",
       "is_correct": false,
-      "explanation": "(substituição adequada). ’Existem’ concorda com o sujeito ’muitos desafios’; ’Há’, impessoal, fica no singular. ARROW-LEFT VOLTAR À QUESTÃO 433 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "(substituição adequada). ’Existem’ concorda com o sujeito ’muitos desafios’; ’Há’, impessoal, fica no singular."
     }
   ],
   "answer_key": "C",
@@ -8978,7 +8969,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "O verbo haver pode comportar-se como pessoal ou impessoal a depender da função sintática que exerce no período. Assinale a alternativa em que a concordância verbal foi 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … plenamente respeitada.",
+  "question_text": "O verbo haver pode comportar-se como pessoal ou impessoal a depender da função sintática que exerce no período. Assinale a alternativa em que a concordância verbal foi plenamente respeitada.",
   "alternatives": [
     {
       "id": "A",
@@ -9008,7 +8999,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Os gestores haviam solicitado que não houvesse interrupções durante o expediente.",
       "is_correct": true,
-      "explanation": "Apresenta o uso correto do ’haver’ pessoal (auxiliar) e do ’haver’ impessoal (existir). ARROW-LEFT VOLTAR À QUESTÃO 434"
+      "explanation": "Apresenta o uso correto do ’haver’ pessoal (auxiliar) e do ’haver’ impessoal (existir)."
     }
   ],
   "answer_key": "E",
@@ -9064,15 +9055,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Os servidores haviam concluído o treinamento antes do prazo estipulado pela administração. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Os servidores haviam concluído o treinamento antes do prazo estipulado pela administração.",
       "is_correct": false,
-      "explanation": "(Uso correto). Aqui o verbo ’haver’ atua como auxiliar de tempo composto (equivalente a ’tinham’), sendo, portanto, pessoal e concordando com o sujeito ’Os servidores’. ARROW-LEFT VOLTAR À QUESTÃO 435"
+      "explanation": "(Uso correto). Aqui o verbo ’haver’ atua como auxiliar de tempo composto (equivalente a ’tinham’), sendo, portanto, pessoal e concordando com o sujeito ’Os servidores’."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Na a afirmação apresentada, o verbo ’haver’ é o principal de uma locução verbal e possui sentido 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … de ’existir’. Por ser impessoal, ele ’contagia’ o verbo auxiliar ’poder’, que deveria estar obrigatoriamente no singular: ’Poderá haver’.",
-    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, o verbo ’haver’ é o principal de uma locução verbal e possui sentido 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … de ’existir’. Por ser impessoal, ele ’contagia’ o verbo auxiliar ’poder’, que deveria estar obrigatoriamente no singular: ’Poderá haver’."
+    "resolution": "Na a afirmação apresentada, o verbo ’haver’ é o principal de uma locução verbal e possui sentido de ’existir’. Por ser impessoal, ele ’contagia’ o verbo auxiliar ’poder’, que deveria estar obrigatoriamente no singular: ’Poderá haver’.",
+    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, o verbo ’haver’ é o principal de uma locução verbal e possui sentido de ’existir’. Por ser impessoal, ele ’contagia’ o verbo auxiliar ’poder’, que deveria estar obrigatoriamente no singular: ’Poderá haver’."
   }
 }
 ```
@@ -9122,15 +9113,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "I e II 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "I e II",
       "is_correct": false,
-      "explanation": "A sentença I está errada, conforme explicado acima. ARROW-LEFT VOLTAR À QUESTÃO 436"
+      "explanation": "A sentença I está errada, conforme explicado acima."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "Apenas a sentença II está correta. Na locução ’Devem-se buscar’, o verbo principal ’buscar’ é VTD, logo o ’se’ é partícula apassivadora e o auxiliar deve concordar com o sujeito plural ’soluções alternativas’. Na I, o sujeito é ’novos cortes’ (plural), logo o correto seria ’Podem-se prever’. Na III, o sujeito é ’as reivindicações’ (plural), logo o 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … correto seria ’Hão de se considerar’.",
-    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Apenas a sentença II está correta. Na locução ’Devem-se buscar’, o verbo principal ’buscar’ é VTD, logo o ’se’ é partícula apassivadora e o auxiliar deve concordar com o sujeito plural ’soluções alternativas’. Na I, o sujeito é ’novos cortes’ (plural), logo o correto seria ’Podem-se prever’. Na III, o sujeito é ’as reivindicações’ (plural), logo o 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … correto seria ’Hão de se considerar’."
+    "resolution": "Apenas a sentença II está correta. Na locução ’Devem-se buscar’, o verbo principal ’buscar’ é VTD, logo o ’se’ é partícula apassivadora e o auxiliar deve concordar com o sujeito plural ’soluções alternativas’. Na I, o sujeito é ’novos cortes’ (plural), logo o correto seria ’Podem-se prever’. Na III, o sujeito é ’as reivindicações’ (plural), logo o correto seria ’Hão de se considerar’.",
+    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Apenas a sentença II está correta. Na locução ’Devem-se buscar’, o verbo principal ’buscar’ é VTD, logo o ’se’ é partícula apassivadora e o auxiliar deve concordar com o sujeito plural ’soluções alternativas’. Na I, o sujeito é ’novos cortes’ (plural), logo o correto seria ’Podem-se prever’. Na III, o sujeito é ’as reivindicações’ (plural), logo o correto seria ’Hão de se considerar’."
   }
 }
 ```
@@ -9158,7 +9149,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Provas foram colhidas. / Colheram-se provas.",
       "is_correct": false,
-      "explanation": "A transposição está correta, mantendo a concordância no plural (’Colheram-se’ / ’provas’); não é a resposta. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "A transposição está correta, mantendo a concordância no plural (’Colheram-se’ / ’provas’); não é a resposta."
     },
     {
       "id": "B",
@@ -9182,7 +9173,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Novas regras foram estabelecidas. / Estabeleceu-se novas regras.",
       "is_correct": true,
-      "explanation": "Esta é a alternativa com erro de concordância na transposição: o correto seria ’Estabeleceram-se novas regras’. ARROW-LEFT VOLTAR À QUESTÃO 437"
+      "explanation": "Esta é a alternativa com erro de concordância na transposição: o correto seria ’Estabeleceram-se novas regras’."
     }
   ],
   "answer_key": "E",
@@ -9226,9 +9217,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "Em ambas as frases, a partícula ’se’ exerce a mesma função sintática. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "Em ambas as frases, a partícula ’se’ exerce a mesma função sintática.",
       "is_correct": false,
-      "explanation": "Em 1 o ’se’ é partícula apassivadora (PA) e em 2 o ’se’ é índice de indeterminação do sujeito (IIS). 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "Em 1 o ’se’ é partícula apassivadora (PA) e em 2 o ’se’ é índice de indeterminação do sujeito (IIS)."
     },
     {
       "id": "D",
@@ -9240,7 +9231,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Em 2, o verbo deveria estar no plural para concordar com o termo ’questões’.",
       "is_correct": false,
-      "explanation": "Em 2, o verbo é VTI e o ’se’ é IIS, o que obriga o verbo a ficar no singular. ARROW-LEFT VOLTAR À QUESTÃO 438"
+      "explanation": "Em 2, o verbo é VTI e o ’se’ é IIS, o que obriga o verbo a ficar no singular."
     }
   ],
   "answer_key": "B",
@@ -9298,7 +9289,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A porta estava meia aberta quando o agente chegou ao local.",
       "is_correct": false,
-      "explanation": "’Meia’ significa metade. Para indicar intensidade (um pouco), deve-se usar ’meio’ (meio aberta). 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância … ARROW-LEFT VOLTAR À QUESTÃO 439"
+      "explanation": "’Meia’ significa metade. Para indicar intensidade (um pouco), deve-se usar ’meio’ (meio aberta)."
     }
   ],
   "answer_key": "A",
@@ -9326,7 +9317,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Assinale a alternativa que apresenta um erro de concordância nominal, conforme as regras para casos particulares: 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+  "question_text": "Assinale a alternativa que apresenta um erro de concordância nominal, conforme as regras para casos particulares:",
   "alternatives": [
     {
       "id": "A",
@@ -9356,7 +9347,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Já é meio-dia e meia, portanto o expediente está encerrado.",
       "is_correct": false,
-      "explanation": "’Meia’ concorda com a palavra oculta ’hora’ na expressão ’meio-dia e meia (hora)’. ARROW-LEFT VOLTAR À QUESTÃO 440 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …"
+      "explanation": "’Meia’ concorda com a palavra oculta ’hora’ na expressão ’meio-dia e meia (hora)’."
     }
   ],
   "answer_key": "C",
@@ -9412,9 +9403,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O adjetivo concorda com ’amor’, que é o núcleo mais importante da oração. 1. Língua Portuguesa 1.10. Convenções da Norma Padrão: Concordância …",
+      "text": "O adjetivo concorda com ’amor’, que é o núcleo mais importante da oração.",
       "is_correct": false,
-      "explanation": "O adjetivo concorda com o mais próximo (’carinho’) ou com ambos, não com o primeiro por ’importância’. ARROW-LEFT VOLTAR À QUESTÃO 441"
+      "explanation": "O adjetivo concorda com o mais próximo (’carinho’) ou com ambos, não com o primeiro por ’importância’."
     }
   ],
   "answer_key": "D",
@@ -9470,15 +9461,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Encontrei os queridos pai e mãe no pátio da instituição. 1.10.4 Gabaritos e Comentários 400",
+      "text": "Encontrei os queridos pai e mãe no pátio da instituição.",
       "is_correct": false,
-      "explanation": "A construção está correta, por isso não é a resposta: títulos de parentesco com adjetivo anteposto exigem plural. ARROW-LEFT VOLTAR À QUESTÃO 442 1.11 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 1.11.1 Questões Fáceis 443 Questão 443 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL No que se refere aos conceitos fundamentais de regência na norma culta da língua portuguesa, assinale a alternativa que define corretamente a relação entre o termo regente e o termo regido. A O termo regente é sempre um verbo, enquanto o termo regido é sempre um substantivo ou pronome. B A regência é o elo de dependência em que o termo regente dita as regras de como o termo regido deve se apresentar. C O termo regido é a palavra que demanda um complemento, determinando a presença ou ausência de preposição. D O termo regente é o complemento que satisfaz a exigência de sentido de um nome ou verbo. E A regência nominal ocorre exclusivamente quando o termo regido é um adjetivo ou um advérbio. 444 Questão 444 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL Considere a seguinte frase: ’O servidor público deve ser fiel aos princípios da Administração’. De acordo com os conceitos de regência, é correto afirmar que: A O termo ’fiel’ atua como regente nominal, exigindo a preposição ’a’. B O termo ’Administração’ é o regido direto do adjetivo ’fiel’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … C O termo ’aos princípios’ é o regente, pois determina a concordância da frase. D Trata-se de um caso de regência verbal, pois o termo ’fiel’ exige complemento. E A preposição ’aos’ é facultativa, podendo ser omitida sem prejuízo à norma culta. 445 Questão 445 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL No fragmento ’O servidor demonstrou ser apto ao desempenho de suas funções’, a relação de dependência sintática estabelecida entre os termos destacados exemplifica um conceito fundamental da gramática. Sobre essa relação, assinale a esta afirmação: A A preposição ’a’ (presente na contração ’ao’) é uma exigência do substantivo ’funções’, que atua como núcleo da regência. B A expressão ’ao desempenho’ exerce o papel de termo regente, determinando a preposição utilizada na sentença. C O termo ’apto’ atua como termo regido, pois sua presença é facultativa para a compreensão do sentido da frase. D O termo ’desempenho’ é classificado como regente verbal, uma vez que indica uma ação a ser executada pelo servidor. E Trata-se de um caso de regência nominal, em que o adjetivo ’apto’ é o termo regente que exige um complemento preposicionado. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 446 Questão 446 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL Considere a seguinte frase: ’O jovem profissional aspirava o perfume das flores no jardim enquanto refletia sobre sua carreira’. De acordo com a regência verbal normativa, se o verbo for alterado para indicar que o jovem ’desejava’ ou ’almejava’ uma promoção, a redação correta seria: A O jovem profissional aspirava a promoção. B O jovem profissional aspirava à promoção. C O jovem profissional aspirava de promoção. D O jovem profissional aspirava por promoção. E O jovem profissional aspirava na promoção. 447 Questão 447 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL No que se refere à regência do verbo assistir, assinale a alternativa que apresenta a redação em conformidade com a norma-padrão da língua, no sentido de ’presenciar’ ou ’ver’. A Os cidadãos assistiram no debate televisivo com atenção. B Os cidadãos assistiram o debate televisivo com atenção. C Os cidadãos assistiram pelo debate televisivo com atenção. D Os cidadãos assistiram do debate televisivo com atenção. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … E Os cidadãos assistiram ao debate televisivo com atenção. 448 Questão 448 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL Assinale a alternativa em que o verbo aspirar apresenta regência de Verbo Transitivo Direto (VTD), mantendo a correção gramatical e o sentido adequado ao contexto. A Os cidadãos aspiram a dias melhores para a comunidade. B Muitos jovens aspiram à carreira diplomática. C O estagiário aspirava ao reconhecimento da chefia. D O profissional aspirava a uma promoção no final do ano. E O sistema de ventilação aspirava a fumaça do ambiente. 449 Questão 449 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL Considerando as normas de regência nominal da língua portuguesa, assinale a alternativa que preenche corretamente a lacuna da frase a seguir: ’O candidato demonstrou profunda aversão ____ burocracia excessiva durante o atendimento’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … A pela B com a C perante D à E para 450 Questão 450 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL Na frase ’O novo sistema de segurança é imune ____ ataques externos’, a preposição que completa corretamente a regência do adjetivo destacado é: A de B contra C em D a E com 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 451 Questão 451 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL Considerando as regras de regência e o emprego do sinal indicativo de crase, assinale a alternativa em que o uso do acento grave é PROIBIDO: A Sempre assistimos àquelas reuniões de planejamento estratégico. B O palestrante começou à falar sobre os novos procedimentos. C As propostas foram enviadas à diretoria na manhã de ontem. D O servidor entregou o documento à secretária do departamento. E O atendimento ao público ocorre das 8h às 18h. 452 Questão 452 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○FÁCIL Assinale a alternativa que preenche corretamente a lacuna da frase a seguir: ’O candidato deve comparecer ao local de prova exatamente ___ dez horas.’ A à B há C as D às E a 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 1.11.2 Questões de Nível Médio 453 Questão 453 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO A utilização de pronomes relativos em orações subordinadas exige atenção redobrada à regência do verbo da oração consequente. Assinale a alternativa que apresenta a regência CORRETA, seguindo a norma culta: A Este é o regulamento que o agente público se referiu durante a reunião. B A diretriz a que todos devem obedecer foi publicada no diário oficial. C O projeto que eu tenho medo de falhar será revisado pela equipe. D A situação que o profissional se deparou era extremamente complexa. E Os documentos que o candidato necessita foram protocolados ontem. 454 Questão 454 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO A transitividade verbal é a base para a compreensão da regência verbal. Sobre a substituição de termos regidos por pronomes oblíquos átonos, assinale a esta afirmação: A Na regência verbal, o termo regente nunca pode ser substituído por um pronome, 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … apenas o termo regido. B Verbos transitivos diretos exigem complementos substituíveis pelos pronomes ’lhe’ ou ’lhes’. C O pronome ’lhe’ é utilizado para substituir termos regidos por verbos transitivos indiretos que exigem a preposição ’a’ ou ’para’. D Verbos que regem a preposição ’de’ aceitam perfeitamente a substituição do termo regido pelo pronome ’lhe’. E Se o verbo rege a preposição ’em’, o termo regido deve ser substituído pelo pronome ’o’ ou ’a’. 455 Questão 455 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO Analise as sentenças abaixo quanto à regência nominal e verbal: I. O parecer do técnico foi favorável ao pleito do cidadão. II. Todos os presentes assistiram o desenrolar da cerimônia com atenção. III. O agente público deve estar apto para o exercício de suas funções. Está(ão) correta(s) de acordo com a norma culta: A Apenas II. B I, II e III. C Apenas I e III. D Apenas I. E Apenas II e III. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 456 Questão 456 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO Sobre o método de identificação da regência proposto no material de estudo, qual o passo fundamental para validar se uma preposição está sendo usada corretamente? A Verificar se o termo regido concorda em gênero e número com o termo regente. B Observar se o termo regente está no início da frase, o que torna a preposição facultativa. C Identificar se o termo regido é um substantivo próprio ou comum, pois isso altera a preposição. D Analisar se a preposição utilizada é a que a norma culta exige para aquele núcleo (verbo ou nome) específico. E Substituir sempre o termo regente por um sinônimo para ver se a preposição permanece a mesma. 457 Questão 457 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO No que tange aos mecanismos de coesão e dependência sintática, a regência estabelece uma hierarquia entre os termos da oração. Analise a seguinte frase: ’A aptidão para o exercício da função pública pressupõe que o agente seja fiel aos preceitos éticos da instituição’. Sobre a relação entre os termos destacados e seus respectivos regentes, assinale a esta afirmação: 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … A O termo ’da função pública’ atua como regente do substantivo ’exercício’, estabelecendo uma relação de subordinação em que o nome precede sua exigência preposicionada. B O termo ’para o exercício’ é regido pelo substantivo ’aptidão’, o que configura um caso típico de regência verbal, dada a natureza de ação do substantivo. C O adjetivo ’fiel’ atua como termo regente na segunda oração, exigindo o complemento preposicionado ’aos preceitos éticos’, caracterizando a regência nominal. D Na primeira parte da frase, ’aptidão’ é o termo regido, enquanto ’para o exercício’ exerce o papel de termo regente por determinar a presença da preposição. E A preposição ’aos’ é uma exigência sintática do verbo de ligação ’seja’, o que classifica a relação como regência verbal indireta. 458 Questão 458 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO A norma culta exige que, em orações adjetivas, a preposição exigida pelo verbo seja deslocada para antes do pronome relativo. Analise a seguinte construção: ’Os processos de que o candidato se recorda foram arquivados’. Com base nos conceitos de regência, a presença da preposição ’de’ justifica-se porque: A O substantivo ’processos’ é o termo regente e exige a preposição ’de’ para se conectar ao restante da oração. B O pronome relativo ’que’ é, por natureza, um termo regente que demanda o uso de preposição em contextos formais. C O verbo ’recordar-se’, atuando como termo regente na oração subordinada, exige complemento precedido da preposição ’de’. D A preposição é facultativa nesse caso, servindo apenas para evitar a repetição do 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … termo ’processos’ no período. E O verbo ’arquivados’ projeta sua regência sobre o início da frase, exigindo o conectivo ’de’. 459 Questão 459 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO Analise o emprego do verbo visar nas sentenças abaixo: I. O agente público visou os passaportes dos turistas. II. As novas medidas econômicas visam ao controle da inflação. Sobre a regência e o sentido desses trechos, é correto afirmar que: A Ambas as sentenças apresentam erro de regência segundo a norma culta. B Em II, o verbo é Transitivo Direto e significa ’mirar’. C Em I, o verbo significa ’dar visto’ e, em II, significa ’objetivar’. D Em I, o verbo é Transitivo Indireto e significa ’objetivar’. E A substituição de ’ao controle’ por ’o controle’ em II manteria a correção gramatical e o sentido original. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 460 Questão 460 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO A regência dos verbos esquecer e lembrar sofre alteração caso sejam utilizados com pronomes oblíquos reflexivos. Com base nessa regra, assinale a alternativa gramaticalmente correta. A O servidor esqueceu-se do prazo de entrega do relatório. B O servidor se esqueceu o prazo de entrega do relatório. C O servidor lembrou do compromisso agendado para hoje. D O servidor esqueceu do prazo de entrega do relatório. E O servidor lembrou-se o compromisso agendado para hoje. 461 Questão 461 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO Considere o trecho: ’O departamento jurídico visava a solucionar o impasse contratual o mais breve possível’. De acordo com as normas de regência para o verbo visar seguido de infinitivo, é correto afirmar que: A O uso da crase em ’à solucionar’ seria obrigatório caso o sujeito fosse feminino. B O trecho está incorreto, pois o verbo ’visar’ (objetivar) exige obrigatoriamente a preposição ’a’ antes de verbos. C O verbo ’visar’ nesse contexto é Transitivo Direto, portanto a preposição ’a’ deveria ser eliminada. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … D O trecho está correto e a preposição ’a’ é facultativa quando o complemento é um verbo no infinitivo. E O trecho está correto, mas a retirada da preposição ’a’ causaria erro gramatical grave. 462 Questão 462 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO Considere a regência do verbo assistir e o emprego de pronomes oblíquos. Assinale a alternativa em que a substituição do termo sublinhado pelo pronome correspondente apresenta ERRO de acordo com a norma-padrão. A Tal direito assiste ao trabalhador. / Tal direito assiste-lhe. B O enfermeiro assistiu os feridos. / O enfermeiro assistiu-os. C O advogado assistiu ao julgamento. / O advogado assistiu-lhe. D O público assistiu à peça. / O público assistiu a ela. E O médico assistiu o paciente. / O médico assistiu-o. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 463 Questão 463 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO Analise a frase abaixo quanto ao princípio do paralelismo na regência nominal: ’O relatório apresentado pelo agente público é favorável e dependente da aprovação do conselho.’ Sobre a construção da no trecho destacado, é correto afirmar que: A Está correta, pois o uso de duas preposições diferentes na mesma frase causaria cacofonia. B Está correta, uma vez que em nomes compostos a regência é determinada apenas pelo último termo. C Está correta, pois a preposição ’de’ atende simultaneamente aos nomes ’favorável’ e ’dependente’. D Está incorreta, pois ambos os nomes deveriam reger a preposição ’com’. E Está incorreta, pois o nome ’favorável’ exige a preposição ’a’, enquanto ’dependente’ exige a preposição ’de’. 464 Questão 464 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO A regência nominal muitas vezes exige a presença de preposições antes de pronomes relativos. Assinale a alternativa em que a preposição foi empregada corretamente em função do nome regente. A Estes são os documentos de que o diretor é ávido. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … B Os processos em que sou favorável estão na mesa. C As diretrizes com que somos adeptos foram alteradas. D Esta é a norma que o servidor deve obediência. E O cargo por que ele é propenso exige especialização. 465 Questão 465 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO A distinção entre complemento nominal e adjunto adnominal é fundamental para a compreensão da regência. Leia as frases abaixo: I. A resposta do servidor surpreendeu a todos. II. A resposta ao servidor foi enviada ontem. Assinale a análise sintática correta dos termos destacados: A Em I, o termo é adjunto adnominal (agente); em II, é complemento nominal (paciente). B Em I e II, os termos são adjuntos adnominais, pois estão ligados a um substantivo. C Em I, o termo indica posse, sendo complemento nominal; em II, indica destino, sendo adjunto adnominal. D Em I, o termo é complemento nominal; em II, é adjunto adnominal. E Em I e II, os termos são complementos nominais, pois completam o sentido do substantivo ’resposta’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 466 Questão 466 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO Os advérbios terminados em ’-mente’ geralmente seguem a regência dos adjetivos de que derivam. Com base nessa regra, assinale a alternativa que apresenta a regência correta. A A equipe trabalhou analogamente de os padrões internacionais. B O setor agiu divergentemente com as instruções do manual. C O processo foi decidido favoravelmente de os interesses da empresa. D O servidor agiu independentemente a ordens superiores. E A análise procedeu relativamente aos critérios estabelecidos. 467 Questão 467 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO Analise o emprego do sinal indicativo de crase nas orações abaixo: I. O documento foi redigido à mão pelo coordenador. II. O servidor referiu-se à vossa excelência com respeito. III. O estagiário saiu às pressas após o término do expediente. Está correto o que se afirma em: A I e III, apenas. B II e III, apenas. C I, II e III. D I, apenas. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … E I e II, apenas. 468 Questão 468 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO O uso do acento grave é facultativo em determinadas situações da norma culta. Assinale a alternativa que apresenta um caso de crase facultativa: A O motorista dirigiu-se à cidade de São Paulo. B O relatório foi entregue àquela funcionária do setor de RH. C O projeto foi desenvolvido à medida que os recursos chegavam. D As inscrições estarão abertas à partir de amanhã. E O aviso foi enviado à minha supervisora direta. 469 Questão 469 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○MÉDIO No que se refere ao uso da crase antes de nomes de lugares, assinale a esta afirmação: A O palestrante dirigiu-se à Brasília para a conferência. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … B Sempre que possível, vou à Florianópolis visitar parentes. C Desejamos fazer uma viagem à Londres no próximo ano. D Os pesquisadores foram à Roma dos imperadores para o congresso. E O grupo de estudos retornará à Curitiba em breve. 1.11.3 Questões Difíceis 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 470 Questão 470 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL As bancas examinadoras frequentemente utilizam orações intercaladas para distanciar o regente do regido. Assinale a opção em que a regência da norma culta foi RESPEITADA, apesar da intercalação de termos: A Os recursos de que, conforme mencionado no relatório anterior pela auditoria, o setor necessita, já foram liberados. B A meta que, devido a problemas orçamentários e falta de pessoal, o departamento não abriu mão, será reavaliada. C As normas que, segundo o entendimento da maioria dos especialistas da área, o servidor deve obediência, são claras. D O cargo que, após anos de estudo e dedicação exclusiva, o candidato finalmente aspirou, exige muita responsabilidade. E A lei que, por força de decisões judiciais recentes e pressões sociais, o magistrado fez menção, é de 1990. 471 Questão 471 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL Assinale a alternativa que apresenta uma análise sintática INCORRETA sobre a dinâmica de regência nas frases abaixo: A Em ’O diretor pagou o salário aos funcionários’, o verbo ’pagar’ atua como regente de dois termos regidos: um direto e um indireto. B Na substituição de ’Obedeço ao regulamento’ por um pronome, o correto pela norma culta seria ’Obedeço-lhe’, pois o regente é transitivo indireto. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … C Na frase ’Esta é a ferramenta que ele mais gosta’, a regência está correta, pois o termo regente ’gosta’ não exige preposição antes do relativo. D Em ’Tenho fé em dias melhores’, o termo ’fé’ é o regente nominal e ’em dias melhores’ é o termo regido. E Em ’O fumo é prejudicial à saúde’, o termo regente é um adjetivo que exige a preposição ’a’, resultando em crase diante do artigo feminino. 472 Questão 472 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL A substituição de termos regidos por pronomes oblíquos átonos é um tópico recorrente em avaliações de alto nível. Considere as seguintes propostas de substituição de termos regidos, mantendo-se a norma culta e a transitividade dos verbos: I. O servidor obedece aos regulamentos. -> O servidor obedece-lhes. II. O agente visava ao cargo pretendido. -> O agente visava-o. III. O profissional entregou o relatório ao diretor. -> O profissional entregou-o ao diretor. Está(ão) correta(s) apenas a(s) proposta(s): A I. B I e III. C III. D II e III. E I, II e III. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 473 Questão 473 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL Analise a frase abaixo quanto à sua correção gramatical e semântica: ’O regulamento interno da instituição assiste aos servidores que residem em áreas remotas.’ Caso a preposição ’a’ (presente em ’aos’) fosse suprimida, resultando em ’assiste os servidores’, de acordo com a norma-padrão, ocorreria: A Uma mudança de sentido: o regulamento passaria a ’ajudar’ ou ’socorrer’ os servidores. B A manutenção do sentido original, uma vez que o verbo ’assistir’ é indiferente quanto ao uso da preposição. C Um erro gramatical intransponível, pois o verbo ’assistir’ nunca pode ser Transitivo Direto. D Uma mudança de sentido: o regulamento passaria a ’ver’ ou ’presenciar’ os servidores. E Apenas um erro de acentuação gráfica, sem prejuízo ao sentido original. 474 Questão 474 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL Em qual das alternativas a regência do verbo querer indica um sentimento de afeto ou estima, conforme a norma culta? A A administração quer os relatórios sobre a mesa até amanhã. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … B Ninguém queria o cargo de chefia devido à alta responsabilidade. C O povo quer uma resposta imediata das autoridades competentes. D O mestre queria bem a todos os seus discípulos. E Os pais querem que os filhos sejam aprovados no exame. 475 Questão 475 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL Assinale a alternativa que apresenta plena conformidade com a norma-padrão da língua portuguesa quanto à regência dos verbos que mudam de sentido conforme a estrutura sintática. A O candidato aspirava o cargo de chefia na instituição desde o ano passado. B O profissional quer muito aos seus colegas de equipe, pois trabalham juntos há anos. C O novo projeto de lei visa o desenvolvimento sustentável da região. D O servidor esqueceu do compromisso agendado para as dez horas. E Os interessados assistiram o documentário sobre a fauna brasileira no auditório. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 476 Questão 476 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL Assinale a alternativa que apresenta erro de regência nominal, conforme a norma-padrão da língua portuguesa. A O projeto é benéfico à preservação do meio ambiente local. B O profissional é muito atencioso para com os seus subordinados. C A decisão do magistrado foi fundamentada em princípios éticos. D Ele sempre se mostrou muito versado para os assuntos jurídicos. E Sua atitude foi considerada incompatível com as normas da instituição. 477 Questão 477 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL No que tange à regência nominal e ao uso do sinal indicativo de crase, analise o fragmento abaixo: ’A necessidade a que aludimos é relativa a implementação de novas tecnologias, sendo essencial a manutenção do suporte técnico.’ Para que o trecho esteja em conformidade com a norma culta, as lacunas implícitas nos termos destacados devem ser preenchidas, respectivamente, por: A à que / a / à B a que / a / a C de que / à / à 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … D a que / à / a E que / a / a 478 Questão 478 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL As palavras ’casa’, ’terra’ e ’distância’ possuem particularidades quanto ao uso do acento grave. Assinale a alternativa que apresenta o uso CORRETO de acordo com a norma culta: A Após meses no mar, os marinheiros finalmente desceram à terra. B O astronauta retornou a Terra após a missão espacial de seis meses. C O curso de formação será realizado à distância de dez quilômetros do centro. D Fomos à casa de nossos amigos para comemorar a aprovação. E O servidor público chegou à casa exausto após o plantão. 479 Questão 479 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL Assinale a alternativa que preenche, correta e respectivamente, as lacunas do texto abaixo: 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … ’O acesso _ informações sigilosas é restrito _ pessoas autorizadas, que devem estar atentas ___ normas de segurança estabelecidas pela instituição.’ A às – às – as B às – a – às C as – à – as D a – às – às E a – a – as 480 Questão 480 CONVENÇÕES DA NORMA PADRÃO: REGÊNCIA VERBAL E NOMINAL ○○○DIFÍCIL Analise as sentenças abaixo quanto ao uso do sinal indicativo de crase: 1. O evento foi adiado para às 15 horas por motivos técnicos. 2. O estilo do autor é semelhante à de seus contemporâneos. 3. O restaurante serve filé à Oswaldo Aranha. Assinale a alternativa que indica quais sentenças estão INCORRETAS: A 1 e 2, apenas. B 1 e 3, apenas. C 1, 2 e 3. D 2 e 3, apenas. E 1, apenas. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 1.11.4 Gabaritos e Comentários"
+      "explanation": "A construção está correta, por isso não é a resposta: títulos de parentesco com adjetivo anteposto exigem plural."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Na a afirmação apresentada, o adjetivo anteposto funciona como adjunto adnominal e deve concordar com o substantivo mais próximo, ’revistas’ (feminino plural): ’Velhas revistas e 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … livros’. A forma ’Velhos’ desobedece a essa regra.",
-    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, o adjetivo anteposto funciona como adjunto adnominal e deve concordar com o substantivo mais próximo, ’revistas’ (feminino plural): ’Velhas revistas e 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … livros’. A forma ’Velhos’ desobedece a essa regra."
+    "resolution": "Na a afirmação apresentada, o adjetivo anteposto funciona como adjunto adnominal e deve concordar com o substantivo mais próximo, ’revistas’ (feminino plural): ’Velhas revistas e livros’. A forma ’Velhos’ desobedece a essa regra.",
+    "theoretical_content": "Concordância verbal é a relação entre o verbo e o sujeito: o verbo normalmente concorda em número e pessoa com o núcleo do sujeito. Com sujeito simples, localize o núcleo, não o termo mais próximo. Com sujeito composto anteposto, o verbo tende ao plural; quando posposto, podem existir construções de concordância plural ou atração, conforme a estrutura e a norma. Expressões partitivas, porcentagens, coletivos e pronomes relativos possuem regras específicas.\n\nConcordância nominal é a relação de gênero e número entre substantivos e seus determinantes, adjetivos, numerais e pronomes. O adjetivo pode concordar com um único substantivo ou com mais de um, conforme posição e sentido. Predicativos e particípios também exigem atenção. Expressões como “é proibido”, “é necessário” e “é bom” variam ou permanecem invariáveis conforme a presença de determinante e a construção.\n\nEm questões, identifique o núcleo do sujeito ou do substantivo, verifique a distância dos termos intervenientes e aplique a regra específica da estrutura. Não faça a concordância automaticamente com a palavra mais próxima: ela pode ser mero adjunto. Observe ainda casos de sujeito oracional, índice de indeterminação do sujeito e voz passiva sintética.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, o adjetivo anteposto funciona como adjunto adnominal e deve concordar com o substantivo mais próximo, ’revistas’ (feminino plural): ’Velhas revistas e livros’. A forma ’Velhos’ desobedece a essa regra."
   }
 }
 ```
@@ -9530,7 +9521,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A regência nominal ocorre exclusivamente quando o termo regido é um adjetivo ou um advérbio.",
       "is_correct": false,
-      "explanation": "Na regência nominal, o termo regente é que é um nome (substantivo, adjetivo ou advérbio), não necessariamente o termo regido. ARROW-LEFT VOLTAR À QUESTÃO 443 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "Na regência nominal, o termo regente é que é um nome (substantivo, adjetivo ou advérbio), não necessariamente o termo regido."
     }
   ],
   "answer_key": "B",
@@ -9568,7 +9559,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "O termo ’Administração’ é o regido direto do adjetivo ’fiel’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "O termo ’Administração’ é o regido direto do adjetivo ’fiel’.",
       "is_correct": false,
       "explanation": "O termo regido por ’fiel’ é ’princípios’. ’Da Administração’ é um adjunto que especifica ’princípios’."
     },
@@ -9588,7 +9579,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A preposição ’aos’ é facultativa, podendo ser omitida sem prejuízo à norma culta.",
       "is_correct": false,
-      "explanation": "A preposição é exigida pelo regente ’fiel’ segundo a norma culta; sua omissão causaria erro de regência. ARROW-LEFT VOLTAR À QUESTÃO 444"
+      "explanation": "A preposição é exigida pelo regente ’fiel’ segundo a norma culta; sua omissão causaria erro de regência."
     }
   ],
   "answer_key": "A",
@@ -9644,15 +9635,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Trata-se de um caso de regência nominal, em que o adjetivo ’apto’ é o termo regente que exige um complemento preposicionado. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "Trata-se de um caso de regência nominal, em que o adjetivo ’apto’ é o termo regente que exige um complemento preposicionado.",
       "is_correct": true,
-      "explanation": "A regência nominal ocorre quando o regente é um nome, e ’apto’ (adjetivo) exige a preposição ’a’. ARROW-LEFT VOLTAR À QUESTÃO 445"
+      "explanation": "A regência nominal ocorre quando o regente é um nome, e ’apto’ (adjetivo) exige a preposição ’a’."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Na regência nominal, o termo regente é um nome (substantivo, adjetivo ou advérbio). No exemplo, o adjetivo ’apto’ exige o complemento ’ao desempenho’ para completar seu sentido, estabelecendo uma relação de dependência onde ’apto’ rege e ’ao desempenho’ 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … é regido.",
-    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: Na regência nominal, o termo regente é um nome (substantivo, adjetivo ou advérbio). No exemplo, o adjetivo ’apto’ exige o complemento ’ao desempenho’ para completar seu sentido, estabelecendo uma relação de dependência onde ’apto’ rege e ’ao desempenho’ 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … é regido."
+    "resolution": "Na regência nominal, o termo regente é um nome (substantivo, adjetivo ou advérbio). No exemplo, o adjetivo ’apto’ exige o complemento ’ao desempenho’ para completar seu sentido, estabelecendo uma relação de dependência onde ’apto’ rege e ’ao desempenho’ é regido.",
+    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: Na regência nominal, o termo regente é um nome (substantivo, adjetivo ou advérbio). No exemplo, o adjetivo ’apto’ exige o complemento ’ao desempenho’ para completar seu sentido, estabelecendo uma relação de dependência onde ’apto’ rege e ’ao desempenho’ é regido."
   }
 }
 ```
@@ -9680,7 +9671,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "O jovem profissional aspirava a promoção.",
       "is_correct": false,
-      "explanation": "Sem a preposição ’a’ (indicada pela crase), o verbo assume o sentido de sorver ou cheirar, o que não atende ao comando da questão. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "Sem a preposição ’a’ (indicada pela crase), o verbo assume o sentido de sorver ou cheirar, o que não atende ao comando da questão."
     },
     {
       "id": "B",
@@ -9704,7 +9695,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O jovem profissional aspirava na promoção.",
       "is_correct": false,
-      "explanation": "A preposição ’na’ (em + a) não é regida pelo verbo ’aspirar’ em nenhum de seus sentidos normativos. ARROW-LEFT VOLTAR À QUESTÃO 446"
+      "explanation": "A preposição ’na’ (em + a) não é regida pelo verbo ’aspirar’ em nenhum de seus sentidos normativos."
     }
   ],
   "answer_key": "B",
@@ -9754,15 +9745,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Os cidadãos assistiram do debate televisivo com atenção. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "Os cidadãos assistiram do debate televisivo com atenção.",
       "is_correct": false,
-      "explanation": "A preposição ’de’ não é a regência adequada para o verbo ’assistir’ no sentido de presenciar. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "A preposição ’de’ não é a regência adequada para o verbo ’assistir’ no sentido de presenciar."
     },
     {
       "id": "E",
       "text": "Os cidadãos assistiram ao debate televisivo com atenção.",
       "is_correct": true,
-      "explanation": "Apresenta a preposição ’a’ exigida pelo verbo no sentido de presenciar. ARROW-LEFT VOLTAR À QUESTÃO 447"
+      "explanation": "Apresenta a preposição ’a’ exigida pelo verbo no sentido de presenciar."
     }
   ],
   "answer_key": "E",
@@ -9820,7 +9811,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O sistema de ventilação aspirava a fumaça do ambiente.",
       "is_correct": true,
-      "explanation": "O verbo indica o ato físico de sugar a fumaça, sendo, portanto, Transitivo Direto. ARROW-LEFT VOLTAR À QUESTÃO 448 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "O verbo indica o ato físico de sugar a fumaça, sendo, portanto, Transitivo Direto."
     }
   ],
   "answer_key": "E",
@@ -9848,7 +9839,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considerando as normas de regência nominal da língua portuguesa, assinale a alternativa que preenche corretamente a lacuna da frase a seguir: ’O candidato demonstrou profunda aversão ____ burocracia excessiva durante o atendimento’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+  "question_text": "Considerando as normas de regência nominal da língua portuguesa, assinale a alternativa que preenche corretamente a lacuna da frase a seguir: ’O candidato demonstrou profunda aversão ____ burocracia excessiva durante o atendimento’.",
   "alternatives": [
     {
       "id": "A",
@@ -9878,7 +9869,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "para",
       "is_correct": false,
-      "explanation": "A preposição ’para’ não é a regência padrão para o substantivo ’aversão’. ARROW-LEFT VOLTAR À QUESTÃO 449"
+      "explanation": "A preposição ’para’ não é a regência padrão para o substantivo ’aversão’."
     }
   ],
   "answer_key": "D",
@@ -9934,15 +9925,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "com 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "com",
       "is_correct": false,
-      "explanation": "A preposição ’com’ não estabelece a relação de regência adequada com o adjetivo ’imune’. ARROW-LEFT VOLTAR À QUESTÃO 450"
+      "explanation": "A preposição ’com’ não estabelece a relação de regência adequada com o adjetivo ’imune’."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … Correta. O adjetivo ’imune’ exige a preposição ’a’. Quem é imune, é imune ’a’ alguma coisa.",
-    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … Correta. O adjetivo ’imune’ exige a preposição ’a’. Quem é imune, é imune ’a’ alguma coisa."
+    "resolution": "Convenções da Norma Padrão: Regência Ver- … Correta. O adjetivo ’imune’ exige a preposição ’a’. Quem é imune, é imune ’a’ alguma coisa.",
+    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: Correta. O adjetivo ’imune’ exige a preposição ’a’. Quem é imune, é imune ’a’ alguma coisa."
   }
 }
 ```
@@ -9970,7 +9961,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Sempre assistimos àquelas reuniões de planejamento estratégico.",
       "is_correct": false,
-      "explanation": "O verbo assistir (no sentido de presenciar) rege preposição ’a’, que se funde com a vogal inicial do pronome ’aquelas’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "O verbo assistir (no sentido de presenciar) rege preposição ’a’, que se funde com a vogal inicial do pronome ’aquelas’."
     },
     {
       "id": "B",
@@ -9994,7 +9985,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O atendimento ao público ocorre das 8h às 18h.",
       "is_correct": false,
-      "explanation": "Trata-se de indicação de horas exatas em uma locução adverbial de tempo. ARROW-LEFT VOLTAR À QUESTÃO 451"
+      "explanation": "Trata-se de indicação de horas exatas em uma locução adverbial de tempo."
     }
   ],
   "answer_key": "B",
@@ -10046,13 +10037,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "às",
       "is_correct": true,
-      "explanation": "Antes de numerais que indicam horas exatas, utiliza-se a crase (preposição ’a’ + artigo ’as’). 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "Antes de numerais que indicam horas exatas, utiliza-se a crase (preposição ’a’ + artigo ’as’)."
     },
     {
       "id": "E",
-      "text": "a 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 1.11.2 Questões de Nível Médio",
+      "text": "a 1.11.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "O ’a’ simples não supre a necessidade de artigo e preposição exigidos na indicação de horas. ARROW-LEFT VOLTAR À QUESTÃO 452"
+      "explanation": "O ’a’ simples não supre a necessidade de artigo e preposição exigidos na indicação de horas."
     }
   ],
   "answer_key": "D",
@@ -10110,7 +10101,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Os documentos que o candidato necessita foram protocolados ontem.",
       "is_correct": false,
-      "explanation": "Quem necessita, necessita ’de’ algo. O correto seria: ’de que o candidato necessita’. ARROW-LEFT VOLTAR À QUESTÃO 453 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "Quem necessita, necessita ’de’ algo. O correto seria: ’de que o candidato necessita’."
     }
   ],
   "answer_key": "B",
@@ -10142,7 +10133,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Na regência verbal, o termo regente nunca pode ser substituído por um pronome, 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … apenas o termo regido.",
+      "text": "Na regência verbal, o termo regente nunca pode ser substituído por um pronome, apenas o termo regido.",
       "is_correct": false,
       "explanation": "O termo regente é o núcleo (verbo ou nome) e não é substituído; o que se substitui por pronome é o termo regido (complemento)."
     },
@@ -10168,7 +10159,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Se o verbo rege a preposição ’em’, o termo regido deve ser substituído pelo pronome ’o’ ou ’a’.",
       "is_correct": false,
-      "explanation": "Os pronomes ’o, a’ substituem objetos diretos (sem preposição). ARROW-LEFT VOLTAR À QUESTÃO 454"
+      "explanation": "Os pronomes ’o, a’ substituem objetos diretos (sem preposição)."
     }
   ],
   "answer_key": "C",
@@ -10224,15 +10215,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Apenas II e III. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "Apenas II e III.",
       "is_correct": false,
-      "explanation": "A afirmação II está incorreta. ARROW-LEFT VOLTAR À QUESTÃO 455"
+      "explanation": "A afirmação II está incorreta."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "As sentenças I e III respeitam a regência nominal dos termos ’favorável’ (a) e ’apto’ (a/para). A sentença II apresenta erro de regência verbal. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
-    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: As sentenças I e III respeitam a regência nominal dos termos ’favorável’ (a) e ’apto’ (a/para). A sentença II apresenta erro de regência verbal. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+    "resolution": "As sentenças I e III respeitam a regência nominal dos termos ’favorável’ (a) e ’apto’ (a/para). A sentença II apresenta erro de regência verbal.",
+    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: As sentenças I e III respeitam a regência nominal dos termos ’favorável’ (a) e ’apto’ (a/para). A sentença II apresenta erro de regência verbal."
   }
 }
 ```
@@ -10272,7 +10263,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Identificar se o termo regido é um substantivo próprio ou comum, pois isso altera a preposição.",
       "is_correct": false,
-      "explanation": "A natureza do substantivo (próprio ou comum) não altera a regência exigida pelo termo regente. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "A natureza do substantivo (próprio ou comum) não altera a regência exigida pelo termo regente."
     },
     {
       "id": "D",
@@ -10284,7 +10275,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Substituir sempre o termo regente por um sinônimo para ver se a preposição permanece a mesma.",
       "is_correct": false,
-      "explanation": "Sinônimos podem ter regências diferentes (ex: ’gostar de’ e ’apreciar’ - sem preposição). ARROW-LEFT VOLTAR À QUESTÃO 456"
+      "explanation": "Sinônimos podem ter regências diferentes (ex: ’gostar de’ e ’apreciar’ - sem preposição)."
     }
   ],
   "answer_key": "D",
@@ -10312,7 +10303,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que tange aos mecanismos de coesão e dependência sintática, a regência estabelece uma hierarquia entre os termos da oração. Analise a seguinte frase: ’A aptidão para o exercício da função pública pressupõe que o agente seja fiel aos preceitos éticos da instituição’. Sobre a relação entre os termos destacados e seus respectivos regentes, assinale a alternativa correta: 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+  "question_text": "No que tange aos mecanismos de coesão e dependência sintática, a regência estabelece uma hierarquia entre os termos da oração. Analise a seguinte frase: ’A aptidão para o exercício da função pública pressupõe que o agente seja fiel aos preceitos éticos da instituição’. Sobre a relação entre os termos destacados e seus respectivos regentes, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -10342,7 +10333,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A preposição ’aos’ é uma exigência sintática do verbo de ligação ’seja’, o que classifica a relação como regência verbal indireta.",
       "is_correct": false,
-      "explanation": "Verbos de ligação, como ’ser’ (seja), não regem complementos preposicionados dessa forma; a exigência da preposição ’a’ (em ’aos’) parte do adjetivo ’fiel’ (predicativo do sujeito). 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … ARROW-LEFT VOLTAR À QUESTÃO 457"
+      "explanation": "Verbos de ligação, como ’ser’ (seja), não regem complementos preposicionados dessa forma; a exigência da preposição ’a’ (em ’aos’) parte do adjetivo ’fiel’ (predicativo do sujeito)."
     }
   ],
   "answer_key": "C",
@@ -10392,7 +10383,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "A preposição é facultativa nesse caso, servindo apenas para evitar a repetição do 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … termo ’processos’ no período.",
+      "text": "A preposição é facultativa nesse caso, servindo apenas para evitar a repetição do termo ’processos’ no período.",
       "is_correct": false,
       "explanation": "A regência do verbo ’recordar-se’ (pronominal) torna o uso da preposição ’de’ obrigatório segundo a norma culta."
     },
@@ -10400,7 +10391,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O verbo ’arquivados’ projeta sua regência sobre o início da frase, exigindo o conectivo ’de’.",
       "is_correct": false,
-      "explanation": "O verbo ’arquivados’ refere-se ao sujeito ’Os processos’ e não exige a preposição ’de’ para esse complemento. ARROW-LEFT VOLTAR À QUESTÃO 458 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "O verbo ’arquivados’ refere-se ao sujeito ’Os processos’ e não exige a preposição ’de’ para esse complemento."
     }
   ],
   "answer_key": "C",
@@ -10456,9 +10447,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A substituição de ’ao controle’ por ’o controle’ em II manteria a correção gramatical e o sentido original. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "A substituição de ’ao controle’ por ’o controle’ em II manteria a correção gramatical e o sentido original.",
       "is_correct": false,
-      "explanation": "No sentido de ’objetivar’, quando o complemento é um substantivo (’controle’), a preposição ’a’ é obrigatória. ARROW-LEFT VOLTAR À QUESTÃO 459"
+      "explanation": "No sentido de ’objetivar’, quando o complemento é um substantivo (’controle’), a preposição ’a’ é obrigatória."
     }
   ],
   "answer_key": "C",
@@ -10516,13 +10507,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O servidor lembrou-se o compromisso agendado para hoje.",
       "is_correct": false,
-      "explanation": "Com o pronome ’se’, o verbo exige a preposição ’de’: ’lembrou-se do compromisso’. ARROW-LEFT VOLTAR À QUESTÃO 460"
+      "explanation": "Com o pronome ’se’, o verbo exige a preposição ’de’: ’lembrou-se do compromisso’."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "Correta. Quando os verbos ’esquecer’ ou ’lembrar’ são pronominais (acompanhados de se, me, nos, etc.), eles tornam-se Transitivos Indiretos e exigem a preposição ’de’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
-    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: Correta. Quando os verbos ’esquecer’ ou ’lembrar’ são pronominais (acompanhados de se, me, nos, etc.), eles tornam-se Transitivos Indiretos e exigem a preposição ’de’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+    "resolution": "Correta. Quando os verbos ’esquecer’ ou ’lembrar’ são pronominais (acompanhados de se, me, nos, etc.), eles tornam-se Transitivos Indiretos e exigem a preposição ’de’.",
+    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: Correta. Quando os verbos ’esquecer’ ou ’lembrar’ são pronominais (acompanhados de se, me, nos, etc.), eles tornam-se Transitivos Indiretos e exigem a preposição ’de’."
   }
 }
 ```
@@ -10556,11 +10547,11 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "O trecho está incorreto, pois o verbo ’visar’ (objetivar) exige obrigatoriamente a preposição ’a’ antes de verbos.",
       "is_correct": false,
-      "explanation": "A preposição não é obrigatória diante de verbos no infinitivo para o verbo ’visar’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "A preposição não é obrigatória diante de verbos no infinitivo para o verbo ’visar’."
     },
     {
       "id": "C",
-      "text": "O verbo ’visar’ nesse contexto é Transitivo Direto, portanto a preposição ’a’ deveria ser eliminada. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "O verbo ’visar’ nesse contexto é Transitivo Direto, portanto a preposição ’a’ deveria ser eliminada.",
       "is_correct": false,
       "explanation": "O verbo continua sendo classificado como Transitivo Indireto em seu sentido de ’objetivar’, mas a preposição é facultativa antes de infinitivo."
     },
@@ -10574,7 +10565,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O trecho está correto, mas a retirada da preposição ’a’ causaria erro gramatical grave.",
       "is_correct": false,
-      "explanation": "A retirada da preposição não causaria erro, pois ela é facultativa nesse contexto específico. ARROW-LEFT VOLTAR À QUESTÃO 461"
+      "explanation": "A retirada da preposição não causaria erro, pois ela é facultativa nesse contexto específico."
     }
   ],
   "answer_key": "D",
@@ -10630,9 +10621,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O médico assistiu o paciente. / O médico assistiu-o. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "O médico assistiu o paciente. / O médico assistiu-o.",
       "is_correct": false,
-      "explanation": "No sentido de ajudar/socorrer, o verbo é predominantemente Transitivo Direto, aceitando o pronome ’o’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … ARROW-LEFT VOLTAR À QUESTÃO 462"
+      "explanation": "No sentido de ajudar/socorrer, o verbo é predominantemente Transitivo Direto, aceitando o pronome ’o’."
     }
   ],
   "answer_key": "C",
@@ -10684,7 +10675,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Está incorreta, pois ambos os nomes deveriam reger a preposição ’com’.",
       "is_correct": false,
-      "explanation": "Nenhum dos dois nomes citados rege a preposição ’com’ no contexto apresentado. ARROW-LEFT VOLTAR À QUESTÃO 463 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "Nenhum dos dois nomes citados rege a preposição ’com’ no contexto apresentado."
     },
     {
       "id": "E",
@@ -10722,7 +10713,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Estes são os documentos de que o diretor é ávido. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "Estes são os documentos de que o diretor é ávido.",
       "is_correct": true,
       "explanation": "O termo ’ávido’ exige a preposição ’de’, que foi corretamente posicionada antes do pronome relativo."
     },
@@ -10748,7 +10739,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O cargo por que ele é propenso exige especialização.",
       "is_correct": false,
-      "explanation": "O adjetivo ’propenso’ exige a preposição ’a’. O correto seria: ’...a que ele é propenso’. ARROW-LEFT VOLTAR À QUESTÃO 464"
+      "explanation": "O adjetivo ’propenso’ exige a preposição ’a’. O correto seria: ’...a que ele é propenso’."
     }
   ],
   "answer_key": "A",
@@ -10804,15 +10795,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Em I e II, os termos são complementos nominais, pois completam o sentido do substantivo ’resposta’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "Em I e II, os termos são complementos nominais, pois completam o sentido do substantivo ’resposta’.",
       "is_correct": false,
-      "explanation": "Apenas o termo que sofre a ação (paciente) em relação a um substantivo abstrato é complemento nominal. ARROW-LEFT VOLTAR À QUESTÃO 465"
+      "explanation": "Apenas o termo que sofre a ação (paciente) em relação a um substantivo abstrato é complemento nominal."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "Correta. No item I, o servidor pratica a ação de responder (agente), o que caracteriza o Adjunto Adnominal. No item II, o servidor recebe a resposta (paciente), o que caracteriza 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … o Complemento Nominal.",
-    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: Correta. No item I, o servidor pratica a ação de responder (agente), o que caracteriza o Adjunto Adnominal. No item II, o servidor recebe a resposta (paciente), o que caracteriza 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … o Complemento Nominal."
+    "resolution": "Correta. No item I, o servidor pratica a ação de responder (agente), o que caracteriza o Adjunto Adnominal. No item II, o servidor recebe a resposta (paciente), o que caracteriza o Complemento Nominal.",
+    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: Correta. No item I, o servidor pratica a ação de responder (agente), o que caracteriza o Adjunto Adnominal. No item II, o servidor recebe a resposta (paciente), o que caracteriza o Complemento Nominal."
   }
 }
 ```
@@ -10840,7 +10831,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "A equipe trabalhou analogamente de os padrões internacionais.",
       "is_correct": false,
-      "explanation": "’Analogamente’ deriva de ’análogo’, que rege a preposição ’a’. O correto seria ’analogamente aos’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "’Analogamente’ deriva de ’análogo’, que rege a preposição ’a’. O correto seria ’analogamente aos’."
     },
     {
       "id": "B",
@@ -10864,7 +10855,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A análise procedeu relativamente aos critérios estabelecidos.",
       "is_correct": true,
-      "explanation": "Segue a regência do adjetivo ’relativo’ (relativo a). ARROW-LEFT VOLTAR À QUESTÃO 466"
+      "explanation": "Segue a regência do adjetivo ’relativo’ (relativo a)."
     }
   ],
   "answer_key": "E",
@@ -10914,7 +10905,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "I, apenas. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "I, apenas.",
       "is_correct": false,
       "explanation": "Embora a I esteja correta, a III também está."
     },
@@ -10922,7 +10913,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "I e II, apenas.",
       "is_correct": false,
-      "explanation": "A afirmação II está errada. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … ARROW-LEFT VOLTAR À QUESTÃO 467"
+      "explanation": "A afirmação II está errada."
     }
   ],
   "answer_key": "A",
@@ -10980,7 +10971,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O aviso foi enviado à minha supervisora direta.",
       "is_correct": true,
-      "explanation": "Antes de pronomes possessivos femininos (minha, tua, sua, nossa, vossa) no singular, o uso da crase é facultativo. ARROW-LEFT VOLTAR À QUESTÃO 468 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "Antes de pronomes possessivos femininos (minha, tua, sua, nossa, vossa) no singular, o uso da crase é facultativo."
     }
   ],
   "answer_key": "E",
@@ -11012,7 +11003,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "O palestrante dirigiu-se à Brasília para a conferência. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "O palestrante dirigiu-se à Brasília para a conferência.",
       "is_correct": false,
       "explanation": "Quem volta, volta ’de’ Brasília. Sem artigo, sem crase."
     },
@@ -11036,9 +11027,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O grupo de estudos retornará à Curitiba em breve. 1.11.3 Questões Difíceis 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "O grupo de estudos retornará à Curitiba em breve. 1.11.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "Quem volta, volta ’de’ Curitiba. Sem artigo, sem crase. ARROW-LEFT VOLTAR À QUESTÃO 469"
+      "explanation": "Quem volta, volta ’de’ Curitiba. Sem artigo, sem crase."
     }
   ],
   "answer_key": "D",
@@ -11096,13 +11087,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A lei que, por força de decisões judiciais recentes e pressões sociais, o magistrado fez menção, é de 1990.",
       "is_correct": false,
-      "explanation": "Quem faz menção, faz menção ’a’ algo (regência nominal). O correto seria: ’A lei a que... o magistrado fez menção’. ARROW-LEFT VOLTAR À QUESTÃO 470"
+      "explanation": "Quem faz menção, faz menção ’a’ algo (regência nominal). O correto seria: ’A lei a que... o magistrado fez menção’."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "O verbo ’necessitar’ é transitivo indireto (quem necessita, necessita DE algo). A preposição ’de’ deve aparecer antes do pronome relativo ’que’, mesmo com a intercalação de uma oração explicativa. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
-    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: O verbo ’necessitar’ é transitivo indireto (quem necessita, necessita DE algo). A preposição ’de’ deve aparecer antes do pronome relativo ’que’, mesmo com a intercalação de uma oração explicativa. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+    "resolution": "O verbo ’necessitar’ é transitivo indireto (quem necessita, necessita DE algo). A preposição ’de’ deve aparecer antes do pronome relativo ’que’, mesmo com a intercalação de uma oração explicativa.",
+    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: O verbo ’necessitar’ é transitivo indireto (quem necessita, necessita DE algo). A preposição ’de’ deve aparecer antes do pronome relativo ’que’, mesmo com a intercalação de uma oração explicativa."
   }
 }
 ```
@@ -11134,9 +11125,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Na substituição de ’Obedeço ao regulamento’ por um pronome, o correto pela norma culta seria ’Obedeço-lhe’, pois o regente é transitivo indireto. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "Na substituição de ’Obedeço ao regulamento’ por um pronome, o correto pela norma culta seria ’Obedeço-lhe’, pois o regente é transitivo indireto.",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa. Como ’obedeço’ rege a preposição ’a’, o complemento pode ser substituído por ’lhe’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "Esta afirmação está certa. Como ’obedeço’ rege a preposição ’a’, o complemento pode ser substituído por ’lhe’."
     },
     {
       "id": "C",
@@ -11154,7 +11145,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Em ’O fumo é prejudicial à saúde’, o termo regente é um adjetivo que exige a preposição ’a’, resultando em crase diante do artigo feminino.",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa. ’Prejudicial’ é adjetivo (regente nominal) que exige a preposição ’a’. ARROW-LEFT VOLTAR À QUESTÃO 471"
+      "explanation": "Esta afirmação está certa. ’Prejudicial’ é adjetivo (regente nominal) que exige a preposição ’a’."
     }
   ],
   "answer_key": "C",
@@ -11206,13 +11197,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "II e III.",
       "is_correct": false,
-      "explanation": "O item II está incorreto porque o verbo ’visar’ no sentido de desejar/objetivar é Transitivo Indireto (rege a preposição ’a’), devendo ser substituído por ’lhe’ (conforme o texto base) ou ’a ele’, e não pelo pronome direto ’o’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "O item II está incorreto porque o verbo ’visar’ no sentido de desejar/objetivar é Transitivo Indireto (rege a preposição ’a’), devendo ser substituído por ’lhe’ (conforme o texto base) ou ’a ele’, e não pelo pronome direto ’o’."
     },
     {
       "id": "E",
-      "text": "I, II e III. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "I, II e III.",
       "is_correct": false,
-      "explanation": "O item II invalida a opção, pois ’visar’ (objetivar) não é Transitivo Direto. ARROW-LEFT VOLTAR À QUESTÃO 472"
+      "explanation": "O item II invalida a opção, pois ’visar’ (objetivar) não é Transitivo Direto."
     }
   ],
   "answer_key": "B",
@@ -11270,7 +11261,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Apenas um erro de acentuação gráfica, sem prejuízo ao sentido original.",
       "is_correct": false,
-      "explanation": "Não se trata de acentuação, mas de regência e semântica. ARROW-LEFT VOLTAR À QUESTÃO 473 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "Não se trata de acentuação, mas de regência e semântica."
     }
   ],
   "answer_key": "A",
@@ -11302,7 +11293,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "A administração quer os relatórios sobre a mesa até amanhã. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "A administração quer os relatórios sobre a mesa até amanhã.",
       "is_correct": false,
       "explanation": "Aqui o verbo é Transitivo Direto e significa ’desejar’ ou ’exigir’."
     },
@@ -11328,7 +11319,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Os pais querem que os filhos sejam aprovados no exame.",
       "is_correct": false,
-      "explanation": "O verbo é Transitivo Direto (com oração subordinada objetiva direta) e significa ’desejar’. ARROW-LEFT VOLTAR À QUESTÃO 474"
+      "explanation": "O verbo é Transitivo Direto (com oração subordinada objetiva direta) e significa ’desejar’."
     }
   ],
   "answer_key": "D",
@@ -11384,15 +11375,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Os interessados assistiram o documentário sobre a fauna brasileira no auditório. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "Os interessados assistiram o documentário sobre a fauna brasileira no auditório.",
       "is_correct": false,
-      "explanation": "No sentido de ver ou presenciar, o verbo ’assistir’ exige a preposição ’a’ (assistiram ao documentário). ARROW-LEFT VOLTAR À QUESTÃO 475"
+      "explanation": "No sentido de ver ou presenciar, o verbo ’assistir’ exige a preposição ’a’ (assistiram ao documentário)."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "O verbo ’querer’, no sentido de estimar ou ter afeto, é Transitivo Indireto e rege a preposição ’a’. A frase indica que o profissional gosta de seus colegas, portanto, ’quer aos colegas’ está correto. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
-    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: O verbo ’querer’, no sentido de estimar ou ter afeto, é Transitivo Indireto e rege a preposição ’a’. A frase indica que o profissional gosta de seus colegas, portanto, ’quer aos colegas’ está correto. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+    "resolution": "O verbo ’querer’, no sentido de estimar ou ter afeto, é Transitivo Indireto e rege a preposição ’a’. A frase indica que o profissional gosta de seus colegas, portanto, ’quer aos colegas’ está correto.",
+    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: O verbo ’querer’, no sentido de estimar ou ter afeto, é Transitivo Indireto e rege a preposição ’a’. A frase indica que o profissional gosta de seus colegas, portanto, ’quer aos colegas’ está correto."
   }
 }
 ```
@@ -11426,7 +11417,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "O profissional é muito atencioso para com os seus subordinados.",
       "is_correct": false,
-      "explanation": "O adjetivo ’atencioso’ admite as preposições ’com’ ou ’para com’. Portanto, a frase está gramaticalmente certa. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "O adjetivo ’atencioso’ admite as preposições ’com’ ou ’para com’. Portanto, a frase está gramaticalmente certa."
     },
     {
       "id": "C",
@@ -11444,7 +11435,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Sua atitude foi considerada incompatível com as normas da instituição.",
       "is_correct": false,
-      "explanation": "O adjetivo ’incompatível’ rege a preposição ’com’. A frase está correta. ARROW-LEFT VOLTAR À QUESTÃO 476"
+      "explanation": "O adjetivo ’incompatível’ rege a preposição ’com’. A frase está correta."
     }
   ],
   "answer_key": "D",
@@ -11488,9 +11479,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "de que / à / à 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …",
+      "text": "de que / à / à",
       "is_correct": false,
-      "explanation": "O verbo ’aludir’ não rege a preposição ’de’, invalidando o ’de que’. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "O verbo ’aludir’ não rege a preposição ’de’, invalidando o ’de que’."
     },
     {
       "id": "D",
@@ -11502,7 +11493,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "que / a / a",
       "is_correct": false,
-      "explanation": "A omissão da preposição ’a’ antes do pronome relativo ’que’ configura erro de regência (quem alude, alude ’a’). ARROW-LEFT VOLTAR À QUESTÃO 477"
+      "explanation": "A omissão da preposição ’a’ antes do pronome relativo ’que’ configura erro de regência (quem alude, alude ’a’)."
     }
   ],
   "answer_key": "D",
@@ -11560,7 +11551,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O servidor público chegou à casa exausto após o plantão.",
       "is_correct": false,
-      "explanation": "’Casa’ no sentido de lar próprio, sem especificação, não admite artigo, logo, não há crase. ARROW-LEFT VOLTAR À QUESTÃO 478 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- …"
+      "explanation": "’Casa’ no sentido de lar próprio, sem especificação, não admite artigo, logo, não há crase."
     }
   ],
   "answer_key": "D",
@@ -11588,7 +11579,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do texto abaixo: 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … ’O acesso _ informações sigilosas é restrito _ pessoas autorizadas, que devem estar atentas ___ normas de segurança estabelecidas pela instituição.’",
+  "question_text": "Assinale a alternativa que preenche, correta e respectivamente, as lacunas do texto abaixo: ’O acesso _ informações sigilosas é restrito _ pessoas autorizadas, que devem estar atentas ___ normas de segurança estabelecidas pela instituição.’",
   "alternatives": [
     {
       "id": "A",
@@ -11618,7 +11609,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "a – a – as",
       "is_correct": false,
-      "explanation": "A primeira lacuna exige crase (acesso ’a’ + ’as’ informações). ARROW-LEFT VOLTAR À QUESTÃO 479"
+      "explanation": "A primeira lacuna exige crase (acesso ’a’ + ’as’ informações)."
     }
   ],
   "answer_key": "B",
@@ -11674,15 +11665,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "1, apenas. 1. Língua Portuguesa 1.11. Convenções da Norma Padrão: Regência Ver- … 1.11.4 Gabaritos e Comentários 443",
+      "text": "1, apenas.",
       "is_correct": false,
-      "explanation": "Embora a 1 esteja incorreta, a 2 também está, tornando a alternativa incompleta. ARROW-LEFT VOLTAR À QUESTÃO 480 1.12 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUAÇÃO GRÁFICA 1.12.1 Questões Fáceis 481 Questão 481 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL De acordo com as regras de acentuação gráfica da língua portuguesa, assinale a alternativa que apresenta apenas palavras proparoxítonas. A História, série, prédio. B Fácil, caráter, álbum. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … C Armazém, parabéns, alguém. D Médico, trânsito, lúdico. E Café, pajé, jiló. 482 Questão 482 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL As palavras Pará, cafés e jiló recebem acento gráfico com base na mesma regra gramatical. Assinale a alternativa que apresenta outra palavra acentuada pelo mesmo motivo. A Árvore B Cipó C Ímã D Tórax E Vírus 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 483 Questão 483 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL De acordo com as regras gerais de acentuação gráfica, as palavras oxítonas e paroxítonas apresentam um comportamento complementar (lógica de exclusão). Com base nessa premissa, assinale a alternativa que apresenta apenas palavras oxítonas que devem ser obrigatoriamente acentuadas. A Talvez, matriz, feliz. B Item, nuvem, jovem. C Chá, café, cipó. D Caju, saci, urubu. E Papel, barril, sutil. 484 Questão 484 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL Considerando as regras de ortografia oficial vigentes, assinale a alternativa em que o termo por que está empregado corretamente em uma interrogação direta. A Por que o candidato não compareceu ao local de prova? B Por quê o candidato não compareceu ao local de prova? C Porquê o candidato não compareceu ao local de prova? D Porque o candidato não compareceu ao local de prova? 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … E Pôr que o candidato não compareceu ao local de prova? 485 Questão 485 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL De acordo com o Acordo Ortográfico vigente, o hífen deve ser utilizado quando o prefixo termina com a mesma vogal que inicia o segundo elemento. Assinale a alternativa que apresenta um exemplo correto dessa regra. A Infraestrutura B Micro-ondas C Semianalfabeto D Autoescola E Extraoficial 486 Questão 486 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL Considerando as normas de ortografia oficial e o emprego do hífen, assinale a alternativa em que a frase está inteiramente correta. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … A A instituição investiu em uma nova infra-estrutura para o atendimento. B A palestra sobre auto-ajuda foi cancelada por falta de quórum. C O servidor comprou um novo micro-ondas para a copa do órgão. D Não sabemos porquê o sistema apresentou instabilidade técnica. E O candidato não compreendeu o por que de tanta demora na fila. 487 Questão 487 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL De acordo com as normas do Acordo Ortográfico vigente, assinale a alternativa em que todas as palavras estão grafadas corretamente quanto à acentuação dos hiatos homogêneos (vogais dobradas): A Voo, creem, leem. B Voo, crêem, leem. C Vôo, crêem, lêem. D Vôo, creem, lêem. E Vôo, creem, leem. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 488 Questão 488 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL Assinale a alternativa que apresenta uma palavra paroxítona que PERDEU o acento gráfico em virtude do Acordo Ortográfico: A Papéis B Constrói C Herói D Ideia E Céu 489 Questão 489 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL Considerando as normas de ortografia oficial da língua portuguesa, assinale a alternativa que preenche corretamente as lacunas da seguinte frase: ’Espero que os servidores __ logo, pois a __ de estudos será cansativa.’ A viajem - viagem B viagem - viagem C viajem - viajem D viagem - viajem E viajem - viagen 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 490 Questão 490 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL De acordo com as regras de emprego das letras ’X’ e ’CH’, assinale a alternativa em que todas as palavras estão grafadas corretamente. A Ameixa, deichar, chuchu. B Enxurrada, enxame, enchada. C Enxada, enxame, encher. D Mecher, mecha (de cabelo), encharcar. E Caixa, peixe, fexe. 491 Questão 491 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL No cotidiano da Administração Pública, a redação de documentos exige precisão ortográfica. Assinale a alternativa em que todas as palavras, que apresentam as terminações em -ágio, -égio, -ígio, -ógio ou -úgio, estão grafadas corretamente com a letra ’G’. A Pedágio, coléjio, prestígio, relógio, refúgio. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … B Pedágio, colégio, prestígio, relójio, refúgio. C Pedágio, colégio, prestígio, relógio, refújio. D Pedágio, colégio, prestígio, relógio, refúgio. E Pedájio, colégio, prestígio, relógio, refúgio. 492 Questão 492 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○FÁCIL A formação de substantivos abstratos a partir de adjetivos é um processo comum na língua portuguesa e segue regras ortográficas específicas quanto ao uso de ’S’ ou ’Z’. Assinale a alternativa em que todos os substantivos derivados estão grafados corretamente. A Rigidez, clareza, estupidez. B Rigidês, claresa, estupideza. C Rigidez, clareza, estupidês. D Rigidez, claresa, estupidez. E Rigidês, clareza, estupideza. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 1.12.2 Questões de Nível Médio 493 Questão 493 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO Considere o seguinte grupo de palavras: item, nuvens e jovem. Sobre a acentuação gráfica desses termos, assinale a afirmação correta: A Não recebem acento gráfico, pois são paroxítonas terminadas em EM e ENS. B Recebem acento agudo na sílaba tônica por serem oxítonas. C São proparoxítonas e, portanto, o acento é facultativo. D Devem ser acentuadas por serem paroxítonas terminadas em EM e ENS. E Apenas ’nuvens’ deveria ser acentuada por ser um plural de paroxítona. 494 Questão 494 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO No que se refere às regras de acentuação das palavras paroxítonas, assinale a alternativa em que a palavra apresentada NÃO deveria receber acento gráfico. A Hífen B Bíceps C Órfã D Hifens E Fórum 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 495 Questão 495 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO A acentuação gráfica das palavras fácil, pólen e álbum justifica-se pelo fato de serem: A Paroxítonas que não terminam em A(s), E(s), O(s), EM, ENS. B Palavras que possuem ditongos abertos na sílaba tônica. C Proparoxítonas terminadas em consoantes diversas. D Oxítonas terminadas em L, N e UM. E Monossílabos tônicos terminados em consoantes líquidas. 496 Questão 496 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO A acentuação das palavras paroxítonas é determinada por uma série de terminações específicas. Analise o comportamento das palavras hífen e elétrons e assinale a alternativa que descreve corretamente a aplicação das regras de acentuação para esses casos. A Tanto ’hífen’ quanto ’elétrons’ são acentuados pela regra das proparoxítonas, uma vez que possuem mais de duas sílabas. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … B O termo ’hífen’ perde o acento gráfico no plural (’hifens’) porque paroxítonas terminadas em -ENS não são acentuadas. C A palavra ’hífen’ é acentuada por ser paroxítona terminada em ’n’, e seu plural ’hifens’ mantém o acento pela mesma regra. D A palavra ’elétrons’ é acentuada por ser uma paroxítona terminada em ’ons’, terminação que exige o sinal gráfico. E A palavra ’elétrons’ deveria ser grafada sem acento, pois termina em ’s’, assim como ’nuvens’. 497 Questão 497 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO Analise a frase a seguir: ’A Administração Pública ainda não apresentou o _____ de tal medida, e os servidores desejam saber _____.’ Assinale a alternativa que preenche correta e respectivamente as lacunas. A porque / porquê B porquê / porque C porquê / por quê D por que / por que E por quê / porque 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 498 Questão 498 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO No que tange ao uso do hífen com os prefixos ’R’ e ’S’, assinale a alternativa em que a grafia da palavra está em conformidade com as normas vigentes. A Antirracismo B Contra-regra C Ultra-som D Mini-saia E Anti-social 499 Questão 499 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO Certos prefixos na língua portuguesa sempre exigem o uso do hífen, independentemente da letra que inicia o segundo elemento. Assinale a alternativa que apresenta apenas palavras grafadas corretamente segundo essa regra. A Ex-diretor, vice presidente e recém-casado. B Exdiretor, vice-presidente e recém casado. C Ex-diretor, vice-presidente e recém-casado. D Exdiretor, vice presidente e recém casado. E Ex-diretor, vicepresidente e recémcasado. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 500 Questão 500 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO No que tange às regras de hifenização com os prefixos ’sub-’, ’anti-’ e ’vice-’, e ao uso dos porquês, assinale a opção gramaticalmente correta. A A sub-estimativa de custos ocorreu por que os dados estavam defasados. B O vice-diretor explicou que o antiracismo é um pilar da educação moderna. C O agente público agiu com anti-ética, mas ninguém soube explicar o por quê. D A sub-região administrativa foi mapeada porque havia necessidade de fiscalização. E Os motivos por que o projeto foi vetado são de ordem técnica, e não política. 501 Questão 501 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO Considere as seguintes palavras: I. Feiura II. Heroico III. Jiboia Sobre a acentuação gráfica dessas palavras após o Acordo Ortográfico, é correto afirmar que: A Nenhuma das palavras perdeu o acento gráfico. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … B Apenas as palavras II e III perderam o acento. C Todas as palavras perderam o acento gráfico. D Apenas a palavra I perdeu o acento. E Apenas a palavra II perdeu o acento. 502 Questão 502 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO A palavra ’Piauí’ mantém o acento gráfico, enquanto ’feiura’ o perdeu. Assinale a alternativa que justifica corretamente essa diferença de acordo com as regras vigentes: A Piauí é acentuada por ser um substantivo próprio, regra que não se aplica a feiura. B Ambas deveriam ter perdido o acento, mas Piauí é uma exceção por uso consagrado. C Em Piauí, o ’i’ tônico forma hiato em uma oxítona; em feiura, o ’u’ tônico forma hiato após ditongo em uma paroxítona. D O acento de Piauí é diferencial, enquanto o de feiura era tônico. E Piauí é uma paroxítona terminada em ’i’, enquanto feiura é uma proparoxítona. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 503 Questão 503 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO Assinale a alternativa em que o termo sublinhado NÃO deveria estar acentuado, considerando as regras de hiatos e ditongos: A Ele é um verdadeiro herói para a comunidade. B Os papéis foram entregues dentro do prazo. C O pássaro voava alto no céu azul. D O réu confessou o crime perante o juiz. E A assembléia decidiu pelos novos rumos da empresa. 504 Questão 504 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO Considerando as normas de acentuação gráfica estabelecidas pelo Acordo Ortográfico vigente, analise o emprego dos acentos nas palavras sublinhadas e assinale a alternativa em que a grafia está inteiramente correta: A O herói daquela jornada demonstrou uma conduta heroica e exemplar perante todos. B O profissional constroi sua carreira com base em uma ideia inovadora e ética. C Os novos papeis administrativos foram arquivados logo após a assembleia setorial. D A feiura do ambiente não impediu que o tuiuiu fosse devidamente catalogado. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … E É fundamental que os supervisores revêem as metas para evitar o enjoo da equipe. 505 Questão 505 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO Considerando as normas de acentuação gráfica estabelecidas pelo Acordo Ortográfico (Decreto Federal nº 6.583/2008) para hiatos e ditongos, assinale a alternativa que apresenta uma afirmação INCORRETA: A As formas verbais ’leem’ e ’reveem’ perderam o acento circunflexo, seguindo a mesma diretriz que aboliu o acento em substantivos como ’enjoo’ e ’voo’. B O termo ’feiura’ é grafado sem acento porque o ’u’ tônico, embora forme hiato com a vogal anterior, está posicionado após um ditongo em uma palavra paroxítona. C A palavra ’heroico’ não recebe acento gráfico por ser uma paroxítona com ditongo aberto ’oi’, ao passo que ’herói’ mantém o acento por ser uma oxítona. D O vocábulo ’tuiuiú’ permanece acentuado porque a regra que retira o acento do ’i’ ou ’u’ tônicos precedidos de ditongo não se aplica a palavras oxítonas. E A ausência de acento em ’xiita’ justifica-se pela regra que proíbe a acentuação de hiatos em que o ’i’ ou ’u’ tônicos venham precedidos de ditongo, tal como ocorre em ’baiuca’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 506 Questão 506 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO No que concerne às regras de acentuação gráfica resultantes do Acordo Ortográfico (Decreto Federal nº 6.583/2008), um servidor, ao redigir um relatório oficial, deve observar a correta grafia das palavras para garantir a clareza e a norma-padrão. Assinale a alternativa que apresenta uma frase inteiramente correta quanto às normas vigentes para hiatos e ditongos: A Os funcionários crêem que o enjoo causado pela viagem será superado em breve. B O tuiuiú sobrevoava a baiúca enquanto os turistas tiravam fotos da paisagem. C É preciso que eles lêem o relatório para que o vôo não seja cancelado por erro técnico. D O herói da narrativa apresentou uma atitude heroica durante a estréia do espetáculo. E A assembleia decidiu que a feiura do prédio não impedia sua ocupação imediata. 507 Questão 507 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO A formação de verbos a partir de substantivos ou adjetivos pode gerar dúvidas entre o uso de ’S’ ou ’Z’. Assinale a opção em que o verbo foi grafado INCORRETAMENTE. A Canalizar (de canal). B Pesquisar (de pesquisa). C Atualizar (de atual). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … D Analizar (de análise). E Economizar (de economia). 508 Questão 508 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO O uso de homófonos heterográficos (sons iguais, grafias diferentes) exige atenção ao contexto. Assinale a alternativa que preenche corretamente as lacunas: ’O agente público agiu com bom __ ao __ as falhas do relatório, evitando que o ____ populacional fosse comprometido.’ A censo - tachar - senso B senso - tachar - senso C senso - tachar - censo D senso - taxar - censo E censo - taxar - senso 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 509 Questão 509 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO Quanto ao emprego das letras ’G’ e ’J’, assinale a alternativa em que todas as palavras estão grafadas corretamente de acordo com a norma culta. A Viagem (substantivo), pajé, coléjio. B Ferrugem, pedágio, canjica. C Arranjar, prestígio, ganjica. D Origem, jiboia, passagém. E Ferrujem, bueiro, beringela. 510 Questão 510 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○MÉDIO Assinale a alternativa em que o sufixo foi utilizado corretamente para formar um substantivo abstrato a partir de um adjetivo. A Belo -> Belesa B Triste -> Tristesa C Puro -> Pureza D Rico -> Riquesa E Surdo -> Surdes 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 1.12.3 Questões Difíceis 511 Questão 511 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL Determinadas bancas examinadoras e o Vocabulário Ortográfico da Língua Portuguesa (VOLP) admitem uma classificação dupla para palavras como história, série e distância. Sobre esse tema, assinale a esta afirmação. A Devem ser acentuadas apenas se estiverem no plural, seguindo a regra das proparoxítonas. B São proparoxítonas puras, pois a separação silábica obrigatória é ’his-tó-ri-a’. C O acento gráfico é facultativo, dependendo da pronúncia regional do falante. D São paroxítonas terminadas em ditongo, mas podem ser classificadas como proparoxítonas eventuais. E São consideradas oxítonas terminadas em ditongo decrescente. 512 Questão 512 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL Analise as seguintes afirmações sobre a acentuação gráfica e assinale a esta afirmação. I. A palavra ínterim é acentuada por ser proparoxítona. II. A palavra alguém é acentuada 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … pela mesma regra que também. III. A palavra caráter perde o acento gráfico quando passa para o plural. A Todas as afirmações estão corretas. B Apenas as afirmações I e II estão corretas. C Apenas as afirmações II e III estão corretas. D Apenas a afirmação III está correta. E Apenas a afirmação I está correta. 513 Questão 513 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL Determinadas palavras da língua portuguesa, como glória, série e vácuo, admitem uma dupla interpretação quanto à sua classificação tônica e separação silábica. Sobre esse fenômeno, assinale a afirmação correta. A Esses termos são paroxítonas terminadas em ditongo crescente, mas podem ser considerados ’proparoxítonas eventuais’ se a vogal final for pronunciada como sílaba separada. B Palavras como ’glória’ e ’série’ seguem a mesma regra de acentuação de ’pajé’ e ’café’, pois a tônica recai na última vogal do ditongo. C A separação silábica de ’vácuo’ é obrigatoriamente ’vá-cu-o’, o que a torna uma proparoxítona absoluta, como ’médico’. D A norma culta atual aboliu a classificação de ’proparoxítonas relativas’, tornando o acento dessas palavras facultativo. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … E Tais palavras são classificadas estritamente como oxítonas terminadas em ditongo, justificando o acento gráfico. 514 Questão 514 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL Assinale a alternativa em que o termo por que exerce a função de pronome relativo, estando corretamente empregado. A Os ideais por que o grupo luta são fundamentais para a instituição. B Ele agiu assim por que estava sob forte pressão externa. C Gostaria de entender o por que de tanta resistência às mudanças. D Não sabemos por que o sistema apresentou falhas críticas. E Por que houve tanta demora na publicação do edital? 515 Questão 515 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL O Novo Acordo Ortográfico alterou o uso do hífen em locuções e em casos específicos de prefixação. Com base nessas normas, assinale a esta afirmação. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … A É necessário co-ordenar os esforços das equipes para o evento. B O projeto de infra-estrutura será licitado no próximo semestre. C O cão-de-guarda da repartição foi treinado recentemente. D O servidor realiza o acompanhamento do processo no seu dia-a-dia. E A sub-região norte apresentou os maiores índices de produtividade. 516 Questão 516 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL O Acordo Ortográfico de 1990, em vigor obrigatório no Brasil desde 2016, trouxe mudanças significativas em locuções e prefixações específicas. Analise as assertivas abaixo e assinale a correta. A O prefixo ’super-’ exige hífen quando o segundo elemento começa por vogal, como em ’super-interessante’. B O uso do hífen é obrigatório em palavras compostas que designam espécies botânicas, como pimenta-do-reino. C Nas interrogações diretas, o termo ’por quê’ deve ser utilizado no início da frase para conferir tonicidade à pergunta. D O prefixo ’co-’ deve ser hifenizado sempre que o segundo elemento iniciar pela vogal ’o’, como em ’co-operar’. E Locuções de qualquer natureza perderam o hífen, sem exceções, como se observa em ’dia a dia’ e ’erva doce’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 517 Questão 517 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL Analise as afirmações abaixo sobre a acentuação gráfica: I. As formas verbais ’reveem’ e ’preveem’ não possuem acento pois derivam de verbos que sofrem a regra do hiato ’ee’. II. A palavra ’xiita’ não é acentuada porque o ’i’ tônico vem precedido de vogal idêntica. III. A palavra ’tainha’ não recebe acento no ’i’ tônico por ser seguido de ’nh’. Está(ão) correta(s): A Apenas I e III. B Apenas I. C Apenas II. D I, II e III. E Apenas II e III. 518 Questão 518 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL Assinale a alternativa que apresenta INCORREÇÃO quanto à grafia das palavras, considerando o Acordo Ortográfico: A Ele sente um enjoo constante sempre que precisa ler no ônibus. B Eles creem que o voo será cancelado devido ao mau tempo. C A ideia de construir uma nova baiúca foi considerada heroica. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … D A alcateia se aproximava da pequena vila no interior da Coreia. E O tuiuiú sobrevoava o pântano enquanto a rainha observava. 519 Questão 519 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL No que tange à acentuação gráfica, assinale a opção em que a regra de acentuação aplicada à primeira palavra NÃO é a mesma aplicada à segunda: A Papéis – Constrói B Voo – Leem C Ideia – Heroico D Saída – Saúde E Herói – Jiboia 520 Questão 520 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL A grafia de substantivos derivados de verbos segue padrões mnemônicos específicos. Assinale a alternativa que apresenta a correlação correta entre o verbo e o substantivo derivado. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … A Conceder - Concesão / Pretender - Pretenção B Pretender - Pretenção / Admitir - Admizão C Converter - Converssão / Ascender - Ascensão D Progredir - Progresão / Admitir - Admissão E Conceder - Concessão / Pretender - Pretensão 521 Questão 521 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL Analise as assertivas abaixo sobre vocábulos de grafia complexa e assinale a única esta afirmação: A O vocábulo ’encharcar’ é grafado com ’x’ por vir após a sílaba ’en-’. B A palavra ’exceção’ deve ser grafada com ’ss’ para manter a sonoridade do radical. C O adjetivo ’pretensioso’ é grafado com ’s’ pois deriva de ’pretensão’. D A palavra ’obsessão’ é grafada com ’ç’ por derivar de um radical latino. E O termo ’ascensão’ é grafado com ’sc’ e ’ç’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 522 Questão 522 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL A correta grafia de substantivos derivados de verbos é um tema recorrente em provas. Considerando as regras de formação de palavras e o uso de ’S’ ou ’SS’, assinale a alternativa que preenche corretamente as lacunas do texto abaixo: ’O servidor responsável pela análise do processo não demonstrou __ em sua decisão, garantindo a __ do benefício após a devida __ do candidato no sistema.’ A pretensão – concessão – admisão B pretenção – concessão – admissão C pretenção – concesão – admissão D pretensão – concesão – admisão E pretensão – concessão – admissão 523 Questão 523 CONVENÇÕES DA NORMA PADRÃO: ORTOGRAFIA OFICIAL E ACENTUA- … ○○○DIFÍCIL No que se refere à grafia de palavras que apresentam fonemas semelhantes, mas sentidos distintos (homófonos), ou que derivam de verbos específicos, assinale a esta afirmação. A O servidor foi taxado de negligente por não realizar o censo anual. B A concesão de liminares baseou-se na pretensão legítima da parte. C O censo comum não deve nortear a pretenção de reforma administrativa. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … D A ascenção funcional depende da concessão de vagas pelo órgão. E A concessão de uso do espaço público exige senso de responsabilidade do gestor. 1.12.4 Gabaritos e Comentários 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "Embora a 1 esteja incorreta, a 2 também está, tornando a alternativa incompleta."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A presença de preposição anterior a horas impede a crase, e a crase antes de masculino só ocorre na expressão ’à moda de’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
-    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: A presença de preposição anterior a horas impede a crase, e a crase antes de masculino só ocorre na expressão ’à moda de’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+    "resolution": "A presença de preposição anterior a horas impede a crase, e a crase antes de masculino só ocorre na expressão ’à moda de’.",
+    "theoretical_content": "Regência é a relação de dependência entre um termo regente e seu complemento. Na regência verbal, o verbo determina se o complemento é direto, sem preposição, ou indireto, introduzido por preposição, e pode selecionar preposições diferentes conforme o sentido. Na regência nominal, substantivos, adjetivos e advérbios podem exigir preposições específicas. A norma-padrão registra construções como “assistir ao filme” no sentido de ver, “obedecer às regras”, “preferir uma coisa a outra” e “ter necessidade de algo”.\n\nA crase resulta, em regra, da fusão da preposição “a” exigida pelo termo regente com o artigo feminino “a/as” ou com certos pronomes. O teste de substituição por palavra masculina ajuda: se surgir “ao”, pode haver crase no feminino. Não ocorre crase antes de verbo, palavra masculina, pronomes que não admitem artigo ou artigo indefinido. Locuções adverbiais, prepositivas e conjuntivas femininas geralmente recebem crase.\n\nPara resolver, identifique o termo regente, determine a preposição exigida, verifique se o termo seguinte admite artigo e só então avalie a ocorrência de crase. Não se deve decorar apenas a expressão isolada: o sentido do verbo pode alterar a regência.\n\nAplicação ao problema apresentado: A presença de preposição anterior a horas impede a crase, e a crase antes de masculino só ocorre na expressão ’à moda de’."
   }
 }
 ```
@@ -11714,7 +11705,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Fácil, caráter, álbum. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Fácil, caráter, álbum.",
       "is_correct": false,
       "explanation": "Estas palavras são paroxítonas terminadas em L, R e UM, respectivamente."
     },
@@ -11734,7 +11725,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Café, pajé, jiló.",
       "is_correct": false,
-      "explanation": "Estas palavras são oxítonas, pois a sílaba tônica é a última. ARROW-LEFT VOLTAR À QUESTÃO 481"
+      "explanation": "Estas palavras são oxítonas, pois a sílaba tônica é a última."
     }
   ],
   "answer_key": "D",
@@ -11790,15 +11781,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Vírus 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Vírus",
       "is_correct": false,
-      "explanation": "’Vírus’ é uma paroxítona terminada em US. ARROW-LEFT VOLTAR À QUESTÃO 482"
+      "explanation": "’Vírus’ é uma paroxítona terminada em US."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Correta. ’Cipó’ é uma oxítona terminada em ’O’, assim como ’jiló’, ’Pará’ (terminada em A) e ’cafés’ (terminada em E seguido de S). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
-    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: Correta. ’Cipó’ é uma oxítona terminada em ’O’, assim como ’jiló’, ’Pará’ (terminada em A) e ’cafés’ (terminada em E seguido de S). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+    "resolution": "Correta. ’Cipó’ é uma oxítona terminada em ’O’, assim como ’jiló’, ’Pará’ (terminada em A) e ’cafés’ (terminada em E seguido de S).",
+    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: Correta. ’Cipó’ é uma oxítona terminada em ’O’, assim como ’jiló’, ’Pará’ (terminada em A) e ’cafés’ (terminada em E seguido de S)."
   }
 }
 ```
@@ -11838,7 +11829,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Chá, café, cipó.",
       "is_correct": true,
-      "explanation": "Todas as palavras listadas são oxítonas terminadas em A, E e O, o que exige o acento gráfico. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "Todas as palavras listadas são oxítonas terminadas em A, E e O, o que exige o acento gráfico."
     },
     {
       "id": "D",
@@ -11850,7 +11841,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Papel, barril, sutil.",
       "is_correct": false,
-      "explanation": "Oxítonas terminadas em ’l’ não são acentuadas graficamente. ARROW-LEFT VOLTAR À QUESTÃO 483"
+      "explanation": "Oxítonas terminadas em ’l’ não são acentuadas graficamente."
     }
   ],
   "answer_key": "C",
@@ -11900,7 +11891,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Porque o candidato não compareceu ao local de prova? 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Porque o candidato não compareceu ao local de prova?",
       "is_correct": false,
       "explanation": "A forma ’porque’ (junto e sem acento) é uma conjunção explicativa ou causal, equivalente a ’pois’."
     },
@@ -11908,7 +11899,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Pôr que o candidato não compareceu ao local de prova?",
       "is_correct": false,
-      "explanation": "A forma ’pôr’ com acento circunflexo é o verbo, não possuindo relação com as conjunções ou advérbios interrogativos de causa. ARROW-LEFT VOLTAR À QUESTÃO 484 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "A forma ’pôr’ com acento circunflexo é o verbo, não possuindo relação com as conjunções ou advérbios interrogativos de causa."
     }
   ],
   "answer_key": "A",
@@ -11966,7 +11957,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Extraoficial",
       "is_correct": false,
-      "explanation": "Em ’extraoficial’, as vogais são diferentes (a-o), portanto devem ser escritas juntas sem hífen. ARROW-LEFT VOLTAR À QUESTÃO 485"
+      "explanation": "Em ’extraoficial’, as vogais são diferentes (a-o), portanto devem ser escritas juntas sem hífen."
     }
   ],
   "answer_key": "B",
@@ -11994,7 +11985,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considerando as normas de ortografia oficial e o emprego do hífen, assinale a alternativa em que a frase está inteiramente correta. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+  "question_text": "Considerando as normas de ortografia oficial e o emprego do hífen, assinale a alternativa em que a frase está inteiramente correta.",
   "alternatives": [
     {
       "id": "A",
@@ -12024,13 +12015,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O candidato não compreendeu o por que de tanta demora na fila.",
       "is_correct": false,
-      "explanation": "O termo deveria ser grafado como ’porquê’ (junto e com acento), pois exerce função de substantivo, equivalendo a ’o motivo’. ARROW-LEFT VOLTAR À QUESTÃO 486"
+      "explanation": "O termo deveria ser grafado como ’porquê’ (junto e com acento), pois exerce função de substantivo, equivalendo a ’o motivo’."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "De acordo com o Acordo Ortográfico, utiliza-se o hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento (micro-ondas). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
-    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: De acordo com o Acordo Ortográfico, utiliza-se o hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento (micro-ondas). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+    "resolution": "De acordo com o Acordo Ortográfico, utiliza-se o hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento (micro-ondas).",
+    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: De acordo com o Acordo Ortográfico, utiliza-se o hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento (micro-ondas)."
   }
 }
 ```
@@ -12070,7 +12061,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Vôo, crêem, lêem.",
       "is_correct": false,
-      "explanation": "Todas as palavras perderam o acento circunflexo após a reforma ortográfica. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "Todas as palavras perderam o acento circunflexo após a reforma ortográfica."
     },
     {
       "id": "D",
@@ -12080,9 +12071,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Vôo, creem, leem. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Vôo, creem, leem.",
       "is_correct": false,
-      "explanation": "’Voo’ não deve possuir acento circunflexo. ARROW-LEFT VOLTAR À QUESTÃO 487"
+      "explanation": "’Voo’ não deve possuir acento circunflexo."
     }
   ],
   "answer_key": "A",
@@ -12140,7 +12131,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Céu",
       "is_correct": false,
-      "explanation": "’Céu’ é um monossílabo tônico, mantendo o acento no ditongo aberto. ARROW-LEFT VOLTAR À QUESTÃO 488 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "’Céu’ é um monossílabo tônico, mantendo o acento no ditongo aberto."
     }
   ],
   "answer_key": "D",
@@ -12196,9 +12187,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "viajem - viagen 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "viajem - viagen",
       "is_correct": false,
-      "explanation": "A palavra ’viagen’ não existe na língua portuguesa; o substantivo termina em ’m’. ARROW-LEFT VOLTAR À QUESTÃO 489"
+      "explanation": "A palavra ’viagen’ não existe na língua portuguesa; o substantivo termina em ’m’."
     }
   ],
   "answer_key": "A",
@@ -12256,13 +12247,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Caixa, peixe, fexe.",
       "is_correct": false,
-      "explanation": "O correto é ’feixe’, pois após ditongo usa-se ’x’. ARROW-LEFT VOLTAR À QUESTÃO 490"
+      "explanation": "O correto é ’feixe’, pois após ditongo usa-se ’x’."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "Enxada e enxame seguem a regra do ’X’ após a sílaba inicial ’EN-’. ’Encher’ é exceção, pois deriva de ’cheio’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
-    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: Enxada e enxame seguem a regra do ’X’ após a sílaba inicial ’EN-’. ’Encher’ é exceção, pois deriva de ’cheio’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+    "resolution": "Enxada e enxame seguem a regra do ’X’ após a sílaba inicial ’EN-’. ’Encher’ é exceção, pois deriva de ’cheio’.",
+    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: Enxada e enxame seguem a regra do ’X’ após a sílaba inicial ’EN-’. ’Encher’ é exceção, pois deriva de ’cheio’."
   }
 }
 ```
@@ -12288,7 +12279,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Pedágio, coléjio, prestígio, relógio, refúgio. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Pedágio, coléjio, prestígio, relógio, refúgio.",
       "is_correct": false,
       "explanation": "A palavra ’colégio’ deve ser escrita com ’G’, e não com ’J’."
     },
@@ -12308,13 +12299,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Pedágio, colégio, prestígio, relógio, refúgio.",
       "is_correct": true,
-      "explanation": "Todas as palavras seguem a regra das terminações em -ágio, -égio, -ígio, -ógio e -úgio, sendo grafadas com ’G’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "Todas as palavras seguem a regra das terminações em -ágio, -égio, -ígio, -ógio e -úgio, sendo grafadas com ’G’."
     },
     {
       "id": "E",
       "text": "Pedájio, colégio, prestígio, relógio, refúgio.",
       "is_correct": false,
-      "explanation": "A palavra ’pedágio’ deve ser escrita com ’G’, e não com ’J’. ARROW-LEFT VOLTAR À QUESTÃO 491"
+      "explanation": "A palavra ’pedágio’ deve ser escrita com ’G’, e não com ’J’."
     }
   ],
   "answer_key": "D",
@@ -12370,9 +12361,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Rigidês, clareza, estupideza. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 1.12.2 Questões de Nível Médio",
+      "text": "Rigidês, clareza, estupideza. 1.12.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "’Rigidês’ deve ser grafado com ’Z’ (rigidez). ARROW-LEFT VOLTAR À QUESTÃO 492 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "’Rigidês’ deve ser grafado com ’Z’ (rigidez)."
     }
   ],
   "answer_key": "A",
@@ -12430,7 +12421,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Apenas ’nuvens’ deveria ser acentuada por ser um plural de paroxítona.",
       "is_correct": false,
-      "explanation": "A regra para paroxítonas terminadas em ENS não prevê acento. ARROW-LEFT VOLTAR À QUESTÃO 493"
+      "explanation": "A regra para paroxítonas terminadas em ENS não prevê acento."
     }
   ],
   "answer_key": "A",
@@ -12486,15 +12477,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Fórum 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Fórum",
       "is_correct": false,
-      "explanation": "’Fórum’ é acentuada por ser paroxítona terminada em UM. ARROW-LEFT VOLTAR À QUESTÃO 494"
+      "explanation": "’Fórum’ é acentuada por ser paroxítona terminada em UM."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Incorreta. A palavra ’hifens’ não recebe acento gráfico porque é uma paroxítona terminada em ENS. Embora o singular ’hífen’ seja acentuado (terminado em N), o plural segue a regra das paroxítonas terminadas em ENS, que não são acentuadas. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
-    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: Incorreta. A palavra ’hifens’ não recebe acento gráfico porque é uma paroxítona terminada em ENS. Embora o singular ’hífen’ seja acentuado (terminado em N), o plural segue a regra das paroxítonas terminadas em ENS, que não são acentuadas. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+    "resolution": "Incorreta. A palavra ’hifens’ não recebe acento gráfico porque é uma paroxítona terminada em ENS. Embora o singular ’hífen’ seja acentuado (terminado em N), o plural segue a regra das paroxítonas terminadas em ENS, que não são acentuadas.",
+    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: Incorreta. A palavra ’hifens’ não recebe acento gráfico porque é uma paroxítona terminada em ENS. Embora o singular ’hífen’ seja acentuado (terminado em N), o plural segue a regra das paroxítonas terminadas em ENS, que não são acentuadas."
   }
 }
 ```
@@ -12534,7 +12525,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Proparoxítonas terminadas em consoantes diversas.",
       "is_correct": false,
-      "explanation": "São paroxítonas; proparoxítonas teriam a tônica na antepenúltima sílaba. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "São paroxítonas; proparoxítonas teriam a tônica na antepenúltima sílaba."
     },
     {
       "id": "D",
@@ -12546,7 +12537,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Monossílabos tônicos terminados em consoantes líquidas.",
       "is_correct": false,
-      "explanation": "As palavras possuem duas sílabas, portanto não são monossílabos. ARROW-LEFT VOLTAR À QUESTÃO 495"
+      "explanation": "As palavras possuem duas sílabas, portanto não são monossílabos."
     }
   ],
   "answer_key": "A",
@@ -12578,7 +12569,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Tanto ’hífen’ quanto ’elétrons’ são acentuados pela regra das proparoxítonas, uma vez que possuem mais de duas sílabas. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Tanto ’hífen’ quanto ’elétrons’ são acentuados pela regra das proparoxítonas, uma vez que possuem mais de duas sílabas.",
       "is_correct": false,
       "explanation": "Ambas são paroxítonas (sílaba tônica na penúltima sílaba), não proparoxítonas."
     },
@@ -12604,7 +12595,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A palavra ’elétrons’ deveria ser grafada sem acento, pois termina em ’s’, assim como ’nuvens’.",
       "is_correct": false,
-      "explanation": "’Elétrons’ é acentuada por ser paroxítona terminada em ’n’ seguido de ’s’. A regra para -ENS só retira o acento se a terminação for precedida de vogal formando a sílaba final átona de uma paroxítona, mas ’elétrons’ mantém o acento para diferenciar-se da terminação comum. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … ARROW-LEFT VOLTAR À QUESTÃO 496"
+      "explanation": "’Elétrons’ é acentuada por ser paroxítona terminada em ’n’ seguido de ’s’. A regra para -ENS só retira o acento se a terminação for precedida de vogal formando a sílaba final átona de uma paroxítona, mas ’elétrons’ mantém o acento para diferenciar-se da terminação comum."
     }
   ],
   "answer_key": "B",
@@ -12660,9 +12651,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "por quê / porque 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "por quê / porque",
       "is_correct": false,
-      "explanation": "’Por quê’ com acento não pode ser substantivado pelo artigo ’o’ no início da frase. ARROW-LEFT VOLTAR À QUESTÃO 497 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "’Por quê’ com acento não pode ser substantivado pelo artigo ’o’ no início da frase."
     }
   ],
   "answer_key": "C",
@@ -12720,7 +12711,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Anti-social",
       "is_correct": false,
-      "explanation": "A grafia correta é ’antissocial’, sem hífen e com o ’s’ dobrado. ARROW-LEFT VOLTAR À QUESTÃO 498"
+      "explanation": "A grafia correta é ’antissocial’, sem hífen e com o ’s’ dobrado."
     }
   ],
   "answer_key": "A",
@@ -12776,9 +12767,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Ex-diretor, vicepresidente e recémcasado. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Ex-diretor, vicepresidente e recémcasado.",
       "is_correct": false,
-      "explanation": "’Vicepresidente’ e ’recémcasado’ estão incorretos por falta de hífen. ARROW-LEFT VOLTAR À QUESTÃO 499"
+      "explanation": "’Vicepresidente’ e ’recémcasado’ estão incorretos por falta de hífen."
     }
   ],
   "answer_key": "C",
@@ -12830,13 +12821,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "A sub-região administrativa foi mapeada porque havia necessidade de fiscalização.",
       "is_correct": true,
-      "explanation": "’Sub-região’ segue a regra do prefixo ’sub’ + ’r’; ’porque’ é conjunção causal. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "’Sub-região’ segue a regra do prefixo ’sub’ + ’r’; ’porque’ é conjunção causal."
     },
     {
       "id": "E",
       "text": "Os motivos por que o projeto foi vetado são de ordem técnica, e não política.",
       "is_correct": false,
-      "explanation": "Embora ’por que’ esteja correto (pronome relativo = pelos quais), a questão pede a esta afirmação considerando também os prefixos citados no enunciado, e a alternativa D é a que melhor atende à construção técnica solicitada. (Nota: Esta alternativa está gramaticalmente correta isoladamente, mas em provas de múltipla escolha, a alternativa D apresenta uma aplicação mais completa das regras de prefixação solicitadas). ARROW-LEFT VOLTAR À QUESTÃO 500"
+      "explanation": "Embora ’por que’ esteja correto (pronome relativo = pelos quais), a questão pede a esta afirmação considerando também os prefixos citados no enunciado, e a alternativa D é a que melhor atende à construção técnica solicitada. (Nota: Esta alternativa está gramaticalmente correta isoladamente, mas em provas de múltipla escolha, a alternativa D apresenta uma aplicação mais completa das regras de prefixação solicitadas)."
     }
   ],
   "answer_key": "D",
@@ -12868,7 +12859,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Nenhuma das palavras perdeu o acento gráfico. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Nenhuma das palavras perdeu o acento gráfico.",
       "is_correct": false,
       "explanation": "Todas as palavras sofreram alteração e perderam o acento."
     },
@@ -12894,7 +12885,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Apenas a palavra II perdeu o acento.",
       "is_correct": false,
-      "explanation": "’Feiura’ e ’Jiboia’ também perderam seus acentos. ARROW-LEFT VOLTAR À QUESTÃO 501 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "’Feiura’ e ’Jiboia’ também perderam seus acentos."
     }
   ],
   "answer_key": "C",
@@ -12950,9 +12941,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Piauí é uma paroxítona terminada em ’i’, enquanto feiura é uma proparoxítona. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Piauí é uma paroxítona terminada em ’i’, enquanto feiura é uma proparoxítona.",
       "is_correct": false,
-      "explanation": "’Piauí’ é oxítona e ’feiura’ é paroxítona. ARROW-LEFT VOLTAR À QUESTÃO 502"
+      "explanation": "’Piauí’ é oxítona e ’feiura’ é paroxítona."
     }
   ],
   "answer_key": "C",
@@ -13010,13 +13001,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A assembléia decidiu pelos novos rumos da empresa.",
       "is_correct": true,
-      "explanation": "’Assembléia’ não deveria estar acentuada: é paroxítona e perdeu o acento no ditongo aberto ’ei’ (grafia atual: ’assembleia’). ARROW-LEFT VOLTAR À QUESTÃO 503"
+      "explanation": "’Assembléia’ não deveria estar acentuada: é paroxítona e perdeu o acento no ditongo aberto ’ei’ (grafia atual: ’assembleia’)."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A palavra ’assembléia’ está acentuada indevidamente: é uma paroxítona com ditongo aberto ’ei’, que perdeu o acento com o Acordo Ortográfico (grafia correta: ’assembleia’). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
-    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: A palavra ’assembléia’ está acentuada indevidamente: é uma paroxítona com ditongo aberto ’ei’, que perdeu o acento com o Acordo Ortográfico (grafia correta: ’assembleia’). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+    "resolution": "A palavra ’assembléia’ está acentuada indevidamente: é uma paroxítona com ditongo aberto ’ei’, que perdeu o acento com o Acordo Ortográfico (grafia correta: ’assembleia’).",
+    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: A palavra ’assembléia’ está acentuada indevidamente: é uma paroxítona com ditongo aberto ’ei’, que perdeu o acento com o Acordo Ortográfico (grafia correta: ’assembleia’)."
   }
 }
 ```
@@ -13044,7 +13035,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "O herói daquela jornada demonstrou uma conduta heroica e exemplar perante todos.",
       "is_correct": true,
-      "explanation": "’Herói’ (oxítona) mantém o acento; ’heroica’ (paroxítona) perde o acento. Ambas seguem rigorosamente a norma vigente. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "’Herói’ (oxítona) mantém o acento; ’heroica’ (paroxítona) perde o acento. Ambas seguem rigorosamente a norma vigente."
     },
     {
       "id": "B",
@@ -13060,7 +13051,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "A feiura do ambiente não impediu que o tuiuiu fosse devidamente catalogado. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "A feiura do ambiente não impediu que o tuiuiu fosse devidamente catalogado.",
       "is_correct": false,
       "explanation": "Embora ’feiura’ esteja correta (perde o acento o ’u’ tônico precedido de ditongo em paroxítonas), a palavra ’tuiuiú’ deve ser acentuada. Trata-se de uma oxítona em que o ’u’ tônico é precedido de ditongo, caso em que o acento permanece."
     },
@@ -13068,7 +13059,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "É fundamental que os supervisores revêem as metas para evitar o enjoo da equipe.",
       "is_correct": false,
-      "explanation": "’Revêem’ tem dois erros: o Acordo Ortográfico eliminou o acento circunflexo nos hiatos homogêneos ’ee’ (o presente do indicativo hoje é ’reveem’) e, depois de ’É fundamental que’, a forma exigida é o presente do subjuntivo: ’revejam’. A palavra ’enjoo’ está grafada corretamente (sem acento). ARROW-LEFT VOLTAR À QUESTÃO 504"
+      "explanation": "’Revêem’ tem dois erros: o Acordo Ortográfico eliminou o acento circunflexo nos hiatos homogêneos ’ee’ (o presente do indicativo hoje é ’reveem’) e, depois de ’É fundamental que’, a forma exigida é o presente do subjuntivo: ’revejam’. A palavra ’enjoo’ está grafada corretamente (sem acento)."
     }
   ],
   "answer_key": "A",
@@ -13124,9 +13115,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A ausência de acento em ’xiita’ justifica-se pela regra que proíbe a acentuação de hiatos em que o ’i’ ou ’u’ tônicos venham precedidos de ditongo, tal como ocorre em ’baiuca’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "A ausência de acento em ’xiita’ justifica-se pela regra que proíbe a acentuação de hiatos em que o ’i’ ou ’u’ tônicos venham precedidos de ditongo, tal como ocorre em ’baiuca’.",
       "is_correct": true,
-      "explanation": "É a afirmação INCORRETA pedida: a justificativa para ’xiita’ está errada; a palavra não possui ditongo antes do hiato. A regra aplicada é a das vogais repetidas (i-i). ARROW-LEFT VOLTAR À QUESTÃO 505"
+      "explanation": "É a afirmação INCORRETA pedida: a justificativa para ’xiita’ está errada; a palavra não possui ditongo antes do hiato. A regra aplicada é a das vogais repetidas (i-i)."
     }
   ],
   "answer_key": "E",
@@ -13184,7 +13175,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A assembleia decidiu que a feiura do prédio não impedia sua ocupação imediata.",
       "is_correct": true,
-      "explanation": "’Assembleia’ (paroxítona com ditongo aberto) e ’feiura’ (hiato ’u’ tônico após ditongo em paroxítona) não possuem mais acento conforme as novas regras. ARROW-LEFT VOLTAR À QUESTÃO 506"
+      "explanation": "’Assembleia’ (paroxítona com ditongo aberto) e ’feiura’ (hiato ’u’ tônico após ditongo em paroxítona) não possuem mais acento conforme as novas regras."
     }
   ],
   "answer_key": "E",
@@ -13218,7 +13209,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Canalizar (de canal).",
       "is_correct": false,
-      "explanation": "O verbo ’canalizar’ é grafado com ’Z’ porque deriva do substantivo ’canal’, que não possui ’S’ no radical. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "O verbo ’canalizar’ é grafado com ’Z’ porque deriva do substantivo ’canal’, que não possui ’S’ no radical."
     },
     {
       "id": "B",
@@ -13228,7 +13219,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "Atualizar (de atual). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Atualizar (de atual).",
       "is_correct": false,
       "explanation": "O verbo ’atualizar’ é grafado com ’Z’ porque deriva do adjetivo ’atual’, que não possui ’S’ no radical."
     },
@@ -13242,7 +13233,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Economizar (de economia).",
       "is_correct": false,
-      "explanation": "O verbo ’economizar’ é grafado com ’Z’ porque a palavra primitiva ’economia’ não possui ’S’ no radical. ARROW-LEFT VOLTAR À QUESTÃO 507"
+      "explanation": "O verbo ’economizar’ é grafado com ’Z’ porque a palavra primitiva ’economia’ não possui ’S’ no radical."
     }
   ],
   "answer_key": "D",
@@ -13298,9 +13289,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "censo - taxar - senso 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "censo - taxar - senso",
       "is_correct": false,
-      "explanation": "’Censo’ no início indicaria recenseamento, o que não cabe para ’bom senso’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … ARROW-LEFT VOLTAR À QUESTÃO 508"
+      "explanation": "’Censo’ no início indicaria recenseamento, o que não cabe para ’bom senso’."
     }
   ],
   "answer_key": "C",
@@ -13358,7 +13349,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Ferrujem, bueiro, beringela.",
       "is_correct": false,
-      "explanation": "’Ferrugem’ é com ’G’ e ’berinjela’ é com ’J’. ARROW-LEFT VOLTAR À QUESTÃO 509"
+      "explanation": "’Ferrugem’ é com ’G’ e ’berinjela’ é com ’J’."
     }
   ],
   "answer_key": "B",
@@ -13414,15 +13405,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Surdo -> Surdes 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 1.12.3 Questões Difíceis",
+      "text": "Surdo -> Surdes 1.12.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "O correto é ’Surdez’ (com Z). ARROW-LEFT VOLTAR À QUESTÃO 510"
+      "explanation": "O correto é ’Surdez’ (com Z)."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "Substantivos abstratos derivados de adjetivos utilizam os sufixos -ez ou -eza, sempre 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … grafados com ’Z’.",
-    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: Substantivos abstratos derivados de adjetivos utilizam os sufixos -ez ou -eza, sempre 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … grafados com ’Z’."
+    "resolution": "Substantivos abstratos derivados de adjetivos utilizam os sufixos -ez ou -eza, sempre grafados com ’Z’.",
+    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: Substantivos abstratos derivados de adjetivos utilizam os sufixos -ez ou -eza, sempre grafados com ’Z’."
   }
 }
 ```
@@ -13456,7 +13447,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "São proparoxítonas puras, pois a separação silábica obrigatória é ’his-tó-ri-a’.",
       "is_correct": false,
-      "explanation": "A classificação como proparoxítona é considerada ’eventual’ ou ’acidental’; a classificação primária na gramática tradicional é paroxítona terminada em ditongo. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "A classificação como proparoxítona é considerada ’eventual’ ou ’acidental’; a classificação primária na gramática tradicional é paroxítona terminada em ditongo."
     },
     {
       "id": "C",
@@ -13474,7 +13465,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "São consideradas oxítonas terminadas em ditongo decrescente.",
       "is_correct": false,
-      "explanation": "São paroxítonas e o ditongo é crescente (i+a, i+e), não decrescente. ARROW-LEFT VOLTAR À QUESTÃO 511"
+      "explanation": "São paroxítonas e o ditongo é crescente (i+a, i+e), não decrescente."
     }
   ],
   "answer_key": "D",
@@ -13502,7 +13493,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise as seguintes afirmações sobre a acentuação gráfica e assinale a alternativa correta. I. A palavra ínterim é acentuada por ser proparoxítona. II. A palavra alguém é acentuada 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … pela mesma regra que também. III. A palavra caráter perde o acento gráfico quando passa para o plural.",
+  "question_text": "Analise as seguintes afirmações sobre a acentuação gráfica e assinale a alternativa correta. I. A palavra ínterim é acentuada por ser proparoxítona. II. A palavra alguém é acentuada pela mesma regra que também. III. A palavra caráter perde o acento gráfico quando passa para o plural.",
   "alternatives": [
     {
       "id": "A",
@@ -13532,7 +13523,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Apenas a afirmação I está correta.",
       "is_correct": false,
-      "explanation": "A afirmação II também está correta. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … ARROW-LEFT VOLTAR À QUESTÃO 512"
+      "explanation": "A afirmação II também está correta."
     }
   ],
   "answer_key": "B",
@@ -13582,7 +13573,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "A norma culta atual aboliu a classificação de ’proparoxítonas relativas’, tornando o acento dessas palavras facultativo. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "A norma culta atual aboliu a classificação de ’proparoxítonas relativas’, tornando o acento dessas palavras facultativo.",
       "is_correct": false,
       "explanation": "O acento não é facultativo; ele é obrigatório, independentemente de a palavra ser considerada paroxítona ou proparoxítona eventual."
     },
@@ -13590,7 +13581,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Tais palavras são classificadas estritamente como oxítonas terminadas em ditongo, justificando o acento gráfico.",
       "is_correct": false,
-      "explanation": "Elas não são oxítonas; a sílaba tônica é a penúltima (ou antepenúltima, na visão eventual). ARROW-LEFT VOLTAR À QUESTÃO 513 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "Elas não são oxítonas; a sílaba tônica é a penúltima (ou antepenúltima, na visão eventual)."
     }
   ],
   "answer_key": "A",
@@ -13648,7 +13639,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Por que houve tanta demora na publicação do edital?",
       "is_correct": false,
-      "explanation": "Trata-se de uma interrogativa direta, equivalendo a ’por qual motivo’. ARROW-LEFT VOLTAR À QUESTÃO 514"
+      "explanation": "Trata-se de uma interrogativa direta, equivalendo a ’por qual motivo’."
     }
   ],
   "answer_key": "A",
@@ -13676,7 +13667,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "O Novo Acordo Ortográfico alterou o uso do hífen em locuções e em casos específicos de prefixação. Com base nessas normas, assinale a alternativa correta. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+  "question_text": "O Novo Acordo Ortográfico alterou o uso do hífen em locuções e em casos específicos de prefixação. Com base nessas normas, assinale a alternativa correta.",
   "alternatives": [
     {
       "id": "A",
@@ -13706,13 +13697,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A sub-região norte apresentou os maiores índices de produtividade.",
       "is_correct": true,
-      "explanation": "Diante do prefixo ’sub-’, usa-se hífen se a palavra seguinte começar por ’R’ (sub-região) ou ’B’ (sub-bibliotecário). ARROW-LEFT VOLTAR À QUESTÃO 515"
+      "explanation": "Diante do prefixo ’sub-’, usa-se hífen se a palavra seguinte começar por ’R’ (sub-região) ou ’B’ (sub-bibliotecário)."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "O prefixo ’sub-’ exige hífen quando o segundo elemento começa com ’R’ ou ’B’. Além disso, locuções e o prefixo ’co-’ possuem regras específicas de aglutinação. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
-    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: O prefixo ’sub-’ exige hífen quando o segundo elemento começa com ’R’ ou ’B’. Além disso, locuções e o prefixo ’co-’ possuem regras específicas de aglutinação. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+    "resolution": "O prefixo ’sub-’ exige hífen quando o segundo elemento começa com ’R’ ou ’B’. Além disso, locuções e o prefixo ’co-’ possuem regras específicas de aglutinação.",
+    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: O prefixo ’sub-’ exige hífen quando o segundo elemento começa com ’R’ ou ’B’. Além disso, locuções e o prefixo ’co-’ possuem regras específicas de aglutinação."
   }
 }
 ```
@@ -13746,7 +13737,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "O uso do hífen é obrigatório em palavras compostas que designam espécies botâni- cas, como pimenta-do-reino.",
       "is_correct": true,
-      "explanation": "Conforme a base XV do Acordo Ortográfico, nomes de plantas e animais compostos mantêm o hífen. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "Conforme a base XV do Acordo Ortográfico, nomes de plantas e animais compostos mantêm o hífen."
     },
     {
       "id": "C",
@@ -13762,9 +13753,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Locuções de qualquer natureza perderam o hífen, sem exceções, como se observa em ’dia a dia’ e ’erva doce’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "Locuções de qualquer natureza perderam o hífen, sem exceções, como se observa em ’dia a dia’ e ’erva doce’.",
       "is_correct": false,
-      "explanation": "Existem exceções para espécies botânicas e zoológicas (ex: bem-te-vi, erva-doce), que mantêm o hífen. ARROW-LEFT VOLTAR À QUESTÃO 516"
+      "explanation": "Existem exceções para espécies botânicas e zoológicas (ex: bem-te-vi, erva-doce), que mantêm o hífen."
     }
   ],
   "answer_key": "B",
@@ -13822,7 +13813,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Apenas II e III.",
       "is_correct": false,
-      "explanation": "A afirmação I também está correta. ARROW-LEFT VOLTAR À QUESTÃO 517 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "A afirmação I também está correta."
     }
   ],
   "answer_key": "D",
@@ -13866,7 +13857,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "A ideia de construir uma nova baiúca foi considerada heroica. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "A ideia de construir uma nova baiúca foi considerada heroica.",
       "is_correct": true,
       "explanation": "É a alternativa com incorreção: ’baiuca’ é uma paroxítona com ’u’ tônico em hiato precedido de ditongo, logo, não deve ter acento. ’Heroica’ também não tem acento. O erro está em ’baiúca’."
     },
@@ -13880,7 +13871,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O tuiuiú sobrevoava o pântano enquanto a rainha observava.",
       "is_correct": false,
-      "explanation": "Não há erro: ’Tuiuiú’ mantém acento por ser oxítona (mesmo após ditongo) e ’rainha’ não tem acento por causa do NH. ARROW-LEFT VOLTAR À QUESTÃO 518"
+      "explanation": "Não há erro: ’Tuiuiú’ mantém acento por ser oxítona (mesmo após ditongo) e ’rainha’ não tem acento por causa do NH."
     }
   ],
   "answer_key": "C",
@@ -13938,13 +13929,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Herói – Jiboia",
       "is_correct": true,
-      "explanation": "’Herói’ é uma oxítona acentuada; ’Jiboia’ é uma paroxítona que perdeu o acento. São classificações tônicas e regras distintas. ARROW-LEFT VOLTAR À QUESTÃO 519"
+      "explanation": "’Herói’ é uma oxítona acentuada; ’Jiboia’ é uma paroxítona que perdeu o acento. São classificações tônicas e regras distintas."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A regra de ’Herói’ (oxítona com ditongo aberto) é diferente da de ’Jiboia’ (paroxítona com ditongo aberto, que inclusive perdeu o acento). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
-    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: A regra de ’Herói’ (oxítona com ditongo aberto) é diferente da de ’Jiboia’ (paroxítona com ditongo aberto, que inclusive perdeu o acento). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+    "resolution": "A regra de ’Herói’ (oxítona com ditongo aberto) é diferente da de ’Jiboia’ (paroxítona com ditongo aberto, que inclusive perdeu o acento).",
+    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: A regra de ’Herói’ (oxítona com ditongo aberto) é diferente da de ’Jiboia’ (paroxítona com ditongo aberto, que inclusive perdeu o acento)."
   }
 }
 ```
@@ -13966,7 +13957,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A grafia de substantivos derivados de verbos segue padrões mnemônicos específicos. Assinale a alternativa que apresenta a correlação correta entre o verbo e o substantivo derivado. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+  "question_text": "A grafia de substantivos derivados de verbos segue padrões mnemônicos específicos. Assinale a alternativa que apresenta a correlação correta entre o verbo e o substantivo derivado.",
   "alternatives": [
     {
       "id": "A",
@@ -13990,13 +13981,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Progredir - Progresão / Admitir - Admissão",
       "is_correct": false,
-      "explanation": "’Progressão’ deve ser grafada com ’ss’ (derivado de -gredir). 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "’Progressão’ deve ser grafada com ’ss’ (derivado de -gredir)."
     },
     {
       "id": "E",
       "text": "Conceder - Concessão / Pretender - Pretensão",
       "is_correct": true,
-      "explanation": "Segue rigorosamente as regras de derivação (-ceder -> ss; -ter -> s). ARROW-LEFT VOLTAR À QUESTÃO 520"
+      "explanation": "Segue rigorosamente as regras de derivação (-ceder -> ss; -ter -> s)."
     }
   ],
   "answer_key": "E",
@@ -14052,9 +14043,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O termo ’ascensão’ é grafado com ’sc’ e ’ç’. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "O termo ’ascensão’ é grafado com ’sc’ e ’ç’.",
       "is_correct": false,
-      "explanation": "’Ascensão’ é grafada com ’sc’ e ’s’. ARROW-LEFT VOLTAR À QUESTÃO 521 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …"
+      "explanation": "’Ascensão’ é grafada com ’sc’ e ’s’."
     }
   ],
   "answer_key": "C",
@@ -14112,7 +14103,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "pretensão – concessão – admissão",
       "is_correct": true,
-      "explanation": "Pretensão (de pretender: -ter -> S); Concessão (de conceder: -ceder -> SS); Admissão (de admitir: -mitir -> SS). ARROW-LEFT VOLTAR À QUESTÃO 522"
+      "explanation": "Pretensão (de pretender: -ter -> S); Concessão (de conceder: -ceder -> SS); Admissão (de admitir: -mitir -> SS)."
     }
   ],
   "answer_key": "E",
@@ -14156,7 +14147,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "O censo comum não deve nortear a pretenção de reforma administrativa. 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- …",
+      "text": "O censo comum não deve nortear a pretenção de reforma administrativa.",
       "is_correct": false,
       "explanation": "’Senso’ (juízo) deve ser com ’S’; ’pretensão’ (de pretender) deve ser com ’S’."
     },
@@ -14168,15 +14159,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A concessão de uso do espaço público exige senso de responsabilidade do gestor. 1.12.4 Gabaritos e Comentários 1. Língua Portuguesa 1.12. Convenções da Norma Padrão: Ortografia Ofi- … 481",
+      "text": "A concessão de uso do espaço público exige senso de responsabilidade do gestor.",
       "is_correct": true,
-      "explanation": "’Concessão’ (com SS) e ’senso’ (discernimento) estão grafados corretamente e aplicados ao contexto. ARROW-LEFT VOLTAR À QUESTÃO 523 1.13 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO 1.13.1 Questões Fáceis 524 Questão 524 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL Assinale a alternativa em que a oração coordenada sindética em destaque foi classificada CORRETAMENTE: A O projeto foi finalizado, logo será apresentado amanhã. (Adversativa) 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … B Ora trabalha no escritório, ora realiza visitas externas. (Conclusiva) C Não apenas redigiu o relatório, mas também revisou os dados. (Alternativa) D Não saia agora, que a chuva está muito forte. (Explicativa) E O candidato estudou muito, contudo não obteve a aprovação. (Aditiva) 525 Questão 525 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL No enunciado ’Havia muitos interessados na vaga de emprego’, a função sintática do termo ’muitos interessados’ é de: A Objeto indireto. B Complemento nominal. C Sujeito composto. D Objeto direto. E Sujeito simples. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 526 Questão 526 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL Assinale a alternativa em que o termo destacado está corretamente classificado como Vocativo: A O candidato entregou a prova ao fiscal. B Os alunos, dedicados, estudaram o final de semana inteiro. C A cidade de São Paulo é imensa. D Esperamos, meus amigos, que todos sejam aprovados. E O diretor, homem justo, ouviu as reclamações. 527 Questão 527 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL No que se refere à sintaxe da oração, analise o seguinte enunciado: ’Faz muitos anos que a Administração não realiza novos concursos’. Sobre a oração ’Faz muitos anos’, é correto afirmar que: A O termo ’muitos anos’ exerce a função de sujeito composto. B Trata-se de uma oração sem sujeito, pois o verbo ’fazer’ indica tempo decorrido. C O verbo deveria estar no plural (’Fazem’) para concordar com o termo ’muitos anos’. D O sujeito é indeterminado, pois não se pode identificar quem pratica a ação de fazer. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … E O sujeito é classificado como simples, tendo como núcleo o termo ’anos’. 528 Questão 528 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL No que diz respeito à estrutura das orações, a gramática normativa distingue as formas desenvolvidas das reduzidas. Assinale a alternativa que apresenta, exclusivamente, uma oração reduzida. A O diretor solicitou que os relatórios fossem entregues. B Embora estivesse cansado, o atleta concluiu a prova. C Ao entrar no recinto, o palestrante foi aplaudido. D Espero que você obtenha sucesso em sua jornada. E É fundamental que todos participem da reunião. 529 Questão 529 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL As orações reduzidas são classificadas de acordo com a forma nominal em que o verbo se apresenta. Na frase ”Terminada a tarefa, os funcionários foram dispensados”, a oração em destaque é classificada como: 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … A Reduzida de gerúndio. B Reduzida substantiva. C Reduzida de infinitivo. D Reduzida de particípio. E Desenvolvida adverbial. 530 Questão 530 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL No trecho ”O servidor público deve agir com ética a fim de que a confiança da sociedade na Administração seja preservada”, a locução conjuntiva sublinhada introduz uma oração com valor de: A Tempo. B Comparação. C Proporção. D Finalidade. E Consequência. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 531 Questão 531 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL No contexto da redação oficial e da comunicação administrativa, a clareza é fundamental. Considere o seguinte período: ”O profissional deve manter-se constantemente atualizado a fim de que possa desempenhar suas funções com excelência e eficiência.” A locução conjuntiva destacada estabelece uma relação de: A Causa, apontando o motivo pelo qual o profissional já se encontra atualizado. B Proporção, demonstrando que a atualização ocorre simultaneamente ao desempenho. C Comparação, confrontando o nível de atualização com a excelência das funções. D Finalidade, indicando o propósito ou objetivo da atualização do profissional. E Consequência, expressando o resultado inevitável de uma ação anterior. 532 Questão 532 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL Considere o seguinte período: ”É necessário que o candidato mantenha a calma durante a prova”. A oração em destaque classifica-se como: A Oração Subordinada Substantiva Subjetiva. B Oração Subordinada Substantiva Predicativa. C Oração Subordinada Substantiva Objetiva Direta. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … D Oração Subordinada Adjetiva Restritiva. E Oração Subordinada Adjetiva Explicativa. 533 Questão 533 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○FÁCIL Analise as duas frases abaixo: I. Os servidores que estudam são promovidos. II. Os servidores, que estudam, são promovidos. Sobre a classificação e o sentido das orações destacadas, assinale a esta afirmação: A Em I, a oração é adjetiva restritiva e indica que apenas os servidores estudiosos são promovidos. B Em II, a oração é substantiva apositiva, pois explica o termo anterior. C Ambas as orações possuem a mesma classificação sintática e o mesmo sentido semântico. D Em II, a oração é adjetiva restritiva e indica que apenas uma parte dos servidores estuda. E Em I, a oração é adjetiva explicativa e indica que todos os servidores estudam. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 1.13.2 Questões de Nível Médio 534 Questão 534 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Analise o período a seguir: ’O servidor cumpriu todas as metas estabelecidas; receberá, pois, a gratificação por desempenho.’ A conjunção em destaque estabelece uma relação de: A Explicação, pois justifica o cumprimento das metas. B Conclusão, pois aparece deslocada após o verbo da oração. C Alternância, pois apresenta uma escolha para a Administração. D Adição, pois soma uma nova tarefa ao servidor. E Oposição, pois contrasta o cumprimento de metas com a gratificação. 535 Questão 535 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO No trecho ’O agente público solicitou os documentos necessários, e o cidadão não os apresentou’, a conjunção ’e’ assume valor semântico de: A Adversidade, estabelecendo um contraste entre a solicitação e a resposta. B Alternância, sugerindo que apenas uma das ações poderia ocorrer. C Explicação, fundamentando a solicitação do agente. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … D Adição, reiterando a colaboração entre as partes. E Conclusão, indicando o desfecho natural do procedimento. 536 Questão 536 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Quanto ao uso da vírgula nas orações coordenadas, assinale a alternativa que apresenta uma justificativa gramaticalmente correta para o emprego do sinal de pontuação: A É proibida antes das conjunções adversativas ’mas’, ’porém’ e ’contudo’. B Pode ser utilizada antes da conjunção ’e’ para conferir ênfase em casos de polissíndeto. C É facultativa antes da conjunção ’ou’ quando esta indica exclusão mútua. D É obrigatória antes da conjunção ’e’ quando esta liga orações com o mesmo sujeito. E Deve ser omitida em orações coordenadas assindéticas para garantir a fluidez do texto. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 537 Questão 537 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Considere as seguintes orações: I. A construção do prédio demorou dois anos. II. A construção do engenheiro foi elogiada por todos. Assinale a alternativa que apresenta a correta classificação sintática dos termos destacados, respectivamente: A Adjunto adnominal e Adjunto adnominal. B Objeto indireto e Adjunto adnominal. C Complemento nominal e Complemento nominal. D Complemento nominal e Adjunto adnominal. E Adjunto adnominal e Complemento nominal. 538 Questão 538 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Analise a função da partícula ’se’ nas orações abaixo: 1. Alugam-se salas comerciais. 2. Precisa-se de novos colaboradores. Quanto à função sintática dos termos ’salas comerciais’ e ’de novos colaboradores’, assinale a esta afirmação: 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … A O primeiro é objeto direto e o segundo é sujeito. B Ambos são sujeitos indeterminados. C O primeiro é sujeito e o segundo é objeto indireto. D O primeiro é sujeito e o segundo é complemento nominal. E Ambos são objetos diretos. 539 Questão 539 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO No trecho ’O agente público deve obediência às normas vigentes’, o termo sublinhado classifica-se como: A Objeto indireto. B Adjunto adnominal. C Agente da passiva. D Complemento nominal. E Adjunto adverbial. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 540 Questão 540 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Na oração ’O relatório foi redigido com extrema cautela pelo servidor’, os termos destacados exercem, respectivamente, as funções de: A Adjunto adnominal e Objeto direto. B Adjunto adverbial e Agente da passiva. C Complemento nominal e Agente da passiva. D Objeto indireto e Sujeito. E Adjunto adverbial e Objeto indireto. 541 Questão 541 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Analise a frase abaixo: ”O pesquisador encontrou documentos comprovando a tese.” A oração sublinhada exerce função de oração subordinada adjetiva reduzida de gerúndio. Assinale a opção que apresenta a sua correta conversão em uma oração desenvolvida. A O pesquisador encontrou documentos porque comprovam a tese. B O pesquisador encontrou documentos quando comprovavam a tese. C O pesquisador encontrou documentos para que comprovassem a tese. D O pesquisador encontrou documentos se comprovassem a tese. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … E O pesquisador encontrou documentos que comprovam a tese. 542 Questão 542 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO A preposição que antecede um infinitivo é, muitas vezes, o principal indicativo do valor semântico da oração reduzida. No trecho ”Por ser muito qualificado, o profissional obteve a vaga rapidamente”, a oração em destaque indica uma circunstância de: A Causa. B Finalidade. C Condição. D Consequência. E Concessão. 543 Questão 543 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Analise o emprego da conjunção como no período abaixo: ”Como não houve quórum suficiente na assembleia, a votação do novo regimento foi adiada para a próxima semana.” 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … Assinale a alternativa que classifica corretamente o valor semântico da conjunção no contexto apresentado: A Conformativo, pois indica que o adiamento ocorreu conforme o previsto no regimento. B Comparativo, pois estabelece um paralelo entre a falta de quórum e o adiamento. C Condicional, pois a falta de quórum é uma condição para que a votação ocorra. D Causal, pois introduz o motivo ou a razão de a votação ter sido adiada. E Consecutivo, pois apresenta a consequência direta da falta de quórum. 544 Questão 544 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO A frase ”O projeto foi aprovado, tamanho foi o empenho da equipe de gestão”apresenta uma relação de subordinação. A oração iniciada pelo termo destacado possui valor semântico de: A Conformidade. B Proporção. C Causa. D Concessão. E Consequência. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 545 Questão 545 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Assinale a alternativa em que a substituição do conectivo em destaque mantém o sentido original e a correção gramatical do período: ”À medida que os investimentos em tecnologia aumentam, a produtividade do setor cresce.” A À proporção que os investimentos em tecnologia aumentam... B Contanto que os investimentos em tecnologia aumentem... C À medida em que os investimentos em tecnologia aumentam... D Na medida que os investimentos em tecnologia aumentam... E Conquanto os investimentos em tecnologia aumentem... 546 Questão 546 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO No período ”A inflação subiu tanto que o poder de compra da população diminuiu”, a oração sublinhada classifica-se como: A Subordinada adverbial causal. B Subordinada adverbial proporcional. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … C Subordinada adverbial comparativa. D Subordinada adverbial consecutiva. E Subordinada adverbial conformativa. 547 Questão 547 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Analise o emprego do conectivo sublinhado no período abaixo: ”A Administração Pública deve pautar seus atos pela estrita legalidade, consoante determinam os preceitos fundamentais do ordenamento jurídico.” Assinale a alternativa que classifica corretamente a oração introduzida pelo termo destacado: A Oração subordinada adverbial conformativa. B Oração subordinada adverbial concessiva. C Oração subordinada adverbial consecutiva. D Oração subordinada adverbial causal. E Oração subordinada adverbial condicional. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 548 Questão 548 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO No trecho ”A Administração confirmou que os editais serão publicados em breve”, a palavra que exerce a função de: A Conjunção integrante, introduzindo uma oração substantiva objetiva direta. B Conjunção integrante, introduzindo uma oração substantiva subjetiva. C Conjunção coordenativa explicativa, ligando duas orações independentes. D Pronome relativo, introduzindo uma oração adjetiva restritiva. E Pronome relativo, introduzindo uma oração adjetiva explicativa. 549 Questão 549 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Assinale a alternativa em que a oração destacada possui valor de adjetivo e exerce a função de adjunto adnominal do termo antecedente: A O diretor solicitou que todos assinassem a lista. B É urgente que se tomem providências. C Os documentos que estavam sobre a mesa desapareceram. D Tenho esperança de que a situação melhore. E O fato é que ninguém compareceu à reunião. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 550 Questão 550 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○MÉDIO Diferenciar a oração substantiva objetiva indireta da completiva nominal é um desafio comum. Analise o período: ”O povo necessita de que haja mais investimentos em saúde”. A oração destacada é: A Substantiva Objetiva Direta, pois o termo ’de’ é uma preposição expletiva. B Adjetiva Restritiva, pois limita o sentido do substantivo ’povo’. C Substantiva Completiva Nominal, pois completa o sentido de um nome. D Substantiva Objetiva Indireta, pois completa o sentido de um verbo transitivo indireto. E Substantiva Predicativa, pois indica uma qualidade do sujeito. 1.13.3 Questões Difíceis 551 Questão 551 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL Considere o período: ’A Administração Pública deve pautar-se pela transparência; deve, por conseguinte, facilitar o acesso à informação.’ Assinale a alternativa que apresenta um conectivo que substitui o termo em destaque mantendo o sentido original e a correção gramatical: 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … A Entretanto B Todavia C Contanto que D Porquanto E Portanto 552 Questão 552 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL No que tange à sintaxe do período composto, analise a pontuação no seguinte trecho: ’O diretor assinou o decreto, e os secretários iniciaram a implementação.’ Sobre o uso da vírgula antes da conjunção ’e’, é correto afirmar que: A É obrigatória, pois a conjunção ’e’ possui valor adversativo neste contexto. B Está incorreta, pois a vírgula só poderia ser usada se houvesse a repetição da conjunção (polissíndeto). C É obrigatória por se tratar de uma oração coordenada sindética explicativa. D Está incorreta, pois nunca se utiliza vírgula antes da conjunção aditiva ’e’. E É admissível e recomendada por muitos gramáticos, pois as orações coordenadas possuem sujeitos distintos. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 553 Questão 553 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL Assinale a alternativa que apresenta uma oração coordenada sindética adversativa, na qual a relação de oposição é estabelecida de forma implícita ou por meio de conectivo equivalente: A O servidor agiu com presteza, pois sabia da urgência do processo. B Muitos se inscreveram para o certame, poucos, porém, estavam preparados. C O prazo encerrou-se ontem, portanto não serão aceitos novos protocolos. D Não só apresentou os relatórios, como também sugeriu melhorias no fluxo. E Ou o sistema é atualizado imediatamente, ou os dados serão perdidos. 554 Questão 554 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL Na frase ’O conselho considerou a decisão injusta’, o termo ’injusta’ exerce a função sintática de: A Aposto explicativo. B Adjunto adnominal. C Predicativo do objeto. D Adjunto adverbial de modo. E Predicativo do sujeito. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 555 Questão 555 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL Assinale a alternativa em que o termo destacado exerce a função de Adjunto Adnominal: A A mesa de madeira quebrou ontem. B Ele estava favorável à proposta. C A execução do projeto surpreendeu a todos. D O medo da reprovação é comum entre os estudantes. E A resposta ao questionário foi enviada. 556 Questão 556 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL A distinção entre Adjunto Adnominal e Complemento Nominal é fundamental para a correta interpretação textual. Assinale a alternativa em que o termo destacado possui valor paciente, classificando-se como Complemento Nominal: A A decisão do magistrado surpreendeu a todos os presentes no tribunal. B A leitura do aluno foi elogiada pelo professor de língua portuguesa. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … C A intervenção do diretor evitou que o conflito entre os setores aumentasse. D O receio dos investidores provocou a queda repentina das ações. E A resposta ao requerimento será publicada no diário oficial amanhã. 557 Questão 557 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL Considere o período: ”Mesmo sem possuir autorização formal, o agente realizou a vistoria”. Sobre a oração destacada, assinale a afirmação correta. A Trata-se de uma oração subordinada adverbial condicional reduzida de infinitivo. B O termo ’sem’ indica uma circunstância de modo, classificando a oração como adverbial modal reduzida. C A oração expressa uma ideia de concessão, podendo ser desenvolvida como ’Embora não possuísse autorização formal’. D Sua forma desenvolvida correspondente seria: ’Caso não possuísse autorização formal’. E A oração é classificada como coordenada adversativa reduzida, dada a ideia de oposição. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 558 Questão 558 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL As orações reduzidas de gerúndio podem apresentar ambiguidade semântica dependendo do contexto. No enunciado ”Percebendo o erro, o servidor corrigiu o relatório imediatamente”, a oração reduzida pode ser interpretada, respectivamente, com valores de: A Concessão ou Modo. B Condição ou Finalidade. C Consequência ou Explicação. D Tempo ou Causa. E Comparação ou Conformidade. 559 Questão 559 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL Analise a seguinte construção sintática: ”É necessário organizarem os arquivos antes da auditoria”. Sobre a oração em destaque, assinale a esta afirmação. A Trata-se de uma oração subordinada adverbial final reduzida de infinitivo. B É uma oração subordinada substantiva subjetiva reduzida de infinitivo. C A flexão do infinitivo em ’organizarem’ torna obrigatória a presença de uma conjunção integrante. D A oração é classificada como adjetiva restritiva, pois limita o sentido do adjetivo 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … ’necessário’. E É uma oração desenvolvida, pois o verbo está flexionado na terceira pessoa do plural. 560 Questão 560 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL Considere a seguinte frase coordenada adversativa: ”O candidato estudou com afinco, mas não obteve a classificação desejada.” Ao reescrever esse período utilizando uma oração subordinada adverbial concessiva, mantendo o sentido original, a forma correta será: A O candidato estudou com afinco, porquanto não obteve a classificação desejada. B O candidato estudou com afinco, de sorte que não obteve a classificação desejada. C Embora o candidato tenha estudado com afinco, não obteve a classificação desejada. D O candidato estudou com afinco conforme não obteve a classificação desejada. E Posto que o candidato estudou com afinco, não obteve a classificação desejada. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 561 Questão 561 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL A locução desde que pode assumir diferentes valores semânticos a depender do contexto. Analise as ocorrências abaixo: I. O cidadão poderá protocolar o recurso, desde que respeite o prazo legal. II. O clima organizacional melhorou muito desde que a nova gestão assumiu. As relações estabelecidas em I e II são, respectivamente: A Proporção e Finalidade. B Condição e Causa. C Condição e Tempo. D Causa e Consequência. E Tempo e Condição. 562 Questão 562 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL A substituição de conectivos é um recurso que exige atenção à manutenção do sentido original e à regência verbal. Considere a frase: ”Conquanto a dotação orçamentária fosse limitada, a instituição conseguiu implementar o novo sistema de atendimento ao cidadão.” Assinale a alternativa que apresenta um conectivo que substitui o termo sublinhado mantendo o valor semântico do período: 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … A Embora. B Contanto que. C Porquanto. D Conforme. E Visto que. 563 Questão 563 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL As orações reduzidas não são introduzidas por conectivos (conjunções ou pronomes relativos). No período ”Ao chegar ao local do evento, o palestrante foi aplaudido”, a oração destacada pode ser desenvolvida mantendo o sentido original como: A Visto que chegou ao local do evento... B Para que chegasse ao local do evento... C À medida que chegava ao local do evento... D Quando chegou ao local do evento... E Embora chegasse ao local do evento... 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 564 Questão 564 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL Analise a estrutura sintática do período: ”Sabe-se que a educação é o pilar do desenvolvimento”. Assinale a alternativa que classifica corretamente a oração sublinhada: A Oração Subordinada Substantiva Completiva Nominal, completando o sentido de ’sabe’. B Oração Subordinada Substantiva Predicativa, pois define o ato de saber. C Oração Subordinada Substantiva Objetiva Indireta, com preposição implícita. D Oração Subordinada Substantiva Objetiva Direta, pois o verbo ’saber’ é transitivo direto. E Oração Subordinada Substantiva Subjetiva, pois o ’se’ é partícula apassivadora. 565 Questão 565 ORGANIZAÇÃO DO PERÍODO SIMPLES E DO PERÍODO COMPOSTO ○○○DIFÍCIL O pronome relativo cujo e suas flexões introduzem orações subordinadas adjetivas e estabelecem uma relação de posse. Assinale a alternativa em que o uso desse pronome está gramaticalmente CORRETO: A A cidade cujo o clima é agradável recebe muitos turistas. B O problema cujo eu me referi já foi solucionado pela equipe. C O aluno cujo pai conversei com ele obteve boas notas. D A empresa cujos lucros cresceram investirá em tecnologia. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … E Este é o autor cujo o livro foi premiado ontem. 1.13.4 Gabaritos e Comentários"
+      "explanation": "’Concessão’ (com SS) e ’senso’ (discernimento) estão grafados corretamente e aplicados ao contexto."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A palavra ’concessão’ deriva do verbo ’conceder’ (terminados em -ceder formam substantivos com -ssão) e ’senso’ refere-se a juízo ou discernimento, adequando-se perfeitamente 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … ao contexto.",
-    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: A palavra ’concessão’ deriva do verbo ’conceder’ (terminados em -ceder formam substantivos com -ssão) e ’senso’ refere-se a juízo ou discernimento, adequando-se perfeitamente 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … ao contexto."
+    "resolution": "A palavra ’concessão’ deriva do verbo ’conceder’ (terminados em -ceder formam substantivos com -ssão) e ’senso’ refere-se a juízo ou discernimento, adequando-se perfeitamente ao contexto.",
+    "theoretical_content": "A norma-padrão reúne convenções ortográficas, morfológicas e sintáticas usadas como referência em contextos formais. Ortografia oficial e acentuação seguem regras sistemáticas; a consulta ao Vocabulário Ortográfico da Língua Portuguesa é referência para grafias oficiais. Acentuam-se, entre outros casos, oxítonas terminadas em a(s), e(s), o(s), em(ens), paroxítonas conforme suas terminações e todas as proparoxítonas. Hiatos com “i” e “u” tônicos recebem acento em condições específicas.\n\nO hífen depende da relação entre prefixo e palavra seguinte. Em linhas gerais, emprega-se hífen quando o prefixo termina com a mesma vogal que inicia o segundo elemento, diante de h e em alguns prefixos consagrados; quando há vogais diferentes, tende-se à junção (antiético, autoescola). Prefixos como vice- normalmente se ligam por hífen (vice-diretor); sub- segue regras próprias, inclusive hífen diante de r e b em certos casos. A grafia deve ser conferida na regra específica.\n\nOs porquês distinguem-se pela função: “por que” em perguntas e em construções equivalentes a “por qual razão” ou “pelo qual”; “porque” como conjunção causal ou explicativa; “por quê” no fim de frase ou antes de pausa; “porquê” como substantivo, normalmente acompanhado de determinante. Em provas, analise a função sintática e o contexto, não apenas a posição visual.\n\nAplicação ao problema apresentado: A palavra ’concessão’ deriva do verbo ’conceder’ (terminados em -ceder formam substantivos com -ssão) e ’senso’ refere-se a juízo ou discernimento, adequando-se perfeitamente ao contexto."
   }
 }
 ```
@@ -14202,7 +14193,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "O projeto foi finalizado, logo será apresentado amanhã. (Adversativa) 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "O projeto foi finalizado, logo será apresentado amanhã. (Adversativa)",
       "is_correct": false,
       "explanation": "A conjunção ’logo’ indica uma conclusão ou consequência lógica, não adversidade."
     },
@@ -14228,7 +14219,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O candidato estudou muito, contudo não obteve a aprovação. (Aditiva)",
       "is_correct": false,
-      "explanation": "A conjunção ’contudo’ possui valor adversativo (oposição), não aditivo. ARROW-LEFT VOLTAR À QUESTÃO 524 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "A conjunção ’contudo’ possui valor adversativo (oposição), não aditivo."
     }
   ],
   "answer_key": "D",
@@ -14284,9 +14275,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Sujeito simples. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Sujeito simples.",
       "is_correct": false,
-      "explanation": "O verbo ’haver’ no sentido de existir não possui sujeito; ’muitos interessados’ é o complemento do verbo. ARROW-LEFT VOLTAR À QUESTÃO 525"
+      "explanation": "O verbo ’haver’ no sentido de existir não possui sujeito; ’muitos interessados’ é o complemento do verbo."
     }
   ],
   "answer_key": "D",
@@ -14344,13 +14335,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O diretor, homem justo, ouviu as reclamações.",
       "is_correct": false,
-      "explanation": "’Homem justo’ é um aposto explicativo, pois amplia ou explica o substantivo ’diretor’. ARROW-LEFT VOLTAR À QUESTÃO 526"
+      "explanation": "’Homem justo’ é um aposto explicativo, pois amplia ou explica o substantivo ’diretor’."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O vocativo é um termo independente utilizado para interpelar ou chamar o interlocutor, 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … devendo ser isolado por vírgulas, como ocorre em ’meus amigos’.",
-    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: O vocativo é um termo independente utilizado para interpelar ou chamar o interlocutor, 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … devendo ser isolado por vírgulas, como ocorre em ’meus amigos’."
+    "resolution": "O vocativo é um termo independente utilizado para interpelar ou chamar o interlocutor, devendo ser isolado por vírgulas, como ocorre em ’meus amigos’.",
+    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: O vocativo é um termo independente utilizado para interpelar ou chamar o interlocutor, devendo ser isolado por vírgulas, como ocorre em ’meus amigos’."
   }
 }
 ```
@@ -14384,7 +14375,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Trata-se de uma oração sem sujeito, pois o verbo ’fazer’ indica tempo decorrido.",
       "is_correct": true,
-      "explanation": "Conforme a gramática normativa, verbos que indicam tempo (como fazer e haver) são impessoais, resultando em orações sem sujeito. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Conforme a gramática normativa, verbos que indicam tempo (como fazer e haver) são impessoais, resultando em orações sem sujeito."
     },
     {
       "id": "C",
@@ -14394,7 +14385,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "O sujeito é indeterminado, pois não se pode identificar quem pratica a ação de fazer. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "O sujeito é indeterminado, pois não se pode identificar quem pratica a ação de fazer.",
       "is_correct": false,
       "explanation": "O sujeito indeterminado ocorre quando não se quer ou não se pode identificar o agente (ex: ’Dizem que...’), o que difere da impessoalidade do verbo ’fazer’ (tempo)."
     },
@@ -14402,7 +14393,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O sujeito é classificado como simples, tendo como núcleo o termo ’anos’.",
       "is_correct": false,
-      "explanation": "O termo ’anos’ é o objeto direto do verbo impessoal ’faz’, e não o sujeito. ARROW-LEFT VOLTAR À QUESTÃO 527"
+      "explanation": "O termo ’anos’ é o objeto direto do verbo impessoal ’faz’, e não o sujeito."
     }
   ],
   "answer_key": "B",
@@ -14454,13 +14445,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Espero que você obtenha sucesso em sua jornada.",
       "is_correct": false,
-      "explanation": "A oração ’que você obtenha sucesso’ é desenvolvida, contendo conectivo e verbo flexionado. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "A oração ’que você obtenha sucesso’ é desenvolvida, contendo conectivo e verbo flexionado."
     },
     {
       "id": "E",
       "text": "É fundamental que todos participem da reunião.",
       "is_correct": false,
-      "explanation": "Trata-se de uma oração desenvolvida, pois apresenta a conjunção integrante ’que’ e o verbo flexionado ’participem’. ARROW-LEFT VOLTAR À QUESTÃO 528"
+      "explanation": "Trata-se de uma oração desenvolvida, pois apresenta a conjunção integrante ’que’ e o verbo flexionado ’participem’."
     }
   ],
   "answer_key": "C",
@@ -14488,7 +14479,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "As orações reduzidas são classificadas de acordo com a forma nominal em que o verbo se apresenta. Na frase ”Terminada a tarefa, os funcionários foram dispensados”, a oração em destaque é classificada como: 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+  "question_text": "As orações reduzidas são classificadas de acordo com a forma nominal em que o verbo se apresenta. Na frase ”Terminada a tarefa, os funcionários foram dispensados”, a oração em destaque é classificada como:",
   "alternatives": [
     {
       "id": "A",
@@ -14518,7 +14509,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Desenvolvida adverbial.",
       "is_correct": false,
-      "explanation": "A oração é reduzida, pois não possui conectivo e o verbo não está flexionado em tempo e pessoa. ARROW-LEFT VOLTAR À QUESTÃO 529 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "A oração é reduzida, pois não possui conectivo e o verbo não está flexionado em tempo e pessoa."
     }
   ],
   "answer_key": "D",
@@ -14574,9 +14565,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Consequência. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Consequência.",
       "is_correct": false,
-      "explanation": "Embora a finalidade e a consequência sejam próximas, a locução ’a fim de que’ foca na intenção prévia, não no resultado automático. ARROW-LEFT VOLTAR À QUESTÃO 530"
+      "explanation": "Embora a finalidade e a consequência sejam próximas, a locução ’a fim de que’ foca na intenção prévia, não no resultado automático."
     }
   ],
   "answer_key": "D",
@@ -14634,13 +14625,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Consequência, expressando o resultado inevitável de uma ação anterior.",
       "is_correct": false,
-      "explanation": "A consequência (consecutiva) é introduzida por ’que’ (precedido de tal, tão, tanto) ou ’de modo que’, focando no resultado e não na intenção. ARROW-LEFT VOLTAR À QUESTÃO 531"
+      "explanation": "A consequência (consecutiva) é introduzida por ’que’ (precedido de tal, tão, tanto) ou ’de modo que’, focando no resultado e não na intenção."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A locução ’a fim de que’ é um conectivo clássico das orações subordinadas adverbiais finais, introduzindo a intenção ou o objetivo do fato expresso na oração principal. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
-    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: A locução ’a fim de que’ é um conectivo clássico das orações subordinadas adverbiais finais, introduzindo a intenção ou o objetivo do fato expresso na oração principal. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+    "resolution": "A locução ’a fim de que’ é um conectivo clássico das orações subordinadas adverbiais finais, introduzindo a intenção ou o objetivo do fato expresso na oração principal.",
+    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: A locução ’a fim de que’ é um conectivo clássico das orações subordinadas adverbiais finais, introduzindo a intenção ou o objetivo do fato expresso na oração principal."
   }
 }
 ```
@@ -14674,11 +14665,11 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Oração Subordinada Substantiva Predicativa.",
       "is_correct": false,
-      "explanation": "A oração predicativa geralmente aparece após o sujeito e um verbo de ligação (ex: ’Meu desejo é que você passe’). Aqui, a oração é o próprio sujeito. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "A oração predicativa geralmente aparece após o sujeito e um verbo de ligação (ex: ’Meu desejo é que você passe’). Aqui, a oração é o próprio sujeito."
     },
     {
       "id": "C",
-      "text": "Oração Subordinada Substantiva Objetiva Direta. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Oração Subordinada Substantiva Objetiva Direta.",
       "is_correct": false,
       "explanation": "Para ser objetiva direta, a oração principal deveria ter um sujeito expresso e um verbo transitivo direto, o que não ocorre em ’É necessário’."
     },
@@ -14692,7 +14683,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Oração Subordinada Adjetiva Explicativa.",
       "is_correct": false,
-      "explanation": "Orações adjetivas explicativas são introduzidas por pronomes relativos e vêm isoladas por vírgulas, o que não é o caso. ARROW-LEFT VOLTAR À QUESTÃO 532"
+      "explanation": "Orações adjetivas explicativas são introduzidas por pronomes relativos e vêm isoladas por vírgulas, o que não é o caso."
     }
   ],
   "answer_key": "A",
@@ -14748,9 +14739,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Em I, a oração é adjetiva explicativa e indica que todos os servidores estudam. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … 1.13.2 Questões de Nível Médio",
+      "text": "Em I, a oração é adjetiva explicativa e indica que todos os servidores estudam. 1.13.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "A oração em I não possui vírgulas, logo é restritiva, não explicativa. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … ARROW-LEFT VOLTAR À QUESTÃO 533"
+      "explanation": "A oração em I não possui vírgulas, logo é restritiva, não explicativa."
     }
   ],
   "answer_key": "A",
@@ -14808,7 +14799,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Oposição, pois contrasta o cumprimento de metas com a gratificação.",
       "is_correct": false,
-      "explanation": "Não há contraste; a gratificação é uma consequência lógica do cumprimento das metas. ARROW-LEFT VOLTAR À QUESTÃO 534 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Não há contraste; a gratificação é uma consequência lógica do cumprimento das metas."
     }
   ],
   "answer_key": "B",
@@ -14852,7 +14843,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "Explicação, fundamentando a solicitação do agente. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Explicação, fundamentando a solicitação do agente.",
       "is_correct": false,
       "explanation": "O ’e’ não introduz uma justificativa para a primeira oração."
     },
@@ -14866,7 +14857,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Conclusão, indicando o desfecho natural do procedimento.",
       "is_correct": false,
-      "explanation": "A falta de apresentação não é uma conclusão lógica da solicitação, mas um fato contrário ao esperado. ARROW-LEFT VOLTAR À QUESTÃO 535"
+      "explanation": "A falta de apresentação não é uma conclusão lógica da solicitação, mas um fato contrário ao esperado."
     }
   ],
   "answer_key": "A",
@@ -14922,15 +14913,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Deve ser omitida em orações coordenadas assindéticas para garantir a fluidez do texto. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Deve ser omitida em orações coordenadas assindéticas para garantir a fluidez do texto.",
       "is_correct": false,
-      "explanation": "Orações assindéticas exigem pontuação (vírgula, ponto e vírgula) justamente por não terem conectivo. ARROW-LEFT VOLTAR À QUESTÃO 536"
+      "explanation": "Orações assindéticas exigem pontuação (vírgula, ponto e vírgula) justamente por não terem conectivo."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "O polissíndeto é a repetição intencional de conjunções, e o uso da vírgula é um recurso estilístico e enfático comum nesses casos. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
-    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: O polissíndeto é a repetição intencional de conjunções, e o uso da vírgula é um recurso estilístico e enfático comum nesses casos. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+    "resolution": "O polissíndeto é a repetição intencional de conjunções, e o uso da vírgula é um recurso estilístico e enfático comum nesses casos.",
+    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: O polissíndeto é a repetição intencional de conjunções, e o uso da vírgula é um recurso estilístico e enfático comum nesses casos."
   }
 }
 ```
@@ -14964,7 +14955,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Objeto indireto e Adjunto adnominal.",
       "is_correct": false,
-      "explanation": "Complementos de nomes (substantivos abstratos) não podem ser classificados como objetos, que são complementos verbais. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Complementos de nomes (substantivos abstratos) não podem ser classificados como objetos, que são complementos verbais."
     },
     {
       "id": "C",
@@ -14982,7 +14973,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Adjunto adnominal e Complemento nominal.",
       "is_correct": false,
-      "explanation": "As classificações estão invertidas conforme a relação de agente e paciente com o substantivo abstrato. ARROW-LEFT VOLTAR À QUESTÃO 537"
+      "explanation": "As classificações estão invertidas conforme a relação de agente e paciente com o substantivo abstrato."
     }
   ],
   "answer_key": "D",
@@ -15010,7 +15001,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise a função da partícula ’se’ nas orações abaixo: 1. Alugam-se salas comerciais. 2. Precisa-se de novos colaboradores. Quanto à função sintática dos termos ’salas comerciais’ e ’de novos colaboradores’, assinale a alternativa correta: 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+  "question_text": "Analise a função da partícula ’se’ nas orações abaixo: 1. Alugam-se salas comerciais. 2. Precisa-se de novos colaboradores. Quanto à função sintática dos termos ’salas comerciais’ e ’de novos colaboradores’, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -15034,13 +15025,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "O primeiro é sujeito e o segundo é complemento nominal.",
       "is_correct": false,
-      "explanation": "’De novos colaboradores’ completa o sentido de um verbo (precisar), sendo, portanto, um complemento verbal (objeto indireto). 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "’De novos colaboradores’ completa o sentido de um verbo (precisar), sendo, portanto, um complemento verbal (objeto indireto)."
     },
     {
       "id": "E",
       "text": "Ambos são objetos diretos.",
       "is_correct": false,
-      "explanation": "Em ’Alugam-se salas’, o termo é sujeito paciente, pois a frase pode ser transposta para ’Salas são alugadas’. ARROW-LEFT VOLTAR À QUESTÃO 538"
+      "explanation": "Em ’Alugam-se salas’, o termo é sujeito paciente, pois a frase pode ser transposta para ’Salas são alugadas’."
     }
   ],
   "answer_key": "C",
@@ -15096,9 +15087,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Adjunto adverbial. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Adjunto adverbial.",
       "is_correct": false,
-      "explanation": "Não indica circunstância (tempo, modo, lugar), mas sim o alvo da obediência. ARROW-LEFT VOLTAR À QUESTÃO 539 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Não indica circunstância (tempo, modo, lugar), mas sim o alvo da obediência."
     }
   ],
   "answer_key": "D",
@@ -15156,7 +15147,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Adjunto adverbial e Objeto indireto.",
       "is_correct": false,
-      "explanation": "’Pelo servidor’ é o agente da passiva, não objeto indireto, pois indica quem executa a ação na voz passiva. ARROW-LEFT VOLTAR À QUESTÃO 540"
+      "explanation": "’Pelo servidor’ é o agente da passiva, não objeto indireto, pois indica quem executa a ação na voz passiva."
     }
   ],
   "answer_key": "B",
@@ -15206,7 +15197,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "O pesquisador encontrou documentos se comprovassem a tese. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "O pesquisador encontrou documentos se comprovassem a tese.",
       "is_correct": false,
       "explanation": "A conjunção ’se’ transformaria a oração em adverbial condicional."
     },
@@ -15214,13 +15205,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O pesquisador encontrou documentos que comprovam a tese.",
       "is_correct": true,
-      "explanation": "O uso do pronome relativo ’que’ desenvolve a oração adjetiva mantendo o sentido original. ARROW-LEFT VOLTAR À QUESTÃO 541"
+      "explanation": "O uso do pronome relativo ’que’ desenvolve a oração adjetiva mantendo o sentido original."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Orações adjetivas reduzidas são desenvolvidas por meio de pronomes relativos (como o 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … ’que’). A forma ’que comprovam’ (ou ’que comprovavam’) mantém a função restritiva de caracterizar o substantivo ’documentos’.",
-    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: Orações adjetivas reduzidas são desenvolvidas por meio de pronomes relativos (como o 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … ’que’). A forma ’que comprovam’ (ou ’que comprovavam’) mantém a função restritiva de caracterizar o substantivo ’documentos’."
+    "resolution": "Orações adjetivas reduzidas são desenvolvidas por meio de pronomes relativos (como o ’que’). A forma ’que comprovam’ (ou ’que comprovavam’) mantém a função restritiva de caracterizar o substantivo ’documentos’.",
+    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: Orações adjetivas reduzidas são desenvolvidas por meio de pronomes relativos (como o ’que’). A forma ’que comprovam’ (ou ’que comprovavam’) mantém a função restritiva de caracterizar o substantivo ’documentos’."
   }
 }
 ```
@@ -15254,7 +15245,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Finalidade.",
       "is_correct": false,
-      "explanation": "A finalidade seria expressa por ’Para ser’. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "A finalidade seria expressa por ’Para ser’."
     },
     {
       "id": "C",
@@ -15272,7 +15263,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Concessão.",
       "is_correct": false,
-      "explanation": "A concessão seria expressa por ’Apesar de ser’. ARROW-LEFT VOLTAR À QUESTÃO 542"
+      "explanation": "A concessão seria expressa por ’Apesar de ser’."
     }
   ],
   "answer_key": "A",
@@ -15300,7 +15291,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Analise o emprego da conjunção como no período abaixo: ”Como não houve quórum suficiente na assembleia, a votação do novo regimento foi adiada para a próxima semana.” 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … Assinale a alternativa que classifica corretamente o valor semântico da conjunção no contexto apresentado:",
+  "question_text": "Analise o emprego da conjunção como no período abaixo: ”Como não houve quórum suficiente na assembleia, a votação do novo regimento foi adiada para a próxima semana.” Assinale a alternativa que classifica corretamente o valor semântico da conjunção no contexto apresentado:",
   "alternatives": [
     {
       "id": "A",
@@ -15330,7 +15321,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Consecutivo, pois apresenta a consequência direta da falta de quórum.",
       "is_correct": false,
-      "explanation": "Embora haja uma relação de causalidade, a oração introduzida pelo conectivo é a causa, não a consequência (que é a oração principal). ARROW-LEFT VOLTAR À QUESTÃO 543 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Embora haja uma relação de causalidade, a oração introduzida pelo conectivo é a causa, não a consequência (que é a oração principal)."
     }
   ],
   "answer_key": "D",
@@ -15386,9 +15377,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Consequência. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Consequência.",
       "is_correct": true,
-      "explanation": "Trata-se de uma oração subordinada adverbial consecutiva. A intensidade do empenho gerou o resultado da aprovação. ARROW-LEFT VOLTAR À QUESTÃO 544"
+      "explanation": "Trata-se de uma oração subordinada adverbial consecutiva. A intensidade do empenho gerou o resultado da aprovação."
     }
   ],
   "answer_key": "E",
@@ -15446,13 +15437,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Conquanto os investimentos em tecnologia aumentem...",
       "is_correct": false,
-      "explanation": "’Conquanto’ possui valor concessivo, alterando completamente a lógica da frase para uma oposição. ARROW-LEFT VOLTAR À QUESTÃO 545"
+      "explanation": "’Conquanto’ possui valor concessivo, alterando completamente a lógica da frase para uma oposição."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "As locuções ’à medida que’ e ’à proporção que’ são sinônimas e introduzem orações proporcionais, mantendo o sentido de simultaneidade gradual. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
-    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: As locuções ’à medida que’ e ’à proporção que’ são sinônimas e introduzem orações proporcionais, mantendo o sentido de simultaneidade gradual. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+    "resolution": "As locuções ’à medida que’ e ’à proporção que’ são sinônimas e introduzem orações proporcionais, mantendo o sentido de simultaneidade gradual.",
+    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: As locuções ’à medida que’ e ’à proporção que’ são sinônimas e introduzem orações proporcionais, mantendo o sentido de simultaneidade gradual."
   }
 }
 ```
@@ -15484,9 +15475,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Subordinada adverbial proporcional. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Subordinada adverbial proporcional.",
       "is_correct": false,
-      "explanation": "Não há uma relação de ’quanto mais... mais’, mas sim de causa e resultado. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Não há uma relação de ’quanto mais... mais’, mas sim de causa e resultado."
     },
     {
       "id": "C",
@@ -15504,7 +15495,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Subordinada adverbial conformativa.",
       "is_correct": false,
-      "explanation": "Não indica que algo foi feito seguindo um modelo ou norma. ARROW-LEFT VOLTAR À QUESTÃO 546"
+      "explanation": "Não indica que algo foi feito seguindo um modelo ou norma."
     }
   ],
   "answer_key": "D",
@@ -15560,9 +15551,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Oração subordinada adverbial condicional. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Oração subordinada adverbial condicional.",
       "is_correct": false,
-      "explanation": "Não há uma hipótese ou condição (se, caso) para que a legalidade ocorra. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … ARROW-LEFT VOLTAR À QUESTÃO 547"
+      "explanation": "Não há uma hipótese ou condição (se, caso) para que a legalidade ocorra."
     }
   ],
   "answer_key": "A",
@@ -15620,7 +15611,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Pronome relativo, introduzindo uma oração adjetiva explicativa.",
       "is_correct": false,
-      "explanation": "Não é pronome relativo e não há pontuação que indique caráter explicativo. ARROW-LEFT VOLTAR À QUESTÃO 548 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Não é pronome relativo e não há pontuação que indique caráter explicativo."
     }
   ],
   "answer_key": "A",
@@ -15676,9 +15667,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O fato é que ninguém compareceu à reunião. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "O fato é que ninguém compareceu à reunião.",
       "is_correct": false,
-      "explanation": "Trata-se de uma oração subordinada substantiva predicativa (O fato é isso). ARROW-LEFT VOLTAR À QUESTÃO 549"
+      "explanation": "Trata-se de uma oração subordinada substantiva predicativa (O fato é isso)."
     }
   ],
   "answer_key": "C",
@@ -15736,13 +15727,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Substantiva Predicativa, pois indica uma qualidade do sujeito. 1.13.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "Não há verbo de ligação ligando o sujeito a um predicativo em forma de oração. ARROW-LEFT VOLTAR À QUESTÃO 550"
+      "explanation": "Não há verbo de ligação ligando o sujeito a um predicativo em forma de oração."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Correta. A oração completa o sentido do verbo ’necessitar’ (quem necessita, necessita 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … DE algo). Como o termo regente é um verbo, a oração é objetiva indireta.",
-    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: Correta. A oração completa o sentido do verbo ’necessitar’ (quem necessita, necessita 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … DE algo). Como o termo regente é um verbo, a oração é objetiva indireta."
+    "resolution": "Correta. A oração completa o sentido do verbo ’necessitar’ (quem necessita, necessita DE algo). Como o termo regente é um verbo, a oração é objetiva indireta.",
+    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: Correta. A oração completa o sentido do verbo ’necessitar’ (quem necessita, necessita DE algo). Como o termo regente é um verbo, a oração é objetiva indireta."
   }
 }
 ```
@@ -15764,13 +15755,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considere o período: ’A Administração Pública deve pautar-se pela transparência; deve, por conseguinte, facilitar o acesso à informação.’ Assinale a alternativa que apresenta um conectivo que substitui o termo em destaque mantendo o sentido original e a correção gramatical: 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+  "question_text": "Considere o período: ’A Administração Pública deve pautar-se pela transparência; deve, por conseguinte, facilitar o acesso à informação.’ Assinale a alternativa que apresenta um conectivo que substitui o termo em destaque mantendo o sentido original e a correção gramatical:",
   "alternatives": [
     {
       "id": "A",
       "text": "Entretanto",
       "is_correct": false,
-      "explanation": "’Entretanto’ é adversativa (oposição), o que contradiz a lógica de continuidade do período. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "’Entretanto’ é adversativa (oposição), o que contradiz a lógica de continuidade do período."
     },
     {
       "id": "B",
@@ -15794,7 +15785,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Portanto",
       "is_correct": true,
-      "explanation": "’Portanto’ preserva exatamente o valor conclusivo de ’por conseguinte’. ARROW-LEFT VOLTAR À QUESTÃO 551"
+      "explanation": "’Portanto’ preserva exatamente o valor conclusivo de ’por conseguinte’."
     }
   ],
   "answer_key": "E",
@@ -15846,13 +15837,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Está incorreta, pois nunca se utiliza vírgula antes da conjunção aditiva ’e’.",
       "is_correct": false,
-      "explanation": "Existem exceções consagradas, como sujeitos distintos, polissíndeto e valor adversativo. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Existem exceções consagradas, como sujeitos distintos, polissíndeto e valor adversativo."
     },
     {
       "id": "E",
-      "text": "É admissível e recomendada por muitos gramáticos, pois as orações coordenadas possuem sujeitos distintos. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "É admissível e recomendada por muitos gramáticos, pois as orações coordenadas possuem sujeitos distintos.",
       "is_correct": true,
-      "explanation": "A diferença de sujeitos justifica o emprego da vírgula antes do ’e’ aditivo. ARROW-LEFT VOLTAR À QUESTÃO 552"
+      "explanation": "A diferença de sujeitos justifica o emprego da vírgula antes do ’e’ aditivo."
     }
   ],
   "answer_key": "E",
@@ -15910,7 +15901,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Ou o sistema é atualizado imediatamente, ou os dados serão perdidos.",
       "is_correct": false,
-      "explanation": "’Ou... ou’ estabelece uma relação de alternância ou exclusão. ARROW-LEFT VOLTAR À QUESTÃO 553 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "’Ou... ou’ estabelece uma relação de alternância ou exclusão."
     }
   ],
   "answer_key": "B",
@@ -15966,9 +15957,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Predicativo do sujeito. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Predicativo do sujeito.",
       "is_correct": false,
-      "explanation": "’Injusta’ refere-se ao objeto ’a decisão’, e não ao sujeito ’O conselho’. ARROW-LEFT VOLTAR À QUESTÃO 554"
+      "explanation": "’Injusta’ refere-se ao objeto ’a decisão’, e não ao sujeito ’O conselho’."
     }
   ],
   "answer_key": "C",
@@ -16026,13 +16017,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A resposta ao questionário foi enviada.",
       "is_correct": false,
-      "explanation": "’Ao questionário’ completa o substantivo abstrato ’resposta’ com valor paciente (o questionário foi respondido), sendo Complemento Nominal. ARROW-LEFT VOLTAR À QUESTÃO 555"
+      "explanation": "’Ao questionário’ completa o substantivo abstrato ’resposta’ com valor paciente (o questionário foi respondido), sendo Complemento Nominal."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "Quando um termo preposicionado liga-se a um substantivo concreto (como ’mesa’), ele é obrigatoriamente classificado como Adjunto Adnominal. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
-    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: Quando um termo preposicionado liga-se a um substantivo concreto (como ’mesa’), ele é obrigatoriamente classificado como Adjunto Adnominal. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+    "resolution": "Quando um termo preposicionado liga-se a um substantivo concreto (como ’mesa’), ele é obrigatoriamente classificado como Adjunto Adnominal.",
+    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: Quando um termo preposicionado liga-se a um substantivo concreto (como ’mesa’), ele é obrigatoriamente classificado como Adjunto Adnominal."
   }
 }
 ```
@@ -16064,9 +16055,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "A leitura do aluno foi elogiada pelo professor de língua portuguesa. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "A leitura do aluno foi elogiada pelo professor de língua portuguesa.",
       "is_correct": false,
-      "explanation": "’Do aluno’ tem valor agente (o aluno leu), logo é Adjunto Adnominal. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "’Do aluno’ tem valor agente (o aluno leu), logo é Adjunto Adnominal."
     },
     {
       "id": "C",
@@ -16084,7 +16075,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A resposta ao requerimento será publicada no diário oficial amanhã.",
       "is_correct": true,
-      "explanation": "’Ao requerimento’ é o alvo da ação de responder implícita no substantivo ’resposta’ (valor paciente), configurando Complemento Nominal. ARROW-LEFT VOLTAR À QUESTÃO 556"
+      "explanation": "’Ao requerimento’ é o alvo da ação de responder implícita no substantivo ’resposta’ (valor paciente), configurando Complemento Nominal."
     }
   ],
   "answer_key": "E",
@@ -16140,9 +16131,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A oração é classificada como coordenada adversativa reduzida, dada a ideia de oposição. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "A oração é classificada como coordenada adversativa reduzida, dada a ideia de oposição.",
       "is_correct": false,
-      "explanation": "Não existem orações coordenadas reduzidas na nomenclatura gramatical brasileira; as reduzidas são subordinadas. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … ARROW-LEFT VOLTAR À QUESTÃO 557"
+      "explanation": "Não existem orações coordenadas reduzidas na nomenclatura gramatical brasileira; as reduzidas são subordinadas."
     }
   ],
   "answer_key": "C",
@@ -16200,7 +16191,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Comparação ou Conformidade.",
       "is_correct": false,
-      "explanation": "Não há estabelecimento de comparação nem de conformidade com normas ou opiniões. ARROW-LEFT VOLTAR À QUESTÃO 558 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Não há estabelecimento de comparação nem de conformidade com normas ou opiniões."
     }
   ],
   "answer_key": "D",
@@ -16250,7 +16241,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "A oração é classificada como adjetiva restritiva, pois limita o sentido do adjetivo 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … ’necessário’.",
+      "text": "A oração é classificada como adjetiva restritiva, pois limita o sentido do adjetivo ’necessário’.",
       "is_correct": false,
       "explanation": "Orações substantivas subjetivas completam o sentido de predicados nominais (como ’é necessário’), não possuindo valor adjetivo."
     },
@@ -16258,7 +16249,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "É uma oração desenvolvida, pois o verbo está flexionado na terceira pessoa do plural.",
       "is_correct": false,
-      "explanation": "Para ser desenvolvida, precisaria de um conectivo (ex: ’que organizem’). O infinitivo flexionado continua sendo uma forma nominal para fins de classificação de oração reduzida. ARROW-LEFT VOLTAR À QUESTÃO 559"
+      "explanation": "Para ser desenvolvida, precisaria de um conectivo (ex: ’que organizem’). O infinitivo flexionado continua sendo uma forma nominal para fins de classificação de oração reduzida."
     }
   ],
   "answer_key": "B",
@@ -16314,15 +16305,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Posto que o candidato estudou com afinco, não obteve a classificação desejada. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Posto que o candidato estudou com afinco, não obteve a classificação desejada.",
       "is_correct": false,
-      "explanation": "Embora ’posto que’ seja concessivo, a alternativa falha ao não ajustar o modo verbal ou a estrutura lógica de forma natural como a alternativa C. ARROW-LEFT VOLTAR À QUESTÃO 560"
+      "explanation": "Embora ’posto que’ seja concessivo, a alternativa falha ao não ajustar o modo verbal ou a estrutura lógica de forma natural como a alternativa C."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A transformação de uma oração adversativa em concessiva exige o uso de um conectivo 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … subordinativo (como ’embora’) e a alteração do modo verbal do indicativo (’estudou’) para o subjuntivo (’tenha estudado’).",
-    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: A transformação de uma oração adversativa em concessiva exige o uso de um conectivo 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período … subordinativo (como ’embora’) e a alteração do modo verbal do indicativo (’estudou’) para o subjuntivo (’tenha estudado’)."
+    "resolution": "A transformação de uma oração adversativa em concessiva exige o uso de um conectivo subordinativo (como ’embora’) e a alteração do modo verbal do indicativo (’estudou’) para o subjuntivo (’tenha estudado’).",
+    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: A transformação de uma oração adversativa em concessiva exige o uso de um conectivo subordinativo (como ’embora’) e a alteração do modo verbal do indicativo (’estudou’) para o subjuntivo (’tenha estudado’)."
   }
 }
 ```
@@ -16350,7 +16341,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Proporção e Finalidade.",
       "is_correct": false,
-      "explanation": "Não há ideia de gradação (proporção) nem de objetivo (finalidade). 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "Não há ideia de gradação (proporção) nem de objetivo (finalidade)."
     },
     {
       "id": "B",
@@ -16374,7 +16365,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Tempo e Condição.",
       "is_correct": false,
-      "explanation": "As definições estão invertidas em relação aos exemplos. ARROW-LEFT VOLTAR À QUESTÃO 561"
+      "explanation": "As definições estão invertidas em relação aos exemplos."
     }
   ],
   "answer_key": "C",
@@ -16402,7 +16393,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A substituição de conectivos é um recurso que exige atenção à manutenção do sentido original e à regência verbal. Considere a frase: ”Conquanto a dotação orçamentária fosse limitada, a instituição conseguiu implementar o novo sistema de atendimento ao cidadão.” Assinale a alternativa que apresenta um conectivo que substitui o termo sublinhado mantendo o valor semântico do período: 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+  "question_text": "A substituição de conectivos é um recurso que exige atenção à manutenção do sentido original e à regência verbal. Considere a frase: ”Conquanto a dotação orçamentária fosse limitada, a instituição conseguiu implementar o novo sistema de atendimento ao cidadão.” Assinale a alternativa que apresenta um conectivo que substitui o termo sublinhado mantendo o valor semântico do período:",
   "alternatives": [
     {
       "id": "A",
@@ -16426,13 +16417,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Conforme.",
       "is_correct": false,
-      "explanation": "’Conforme’ possui valor conformativo, indicando acordo ou conformidade. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "’Conforme’ possui valor conformativo, indicando acordo ou conformidade."
     },
     {
       "id": "E",
       "text": "Visto que.",
       "is_correct": false,
-      "explanation": "’Visto que’ possui valor causal, indicando o motivo da ação. ARROW-LEFT VOLTAR À QUESTÃO 562"
+      "explanation": "’Visto que’ possui valor causal, indicando o motivo da ação."
     }
   ],
   "answer_key": "A",
@@ -16488,9 +16479,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Embora chegasse ao local do evento... 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "Embora chegasse ao local do evento...",
       "is_correct": false,
-      "explanation": "’Embora’ possui valor concessivo, indicando uma oposição que não existe no original. ARROW-LEFT VOLTAR À QUESTÃO 563 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …"
+      "explanation": "’Embora’ possui valor concessivo, indicando uma oposição que não existe no original."
     }
   ],
   "answer_key": "D",
@@ -16548,7 +16539,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Oração Subordinada Substantiva Subjetiva, pois o ’se’ é partícula apassivadora.",
       "is_correct": true,
-      "explanation": "Em estruturas de voz passiva sintética (VTD + se), a oração substantiva exerce a função de sujeito. ARROW-LEFT VOLTAR À QUESTÃO 564"
+      "explanation": "Em estruturas de voz passiva sintética (VTD + se), a oração substantiva exerce a função de sujeito."
     }
   ],
   "answer_key": "E",
@@ -16598,21 +16589,21 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "A empresa cujos lucros cresceram investirá em tecnologia. 1. Língua Portuguesa 1.13. Organização do Período Simples e do Período …",
+      "text": "A empresa cujos lucros cresceram investirá em tecnologia.",
       "is_correct": true,
       "explanation": "Uso padrão do pronome relativo indicando posse (lucros da empresa) e concordando com o termo posterior."
     },
     {
       "id": "E",
-      "text": "Este é o autor cujo o livro foi premiado ontem. 1.13.4 Gabaritos e Comentários 524",
+      "text": "Este é o autor cujo o livro foi premiado ontem.",
       "is_correct": false,
       "explanation": "É proibido o uso de artigo (o, a, os, as) imediatamente após o pronome relativo ’cujo’. O correto seria ’cujo livro’."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Correta. O pronome ’cujos’ concorda em gênero e número com o substantivo consequente 1. Língua Portuguesa 1.14. Pontuação (’lucros’) e estabelece relação de posse com o antecedente (’empresa’). Não há artigo após o pronome, o que está correto.",
-    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: Correta. O pronome ’cujos’ concorda em gênero e número com o substantivo consequente 1. Língua Portuguesa 1.14. Pontuação (’lucros’) e estabelece relação de posse com o antecedente (’empresa’). Não há artigo após o pronome, o que está correto."
+    "resolution": "Correta. O pronome ’cujos’ concorda em gênero e número com o substantivo consequente (’lucros’) e estabelece relação de posse com o antecedente (’empresa’). Não há artigo após o pronome, o que está correto.",
+    "theoretical_content": "O período simples contém uma oração, organizada em torno de um verbo ou locução verbal. A oração apresenta sujeito e predicado, ainda que o sujeito possa ser oculto, indeterminado ou inexistente. O sujeito pode ser simples, composto, oculto/desinencial, indeterminado ou oracional; o predicado pode ser verbal, nominal ou verbo-nominal. O núcleo do sujeito é o elemento central com o qual o verbo estabelece concordância.\n\nOs termos integrantes completam o sentido de verbos ou nomes: objeto direto, objeto indireto, complemento nominal e agente da passiva. Os termos acessórios acrescentam circunstâncias ou caracterizações: adjunto adnominal, adjunto adverbial e aposto; o vocativo chama o interlocutor e não integra a estrutura sintática do sujeito ou predicado. Predicativo atribui característica ao sujeito ou ao objeto.\n\nA análise sintática deve partir do verbo, identificar sua predicação e perguntar quais termos são exigidos ou acrescentados. Não confunda complemento nominal (completa nome abstrato, adjetivo ou advérbio) com adjunto adnominal (caracteriza ou determina substantivo); nem objeto indireto com complemento nominal. A função depende da relação sintática, não apenas da presença de preposição.\n\nAplicação ao problema apresentado: Correta. O pronome ’cujos’ concorda em gênero e número com o substantivo consequente (’lucros’) e estabelece relação de posse com o antecedente (’empresa’). Não há artigo após o pronome, o que está correto."
   }
 }
 ```
@@ -16664,7 +16655,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Brasília, a capital do Brasil, foi planejada por Oscar Niemeyer e Lúcio Costa.",
       "is_correct": false,
-      "explanation": "A pontuação está certa: as vírgulas isolam o aposto explicativo (’a capital do Brasil’); por isso não é a resposta. ARROW-LEFT VOLTAR À QUESTÃO 566 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "A pontuação está certa: as vírgulas isolam o aposto explicativo (’a capital do Brasil’); por isso não é a resposta."
     }
   ],
   "answer_key": "B",
@@ -16714,7 +16705,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Esperamos que você, meu caro amigo compreenda a nossa decisão. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "Esperamos que você, meu caro amigo compreenda a nossa decisão.",
       "is_correct": false,
       "explanation": "Falta a segunda vírgula para fechar o isolamento do vocativo."
     },
@@ -16722,7 +16713,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Esperamos que você meu caro amigo, compreenda a nossa decisão.",
       "is_correct": false,
-      "explanation": "Falta a primeira vírgula para iniciar o isolamento do vocativo. ARROW-LEFT VOLTAR À QUESTÃO 567"
+      "explanation": "Falta a primeira vírgula para iniciar o isolamento do vocativo."
     }
   ],
   "answer_key": "A",
@@ -16780,13 +16771,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Senhores usuários, mantenham a organização durante o atendimento.",
       "is_correct": true,
-      "explanation": "O termo ’Senhores usuários’ funciona como vocativo e, conforme a norma culta, deve ser obrigatoriamente isolado por vírgula. ARROW-LEFT VOLTAR À QUESTÃO 568"
+      "explanation": "O termo ’Senhores usuários’ funciona como vocativo e, conforme a norma culta, deve ser obrigatoriamente isolado por vírgula."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A a afirmação apresentada apresenta o uso correto da vírgula para isolar o vocativo (’Senhores usuários’), que é um termo independente utilizado para interpelar o interlocutor. 1. Língua Portuguesa 1.14. Pontuação",
-    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: A a afirmação apresentada apresenta o uso correto da vírgula para isolar o vocativo (’Senhores usuários’), que é um termo independente utilizado para interpelar o interlocutor. 1. Língua Portuguesa 1.14. Pontuação"
+    "resolution": "A a afirmação apresentada apresenta o uso correto da vírgula para isolar o vocativo (’Senhores usuários’), que é um termo independente utilizado para interpelar o interlocutor.",
+    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: A a afirmação apresentada apresenta o uso correto da vírgula para isolar o vocativo (’Senhores usuários’), que é um termo independente utilizado para interpelar o interlocutor."
   }
 }
 ```
@@ -16808,7 +16799,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que se refere ao emprego do ponto final em abreviaturas, siglas e símbolos, assinale a alternativa que apresenta a grafia correta de acordo com as normas gramaticais: 1. Língua Portuguesa 1.14. Pontuação",
+  "question_text": "No que se refere ao emprego do ponto final em abreviaturas, siglas e símbolos, assinale a alternativa que apresenta a grafia correta de acordo com as normas gramaticais:",
   "alternatives": [
     {
       "id": "A",
@@ -16820,7 +16811,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "Para mais informações, consulte a pág. 45 do manual de instruções.",
       "is_correct": true,
-      "explanation": "’Pág.’ é uma abreviatura legítima e exige o uso do ponto final abreviativo. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "’Pág.’ é uma abreviatura legítima e exige o uso do ponto final abreviativo."
     },
     {
       "id": "C",
@@ -16838,7 +16829,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O documento oficial da O.N.U. foi assinado por diversos chefes de Estado.",
       "is_correct": false,
-      "explanation": "Siglas como ONU não devem ser grafadas com pontos entre as letras. ARROW-LEFT VOLTAR À QUESTÃO 569"
+      "explanation": "Siglas como ONU não devem ser grafadas com pontos entre as letras."
     }
   ],
   "answer_key": "B",
@@ -16894,9 +16885,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Como dizia o poeta: ’Tudo vale a pena se a alma não é pequena’. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "Como dizia o poeta: ’Tudo vale a pena se a alma não é pequena’.",
       "is_correct": false,
-      "explanation": "Neste caso, os dois-pontos introduzem uma citação direta. ARROW-LEFT VOLTAR À QUESTÃO 570 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Neste caso, os dois-pontos introduzem uma citação direta."
     }
   ],
   "answer_key": "D",
@@ -16954,7 +16945,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A distância entre as duas unidades administrativas é de 15 km. pela rodovia estadual.",
       "is_correct": false,
-      "explanation": "O símbolo de quilômetro (km) não leva ponto abreviativo; no meio da frase, o ponto após ’km’ é erro. ARROW-LEFT VOLTAR À QUESTÃO 571"
+      "explanation": "O símbolo de quilômetro (km) não leva ponto abreviativo; no meio da frase, o ponto após ’km’ é erro."
     }
   ],
   "answer_key": "C",
@@ -16998,7 +16989,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "O relatório técnico, citado na pág 12 do processo, foi enviado para análise da chefia. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "O relatório técnico, citado na pág 12 do processo, foi enviado para análise da chefia.",
       "is_correct": false,
       "explanation": "’pág’ é abreviatura de ’página’ e exige o ponto abreviativo (pág.); a falta do ponto é o erro."
     },
@@ -17012,13 +17003,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O agente público utilizou os dados do IBGE. para fundamentar o seu parecer.",
       "is_correct": false,
-      "explanation": "Siglas (como IBGE, ONU, CPF) não devem ser grafadas com pontos entre as letras ou após a última letra (exceto ponto final de período). ARROW-LEFT VOLTAR À QUESTÃO 572"
+      "explanation": "Siglas (como IBGE, ONU, CPF) não devem ser grafadas com pontos entre as letras ou após a última letra (exceto ponto final de período)."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "De acordo com as normas gramaticais e de metrologia, símbolos de unidades de medida (como ’m’ para metros, ’kg’ para quilogramas e ’h’ para horas) não são abreviaturas e, 1. Língua Portuguesa 1.14. Pontuação portanto, não recebem ponto final (exceto se estiverem ao final de um período). Na a afirmação apresentada, ’m’ está grafado corretamente sem ponto interno.",
-    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: De acordo com as normas gramaticais e de metrologia, símbolos de unidades de medida (como ’m’ para metros, ’kg’ para quilogramas e ’h’ para horas) não são abreviaturas e, 1. Língua Portuguesa 1.14. Pontuação portanto, não recebem ponto final (exceto se estiverem ao final de um período). Na a afirmação apresentada, ’m’ está grafado corretamente sem ponto interno."
+    "resolution": "De acordo com as normas gramaticais e de metrologia, símbolos de unidades de medida (como ’m’ para metros, ’kg’ para quilogramas e ’h’ para horas) não são abreviaturas e, portanto, não recebem ponto final (exceto se estiverem ao final de um período). Na a afirmação apresentada, ’m’ está grafado corretamente sem ponto interno.",
+    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: De acordo com as normas gramaticais e de metrologia, símbolos de unidades de medida (como ’m’ para metros, ’kg’ para quilogramas e ’h’ para horas) não são abreviaturas e, portanto, não recebem ponto final (exceto se estiverem ao final de um período). Na a afirmação apresentada, ’m’ está grafado corretamente sem ponto interno."
   }
 }
 ```
@@ -17046,7 +17037,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Na frase 1, ’Ricardo’ é um vocativo (chamamento); na frase 2, é o sujeito da ação.",
       "is_correct": true,
-      "explanation": "A vírgula indica que o falante está se dirigindo a Ricardo (vocativo). Sem a vírgula, Ricardo é quem executa a ação de sair (sujeito). 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "A vírgula indica que o falante está se dirigindo a Ricardo (vocativo). Sem a vírgula, Ricardo é quem executa a ação de sair (sujeito)."
     },
     {
       "id": "B",
@@ -17068,9 +17059,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Na frase 1, ’Ricardo’ é o sujeito da oração; na frase 2, é um vocativo. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "Na frase 1, ’Ricardo’ é o sujeito da oração; na frase 2, é um vocativo.",
       "is_correct": false,
-      "explanation": "Os conceitos estão invertidos: na 1 é vocativo e na 2 é sujeito. ARROW-LEFT VOLTAR À QUESTÃO 573"
+      "explanation": "Os conceitos estão invertidos: na 1 é vocativo e na 2 é sujeito."
     }
   ],
   "answer_key": "A",
@@ -17128,7 +17119,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Ambas as frases apresentam o mesmo valor monetário, sendo a vírgula apenas um recurso de ênfase estilística sem impacto semântico.",
       "is_correct": false,
-      "explanation": "A alteração da pontuação em valores numéricos escritos por extenso modifica drasticamente o montante total. 1. Língua Portuguesa 1.14. Pontuação ARROW-LEFT VOLTAR À QUESTÃO 574"
+      "explanation": "A alteração da pontuação em valores numéricos escritos por extenso modifica drasticamente o montante total."
     }
   ],
   "answer_key": "D",
@@ -17156,7 +17147,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "De acordo com as normas de regência e pontuação da língua portuguesa, assinale a alternativa em que o uso da vírgula está INCORRETO por separar termos que possuem dependência sintática direta. 1. Língua Portuguesa 1.14. Pontuação",
+  "question_text": "De acordo com as normas de regência e pontuação da língua portuguesa, assinale a alternativa em que o uso da vírgula está INCORRETO por separar termos que possuem dependência sintática direta.",
   "alternatives": [
     {
       "id": "A",
@@ -17186,7 +17177,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O candidato, após o término da prova, retirou-se do local silenciosamente.",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa, pois as vírgulas estão sendo usadas corretamente para isolar um adjunto adverbial deslocado e intercalado entre o sujeito e o verbo. ARROW-LEFT VOLTAR À QUESTÃO 575 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Esta afirmação está certa, pois as vírgulas estão sendo usadas corretamente para isolar um adjunto adverbial deslocado e intercalado entre o sujeito e o verbo."
     }
   ],
   "answer_key": "A",
@@ -17242,9 +17233,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A Administração Pública deve visar, sempre, ao interesse da coletividade. 1. Língua Portuguesa 1.14. Pontuação 1.14.2 Questões de Nível Médio",
+      "text": "A Administração Pública deve visar, sempre, ao interesse da coletividade. 1.14.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "Esta afirmação está certa, pois as vírgulas isolam o advérbio ’sempre’, não separando o verbo de seu complemento de forma proibida. ARROW-LEFT VOLTAR À QUESTÃO 576"
+      "explanation": "Esta afirmação está certa, pois as vírgulas isolam o advérbio ’sempre’, não separando o verbo de seu complemento de forma proibida."
     }
   ],
   "answer_key": "B",
@@ -17302,13 +17293,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A sentença I indica que todos os cidadãos pagam impostos.",
       "is_correct": false,
-      "explanation": "A sentença I é restritiva; indica que apenas os cidadãos que pagam impostos (uma parte do grupo) exigem serviços. ARROW-LEFT VOLTAR À QUESTÃO 577"
+      "explanation": "A sentença I é restritiva; indica que apenas os cidadãos que pagam impostos (uma parte do grupo) exigem serviços."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A presença das vírgulas transforma a oração adjetiva em explicativa (sentença II), 1. Língua Portuguesa 1.14. Pontuação atribuindo a característica de pagar impostos a todos os cidadãos do contexto. Sem as vírgulas (sentença I), a oração é restritiva, referindo-se apenas a uma parte dos cidadãos.",
-    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: A presença das vírgulas transforma a oração adjetiva em explicativa (sentença II), 1. Língua Portuguesa 1.14. Pontuação atribuindo a característica de pagar impostos a todos os cidadãos do contexto. Sem as vírgulas (sentença I), a oração é restritiva, referindo-se apenas a uma parte dos cidadãos."
+    "resolution": "A presença das vírgulas transforma a oração adjetiva em explicativa (sentença II), atribuindo a característica de pagar impostos a todos os cidadãos do contexto. Sem as vírgulas (sentença I), a oração é restritiva, referindo-se apenas a uma parte dos cidadãos.",
+    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: A presença das vírgulas transforma a oração adjetiva em explicativa (sentença II), atribuindo a característica de pagar impostos a todos os cidadãos do contexto. Sem as vírgulas (sentença I), a oração é restritiva, referindo-se apenas a uma parte dos cidadãos."
   }
 }
 ```
@@ -17336,11 +17327,11 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Deve ser utilizada sempre que a conjunção ’e’ iniciar uma oração subordinada.",
       "is_correct": false,
-      "explanation": "A conjunção ’e’ é coordenativa, não subordinativa. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "A conjunção ’e’ é coordenativa, não subordinativa."
     },
     {
       "id": "B",
-      "text": "É recomendável quando as orações coordenadas apresentam sujeitos diferentes. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "É recomendável quando as orações coordenadas apresentam sujeitos diferentes.",
       "is_correct": true,
       "explanation": "Sujeitos diferentes nas orações coordenadas justificam o uso da vírgula antes da conjunção ’e’."
     },
@@ -17360,7 +17351,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "É obrigatória quando liga termos de mesma função sintática em uma enumeração simples.",
       "is_correct": false,
-      "explanation": "Em enumerações simples (ex: comprei maçã, pera e uva), a vírgula antes do ’e’ final é geralmente dispensada. ARROW-LEFT VOLTAR À QUESTÃO 578"
+      "explanation": "Em enumerações simples (ex: comprei maçã, pera e uva), a vírgula antes do ’e’ final é geralmente dispensada."
     }
   ],
   "answer_key": "B",
@@ -17412,13 +17403,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "A vírgula é sempre obrigatória, independentemente da extensão do adjunto adver- bial.",
       "is_correct": false,
-      "explanation": "Em adjuntos curtos, a vírgula não é obrigatória. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Em adjuntos curtos, a vírgula não é obrigatória."
     },
     {
       "id": "E",
-      "text": "A extensão do adjunto adverbial não interfere na pontuação, apenas a sua posição na frase. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "A extensão do adjunto adverbial não interfere na pontuação, apenas a sua posição na frase.",
       "is_correct": false,
-      "explanation": "A extensão é justamente o critério principal para definir a obrigatoriedade ou facultatividade no deslocamento. ARROW-LEFT VOLTAR À QUESTÃO 579"
+      "explanation": "A extensão é justamente o critério principal para definir a obrigatoriedade ou facultatividade no deslocamento."
     }
   ],
   "answer_key": "B",
@@ -17470,13 +17461,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "O renomado escritor Machado de Assis, é frequentemente citado em provas de concursos como exemplo de maestria na língua portuguesa.",
       "is_correct": false,
-      "explanation": "’Machado de Assis’ é aposto especificativo de ’escritor’ (sem vírgulas), e a vírgula após ’Assis’ separa o sujeito (’O renomado escritor Machado de Assis’) do verbo ’é’, o que é proibido. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "’Machado de Assis’ é aposto especificativo de ’escritor’ (sem vírgulas), e a vírgula após ’Assis’ separa o sujeito (’O renomado escritor Machado de Assis’) do verbo ’é’, o que é proibido."
     },
     {
       "id": "E",
       "text": "Os relatórios apresentavam inconsistências graves; os técnicos deveriam, portanto, refazer todo o levantamento de dados do setor.",
       "is_correct": true,
-      "explanation": "O uso do ponto e vírgula é adequado para separar orações coordenadas extensas e a conjunção ’portanto’, por estar deslocada, deve vir obrigatoriamente entre vírgulas. ARROW-LEFT VOLTAR À QUESTÃO 580"
+      "explanation": "O uso do ponto e vírgula é adequado para separar orações coordenadas extensas e a conjunção ’portanto’, por estar deslocada, deve vir obrigatoriamente entre vírgulas."
     }
   ],
   "answer_key": "E",
@@ -17508,7 +17499,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Os documentos estavam prontos para a assinatura, mas, o servidor esqueceu-se de protocolá-los no prazo legal. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "Os documentos estavam prontos para a assinatura, mas, o servidor esqueceu-se de protocolá-los no prazo legal.",
       "is_correct": false,
       "explanation": "Segundo a norma culta, a conjunção adversativa ’mas’ não deve ser seguida de vírgula, a menos que haja um termo intercalado imediatamente após ela, o que não ocorre no exemplo."
     },
@@ -17534,7 +17525,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Os relatórios, conforme solicitado pela coordenação devem ser entregues imprete- rivelmente até o final do dia.",
       "is_correct": false,
-      "explanation": "A oração intercalada com valor conformativo (’conforme solicitado pela coordenação’) foi iniciada com vírgula, mas não foi fechada, o que configura erro de pontuação por falta de isolamento do termo deslocado. 1. Língua Portuguesa 1.14. Pontuação ARROW-LEFT VOLTAR À QUESTÃO 581"
+      "explanation": "A oração intercalada com valor conformativo (’conforme solicitado pela coordenação’) foi iniciada com vírgula, mas não foi fechada, o que configura erro de pontuação por falta de isolamento do termo deslocado."
     }
   ],
   "answer_key": "B",
@@ -17590,9 +17581,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O ponto e vírgula poderia ser substituído por dois-pontos sem prejuízo à correção gramatical. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "O ponto e vírgula poderia ser substituído por dois-pontos sem prejuízo à correção gramatical.",
       "is_correct": false,
-      "explanation": "Os dois-pontos não são intercambiáveis com o ponto e vírgula neste contexto, pois não há uma relação de explicação ou enumeração direta. ARROW-LEFT VOLTAR À QUESTÃO 582 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Os dois-pontos não são intercambiáveis com o ponto e vírgula neste contexto, pois não há uma relação de explicação ou enumeração direta."
     }
   ],
   "answer_key": "A",
@@ -17650,7 +17641,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Ele tinha apenas um objetivo: — a aprovação no concurso.",
       "is_correct": false,
-      "explanation": "O uso cumulativo de dois-pontos e travessão é inadequado para introduzir um aposto; o travessão após dois-pontos é usado em diálogos. ARROW-LEFT VOLTAR À QUESTÃO 583"
+      "explanation": "O uso cumulativo de dois-pontos e travessão é inadequado para introduzir um aposto; o travessão após dois-pontos é usado em diálogos."
     }
   ],
   "answer_key": "C",
@@ -17688,7 +17679,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "O setor adquiriu novos equipamentos: computadores, impressoras e scanners; para 1. Língua Portuguesa 1.14. Pontuação a modernização.",
+      "text": "O setor adquiriu novos equipamentos: computadores, impressoras e scanners; para a modernização.",
       "is_correct": false,
       "explanation": "O ponto e vírgula foi empregado indevidamente para separar o complemento final da frase (’para a modernização’), o que interrompe o fluxo sintático de forma injustificada."
     },
@@ -17708,13 +17699,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O agente público declarou: que os processos seriam digitalizados em breve.",
       "is_correct": false,
-      "explanation": "É gramaticalmente inadequado utilizar dois-pontos para separar o verbo (’declarou’) de seu complemento (a oração integrante iniciada por ’que’). ARROW-LEFT VOLTAR À QUESTÃO 584"
+      "explanation": "É gramaticalmente inadequado utilizar dois-pontos para separar o verbo (’declarou’) de seu complemento (a oração integrante iniciada por ’que’)."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A a afirmação apresentada aplica corretamente três regras distintas: 1) O símbolo de horas (h) não recebe ponto final, conforme as normas de unidades de medida; 2) O ponto e vírgula 1. Língua Portuguesa 1.14. Pontuação separa duas orações coordenadas com certa independência, mas que mantêm relação semântica; 3) A conjunção adversativa ’contudo’ está deslocada e, por isso, deve vir isolada por vírgulas.",
-    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: A a afirmação apresentada aplica corretamente três regras distintas: 1) O símbolo de horas (h) não recebe ponto final, conforme as normas de unidades de medida; 2) O ponto e vírgula 1. Língua Portuguesa 1.14. Pontuação separa duas orações coordenadas com certa independência, mas que mantêm relação semântica; 3) A conjunção adversativa ’contudo’ está deslocada e, por isso, deve vir isolada por vírgulas."
+    "resolution": "A a afirmação apresentada aplica corretamente três regras distintas: 1) O símbolo de horas (h) não recebe ponto final, conforme as normas de unidades de medida; 2) O ponto e vírgula separa duas orações coordenadas com certa independência, mas que mantêm relação semântica; 3) A conjunção adversativa ’contudo’ está deslocada e, por isso, deve vir isolada por vírgulas.",
+    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: A a afirmação apresentada aplica corretamente três regras distintas: 1) O símbolo de horas (h) não recebe ponto final, conforme as normas de unidades de medida; 2) O ponto e vírgula separa duas orações coordenadas com certa independência, mas que mantêm relação semântica; 3) A conjunção adversativa ’contudo’ está deslocada e, por isso, deve vir isolada por vírgulas."
   }
 }
 ```
@@ -17764,15 +17755,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O sinal de dois-pontos poderia ser substituído por um travessão, mantendo-se a correção gramatical e a ênfase na explicação. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "O sinal de dois-pontos poderia ser substituído por um travessão, mantendo-se a correção gramatical e a ênfase na explicação.",
       "is_correct": true,
-      "explanation": "O travessão é um substituto possível para os dois-pontos em contextos explicativos ou de aposto final. ARROW-LEFT VOLTAR À QUESTÃO 585"
+      "explanation": "O travessão é um substituto possível para os dois-pontos em contextos explicativos ou de aposto final."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Em casos de esclarecimento ou aposto explicativo final, os dois-pontos podem ser substituídos pelo travessão para conferir ênfase, mantendo a correção gramatical. 1. Língua Portuguesa 1.14. Pontuação",
-    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: Em casos de esclarecimento ou aposto explicativo final, os dois-pontos podem ser substituídos pelo travessão para conferir ênfase, mantendo a correção gramatical. 1. Língua Portuguesa 1.14. Pontuação"
+    "resolution": "Em casos de esclarecimento ou aposto explicativo final, os dois-pontos podem ser substituídos pelo travessão para conferir ênfase, mantendo a correção gramatical.",
+    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: Em casos de esclarecimento ou aposto explicativo final, os dois-pontos podem ser substituídos pelo travessão para conferir ênfase, mantendo a correção gramatical."
   }
 }
 ```
@@ -17800,7 +17791,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Em II, ’naturalmente’ funciona como um comentário do autor, indicando que era óbvio que ele falaria sobre aquilo.",
       "is_correct": false,
-      "explanation": "Na frase II, sem vírgulas e ao final, o advérbio modifica o modo da ação de falar ou a natureza dos problemas. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Na frase II, sem vírgulas e ao final, o advérbio modifica o modo da ação de falar ou a natureza dos problemas."
     },
     {
       "id": "B",
@@ -17824,7 +17815,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Em I, ’naturalmente’ expressa a ideia de ’obviamente’ ou ’como era de se esperar’.",
       "is_correct": true,
-      "explanation": "O uso das vírgulas em ’naturalmente’ deslocado confere um valor de comentário sobre o fato (modalizador), significando ’como era de se esperar’. ARROW-LEFT VOLTAR À QUESTÃO 586"
+      "explanation": "O uso das vírgulas em ’naturalmente’ deslocado confere um valor de comentário sobre o fato (modalizador), significando ’como era de se esperar’."
     }
   ],
   "answer_key": "E",
@@ -17852,7 +17843,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A pontuação é uma ferramenta essencial para desfazer ambiguidades. Analise a frase abaixo: ’O policial viu o suspeito correndo com a arma.’ Para que o texto indique, sem sombra de dúvida, que o policial era quem estava correndo, a pontuação correta seria: 1. Língua Portuguesa 1.14. Pontuação",
+  "question_text": "A pontuação é uma ferramenta essencial para desfazer ambiguidades. Analise a frase abaixo: ’O policial viu o suspeito correndo com a arma.’ Para que o texto indique, sem sombra de dúvida, que o policial era quem estava correndo, a pontuação correta seria:",
   "alternatives": [
     {
       "id": "A",
@@ -17876,13 +17867,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "O policial, viu o suspeito correndo com a arma.",
       "is_correct": false,
-      "explanation": "Separa indevidamente o sujeito do verbo. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Separa indevidamente o sujeito do verbo."
     },
     {
       "id": "E",
       "text": "O policial, correndo com a arma, viu o suspeito.",
       "is_correct": true,
-      "explanation": "O uso das vírgulas isolando o adjunto/oração intercalada ’correndo com a arma’ vincula a ação diretamente ao sujeito ’policial’. ARROW-LEFT VOLTAR À QUESTÃO 587"
+      "explanation": "O uso das vírgulas isolando o adjunto/oração intercalada ’correndo com a arma’ vincula a ação diretamente ao sujeito ’policial’."
     }
   ],
   "answer_key": "E",
@@ -17938,9 +17929,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A frase I nega o desejo de saber, enquanto a frase II nega uma afirmação anterior e afirma o desejo de saber. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "A frase I nega o desejo de saber, enquanto a frase II nega uma afirmação anterior e afirma o desejo de saber.",
       "is_correct": true,
-      "explanation": "Na frase I, o ’não’ nega o verbo ’querer’. Na frase II, o ’não’ nega algo dito anteriormente (ex: ’Vocês não querem saber?’), e a oração seguinte afirma o desejo. ARROW-LEFT VOLTAR À QUESTÃO 588 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Na frase I, o ’não’ nega o verbo ’querer’. Na frase II, o ’não’ nega algo dito anteriormente (ex: ’Vocês não querem saber?’), e a oração seguinte afirma o desejo."
     }
   ],
   "answer_key": "E",
@@ -17996,9 +17987,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Em I, o termo destacado indica o modo como a ação foi realizada; em II, a vírgula isola um modalizador que expressa a sinceridade do emissor sobre a afirmação feita. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "Em I, o termo destacado indica o modo como a ação foi realizada; em II, a vírgula isola um modalizador que expressa a sinceridade do emissor sobre a afirmação feita.",
       "is_correct": true,
-      "explanation": "Define precisamente a mudança de função de adjunto adverbial de modo (em I) para modalizador de frase (em II). ARROW-LEFT VOLTAR À QUESTÃO 589 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Define precisamente a mudança de função de adjunto adverbial de modo (em I) para modalizador de frase (em II)."
     }
   ],
   "answer_key": "E",
@@ -18056,7 +18047,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Na sentença I, o termo sublinhado funciona como um vocativo, indicando que o emissor está chamando o servidor para prestar atenção.",
       "is_correct": false,
-      "explanation": "Para ser vocativo, o termo deveria representar um chamamento direto, o que não se aplica ao contexto narrativo da frase. ARROW-LEFT VOLTAR À QUESTÃO 590 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Para ser vocativo, o termo deveria representar um chamamento direto, o que não se aplica ao contexto narrativo da frase."
     }
   ],
   "answer_key": "D",
@@ -18084,7 +18075,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Considere a seguinte frase: ’A implementação de novas diretrizes para o atendimento ao público e a modernização dos sistemas de protocolo (____) permitiram uma redução significativa nas filas’. 1. Língua Portuguesa 1.14. Pontuação Assinale a alternativa que preenche corretamente a lacuna e justifica a regra aplicada.",
+  "question_text": "Considere a seguinte frase: ’A implementação de novas diretrizes para o atendimento ao público e a modernização dos sistemas de protocolo (____) permitiram uma redução significativa nas filas’. Assinale a alternativa que preenche corretamente a lacuna e justifica a regra aplicada.",
   "alternatives": [
     {
       "id": "A",
@@ -18114,7 +18105,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Não se deve usar vírgula, a menos que o verbo esteja no plural, o que não ocorre no exemplo.",
       "is_correct": false,
-      "explanation": "A concordância verbal (plural ou singular) não interfere na proibição de separar o sujeito do verbo por vírgula. ARROW-LEFT VOLTAR À QUESTÃO 591"
+      "explanation": "A concordância verbal (plural ou singular) não interfere na proibição de separar o sujeito do verbo por vírgula."
     }
   ],
   "answer_key": "B",
@@ -18170,15 +18161,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "É provável, que os resultados sejam divulgados ainda esta semana. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "É provável, que os resultados sejam divulgados ainda esta semana.",
       "is_correct": false,
-      "explanation": "A vírgula separa a oração principal do seu sujeito oracional (’que os resultados sejam divulgados...’). ARROW-LEFT VOLTAR À QUESTÃO 592"
+      "explanation": "A vírgula separa a oração principal do seu sujeito oracional (’que os resultados sejam divulgados...’)."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A a afirmação apresentada está correta pois utiliza vírgulas para isolar uma oração subordinada 1. Língua Portuguesa 1.14. Pontuação adjetiva explicativa, o que é permitido e obrigatório para esse sentido.",
-    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: A a afirmação apresentada está correta pois utiliza vírgulas para isolar uma oração subordinada 1. Língua Portuguesa 1.14. Pontuação adjetiva explicativa, o que é permitido e obrigatório para esse sentido."
+    "resolution": "A a afirmação apresentada está correta pois utiliza vírgulas para isolar uma oração subordinada adjetiva explicativa, o que é permitido e obrigatório para esse sentido.",
+    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: A a afirmação apresentada está correta pois utiliza vírgulas para isolar uma oração subordinada adjetiva explicativa, o que é permitido e obrigatório para esse sentido."
   }
 }
 ```
@@ -18206,7 +18197,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Apenas I.",
       "is_correct": false,
-      "explanation": "A sentença II também está correta, pois a oração adjetiva explicativa deve vir entre vírgulas. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "A sentença II também está correta, pois a oração adjetiva explicativa deve vir entre vírgulas."
     },
     {
       "id": "B",
@@ -18230,7 +18221,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "I, II e III.",
       "is_correct": false,
-      "explanation": "A sentença III invalida esta opção. ARROW-LEFT VOLTAR À QUESTÃO 593"
+      "explanation": "A sentença III invalida esta opção."
     }
   ],
   "answer_key": "C",
@@ -18258,7 +18249,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A pontuação é um recurso sintático-estilístico que visa à clareza e à organização das ideias no texto. No entanto, o emprego da vírgula é vedado em determinadas construções para não romper a unidade entre termos dependentes. Assinale a alternativa em que o emprego da vírgula respeita integralmente as normas da norma-padrão. 1. Língua Portuguesa 1.14. Pontuação",
+  "question_text": "A pontuação é um recurso sintático-estilístico que visa à clareza e à organização das ideias no texto. No entanto, o emprego da vírgula é vedado em determinadas construções para não romper a unidade entre termos dependentes. Assinale a alternativa em que o emprego da vírgula respeita integralmente as normas da norma-padrão.",
   "alternatives": [
     {
       "id": "A",
@@ -18270,7 +18261,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "A confiança, nos resultados obtidos pela nova metodologia de trabalho motivou a equipe a buscar soluções mais inovadoras para o setor.",
       "is_correct": false,
-      "explanation": "A vírgula separa indevidamente o substantivo abstrato (’confiança’) de seu complemento nominal (’nos resultados obtidos...’), rompendo a unidade da regência nominal. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "A vírgula separa indevidamente o substantivo abstrato (’confiança’) de seu complemento nominal (’nos resultados obtidos...’), rompendo a unidade da regência nominal."
     },
     {
       "id": "C",
@@ -18288,7 +18279,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O relatório técnico demonstrou claramente, que as metas de produtividade estabe- lecidas para o primeiro semestre foram integralmente atingidas.",
       "is_correct": false,
-      "explanation": "Há um erro de sintaxe de pontuação ao separar o verbo (’demonstrou’) de seu complemento, que é uma oração subordinada substantiva objetiva direta iniciada pela conjunção integrante ’que’. ARROW-LEFT VOLTAR À QUESTÃO 594"
+      "explanation": "Há um erro de sintaxe de pontuação ao separar o verbo (’demonstrou’) de seu complemento, que é uma oração subordinada substantiva objetiva direta iniciada pela conjunção integrante ’que’."
     }
   ],
   "answer_key": "C",
@@ -18334,11 +18325,11 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "O servidor público, após concluir o treinamento obrigatório de integração, apre- sentou o relatório de atividades à chefia imediata.",
       "is_correct": false,
-      "explanation": "As vírgulas estão sendo utilizadas corretamente para isolar um adjunto adverbial intercalado (’após concluir o treinamento obrigatório de integração’). 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "As vírgulas estão sendo utilizadas corretamente para isolar um adjunto adverbial intercalado (’após concluir o treinamento obrigatório de integração’)."
     },
     {
       "id": "D",
-      "text": "Embora o prazo para a entrega do projeto tenha expirado na última sexta-feira, a 1. Língua Portuguesa 1.14. Pontuação Administração aceitou o protocolo em caráter excepcional.",
+      "text": "Embora o prazo para a entrega do projeto tenha expirado na última sexta-feira, a Administração aceitou o protocolo em caráter excepcional.",
       "is_correct": false,
       "explanation": "A vírgula é obrigatória para isolar a oração subordinada adverbial concessiva (’Embora o prazo... sexta-feira’) que aparece anteposta à oração principal."
     },
@@ -18346,7 +18337,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A análise criteriosa de todos os documentos anexados ao processo de licitação, revelou inconsistências graves nos prazos de entrega previstos no edital. 1.14.3 Questões Difíceis",
       "is_correct": true,
-      "explanation": "Conforme a justificativa, há erro ao colocar uma vírgula entre o sujeito extenso e o verbo ’revelou’. ARROW-LEFT VOLTAR À QUESTÃO 595"
+      "explanation": "Conforme a justificativa, há erro ao colocar uma vírgula entre o sujeito extenso e o verbo ’revelou’."
     }
   ],
   "answer_key": "E",
@@ -18402,9 +18393,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Uns diziam que ele era herói; outros, que era vilão. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "Uns diziam que ele era herói; outros, que era vilão.",
       "is_correct": true,
-      "explanation": "A vírgula marca a omissão do verbo ’diziam’ (zeugma), caracterizando-se como vírgula vicária. ARROW-LEFT VOLTAR À QUESTÃO 596 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "A vírgula marca a omissão do verbo ’diziam’ (zeugma), caracterizando-se como vírgula vicária."
     }
   ],
   "answer_key": "E",
@@ -18462,7 +18453,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A vírgula antes de ’mas’ é facultativa, independentemente do contexto oracional.",
       "is_correct": false,
-      "explanation": "A vírgula antes do ’mas’ (coordenativa adversativa) é obrigatória na separação de orações coordenadas. ARROW-LEFT VOLTAR À QUESTÃO 597"
+      "explanation": "A vírgula antes do ’mas’ (coordenativa adversativa) é obrigatória na separação de orações coordenadas."
     }
   ],
   "answer_key": "C",
@@ -18506,7 +18497,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "No exemplo ’O Rio Amazonas é imenso’, o termo ’Amazonas’ é um aposto explica- 1. Língua Portuguesa 1.14. Pontuação tivo e deveria estar entre vírgulas.",
+      "text": "No exemplo ’O Rio Amazonas é imenso’, o termo ’Amazonas’ é um aposto explica- tivo e deveria estar entre vírgulas.",
       "is_correct": false,
       "explanation": "’Amazonas’ é aposto especificativo (especifica qual rio), portanto a ausência de vírgulas está correta."
     },
@@ -18520,13 +18511,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O aposto explicativo restringe o sentido do nome, por isso não admite vírgula.",
       "is_correct": false,
-      "explanation": "O aposto explicativo generaliza ou esclarece e EXIGE vírgula; quem restringe é o especificativo. ARROW-LEFT VOLTAR À QUESTÃO 598"
+      "explanation": "O aposto explicativo generaliza ou esclarece e EXIGE vírgula; quem restringe é o especificativo."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "O aposto especificativo (ou restritivo) serve para individualizar um termo comum (ex: Rio Amazonas, Poeta Castro Alves) e, diferentemente do explicativo, não aceita 1. Língua Portuguesa 1.14. Pontuação pontuação.",
-    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: O aposto especificativo (ou restritivo) serve para individualizar um termo comum (ex: Rio Amazonas, Poeta Castro Alves) e, diferentemente do explicativo, não aceita 1. Língua Portuguesa 1.14. Pontuação pontuação."
+    "resolution": "O aposto especificativo (ou restritivo) serve para individualizar um termo comum (ex: Rio Amazonas, Poeta Castro Alves) e, diferentemente do explicativo, não aceita pontuação.",
+    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: O aposto especificativo (ou restritivo) serve para individualizar um termo comum (ex: Rio Amazonas, Poeta Castro Alves) e, diferentemente do explicativo, não aceita pontuação."
   }
 }
 ```
@@ -18576,9 +18567,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O setor de compras adquiriu, novos equipamentos de informática para suprir a demanda das unidades administrativas descentralizadas. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "O setor de compras adquiriu, novos equipamentos de informática para suprir a demanda das unidades administrativas descentralizadas.",
       "is_correct": false,
-      "explanation": "A vírgula separa o verbo (’adquiriu’) de seu objeto direto (’novos equipamentos de informática’), o que constitui erro grave de pontuação (quebra da ordem direta V+C). ARROW-LEFT VOLTAR À QUESTÃO 599"
+      "explanation": "A vírgula separa o verbo (’adquiriu’) de seu objeto direto (’novos equipamentos de informática’), o que constitui erro grave de pontuação (quebra da ordem direta V+C)."
     }
   ],
   "answer_key": "A",
@@ -18612,7 +18603,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "O diretor apresentou o plano: os funcionários não concordaram porém com as metas.",
       "is_correct": false,
-      "explanation": "Os dois-pontos não são adequados para separar orações adversativas, e a conjunção deslocada exige vírgulas. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Os dois-pontos não são adequados para separar orações adversativas, e a conjunção deslocada exige vírgulas."
     },
     {
       "id": "B",
@@ -18636,7 +18627,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O diretor apresentou o plano, os funcionários; porém, não concordaram com as metas.",
       "is_correct": false,
-      "explanation": "A pontuação está mal posicionada, separando o sujeito do predicado e isolando a conjunção de forma errônea. ARROW-LEFT VOLTAR À QUESTÃO 600"
+      "explanation": "A pontuação está mal posicionada, separando o sujeito do predicado e isolando a conjunção de forma errônea."
     }
   ],
   "answer_key": "C",
@@ -18674,7 +18665,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "O ponto e vírgula mantém a conexão semântica entre as orações, indicando que pertencem ao mesmo raciocínio, ao passo que o ponto final isola as ideias. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "O ponto e vírgula mantém a conexão semântica entre as orações, indicando que pertencem ao mesmo raciocínio, ao passo que o ponto final isola as ideias.",
       "is_correct": true,
       "explanation": "Reflete exatamente a hierarquia das pausas e a função de coesão semântica do ponto e vírgula."
     },
@@ -18688,13 +18679,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Em listas verticais de editais, o ponto final deve ser usado ao fim de cada item para garantir a independência jurídica de cada tópico.",
       "is_correct": false,
-      "explanation": "Em listas de leis e editais, a norma padrão e a técnica legislativa prescrevem o uso do ponto e vírgula ao final de cada item. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "Em listas de leis e editais, a norma padrão e a técnica legislativa prescrevem o uso do ponto e vírgula ao final de cada item."
     },
     {
       "id": "E",
       "text": "A substituição de um ponto e vírgula por um ponto final sempre exige a inserção de uma conjunção coordenativa.",
       "is_correct": false,
-      "explanation": "A substituição por ponto final exige apenas que a oração seguinte tenha sentido completo e comece com letra maiúscula, não necessariamente uma conjunção. ARROW-LEFT VOLTAR À QUESTÃO 601"
+      "explanation": "A substituição por ponto final exige apenas que a oração seguinte tenha sentido completo e comece com letra maiúscula, não necessariamente uma conjunção."
     }
   ],
   "answer_key": "B",
@@ -18750,9 +18741,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O agente público apresentou todas as certidões; não obteve porém o deferimento imediato, do seu pedido de licença. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "O agente público apresentou todas as certidões; não obteve porém o deferimento imediato, do seu pedido de licença.",
       "is_correct": false,
-      "explanation": "A conjunção deslocada não foi isolada e há uma vírgula indevida separando o objeto direto (’o deferimento imediato’) de seu complemento (’do seu pedido’). 1. Língua Portuguesa 1.14. Pontuação ARROW-LEFT VOLTAR À QUESTÃO 602"
+      "explanation": "A conjunção deslocada não foi isolada e há uma vírgula indevida separando o objeto direto (’o deferimento imediato’) de seu complemento (’do seu pedido’)."
     }
   ],
   "answer_key": "D",
@@ -18808,9 +18799,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O ponto e vírgula é utilizado no trecho para introduzir uma citação direta implícita, motivo pelo qual não poderia ser substituído por ponto final. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "O ponto e vírgula é utilizado no trecho para introduzir uma citação direta implícita, motivo pelo qual não poderia ser substituído por ponto final.",
       "is_correct": false,
-      "explanation": "O ponto e vírgula não introduz citações; essa é uma função típica dos dois-pontos. Além disso, o trecho não apresenta nenhuma fala ou citação. ARROW-LEFT VOLTAR À QUESTÃO 603 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "O ponto e vírgula não introduz citações; essa é uma função típica dos dois-pontos. Além disso, o trecho não apresenta nenhuma fala ou citação."
     }
   ],
   "answer_key": "A",
@@ -18868,7 +18859,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A frase passará a indicar que apenas uma parte aleatória dos servidores terá o direito.",
       "is_correct": false,
-      "explanation": "A vírgula explicativa não trabalha com ’partes aleatórias’, mas com a totalidade do referente. ARROW-LEFT VOLTAR À QUESTÃO 604"
+      "explanation": "A vírgula explicativa não trabalha com ’partes aleatórias’, mas com a totalidade do referente."
     }
   ],
   "answer_key": "D",
@@ -18900,7 +18891,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Eles preferem o campo; nós, a cidade. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "Eles preferem o campo; nós, a cidade.",
       "is_correct": true,
       "explanation": "Trata-se de uma vírgula vicária. Sua ausência prejudica o paralelismo e a compreensão da elipse verbal."
     },
@@ -18926,13 +18917,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Maria, traga o café.",
       "is_correct": false,
-      "explanation": "A vírgula isola um vocativo. Sem ela, ’Maria’ passaria a ser sujeito, mudando o sentido, mas a frase ainda teria estrutura lógica. ARROW-LEFT VOLTAR À QUESTÃO 605"
+      "explanation": "A vírgula isola um vocativo. Sem ela, ’Maria’ passaria a ser sujeito, mudando o sentido, mas a frase ainda teria estrutura lógica."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "Na a afirmação apresentada, a vírgula após ’nós’ substitui o verbo ’preferimos’ (zeugma). Sem ela, a frase ’nós a cidade’ ficaria sintaticamente incompleta e confusa. 1. Língua Portuguesa 1.14. Pontuação",
-    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, a vírgula após ’nós’ substitui o verbo ’preferimos’ (zeugma). Sem ela, a frase ’nós a cidade’ ficaria sintaticamente incompleta e confusa. 1. Língua Portuguesa 1.14. Pontuação"
+    "resolution": "Na a afirmação apresentada, a vírgula após ’nós’ substitui o verbo ’preferimos’ (zeugma). Sem ela, a frase ’nós a cidade’ ficaria sintaticamente incompleta e confusa.",
+    "theoretical_content": "A pontuação organiza a estrutura sintática, delimita unidades de sentido e orienta a leitura. O ponto final encerra enunciados; a vírgula marca separações internas e intercalações; o ponto e vírgula separa segmentos coordenados mais extensos; os dois-pontos introduzem explicação, enumeração, citação ou esclarecimento; travessões e parênteses isolam comentários ou falas; aspas assinalam citações, títulos ou usos especiais. A pontuação não é determinada apenas por pausas da fala: deve respeitar a estrutura gramatical.\n\nEm regra, não se separa por vírgula o sujeito do verbo, nem o verbo de seu complemento. A vírgula pode isolar vocativo, aposto explicativo, adjunto adverbial deslocado, oração subordinada adverbial anteposta ou intercalada e elementos coordenados. Orações adjetivas explicativas são isoladas por vírgulas; as restritivas não. A pontuação pode alterar o sentido: “Os servidores, que chegaram cedo, foram atendidos” sugere referência explicativa ao conjunto; sem vírgulas, a oração pode restringir o grupo.\n\nPara resolver, identifique primeiro a estrutura sintática e a relação entre orações; depois verifique se o sinal separa elementos que devem permanecer unidos ou se deixa de isolar elemento explicativo/intercalado. A substituição de um sinal deve preservar a relação semântica e a hierarquia das informações.\n\nAplicação ao problema apresentado: Na a afirmação apresentada, a vírgula após ’nós’ substitui o verbo ’preferimos’ (zeugma). Sem ela, a frase ’nós a cidade’ ficaria sintaticamente incompleta e confusa."
   }
 }
 ```
@@ -18966,7 +18957,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "B",
       "text": "A frase manterá o sentido original de condenação do réu.",
       "is_correct": false,
-      "explanation": "O sentido é invertido: de condenação para a impossibilidade de condenação. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "O sentido é invertido: de condenação para a impossibilidade de condenação."
     },
     {
       "id": "C",
@@ -18982,9 +18973,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "A frase passará a ser uma pergunta sobre a possibilidade de perdão. 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "A frase passará a ser uma pergunta sobre a possibilidade de perdão.",
       "is_correct": false,
-      "explanation": "Para ser uma pergunta, seria necessário o sinal de interrogação, não apenas o deslocamento da vírgula. ARROW-LEFT VOLTAR À QUESTÃO 606"
+      "explanation": "Para ser uma pergunta, seria necessário o sinal de interrogação, não apenas o deslocamento da vírgula."
     }
   ],
   "answer_key": "C",
@@ -19036,13 +19027,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "A pontuação em II está incorreta, pois as orações subordinadas causais devem ser obrigatoriamente isoladas por vírgula quando posicionadas após a oração principal.",
       "is_correct": false,
-      "explanation": "A vírgula é facultativa antes de orações causais, mas sua presença ou ausência é determinante para o sentido, especialmente após negações. 1. Língua Portuguesa 1.14. Pontuação"
+      "explanation": "A vírgula é facultativa antes de orações causais, mas sua presença ou ausência é determinante para o sentido, especialmente após negações."
     },
     {
       "id": "E",
       "text": "A ausência da vírgula em II mantém o sentido de que o atraso na entrega dos insumos foi a causa real da suspensão do cronograma.",
       "is_correct": false,
-      "explanation": "Se a vírgula é omitida após a negação, o sentido passa a ser de contestação da causa, e não de afirmação dela. ARROW-LEFT VOLTAR À QUESTÃO 607"
+      "explanation": "Se a vírgula é omitida após a negação, o sentido passa a ser de contestação da causa, e não de afirmação dela."
     }
   ],
   "answer_key": "A",
@@ -19070,7 +19061,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A posição da vírgula pode determinar se uma característica atribuída a um conjunto de objetos é uma generalização sobre a natureza deles ou uma especificação de um 1. Língua Portuguesa 1.14. Pontuação subgrupo. Analise as sentenças abaixo: I. O setor de patrimônio descartou o mobiliário e os processos, inservíveis. II. O setor de patrimônio descartou o mobiliário e os processos inservíveis. Assinale a alternativa que descreve corretamente a alteração semântica entre I e II:",
+  "question_text": "A posição da vírgula pode determinar se uma característica atribuída a um conjunto de objetos é uma generalização sobre a natureza deles ou uma especificação de um subgrupo. Analise as sentenças abaixo: I. O setor de patrimônio descartou o mobiliário e os processos, inservíveis. II. O setor de patrimônio descartou o mobiliário e os processos inservíveis. Assinale a alternativa que descreve corretamente a alteração semântica entre I e II:",
   "alternatives": [
     {
       "id": "A",
@@ -19100,7 +19091,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A sentença I apresenta um valor explicativo, indicando que a totalidade do mobi- liário e dos processos descartados possui a característica de ser inservível.",
       "is_correct": true,
-      "explanation": "A pontuação em I atribui uma característica generalizante (explicativa) ao conjunto de itens mencionados. 1. Língua Portuguesa 1.14. Pontuação ARROW-LEFT VOLTAR À QUESTÃO 608"
+      "explanation": "A pontuação em I atribui uma característica generalizante (explicativa) ao conjunto de itens mencionados."
     }
   ],
   "answer_key": "E",
@@ -19132,7 +19123,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Nas posições (2) e (4). 1. Língua Portuguesa 1.14. Pontuação",
+      "text": "Nas posições (2) e (4).",
       "is_correct": false,
       "explanation": "A posição (1) e (3) também apresentam proibições claras."
     },
@@ -19158,7 +19149,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Em todas as posições indicadas.",
       "is_correct": false,
-      "explanation": "A posição (2) é a menos problemática das listadas, embora o foco do erro sintático esteja nas demais. ARROW-LEFT VOLTAR À QUESTÃO 609 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "A posição (2) é a menos problemática das listadas, embora o foco do erro sintático esteja nas demais."
     }
   ],
   "answer_key": "B",
@@ -19214,9 +19205,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O desejo, de aprovação, faz com que o candidato estude com disciplina. 1. Língua Portuguesa 1.14. Pontuação 1.14.4 Gabaritos e Comentários 566",
+      "text": "O desejo, de aprovação, faz com que o candidato estude com disciplina.",
       "is_correct": false,
-      "explanation": "Erro ao isolar o complemento nominal (’de aprovação’) do substantivo (’desejo’). ARROW-LEFT VOLTAR À QUESTÃO 610 1.15 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, HIPONÍMIA E HIPERONÍMIA 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 1.15.1 Questões Fáceis 611 Questão 611 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○FÁCIL No estudo da semântica, a relação entre palavras que apresentam significados idênticos, permitindo a substituição em quase todos os contextos sem perda de nuance, é classificada como: A Antonímia recíproca ou inversa. B Antonímia contraditória ou binária. C Antonímia gradual ou contrária. D Sinonímia perfeita ou absoluta. E Sinonímia imperfeita ou relativa. 612 Questão 612 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○FÁCIL Assinale a alternativa em que o par de antônimos é formado exclusivamente pelo processo de prefixação, indicando negação ou oposição: A Bom / Mau B Pai / Filho C Comprar / Vender D Simétrico / Assimétrico 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … E Quente / Frio 613 Questão 613 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○FÁCIL No estudo da semântica, as relações de inclusão permitem organizar o léxico em hierarquias. Considerando a relação entre as palavras ’veículo’ e ’motocicleta’, é correto afirmar que: A ’Veículo’ é hipônimo de ’motocicleta’, pois apresenta um sentido mais restrito. B Ambas as palavras são co-hipônimas, pois pertencem ao mesmo nível hierárquico de sentido. C A relação entre elas é exclusivamente horizontal, não havendo subordinação semântica. D ’Motocicleta’ é hiperônimo de ’veículo’, pois engloba todos os tipos de meios de transporte. E ’Veículo’ é hiperônimo de ’motocicleta’, exercendo um papel de termo genérico na relação. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 614 Questão 614 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○FÁCIL Assinale a alternativa que apresenta um par de termos que mantém entre si uma relação de co-hiponímia. A Animal e Ser Vivo. B Flor e Rosa. C Instrumento Musical e Violão. D Mesa e Cadeira. E Fruta e Maçã. 615 Questão 615 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○FÁCIL No que se refere ao estudo da semântica, a sinonímia é um recurso fundamental para a coesão textual. Assinale a alternativa que apresenta um par de sinônimos considerados ’perfeitos’, ou seja, que mantêm equivalência de significado em praticamente qualquer contexto. A Morrer e Falecer. B Econômico e Pão-duro. C Alfabeto e Abecedário. D Belo e Formoso. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … E Cidade e Metrópole. 616 Questão 616 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○FÁCIL A formação de antônimos na língua portuguesa pode ocorrer por meio de diversos processos morfológicos. Assinale a alternativa em que o antônimo foi formado obrigatoriamente pelo acréscimo de um prefixo de negação. A Pai / Filho. B Bom / Mau. C Leal / Desleal. D Alto / Baixo. E Quente / Frio. 617 Questão 617 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○FÁCIL No estudo da semântica, a relação de hiperonímia e hiponímia é fundamental para a organização do léxico. Assinale a alternativa que define corretamente o conceito de hiperônimo. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … A É um vocábulo que possui a mesma grafia de outro, mas com significado e pronúncia distintos. B É uma palavra de sentido genérico que funciona como um termo abrangente para outros vocábulos. C É um termo que designa uma parte de um todo, como ’volante’ em relação a ’carro’. D É uma palavra que possui sentido restrito, representando um item específico dentro de uma classe. E É uma palavra que apresenta significado oposto ao de outra, estabelecendo uma relação de contrariedade. 1.15.2 Questões de Nível Médio 618 Questão 618 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Considere a frase: ’O agente público decidiu ratificar a decisão anterior da Administração’. Caso o autor desejasse expressar que a decisão foi corrigida ou alterada, e não confirmada, deveria substituir o termo sublinhado por: A Asseverar B Validar C Retificar D Reiterar E Consolidar 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 619 Questão 619 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Na frase ’O candidato demonstrou um comportamento persistente durante os estudos’, a substituição do adjetivo ’persistente’ por ’teimoso’ resultaria em: A Mudança de classe gramatical do termo substituído. B Transformação de uma relação de sinonímia em antonímia contraditória. C Incoerência sintática por erro de regência nominal. D Manutenção integral do sentido e da carga valorativa. E Alteração da carga valorativa de positiva para negativa. 620 Questão 620 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Analise a relação entre os termos ’Comprar’ e ’Vender’. De acordo com a classificação das relações lexicais, esses termos são considerados: A Antônimos recíprocos, pois um termo pressupõe a existência do outro sob outra perspectiva. B Sinônimos contextuais, dependendo apenas da intenção do falante. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … C Antônimos graduais, pois admitem o termo ’trocar’ como meio-termo. D Sinônimos perfeitos, pois descrevem a mesma transação financeira. E Antônimos contraditórios, pois quem não compra, obrigatoriamente vende. 621 Questão 621 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Considere a seguinte frase: ’O perito analisou o documento com cautela’. Do ponto de vista da lógica semântica e da preservação da verdade, a substituição do termo em destaque por um hipônimo: A É gramaticalmente incorreta, pois hipônimos não podem substituir hiperônimos. B Sempre manterá a verdade do texto, independentemente do contexto anterior. C Garante a manutenção do sentido original, pois hipônimos e hiperônimos são sinônimos perfeitos. D Aumentará a generalização do texto, tornando-o menos preciso para o leitor. E Pode comprometer a veracidade da informação, caso o documento específico não seja o citado. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 622 Questão 622 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Em questões de reescrita, as bancas costumam trocar termos específicos por genéricos. Sobre essa estratégia, com base na hierarquia semântica, assinale a afirmação correta: A A substituição de um hipônimo por seu hiperônimo é considerada um erro de coesão textual. B A relação de inclusão é bidirecional, permitindo a troca mútua sem qualquer alteração de sentido. C O hiperônimo sempre acrescenta traços semânticos novos que o hipônimo não possuía. D Ao trocar ’ferrari’ por ’veículo’, o texto torna-se mais específico e detalhado. E A troca de um hipônimo por um hiperônimo preserva a verdade lógica, mas acarreta perda de precisão informativa. 623 Questão 623 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO O ’Teste do É UM’ é uma ferramenta prática para identificar a hierarquia semântica. Assinale a alternativa em que a aplicação desse teste identifica INCORRETAMENTE a relação entre os termos. A Um ’Cobre’ é um ’Metal’ (Metal = Hiperônimo). B Um ’Inseto’ é uma ’Abelha’ (Abelha = Hiperônimo). C Uma ’Rosa’ é uma ’Flor’ (Flor = Hiperônimo). 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … D Um ’Sofa’ é um ’Móvel’ (Sofa = Hipônimo). E Uma ’Baleia’ é um ’Mamífero’ (Baleia = Hipônimo). 624 Questão 624 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO No eixo horizontal da semântica, os co-hipônimos são termos que se excluem mutuamente. Com base nisso, se um texto afirma que um objeto é uma ’chave de fenda’, pode-se inferir logicamente que: A Ele também pode ser um martelo, pois ambos são ferramentas. B A relação entre ’chave de fenda’ e ’martelo’ é de subordinação vertical. C O sentido de ’chave de fenda’ está incluído no sentido de ’martelo’. D O termo ’ferramenta’ não pode ser usado para se referir a esse objeto. E Ele não é um martelo, embora ambos compartilhem o hiperônimo ’ferramenta’. 625 Questão 625 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO No que se refere à hierarquia semântica e às relações de inclusão, a utilização de um hiperônimo em substituição a um hipônimo em um texto produz um efeito específico na 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … carga informativa da sentença. Sobre essa dinâmica e a organização do léxico, assinale a esta afirmação: A Do ponto de vista da lógica semântica, se o termo A é hipônimo de B, o termo A possui uma compreensão (quantidade de traços de sentido) maior que B, embora possua uma extensão (universo de referentes) menor. B A relação de hiponímia é caracterizada por uma implicação bilateral, o que permite concluir que qualquer afirmação verdadeira sobre o gênero será obrigatoriamente verdadeira sobre a espécie e vice-versa. C Dois termos considerados co-hipônimos, por estarem situados no mesmo eixo horizontal de coordenação, podem ser intercambiados em um texto sem prejuízo da verdade lógica, pois compartilham o mesmo hiperônimo. D O ’Teste do É UM’ é uma ferramenta que valida a bidirecionalidade da hierarquia, confirmando que, se um ’gato é um animal’, a recíproca ’um animal é um gato’ é logicamente necessária. E A substituição de um hipônimo por seu hiperônimo aumenta a precisão técnica do enunciado, uma vez que o hiperônimo engloba todos os traços semânticos específicos da espécie. 626 Questão 626 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Em um relatório de fiscalização, consta a seguinte orientação: ”O servidor responsável deverá catalogar todos os veículos que adentrarem o pátio administrativo durante o plantão”. Do ponto de vista da hierarquia semântica e da preservação da verdade lógica, analise as afirmações abaixo e assinale a esta afirmação. A Caso o servidor catalogue apenas as motocicletas, ele terá cumprido integralmente 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … a ordem, pois, na relação vertical ascendente, o hipônimo implica necessariamente a totalidade do hiperônimo. B Pela aplicação do ’Teste do É UM’, conclui-se que ’veículo’ é o hipônimo e ’motocicleta’ é o hiperônimo, dada a abrangência do primeiro sobre o segundo. C A relação entre ’veículos’ e ’pátio’ é de co-hiponímia, o que impede que um termo seja substituído pelo outro sem que haja perda do referente textual. D O termo ’veículos’ funciona como um hiperônimo que, embora preserve a verdade em relação a casos específicos (como caminhões ou furgões), possui menor precisão informativa do que seus hipônimos. E A substituição do termo sublinhado pelo vocábulo ’automóveis’ preserva a integridade lógica da orientação, uma vez que a relação de hiponímia entre eles garante a equivalência total de sentidos. 627 Questão 627 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Em um manual de procedimentos de segurança, consta a seguinte instrução: ”O agente deve portar o equipamento de proteção individual durante toda a permanência na área de risco”. Com base na lógica da hierarquia semântica e nas relações de inclusão, assinale a alternativa que apresenta uma análise correta sobre a validade das inferências e substituições do termo destacado. A Do ponto de vista da implicação unilateral, se for comprovado que o agente portava um ”capacete”, pode-se afirmar logicamente que ele cumpriu a instrução de portar o ”equipamento de proteção individual”. B Os termos ”capacete”e ”luvas”mantêm entre si uma relação de subordinação vertical, sendo o primeiro considerado hiperônimo do segundo no contexto de segurança do trabalho. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … C A relação entre ”equipamento”e ”capacete”é de co-hiponímia, uma vez que ambos pertencem ao mesmo eixo horizontal de coordenação semântica dentro do léxico. D A substituição do termo sublinhado pelo hipônimo ”capacete”preserva o valor de verdade da instrução original, pois a relação de inclusão permite a troca do geral pelo específico sem perda de sentido. E O termo ”equipamento de proteção individual”é classificado como hipônimo em relação ao termo ”capacete”, visto que apresenta uma carga informativa mais abrangente e genérica. 628 Questão 628 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Considere a seguinte frase dita por um agente público em um relatório: ’O clima durante a reunião estava extremamente pesado, o que dificultou o consenso’. Para manter o sentido original do texto, a palavra sublinhada poderia ser substituída por: A Lento. B Vultoso. C Espesso. D Gravitacional. E Tenso. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 629 Questão 629 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO A antonímia pode ser classificada de acordo com a relação lógica estabelecida entre os termos. Quando a oposição descreve a mesma relação sob perspectivas opostas, como ocorre entre ’comprar’ e ’vender’, estamos diante de: A Antônimos por Prefixação. B Antônimos Binários. C Antônimos Graduáveis. D Antônimos Inversos (Relacionais). E Sinônimos Imperfeitos. 630 Questão 630 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO A coesão lexical é essencial para a qualidade da redação oficial. Um servidor, ao redigir um documento, deseja evitar a repetição da palavra ’adiar’ no seguinte trecho: ’A Administração decidiu adiar o certame; no entanto, não se deve adiar o planejamento das etapas seguintes’. Assinale a alternativa que apresenta um sinônimo adequado para a segunda ocorrência da palavra, mantendo a correção gramatical e o sentido: A Agilizar. B Abreviar. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … C Postergar. D Procrastinar. E Antecipar. 631 Questão 631 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Leia o trecho abaixo, adaptado de um relatório oficial: ’O agente público utilizou a chave de fenda para realizar o ajuste no painel. Após o uso, a ferramenta foi devidamente higienizada e guardada no depósito.’ No texto, a relação semântica estabelecida entre os termos destacados é de: A Antonímia, pois os termos apresentam sentidos divergentes no contexto da manutenção. B Hiponímia e hiperonímia, sendo o segundo termo um recurso de coesão para retomar o primeiro. C Sinonímia absoluta, pois em qualquer contexto ’ferramenta’ e ’chave de fenda’ são intercambiáveis. D Hiperonímia e hiponímia, sendo o primeiro termo o hiperônimo do segundo. E Meronímia, uma vez que a chave de fenda é uma parte integrante do conjunto ferramenta. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 632 Questão 632 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO A classificação de uma palavra como hiperônimo ou hipônimo é relativa e depende da escala hierárquica em que se encontra. Analise a seguinte cadeia: Ser vivo > Animal > Mamífero > Cão Com base nessa hierarquia, assinale a afirmação correta: A O termo ’Mamífero’ funciona como hiperônimo de ’Animal’. B O termo ’Cão’ possui maior extensão semântica que o termo ’Ser vivo’. C O termo ’Animal’ é hipônimo de ’Ser vivo’ e hiperônimo de ’Mamífero’. D O termo ’Animal’ é exclusivamente um hipônimo nesta cadeia. E A relação entre ’Cão’ e ’Mamífero’ é de meronímia. 633 Questão 633 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Em questões de interpretação de textos, a substituição de um hipônimo por um hiperônimo é uma estratégia comum. No entanto, o candidato deve estar atento pois essa troca: A Elimina qualquer possibilidade de ambiguidade no texto, sendo sempre a melhor escolha estilística. B Transforma obrigatoriamente uma relação de sentido em uma relação de meronímia. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … C Sempre altera a correção gramatical da frase, exigindo ajustes de concordância verbal. D Pode tornar o texto menos preciso, embora mantenha a verdade conceitual da afirmação. E É proibida em textos oficiais, que exigem apenas o uso de termos específicos. 634 Questão 634 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○MÉDIO Assinale a alternativa em que o termo em destaque NÃO funciona como um hiperônimo para os demais elementos da lista. A Sentimento: amor, ódio, rancor, compaixão. B Legume: alface, couve, espinafre, rúcula. C Corpo Celeste: cometa, asteroide, estrela, planeta. D Mobília: mesa, cadeira, armário, estante. E Documento: ofício, memorando, relatório, certidão. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 1.15.3 Questões Difíceis 635 Questão 635 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○DIFÍCIL Em textos oficiais e dissertativos, o uso de eufemismos é uma estratégia comum para suavizar ideias desagradáveis. Assinale a alternativa em que a substituição do termo em destaque por um sinônimo eufemístico altera a neutralidade do texto, conferindo-lhe um tom de polidez ou atenuação: A O projeto foi ’encerrado’ / O projeto foi ’finalizado’. B A verba foi ’reduzida’ / A verba foi ’diminuída’. C O réu ’mentiu’ em juízo / O réu ’faltou com a verdade’ em juízo. D O servidor foi ’demitido’ / O servidor foi ’exonerado’. E A lei foi ’anulada’ / A lei foi ’invalidada’. 636 Questão 636 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○DIFÍCIL A substituição de um vocábulo por seu sinônimo exige a observância do método C.R.I.S. (Contexto, Regência, Intensidade e Sintaxe). Com base nisso, assinale a alternativa em que a substituição proposta exigiria, obrigatoriamente, um ajuste na preposição que acompanha o termo para manter a correção gramatical: A Substituir ’fiel a’ por ’leal a’. B Substituir ’contente com’ por ’satisfeito com’. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … C Substituir ’apto a’ por ’capaz de’. D Substituir ’ansioso por’ por ’desejoso de’. E Substituir ’idêntico a’ por ’igual a’. 637 Questão 637 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○DIFÍCIL Analise o seguinte cenário: Um texto jurídico afirma que ’determinadas armas devem ser confiscadas’. Uma interpretação que afirme que ’todas as pistolas devem ser confiscadas’ com base exclusivamente nessa frase estaria incorrendo em: A Uma contradição lógica, pois os termos pertencem a campos semânticos distintos. B Um erro de coesão por substituição indevida de co-hipônimos. C Uma inferência legítima, pois ’pistola’ é hipônimo de ’arma’. D Uma extrapolação semântica, pois o hiperônimo não implica obrigatoriamente um hipônimo específico. E Uma tautologia, visto que o sentido de ’arma’ já contém o sentido de ’pistola’. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 638 Questão 638 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○DIFÍCIL Sobre a ’Taxonomia e Teoria dos Conjuntos’ aplicada à semântica, se considerarmos que o termo A é hiperônimo de B, e B é hiperônimo de C, é correto concluir que: A C é hipônimo de A, e os traços semânticos de A estão presentes em C. B A e C são co-hipônimos, pois estão ligados pelo termo B. C A substituição de C por A em um texto aumenta a precisão da informação. D A relação entre A e C é de exclusão mútua, conforme o eixo horizontal. E O termo A possui mais traços semânticos específicos do que o termo C. 639 Questão 639 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○DIFÍCIL Analise as nuances semânticas e a carga emotiva das palavras nas sentenças abaixo: I. O candidato foi extremamente econômico em suas palavras. II. O candidato foi extremamente pão-duro em suas palavras. Sobre a relação entre os termos destacados, assinale a afirmação correta: A São sinônimos perfeitos, podendo ser trocados sem qualquer alteração na intenção do autor. B São sinônimos contextuais, mas ’pão-duro’ possui uma carga negativa (pejorativa) que altera a percepção sobre o sujeito. C Não há relação de sinonímia entre os termos, pois pertencem a classes gramaticais 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … distintas. D São antônimos graduáveis, pois admitem um termo intermediário como ’generoso’. E A palavra ’econômico’ é um hiperônimo de ’pão-duro’. 640 Questão 640 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○DIFÍCIL Em questões de interpretação de textos normativos, a precisão vocabular é crucial. Se uma norma estabelece que um projeto é ’exequível’, mas um parecer técnico conclui que ele é ’inviável’, a relação semântica estabelecida entre os termos das duas fontes é de: A Sinonímia imperfeita, pois ambos tratam da execução do projeto. B Antonímia inversa, pois dependem do ponto de vista do técnico. C Antonímia graduável, pois um projeto pode ser ’parcialmente exequível’. D Homonímia, pois as palavras possuem grafias semelhantes. E Antonímia binária, pois a inviabilidade exclui a exequibilidade. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 641 Questão 641 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○DIFÍCIL Assinale a alternativa que apresenta, respectivamente, um sinônimo para ’Efêmero’ e um antônimo para ’Inócuo’, mantendo o padrão culto da língua: A Passageiro / Inofensivo. B Eterno / Inútil. C Duradouro / Perigoso. D Fugaz / Nocivo. E Breve / Benéfico. 642 Questão 642 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○DIFÍCIL As bancas examinadoras costumam distinguir a relação de Hiponímia (tipo/espécie) da relação de Meronímia (parte/todo). Assinale a alternativa que apresenta, respectivamente, um par de Hiponímia e um par de Meronímia. A (Rosa - Flor) e (Dedo - Mão) B (Pneu - Carro) e (Cadeira - Móvel) C (Apartamento - Edifício) e (Garfo - Talher) D (Brasil - País) e (Estado - Federação) E (Leão - Felino) e (Página - Livro) 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 643 Questão 643 RELAÇÕES SEMÂNTICAS ENTRE PALAVRAS: SINONÍMIA, ANTONÍMIA, … ○○○DIFÍCIL Sobre a lógica das classes na semântica, afirma-se que o hiperônimo possui ’menor compreensão’ e ’maior extensão’ que o hipônimo. Assinale a alternativa que explica corretamente essa premissa. A Quanto maior a compreensão de um termo (detalhamento), maior será sua extensão (quantidade de seres abrangidos). B O hipônimo abrange um número maior de seres (extensão) e possui características mais genéricas (compreensão). C A extensão refere-se ao tamanho da palavra na escrita, enquanto a compreensão refere-se à facilidade de entendimento do leitor. D O hiperônimo abrange um número menor de seres (extensão) e possui características mais detalhadas (compreensão). E O hiperônimo abrange um grupo maior de seres (extensão), mas suas características definidoras são poucas e genéricas (compreensão). 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 1.15.4 Gabaritos e Comentários"
+      "explanation": "Erro ao isolar o complemento nominal (’de aprovação’) do substantivo (’desejo’)."
     }
   ],
   "answer_key": "D",
@@ -19274,7 +19265,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Sinonímia imperfeita ou relativa.",
       "is_correct": false,
-      "explanation": "A sinonímia imperfeita ocorre quando as palavras compartilham o sentido central, mas possuem nuances diferentes de intensidade ou formalidade. ARROW-LEFT VOLTAR À QUESTÃO 611 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "A sinonímia imperfeita ocorre quando as palavras compartilham o sentido central, mas possuem nuances diferentes de intensidade ou formalidade."
     }
   ],
   "answer_key": "D",
@@ -19324,7 +19315,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Simétrico / Assimétrico 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Simétrico / Assimétrico",
       "is_correct": true,
       "explanation": "O termo ’assimétrico’ é formado pelo acréscimo do prefixo de negação ’a-’ ao termo ’simétrico’."
     },
@@ -19332,7 +19323,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Quente / Frio",
       "is_correct": false,
-      "explanation": "São antônimos graduais com radicais diferentes. ARROW-LEFT VOLTAR À QUESTÃO 612"
+      "explanation": "São antônimos graduais com radicais diferentes."
     }
   ],
   "answer_key": "D",
@@ -19388,15 +19379,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "’Veículo’ é hiperônimo de ’motocicleta’, exercendo um papel de termo genérico na relação. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "’Veículo’ é hiperônimo de ’motocicleta’, exercendo um papel de termo genérico na relação.",
       "is_correct": true,
-      "explanation": "O hiperônimo é o termo de sentido abrangente que inclui o significado do hipônimo. ARROW-LEFT VOLTAR À QUESTÃO 613"
+      "explanation": "O hiperônimo é o termo de sentido abrangente que inclui o significado do hipônimo."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A a afirmação apresentada define corretamente a relação vertical: ’veículo’ é o gênero (hiperônimo) e ’motocicleta’ é a espécie (hipônimo). 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
-    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: A a afirmação apresentada define corretamente a relação vertical: ’veículo’ é o gênero (hiperônimo) e ’motocicleta’ é a espécie (hipônimo). 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+    "resolution": "A a afirmação apresentada define corretamente a relação vertical: ’veículo’ é o gênero (hiperônimo) e ’motocicleta’ é a espécie (hipônimo).",
+    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: A a afirmação apresentada define corretamente a relação vertical: ’veículo’ é o gênero (hiperônimo) e ’motocicleta’ é a espécie (hipônimo)."
   }
 }
 ```
@@ -19442,13 +19433,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Mesa e Cadeira.",
       "is_correct": true,
-      "explanation": "Mesa e cadeira são ’irmãos’ dentro do conjunto dos móveis, caracterizando a relação horizontal ou co-hiponímia. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "Mesa e cadeira são ’irmãos’ dentro do conjunto dos móveis, caracterizando a relação horizontal ou co-hiponímia."
     },
     {
       "id": "E",
       "text": "Fruta e Maçã.",
       "is_correct": false,
-      "explanation": "Relação de hiperonímia (Fruta) e hiponímia (Maçã). ARROW-LEFT VOLTAR À QUESTÃO 614"
+      "explanation": "Relação de hiperonímia (Fruta) e hiponímia (Maçã)."
     }
   ],
   "answer_key": "D",
@@ -19498,7 +19489,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "D",
-      "text": "Belo e Formoso. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Belo e Formoso.",
       "is_correct": false,
       "explanation": "São sinônimos imperfeitos, pois possuem nuances estéticas e de intensidade diferentes."
     },
@@ -19506,7 +19497,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Cidade e Metrópole.",
       "is_correct": false,
-      "explanation": "São sinônimos imperfeitos; toda metrópole é uma cidade, mas nem toda cidade é uma metrópole. ARROW-LEFT VOLTAR À QUESTÃO 615 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "São sinônimos imperfeitos; toda metrópole é uma cidade, mas nem toda cidade é uma metrópole."
     }
   ],
   "answer_key": "C",
@@ -19564,7 +19555,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Quente / Frio.",
       "is_correct": false,
-      "explanation": "São antônimos graduáveis com radicais distintos. ARROW-LEFT VOLTAR À QUESTÃO 616"
+      "explanation": "São antônimos graduáveis com radicais distintos."
     }
   ],
   "answer_key": "C",
@@ -19592,7 +19583,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No estudo da semântica, a relação de hiperonímia e hiponímia é fundamental para a organização do léxico. Assinale a alternativa que define corretamente o conceito de hiperônimo. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+  "question_text": "No estudo da semântica, a relação de hiperonímia e hiponímia é fundamental para a organização do léxico. Assinale a alternativa que define corretamente o conceito de hiperônimo.",
   "alternatives": [
     {
       "id": "A",
@@ -19622,7 +19613,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "É uma palavra que apresenta significado oposto ao de outra, estabelecendo uma relação de contrariedade. 1.15.2 Questões de Nível Médio",
       "is_correct": false,
-      "explanation": "Esta é a definição de antônimo. ARROW-LEFT VOLTAR À QUESTÃO 617"
+      "explanation": "Esta é a definição de antônimo."
     }
   ],
   "answer_key": "B",
@@ -19668,7 +19659,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Retificar",
       "is_correct": true,
-      "explanation": "’Retificar’ significa alinhar, corrigir ou emendar, sendo o oposto contextual de ’ratificar’ no cenário apresentado. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "’Retificar’ significa alinhar, corrigir ou emendar, sendo o oposto contextual de ’ratificar’ no cenário apresentado."
     },
     {
       "id": "D",
@@ -19678,9 +19669,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Consolidar 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Consolidar",
       "is_correct": false,
-      "explanation": "’Consolidar’ significa tornar sólido ou estável, o que não implica a correção da decisão. ARROW-LEFT VOLTAR À QUESTÃO 618"
+      "explanation": "’Consolidar’ significa tornar sólido ou estável, o que não implica a correção da decisão."
     }
   ],
   "answer_key": "C",
@@ -19738,7 +19729,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Alteração da carga valorativa de positiva para negativa.",
       "is_correct": true,
-      "explanation": "A substituição altera a nuance do texto, conferindo um tom negativo à característica do candidato. ARROW-LEFT VOLTAR À QUESTÃO 619 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "A substituição altera a nuance do texto, conferindo um tom negativo à característica do candidato."
     }
   ],
   "answer_key": "E",
@@ -19776,7 +19767,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Sinônimos contextuais, dependendo apenas da intenção do falante. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Sinônimos contextuais, dependendo apenas da intenção do falante.",
       "is_correct": false,
       "explanation": "São antônimos lexicais estáveis, não dependendo apenas do contexto para serem opostos."
     },
@@ -19796,7 +19787,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Antônimos contraditórios, pois quem não compra, obrigatoriamente vende.",
       "is_correct": false,
-      "explanation": "Não são contraditórios (binários), pois a negação de ’comprar’ não obriga a ’vender’ (pode-se apenas observar, por exemplo). ARROW-LEFT VOLTAR À QUESTÃO 620"
+      "explanation": "Não são contraditórios (binários), pois a negação de ’comprar’ não obriga a ’vender’ (pode-se apenas observar, por exemplo)."
     }
   ],
   "answer_key": "A",
@@ -19852,15 +19843,15 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Pode comprometer a veracidade da informação, caso o documento específico não seja o citado. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Pode comprometer a veracidade da informação, caso o documento específico não seja o citado.",
       "is_correct": true,
-      "explanation": "O hipônimo restringe o sentido e aumenta a precisão, o que pode gerar erro de informação se a especificidade não estiver confirmada. ARROW-LEFT VOLTAR À QUESTÃO 621"
+      "explanation": "O hipônimo restringe o sentido e aumenta a precisão, o que pode gerar erro de informação se a especificidade não estiver confirmada."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A substituição do geral (hiperônimo) pelo específico (hipônimo) é arriscada. Se o texto diz ’documento’, substituí-lo por ’contrato’ (hipônimo) pode ser falso se o documento 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … for, na verdade, uma ’certidão’.",
-    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: A substituição do geral (hiperônimo) pelo específico (hipônimo) é arriscada. Se o texto diz ’documento’, substituí-lo por ’contrato’ (hipônimo) pode ser falso se o documento 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … for, na verdade, uma ’certidão’."
+    "resolution": "A substituição do geral (hiperônimo) pelo específico (hipônimo) é arriscada. Se o texto diz ’documento’, substituí-lo por ’contrato’ (hipônimo) pode ser falso se o documento for, na verdade, uma ’certidão’.",
+    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: A substituição do geral (hiperônimo) pelo específico (hipônimo) é arriscada. Se o texto diz ’documento’, substituí-lo por ’contrato’ (hipônimo) pode ser falso se o documento for, na verdade, uma ’certidão’."
   }
 }
 ```
@@ -19888,7 +19879,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "A substituição de um hipônimo por seu hiperônimo é considerada um erro de coesão textual.",
       "is_correct": false,
-      "explanation": "Pelo contrário, o uso de hiperônimos é um recurso valioso de coesão lexical para evitar repetições. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "Pelo contrário, o uso de hiperônimos é um recurso valioso de coesão lexical para evitar repetições."
     },
     {
       "id": "B",
@@ -19912,7 +19903,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A troca de um hipônimo por um hiperônimo preserva a verdade lógica, mas acarreta perda de precisão informativa.",
       "is_correct": true,
-      "explanation": "É a aplicação direta da lógica de inclusão: o geral abrange o específico, mas é menos detalhado. ARROW-LEFT VOLTAR À QUESTÃO 622"
+      "explanation": "É a aplicação direta da lógica de inclusão: o geral abrange o específico, mas é menos detalhado."
     }
   ],
   "answer_key": "E",
@@ -19956,7 +19947,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "Uma ’Rosa’ é uma ’Flor’ (Flor = Hiperônimo). 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Uma ’Rosa’ é uma ’Flor’ (Flor = Hiperônimo).",
       "is_correct": false,
       "explanation": "A afirmação está certa, portanto não é o gabarito. Flor é o hiperônimo de Rosa."
     },
@@ -19964,13 +19955,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "D",
       "text": "Um ’Sofa’ é um ’Móvel’ (Sofa = Hipônimo).",
       "is_correct": false,
-      "explanation": "A afirmação está certa, portanto não é o gabarito. Sofá é de fato a espécie do gênero móvel. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "A afirmação está certa, portanto não é o gabarito. Sofá é de fato a espécie do gênero móvel."
     },
     {
       "id": "E",
       "text": "Uma ’Baleia’ é um ’Mamífero’ (Baleia = Hipônimo).",
       "is_correct": false,
-      "explanation": "A afirmação está certa, portanto não é o gabarito. Baleia é um tipo específico de mamífero. ARROW-LEFT VOLTAR À QUESTÃO 623"
+      "explanation": "A afirmação está certa, portanto não é o gabarito. Baleia é um tipo específico de mamífero."
     }
   ],
   "answer_key": "B",
@@ -20028,7 +20019,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Ele não é um martelo, embora ambos compartilhem o hiperônimo ’ferramenta’.",
       "is_correct": true,
-      "explanation": "Esta é a lógica da coordenação: os termos dividem o mesmo hiperônimo, mas possuem traços distintivos que os tornam mutuamente exclusivos. ARROW-LEFT VOLTAR À QUESTÃO 624 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "Esta é a lógica da coordenação: os termos dividem o mesmo hiperônimo, mas possuem traços distintivos que os tornam mutuamente exclusivos."
     }
   ],
   "answer_key": "E",
@@ -20056,7 +20047,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que se refere à hierarquia semântica e às relações de inclusão, a utilização de um hiperônimo em substituição a um hipônimo em um texto produz um efeito específico na 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … carga informativa da sentença. Sobre essa dinâmica e a organização do léxico, assinale a alternativa correta:",
+  "question_text": "No que se refere à hierarquia semântica e às relações de inclusão, a utilização de um hiperônimo em substituição a um hipônimo em um texto produz um efeito específico na carga informativa da sentença. Sobre essa dinâmica e a organização do léxico, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -20086,7 +20077,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A substituição de um hipônimo por seu hiperônimo aumenta a precisão técnica do enunciado, uma vez que o hiperônimo engloba todos os traços semânticos específicos da espécie.",
       "is_correct": false,
-      "explanation": "A substituição de um hipônimo por um hiperônimo diminui a precisão, pois o hiperônimo é mais genérico e perde os traços específicos que individualizam o hipônimo. ARROW-LEFT VOLTAR À QUESTÃO 625 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "A substituição de um hipônimo por um hiperônimo diminui a precisão, pois o hiperônimo é mais genérico e perde os traços específicos que individualizam o hipônimo."
     }
   ],
   "answer_key": "A",
@@ -20118,7 +20109,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
   "alternatives": [
     {
       "id": "A",
-      "text": "Caso o servidor catalogue apenas as motocicletas, ele terá cumprido integralmente 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … a ordem, pois, na relação vertical ascendente, o hipônimo implica necessariamente a totalidade do hiperônimo.",
+      "text": "Caso o servidor catalogue apenas as motocicletas, ele terá cumprido integralmente a ordem, pois, na relação vertical ascendente, o hipônimo implica necessariamente a totalidade do hiperônimo.",
       "is_correct": false,
       "explanation": "O hipônimo (motocicleta) está contido no hiperônimo (veículo), mas não o esgota. Catalogar apenas um tipo de veículo (hipônimo) não satisfaz a determinação de catalogar o gênero inteiro (hiperônimo)."
     },
@@ -20144,7 +20135,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A substituição do termo sublinhado pelo vocábulo ’automóveis’ preserva a integri- dade lógica da orientação, uma vez que a relação de hiponímia entre eles garante a equivalência total de sentidos.",
       "is_correct": false,
-      "explanation": "A substituição de um hiperônimo (veículos) por um hipônimo (automóveis) restringe o sentido original. Se a ordem era catalogar todos os veículos, catalogar apenas automóveis descumpre a abrangência da norma, pois exclui motocicletas, caminhões, etc. ARROW-LEFT VOLTAR À QUESTÃO 626 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "A substituição de um hiperônimo (veículos) por um hipônimo (automóveis) restringe o sentido original. Se a ordem era catalogar todos os veículos, catalogar apenas automóveis descumpre a abrangência da norma, pois exclui motocicletas, caminhões, etc."
     }
   ],
   "answer_key": "D",
@@ -20182,7 +20173,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Os termos ”capacete”e ”luvas”mantêm entre si uma relação de subordinação vertical, sendo o primeiro considerado hiperônimo do segundo no contexto de segurança do trabalho. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Os termos ”capacete”e ”luvas”mantêm entre si uma relação de subordinação vertical, sendo o primeiro considerado hiperônimo do segundo no contexto de segurança do trabalho.",
       "is_correct": false,
       "explanation": "”Capacete”e ”luvas”são co-hipônimos, ou seja, estão no mesmo nível hierárquico (eixo horizontal) sob o mesmo hiperônimo (EPI). Não há subordinação entre eles."
     },
@@ -20202,7 +20193,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O termo ”equipamento de proteção individual”é classificado como hipônimo em relação ao termo ”capacete”, visto que apresenta uma carga informativa mais abrangente e genérica.",
       "is_correct": false,
-      "explanation": "O termo mais abrangente e genérico é o hiperônimo. ”Equipamento de proteção individual”é hiperônimo de ”capacete”. ARROW-LEFT VOLTAR À QUESTÃO 627 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "O termo mais abrangente e genérico é o hiperônimo. ”Equipamento de proteção individual”é hiperônimo de ”capacete”."
     }
   ],
   "answer_key": "A",
@@ -20258,9 +20249,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Tenso. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Tenso.",
       "is_correct": true,
-      "explanation": "’Tenso’ é o sinônimo contextual adequado para descrever um ambiente de conflito ou dificuldade de interação. ARROW-LEFT VOLTAR À QUESTÃO 628"
+      "explanation": "’Tenso’ é o sinônimo contextual adequado para descrever um ambiente de conflito ou dificuldade de interação."
     }
   ],
   "answer_key": "E",
@@ -20318,13 +20309,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Sinônimos Imperfeitos.",
       "is_correct": false,
-      "explanation": "O enunciado descreve uma relação de oposição (antonímia), não de semelhança (sinonímia). ARROW-LEFT VOLTAR À QUESTÃO 629"
+      "explanation": "O enunciado descreve uma relação de oposição (antonímia), não de semelhança (sinonímia)."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Antônimos inversos ou relacionais são aqueles que expressam uma relação mútua, onde um termo pressupõe o outro sob um ponto de vista diferente. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
-    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: Antônimos inversos ou relacionais são aqueles que expressam uma relação mútua, onde um termo pressupõe o outro sob um ponto de vista diferente. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+    "resolution": "Antônimos inversos ou relacionais são aqueles que expressam uma relação mútua, onde um termo pressupõe o outro sob um ponto de vista diferente.",
+    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: Antônimos inversos ou relacionais são aqueles que expressam uma relação mútua, onde um termo pressupõe o outro sob um ponto de vista diferente."
   }
 }
 ```
@@ -20356,7 +20347,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Abreviar. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Abreviar.",
       "is_correct": false,
       "explanation": "’Abreviar’ significa tornar mais curto, não necessariamente mudar a data para depois."
     },
@@ -20364,7 +20355,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Postergar.",
       "is_correct": true,
-      "explanation": "’Postergar’ mantém o sentido de deixar para depois com o rigor formal necessário. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "’Postergar’ mantém o sentido de deixar para depois com o rigor formal necessário."
     },
     {
       "id": "D",
@@ -20376,7 +20367,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Antecipar.",
       "is_correct": false,
-      "explanation": "’Antecipar’ é antônimo de adiar. ARROW-LEFT VOLTAR À QUESTÃO 630"
+      "explanation": "’Antecipar’ é antônimo de adiar."
     }
   ],
   "answer_key": "C",
@@ -20432,9 +20423,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Meronímia, uma vez que a chave de fenda é uma parte integrante do conjunto ferramenta. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Meronímia, uma vez que a chave de fenda é uma parte integrante do conjunto ferramenta.",
       "is_correct": false,
-      "explanation": "A chave de fenda não é uma ’parte’ física da ferramenta, mas sim um ’tipo’ de ferramenta. A relação é de espécie/gênero. ARROW-LEFT VOLTAR À QUESTÃO 631 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "A chave de fenda não é uma ’parte’ física da ferramenta, mas sim um ’tipo’ de ferramenta. A relação é de espécie/gênero."
     }
   ],
   "answer_key": "B",
@@ -20492,7 +20483,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A relação entre ’Cão’ e ’Mamífero’ é de meronímia.",
       "is_correct": false,
-      "explanation": "Um cão é um ’tipo de’ mamífero (hiponímia), não uma ’parte de’ um mamífero. ARROW-LEFT VOLTAR À QUESTÃO 632"
+      "explanation": "Um cão é um ’tipo de’ mamífero (hiponímia), não uma ’parte de’ um mamífero."
     }
   ],
   "answer_key": "C",
@@ -20530,7 +20521,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Transforma obrigatoriamente uma relação de sentido em uma relação de meroní- mia. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Transforma obrigatoriamente uma relação de sentido em uma relação de meroní- mia.",
       "is_correct": false,
       "explanation": "A relação de hiponímia/hiperonímia é distinta da meronímia; a substituição não muda a natureza da relação lógica entre os conceitos originais."
     },
@@ -20550,13 +20541,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "É proibida em textos oficiais, que exigem apenas o uso de termos específicos.",
       "is_correct": false,
-      "explanation": "É um recurso de coesão perfeitamente aceitável e recomendável em textos oficiais para evitar repetições viciosas. ARROW-LEFT VOLTAR À QUESTÃO 633"
+      "explanation": "É um recurso de coesão perfeitamente aceitável e recomendável em textos oficiais para evitar repetições viciosas."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "Ao trocar um termo específico (ex: ’Poodle’) por um geral (ex: ’Cão’), perde-se a especificidade da informação, embora a frase continue logicamente correta. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
-    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: Ao trocar um termo específico (ex: ’Poodle’) por um geral (ex: ’Cão’), perde-se a especificidade da informação, embora a frase continue logicamente correta. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+    "resolution": "Ao trocar um termo específico (ex: ’Poodle’) por um geral (ex: ’Cão’), perde-se a especificidade da informação, embora a frase continue logicamente correta.",
+    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: Ao trocar um termo específico (ex: ’Poodle’) por um geral (ex: ’Cão’), perde-se a especificidade da informação, embora a frase continue logicamente correta."
   }
 }
 ```
@@ -20584,7 +20575,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "A",
       "text": "Sentimento: amor, ódio, rancor, compaixão.",
       "is_correct": false,
-      "explanation": "’Sentimento’ é o termo geral para todos os itens listados, portanto não é o gabarito. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "’Sentimento’ é o termo geral para todos os itens listados, portanto não é o gabarito."
     },
     {
       "id": "B",
@@ -20606,9 +20597,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Documento: ofício, memorando, relatório, certidão. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 1.15.3 Questões Difíceis",
+      "text": "Documento: ofício, memorando, relatório, certidão. 1.15.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "’Documento’ é o termo genérico para as diversas formas de registros citadas, portanto não é o gabarito. ARROW-LEFT VOLTAR À QUESTÃO 634"
+      "explanation": "’Documento’ é o termo genérico para as diversas formas de registros citadas, portanto não é o gabarito."
     }
   ],
   "answer_key": "B",
@@ -20654,7 +20645,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "O réu ’mentiu’ em juízo / O réu ’faltou com a verdade’ em juízo.",
       "is_correct": true,
-      "explanation": "’Faltar com a verdade’ suaviza a acusação direta de mentira, sendo um exemplo típico de eufemismo. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "’Faltar com a verdade’ suaviza a acusação direta de mentira, sendo um exemplo típico de eufemismo."
     },
     {
       "id": "D",
@@ -20666,7 +20657,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A lei foi ’anulada’ / A lei foi ’invalidada’.",
       "is_correct": false,
-      "explanation": "’Anulada’ e ’invalidada’ são sinônimos técnicos quase perfeitos no âmbito jurídico, sem carga eufemística. ARROW-LEFT VOLTAR À QUESTÃO 635"
+      "explanation": "’Anulada’ e ’invalidada’ são sinônimos técnicos quase perfeitos no âmbito jurídico, sem carga eufemística."
     }
   ],
   "answer_key": "C",
@@ -20704,7 +20695,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "B",
-      "text": "Substituir ’contente com’ por ’satisfeito com’. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Substituir ’contente com’ por ’satisfeito com’.",
       "is_correct": false,
       "explanation": "Ambos os termos regem a preposição ’com’."
     },
@@ -20724,7 +20715,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Substituir ’idêntico a’ por ’igual a’.",
       "is_correct": false,
-      "explanation": "Ambos os termos regem a preposição ’a’. ARROW-LEFT VOLTAR À QUESTÃO 636 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "Ambos os termos regem a preposição ’a’."
     }
   ],
   "answer_key": "D",
@@ -20780,9 +20771,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Uma tautologia, visto que o sentido de ’arma’ já contém o sentido de ’pistola’. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Uma tautologia, visto que o sentido de ’arma’ já contém o sentido de ’pistola’.",
       "is_correct": false,
-      "explanation": "Tautologia é uma repetição óbvia; aqui há um erro de salto lógico (especificação indevida). ARROW-LEFT VOLTAR À QUESTÃO 637"
+      "explanation": "Tautologia é uma repetição óbvia; aqui há um erro de salto lógico (especificação indevida)."
     }
   ],
   "answer_key": "D",
@@ -20840,13 +20831,13 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "O termo A possui mais traços semânticos específicos do que o termo C.",
       "is_correct": false,
-      "explanation": "O termo C (específico) possui mais traços (ex: latir, quatro patas) do que o termo A (genérico: ter vida). ARROW-LEFT VOLTAR À QUESTÃO 638"
+      "explanation": "O termo C (específico) possui mais traços (ex: latir, quatro patas) do que o termo A (genérico: ter vida)."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … A hierarquia é transitiva. Se Ser Vivo (A) inclui Animal (B), e Animal (B) inclui Cão (C), então Ser Vivo (A) inclui Cão (C). O hipônimo (C) herda os traços do hiperônimo (A).",
-    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … A hierarquia é transitiva. Se Ser Vivo (A) inclui Animal (B), e Animal (B) inclui Cão (C), então Ser Vivo (A) inclui Cão (C). O hipônimo (C) herda os traços do hiperônimo (A)."
+    "resolution": "Relações Semânticas entre Palavras: Sinoní- … A hierarquia é transitiva. Se Ser Vivo (A) inclui Animal (B), e Animal (B) inclui Cão (C), então Ser Vivo (A) inclui Cão (C). O hipônimo (C) herda os traços do hiperônimo (A).",
+    "theoretical_content": "As relações semânticas descrevem como os significados das palavras se aproximam, se opõem ou se incluem. Sinonímia é a proximidade de sentido, mas raramente há equivalência perfeita em todos os contextos; antonímia expressa oposição, que pode ser gradual (quente/frio), complementar (vivo/morto) ou conversiva (comprar/vender). Homonímia envolve formas iguais com significados distintos; paronímia envolve formas parecidas na escrita ou pronúncia, mas com sentidos diferentes.\n\nPolissemia ocorre quando uma mesma palavra desenvolve sentidos relacionados, interpretados pelo contexto. Denotação é o uso mais literal e convencional; conotação envolve sentido figurado ou associado. Hiperonímia e hiponímia expressam inclusão semântica: “flor” é hiperônimo de “rosa”; “rosa” é hipônimo de “flor”.\n\nEm questões de substituição vocabular, verifique se a troca preserva sentido, registro, intensidade e relações sintáticas. Um sinônimo de dicionário pode não funcionar no contexto específico. Em interpretação, o contexto determina o sentido efetivamente ativado.\n\nAplicação ao problema apresentado: A hierarquia é transitiva. Se Ser Vivo (A) inclui Animal (B), e Animal (B) inclui Cão (C), então Ser Vivo (A) inclui Cão (C). O hipônimo (C) herda os traços do hiperônimo (A)."
   }
 }
 ```
@@ -20884,7 +20875,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "C",
-      "text": "Não há relação de sinonímia entre os termos, pois pertencem a classes gramaticais 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … distintas.",
+      "text": "Não há relação de sinonímia entre os termos, pois pertencem a classes gramaticais distintas.",
       "is_correct": false,
       "explanation": "Ambos funcionam como adjetivos (ou locuções adjetivas) no contexto das frases."
     },
@@ -20898,7 +20889,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "A palavra ’econômico’ é um hiperônimo de ’pão-duro’.",
       "is_correct": false,
-      "explanation": "Hiperônimo é uma relação de gênero/espécie (ex: animal/cão), o que não se aplica aqui. ARROW-LEFT VOLTAR À QUESTÃO 639"
+      "explanation": "Hiperônimo é uma relação de gênero/espécie (ex: animal/cão), o que não se aplica aqui."
     }
   ],
   "answer_key": "B",
@@ -20944,7 +20935,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "C",
       "text": "Antonímia graduável, pois um projeto pode ser ’parcialmente exequível’.",
       "is_correct": false,
-      "explanation": "Embora na prática existam meios-termos, os conceitos ’exequível’ e ’inviável’ são apresentados como polos excludentes em pareceres formais. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "Embora na prática existam meios-termos, os conceitos ’exequível’ e ’inviável’ são apresentados como polos excludentes em pareceres formais."
     },
     {
       "id": "D",
@@ -20954,9 +20945,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "Antonímia binária, pois a inviabilidade exclui a exequibilidade. 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "Antonímia binária, pois a inviabilidade exclui a exequibilidade.",
       "is_correct": true,
-      "explanation": "No rigor técnico, se algo é inviável, nega-se totalmente a sua exequibilidade. ARROW-LEFT VOLTAR À QUESTÃO 640"
+      "explanation": "No rigor técnico, se algo é inviável, nega-se totalmente a sua exequibilidade."
     }
   ],
   "answer_key": "E",
@@ -21014,7 +21005,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
       "id": "E",
       "text": "Breve / Benéfico.",
       "is_correct": false,
-      "explanation": "’Benéfico’ não é o antônimo direto de inócuo (inócuo é o que não faz mal; nocivo é o que faz mal). ARROW-LEFT VOLTAR À QUESTÃO 641 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "’Benéfico’ não é o antônimo direto de inócuo (inócuo é o que não faz mal; nocivo é o que faz mal)."
     }
   ],
   "answer_key": "D",
@@ -21070,9 +21061,9 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "(Leão - Felino) e (Página - Livro) 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …",
+      "text": "(Leão - Felino) e (Página - Livro)",
       "is_correct": true,
-      "explanation": "Segue rigorosamente a ordem: Leão é um tipo de felino (Hiponímia); Página é parte do livro (Meronímia). ARROW-LEFT VOLTAR À QUESTÃO 642 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- …"
+      "explanation": "Segue rigorosamente a ordem: Leão é um tipo de felino (Hiponímia); Página é parte do livro (Meronímia)."
     }
   ],
   "answer_key": "E",
@@ -21128,7 +21119,7 @@ Relações semânticas entre palavras (sinonímia, antonímia, hiponímia e hipe
     },
     {
       "id": "E",
-      "text": "O hiperônimo abrange um grupo maior de seres (extensão), mas suas características definidoras são poucas e genéricas (compreensão). 1. Língua Portuguesa 1.15. Relações Semânticas entre Palavras: Sinoní- … 1.15.4 Gabaritos e Comentários 611",
+      "text": "O hiperônimo abrange um grupo maior de seres (extensão), mas suas características definidoras são poucas e genéricas (compreensão).",
       "is_correct": true,
       "explanation": "Esta é a definição técnica: ’Veículo’ (hiperônimo) tem grande extensão (carros, motos, barcos), mas baixa compreensão (apenas ’meio de transporte’)."
     }

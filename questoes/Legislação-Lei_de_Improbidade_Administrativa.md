@@ -67,7 +67,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "Sócios e diretores de empresas respondem objetivamente por qualquer ato praticado pela pessoa jurídica.",
       "is_correct": false,
-      "explanation": "Não há responsabilidade objetiva: sócios, cotistas, diretores e colaboradores só respondem se comprovadas a participação e a obtenção de benefício, direto ou indireto (o STF, nas ADIs 7.156 e 7.236, afastou a exigência de que o benefício seja ’direto’). ARROW-LEFT VOLTAR À QUESTÃO 829 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "Não há responsabilidade objetiva: sócios, cotistas, diretores e colaboradores só respondem se comprovadas a participação e a obtenção de benefício, direto ou indireto (o STF, nas ADIs 7.156 e 7.236, afastou a exigência de que o benefício seja ’direto’)."
     }
   ],
   "answer_key": "B",
@@ -105,7 +105,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "B",
-      "text": "A conduta de nepotismo, por ser princípio, não consta expressamente no texto da lei. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "A conduta de nepotismo, por ser princípio, não consta expressamente no texto da lei.",
       "is_correct": false,
       "explanation": "O nepotismo foi expressamente incluído no texto da lei como ato de improbidade contra princípios."
     },
@@ -125,7 +125,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "O rol de atos que geram enriquecimento ilícito passou a ser taxativo após a reforma de 2021.",
       "is_correct": false,
-      "explanation": "O rol do enriquecimento ilícito (Art. 9º) permanece exemplificativo (’e notadamente’). ARROW-LEFT VOLTAR À QUESTÃO 830"
+      "explanation": "O rol do enriquecimento ilícito (Art. 9º) permanece exemplificativo (’e notadamente’)."
     }
   ],
   "answer_key": "C",
@@ -181,15 +181,15 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "A conduta culposa ainda é admitida se houver grave negligência na guarda de bens. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "A conduta culposa ainda é admitida se houver grave negligência na guarda de bens.",
       "is_correct": false,
-      "explanation": "A modalidade culposa foi integralmente extinta da Lei de Improbidade. ARROW-LEFT VOLTAR À QUESTÃO 831"
+      "explanation": "A modalidade culposa foi integralmente extinta da Lei de Improbidade."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A nova LIA abandonou a tese do dano presumido, exigindo prova da lesão ao patrimônio público. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\n§ 6º Se ocorrer lesão ao patrimônio público, a reparação do dano a que se refere\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\ndano e proibição de contratar com o poder público ou de receber benefícios ou incentivos\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\nindicará com precisão a tipificação do ato de improbidade administrativa imputável ao réu,\n§ 10-D. Para cada ato de improbidade administrativa, deverá necessariamente ser\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n\nAplicação à questão: A nova LIA abandonou a tese do dano presumido, exigindo prova da lesão ao patrimônio público. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+    "resolution": "A nova LIA abandonou a tese do dano presumido, exigindo prova da lesão ao patrimônio público.",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\n§ 6º Se ocorrer lesão ao patrimônio público, a reparação do dano a que se refere\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\ndano e proibição de contratar com o poder público ou de receber benefícios ou incentivos\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\nindicará com precisão a tipificação do ato de improbidade administrativa imputável ao réu,\n§ 10-D. Para cada ato de improbidade administrativa, deverá necessariamente ser\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n\nAplicação à questão: A nova LIA abandonou a tese do dano presumido, exigindo prova da lesão ao patrimônio público."
   }
 }
 ```
@@ -217,7 +217,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "A",
       "text": "A sucessão de empresas em casos de fusão ou incorporação extingue a responsabili- dade por atos de improbidade administrativa praticados pela empresa antecedente.",
       "is_correct": false,
-      "explanation": "A responsabilidade sucessória em casos de fusão e incorporação persiste, mas fica restrita à obrigação de reparação integral do dano causado, até o limite do patrimônio transferido. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "A responsabilidade sucessória em casos de fusão e incorporação persiste, mas fica restrita à obrigação de reparação integral do dano causado, até o limite do patrimônio transferido."
     },
     {
       "id": "B",
@@ -241,7 +241,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "As sanções da Lei de Improbidade Administrativa aplicam-se automaticamente às pessoas jurídicas, independentemente de o ato ser também punido como ato lesivo à administração pública nos termos da Lei nº 12.846/2013.",
       "is_correct": false,
-      "explanation": "A lei busca evitar a sobreposição de sanções entre a LIA e a Lei Anticorrupção para a pessoa jurídica. ARROW-LEFT VOLTAR À QUESTÃO 832"
+      "explanation": "A lei busca evitar a sobreposição de sanções entre a LIA e a Lei Anticorrupção para a pessoa jurídica."
     }
   ],
   "answer_key": "C",
@@ -269,13 +269,13 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que concerne à responsabilidade sucessória e aos limites das sanções patrimoniais previstos na Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021, assinale a alternativa que descreve corretamente a situação dos sucessores de um agente público 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) que praticou ato de improbidade administrativa:",
+  "question_text": "No que concerne à responsabilidade sucessória e aos limites das sanções patrimoniais previstos na Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021, assinale a alternativa que descreve corretamente a situação dos sucessores de um agente público que praticou ato de improbidade administrativa:",
   "alternatives": [
     {
       "id": "A",
       "text": "Os herdeiros respondem solidariamente pelo ressarcimento ao erário e pelo paga- mento da multa civil aplicada ao falecido, independentemente do valor do quinhão hereditário.",
       "is_correct": false,
-      "explanation": "A responsabilidade não é ilimitada; ela é restrita ao limite da herança. Além disso, a multa civil, por ter caráter personalíssimo de sanção, não se transmite aos herdeiros. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "A responsabilidade não é ilimitada; ela é restrita ao limite da herança. Além disso, a multa civil, por ter caráter personalíssimo de sanção, não se transmite aos herdeiros."
     },
     {
       "id": "B",
@@ -299,7 +299,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "A responsabilidade sucessória na Lei de Improbidade Administrativa aplica-se ex- clusivamente às pessoas jurídicas em casos de fusão ou incorporação, não atingindo pessoas físicas.",
       "is_correct": false,
-      "explanation": "A lei prevê expressamente a sucessão tanto para pessoas físicas (herdeiros) no Art. 8º, quanto para pessoas jurídicas (fusão e incorporação) no Art. 8º-A. ARROW-LEFT VOLTAR À QUESTÃO 833"
+      "explanation": "A lei prevê expressamente a sucessão tanto para pessoas físicas (herdeiros) no Art. 8º, quanto para pessoas jurídicas (fusão e incorporação) no Art. 8º-A."
     }
   ],
   "answer_key": "C",
@@ -337,9 +337,9 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "B",
-      "text": "Nos casos de prejuízo ao erário, admite-se a responsabilização por dolo eventual, quando o agente, embora não queira o resultado, assume o risco de produzi-lo por 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) negligência grave.",
+      "text": "Nos casos de prejuízo ao erário, admite-se a responsabilização por dolo eventual, quando o agente, embora não queira o resultado, assume o risco de produzi-lo por negligência grave.",
       "is_correct": false,
-      "explanation": "A modalidade culposa foi extinta em todas as espécies de improbidade, e a lei foca no dolo específico (vontade de alcançar o resultado), não mencionando a aplicação de dolo eventual por negligência. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "A modalidade culposa foi extinta em todas as espécies de improbidade, e a lei foca no dolo específico (vontade de alcançar o resultado), não mencionando a aplicação de dolo eventual por negligência."
     },
     {
       "id": "C",
@@ -357,7 +357,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "O dolo é caracterizado pela vontade livre e consciente de alcançar o resultado ilícito tipificado na norma, sendo insuficiente a simples intenção de praticar o ato administrativo.",
       "is_correct": true,
-      "explanation": "Conforme o novo paradigma da Lei nº 14.230/2021, o dolo exige a vontade livre e consciente de alcançar o resultado ilícito, superando a ideia de dolo genérico ou mera voluntariedade. ARROW-LEFT VOLTAR À QUESTÃO 834"
+      "explanation": "Conforme o novo paradigma da Lei nº 14.230/2021, o dolo exige a vontade livre e consciente de alcançar o resultado ilícito, superando a ideia de dolo genérico ou mera voluntariedade."
     }
   ],
   "answer_key": "E",
@@ -401,9 +401,9 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "C",
-      "text": "Os atos de improbidade que importam enriquecimento ilícito (Art. 9º) possuem rol taxativo, impedindo a punição de condutas que, embora gerem vantagem patrimonial indevida, não estejam expressamente descritas nos incisos. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "Os atos de improbidade que importam enriquecimento ilícito (Art. 9º) possuem rol taxativo, impedindo a punição de condutas que, embora gerem vantagem patrimonial indevida, não estejam expressamente descritas nos incisos.",
       "is_correct": false,
-      "explanation": "Diferente do Art. 11, os róis dos Artigos 9º (enriquecimento ilícito) e 10 (prejuízo ao erário) permanecem exemplificativos, conforme indica o uso da expressão ’e notadamente’ em seus caputs. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "Diferente do Art. 11, os róis dos Artigos 9º (enriquecimento ilícito) e 10 (prejuízo ao erário) permanecem exemplificativos, conforme indica o uso da expressão ’e notadamente’ em seus caputs."
     },
     {
       "id": "D",
@@ -415,7 +415,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "Para a configuração de ato de improbidade que causa prejuízo ao erário (Art. 10), admite-se a modalidade culposa, desde que a negligência seja considerada grave e o dano ao patrimônio público seja efetivo.",
       "is_correct": false,
-      "explanation": "A Lei nº 14.230/2021 extinguiu a modalidade culposa em todos os tipos de improbidade administrativa. Atualmente, exige-se o dolo específico para a configuração de qualquer ato de improbidade, inclusive para o prejuízo ao erário (Art. 10). ARROW-LEFT VOLTAR À QUESTÃO 835"
+      "explanation": "A Lei nº 14.230/2021 extinguiu a modalidade culposa em todos os tipos de improbidade administrativa. Atualmente, exige-se o dolo específico para a configuração de qualquer ato de improbidade, inclusive para o prejuízo ao erário (Art. 10)."
     }
   ],
   "answer_key": "A",
@@ -461,7 +461,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "C",
       "text": "A extensão da perda a outros vínculos só é possível nos casos de enriquecimento ilícito (art. 9º) e sempre em caráter excepcional.",
       "is_correct": false,
-      "explanation": "O STF declarou inconstitucionais as expressões ’na hipótese do inciso I’ e ’em caráter excepcional’; a extensão deixou de ser exceção restrita ao art. 9º. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "O STF declarou inconstitucionais as expressões ’na hipótese do inciso I’ e ’em caráter excepcional’; a extensão deixou de ser exceção restrita ao art. 9º."
     },
     {
       "id": "D",
@@ -471,9 +471,9 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "A perda da função pública pode ser executada imediatamente após a sentença de primeiro grau. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "A perda da função pública pode ser executada imediatamente após a sentença de primeiro grau.",
       "is_correct": false,
-      "explanation": "Nenhuma sanção da LIA é executada antes do trânsito em julgado (art. 12, § 9º, e art. 20). ARROW-LEFT VOLTAR À QUESTÃO 836"
+      "explanation": "Nenhuma sanção da LIA é executada antes do trânsito em julgado (art. 12, § 9º, e art. 20)."
     }
   ],
   "answer_key": "D",
@@ -531,7 +531,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "A suspensão dos direitos políticos opera-se de imediato para evitar a candidatura do agente na eleição seguinte.",
       "is_correct": false,
-      "explanation": "Não existe execução provisória de suspensão de direitos políticos na LIA. ARROW-LEFT VOLTAR À QUESTÃO 837 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "Não existe execução provisória de suspensão de direitos políticos na LIA."
     }
   ],
   "answer_key": "A",
@@ -559,7 +559,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Sobre a dosimetria e aplicação das multas civis nos atos de improbidade administrativa, a legislação prevê que: 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+  "question_text": "Sobre a dosimetria e aplicação das multas civis nos atos de improbidade administrativa, a legislação prevê que:",
   "alternatives": [
     {
       "id": "A",
@@ -589,7 +589,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "O juiz pode dobrar o valor da multa se considerar que o valor padrão é ineficaz em face da situação econômica do réu.",
       "is_correct": true,
-      "explanation": "O art. 12, § 2º, permite aumentar a multa até o dobro se o valor calculado for ineficaz diante da situação econômica do réu. ARROW-LEFT VOLTAR À QUESTÃO 838"
+      "explanation": "O art. 12, § 2º, permite aumentar a multa até o dobro se o valor calculado for ineficaz diante da situação econômica do réu."
     }
   ],
   "answer_key": "E",
@@ -639,7 +639,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "D",
-      "text": "Como o agente já deixou o cargo em que praticou o ato, o magistrado está impedido de aplicar a perda da função pública ao novo vínculo, que tem natureza distinta. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "Como o agente já deixou o cargo em que praticou o ato, o magistrado está impedido de aplicar a perda da função pública ao novo vínculo, que tem natureza distinta.",
       "is_correct": false,
       "explanation": "A troca de cargo não livra o agente da sanção; foi justamente para evitar esse esvaziamento que o STF afastou a ’regra da mesma natureza’."
     },
@@ -647,13 +647,13 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "A perda da função pública é consequência automática da condenação e atinge todos os vínculos do agente, sem qualquer possibilidade de o juiz preservar algum deles.",
       "is_correct": false,
-      "explanation": "A perda não é automática: é sanção aplicada na sentença, e o juiz pode, excepcional e fundamentadamente, deixar de aplicá-la a uma função específica. ARROW-LEFT VOLTAR À QUESTÃO 839"
+      "explanation": "A perda não é automática: é sanção aplicada na sentença, e o juiz pode, excepcional e fundamentadamente, deixar de aplicá-la a uma função específica."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "A Lei 14.230/2021 limitava a perda ao vínculo de mesma qualidade e natureza da época do fato, com extensão excepcional só no art. 9º. O STF, nas ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026), declarou inconstitucionais as expressões ’apenas’, ’na hipótese do inciso I’ e ’em caráter excepcional’ do art. 12, § 1º: hoje a 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) regra é a perda de todas as funções públicas do condenado, e é a preservação de alguma função específica que depende de decisão excepcional e fundamentada, consideradas as circunstâncias do caso e a gravidade da infração.",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\naos demais vínculos, consideradas as circunstâncias do caso e a gravidade da infração.\ndeste artigo, atinge apenas o vínculo de mesma qualidade e natureza que o agente público ou\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\n\nArt. 9º Constitui ato de improbidade administrativa importando em enriquecimento\nemprego ou de função pública, e em razão deles, bens de qualquer natureza, decorrentes dos\nDos Atos de Improbidade Administrativa que Causam Prejuízo ao Erário\nindevida em razão do exercício de cargo, de mandato, de função, de emprego ou de atividade\n\nAplicação à questão: A Lei 14.230/2021 limitava a perda ao vínculo de mesma qualidade e natureza da época do fato, com extensão excepcional só no art. 9º. O STF, nas ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026), declarou inconstitucionais as expressões ’apenas’, ’na hipótese do inciso I’ e ’em caráter excepcional’ do art. 12, § 1º: hoje a 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) regra é a perda de todas as funções públicas do condenado, e é a preservação de alguma função específica que depende de decisão excepcional e fundamentada, consideradas as circunstâncias do caso e a gravidade da infração."
+    "resolution": "A Lei 14.230/2021 limitava a perda ao vínculo de mesma qualidade e natureza da época do fato, com extensão excepcional só no art. 9º. O STF, nas ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026), declarou inconstitucionais as expressões ’apenas’, ’na hipótese do inciso I’ e ’em caráter excepcional’ do art. 12, § 1º: hoje a regra é a perda de todas as funções públicas do condenado, e é a preservação de alguma função específica que depende de decisão excepcional e fundamentada, consideradas as circunstâncias do caso e a gravidade da infração.",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\naos demais vínculos, consideradas as circunstâncias do caso e a gravidade da infração.\ndeste artigo, atinge apenas o vínculo de mesma qualidade e natureza que o agente público ou\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\n\nArt. 9º Constitui ato de improbidade administrativa importando em enriquecimento\nemprego ou de função pública, e em razão deles, bens de qualquer natureza, decorrentes dos\nDos Atos de Improbidade Administrativa que Causam Prejuízo ao Erário\nindevida em razão do exercício de cargo, de mandato, de função, de emprego ou de atividade\n\nAplicação à questão: A Lei 14.230/2021 limitava a perda ao vínculo de mesma qualidade e natureza da época do fato, com extensão excepcional só no art. 9º. O STF, nas ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026), declarou inconstitucionais as expressões ’apenas’, ’na hipótese do inciso I’ e ’em caráter excepcional’ do art. 12, § 1º: hoje a regra é a perda de todas as funções públicas do condenado, e é a preservação de alguma função específica que depende de decisão excepcional e fundamentada, consideradas as circunstâncias do caso e a gravidade da infração."
   }
 }
 ```
@@ -703,15 +703,15 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "Alcança, em regra, os demais vínculos mantidos pelo agente, podendo o juiz, excepcional e fundamentadamente, deixar de aplicá-la a alguma função específica, consideradas as circunstâncias do caso e a gravidade da infração. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "Alcança, em regra, os demais vínculos mantidos pelo agente, podendo o juiz, excepcional e fundamentadamente, deixar de aplicá-la a alguma função específica, consideradas as circunstâncias do caso e a gravidade da infração.",
       "is_correct": true,
-      "explanation": "É o parâmetro fixado pelo STF: a extensão aos demais vínculos é a regra, e a exceção é a preservação fundamentada de algum vínculo. ARROW-LEFT VOLTAR À QUESTÃO 840"
+      "explanation": "É o parâmetro fixado pelo STF: a extensão aos demais vínculos é a regra, e a exceção é a preservação fundamentada de algum vínculo."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A Lei 14.230/2021 limitava a perda ao vínculo de mesma qualidade e natureza da época do fato, com extensão excepcional só no art. 9º. O STF, nas ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026), declarou inconstitucionais as expressões ’apenas’, ’na hipótese do inciso I’ e ’em caráter excepcional’ do art. 12, § 1º: hoje a regra é a perda de todas as funções públicas do condenado, e é a preservação de alguma função específica que depende de decisão excepcional e fundamentada, consideradas as 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) circunstâncias do caso e a gravidade da infração.",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\naos demais vínculos, consideradas as circunstâncias do caso e a gravidade da infração.\ndeste artigo, atinge apenas o vínculo de mesma qualidade e natureza que o agente público ou\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\n\nArt. 9º Constitui ato de improbidade administrativa importando em enriquecimento\nemprego ou de função pública, e em razão deles, bens de qualquer natureza, decorrentes dos\nDos Atos de Improbidade Administrativa que Causam Prejuízo ao Erário\nação ou omissão decorrente das atribuições do agente público;\n\nAplicação à questão: A Lei 14.230/2021 limitava a perda ao vínculo de mesma qualidade e natureza da época do fato, com extensão excepcional só no art. 9º. O STF, nas ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026), declarou inconstitucionais as expressões ’apenas’, ’na hipótese do inciso I’ e ’em caráter excepcional’ do art. 12, § 1º: hoje a regra é a perda de todas as funções públicas do condenado, e é a preservação de alguma função específica que depende de decisão excepcional e fundamentada, consideradas as 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) circunstâncias do caso e a gravidade da infração."
+    "resolution": "A Lei 14.230/2021 limitava a perda ao vínculo de mesma qualidade e natureza da época do fato, com extensão excepcional só no art. 9º. O STF, nas ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026), declarou inconstitucionais as expressões ’apenas’, ’na hipótese do inciso I’ e ’em caráter excepcional’ do art. 12, § 1º: hoje a regra é a perda de todas as funções públicas do condenado, e é a preservação de alguma função específica que depende de decisão excepcional e fundamentada, consideradas as circunstâncias do caso e a gravidade da infração.",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\naos demais vínculos, consideradas as circunstâncias do caso e a gravidade da infração.\ndeste artigo, atinge apenas o vínculo de mesma qualidade e natureza que o agente público ou\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\n\nArt. 9º Constitui ato de improbidade administrativa importando em enriquecimento\nemprego ou de função pública, e em razão deles, bens de qualquer natureza, decorrentes dos\nDos Atos de Improbidade Administrativa que Causam Prejuízo ao Erário\nação ou omissão decorrente das atribuições do agente público;\n\nAplicação à questão: A Lei 14.230/2021 limitava a perda ao vínculo de mesma qualidade e natureza da época do fato, com extensão excepcional só no art. 9º. O STF, nas ADIs 7.156 e 7.236 (julgamento concluído em 01/07/2026), declarou inconstitucionais as expressões ’apenas’, ’na hipótese do inciso I’ e ’em caráter excepcional’ do art. 12, § 1º: hoje a regra é a perda de todas as funções públicas do condenado, e é a preservação de alguma função específica que depende de decisão excepcional e fundamentada, consideradas as circunstâncias do caso e a gravidade da infração."
   }
 }
 ```
@@ -761,9 +761,9 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "A proibição de contratar com o poder público ou de receber benefícios fiscais, nos casos de atos que atentam contra os princípios da administração pública (Art. 11), não poderá exceder o prazo de 4 anos. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "A proibição de contratar com o poder público ou de receber benefícios fiscais, nos casos de atos que atentam contra os princípios da administração pública (Art. 11), não poderá exceder o prazo de 4 anos.",
       "is_correct": true,
-      "explanation": "O prazo de proibição de contratar para o Art. 11 é de, no máximo, 4 anos, conforme o escalonamento da lei (14 anos para Art. 9º, 12 anos para Art. 10 e 4 anos para Art. 11). ARROW-LEFT VOLTAR À QUESTÃO 841"
+      "explanation": "O prazo de proibição de contratar para o Art. 11 é de, no máximo, 4 anos, conforme o escalonamento da lei (14 anos para Art. 9º, 12 anos para Art. 10 e 4 anos para Art. 11)."
     }
   ],
   "answer_key": "E",
@@ -803,7 +803,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "B",
       "text": "A multa civil é a única sanção prevista na Lei de Improbidade Administrativa que pode ser aplicada de forma isolada, sendo as demais obrigatoriamente cumulativas.",
       "is_correct": false,
-      "explanation": "O art. 12, caput, permite aplicar as sanções de forma isolada ou cumulativa, conforme a gravidade do fato; não há essa exclusividade para a multa. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "O art. 12, caput, permite aplicar as sanções de forma isolada ou cumulativa, conforme a gravidade do fato; não há essa exclusividade para a multa."
     },
     {
       "id": "C",
@@ -821,7 +821,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "Tratando-se de ato de improbidade que importa enriquecimento ilícito, a multa civil deve ser fixada obrigatoriamente em até 24 vezes o valor da remuneração percebida pelo agente público.",
       "is_correct": false,
-      "explanation": "O limite de até 24 vezes a remuneração aplica-se aos atos que atentam contra os princípios da administração pública (Art. 11). Para enriquecimento ilícito (Art. 9º), a multa é vinculada ao valor do acréscimo patrimonial. ARROW-LEFT VOLTAR À QUESTÃO 842"
+      "explanation": "O limite de até 24 vezes a remuneração aplica-se aos atos que atentam contra os princípios da administração pública (Art. 11). Para enriquecimento ilícito (Art. 9º), a multa é vinculada ao valor do acréscimo patrimonial."
     }
   ],
   "answer_key": "C",
@@ -849,7 +849,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Para fins de controle patrimonial e prevenção ao enriquecimento ilícito, a Lei nº 8.429/1992 impõe ao agente público o dever de apresentar declaração dos bens e 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) valores que compõem o seu patrimônio. Sobre as regras de apresentação dessa declaração e as consequências de sua inobservância, assinale a alternativa correta:",
+  "question_text": "Para fins de controle patrimonial e prevenção ao enriquecimento ilícito, a Lei nº 8.429/1992 impõe ao agente público o dever de apresentar declaração dos bens e valores que compõem o seu patrimônio. Sobre as regras de apresentação dessa declaração e as consequências de sua inobservância, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -867,7 +867,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "C",
       "text": "Caso o agente público preste declaração de bens falsa, a penalidade de demissão só poderá ser aplicada se houver condenação judicial transitada em julgado por crime de falsidade ideológica.",
       "is_correct": false,
-      "explanation": "A pena de demissão por declaração falsa ou recusa é uma sanção prevista na própria Lei de Improbidade Administrativa no âmbito do controle patrimonial, não dependendo de prévia condenação criminal. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "A pena de demissão por declaração falsa ou recusa é uma sanção prevista na própria Lei de Improbidade Administrativa no âmbito do controle patrimonial, não dependendo de prévia condenação criminal."
     },
     {
       "id": "D",
@@ -879,7 +879,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "A declaração de bens deve ser apresentada obrigatoriamente no momento da posse e na data em que o agente deixar o cargo, sendo a atualização anual uma faculdade da Administração.",
       "is_correct": false,
-      "explanation": "A declaração deve ser apresentada em três momentos obrigatórios: na posse, anualmente (atualização) e ao deixar o cargo, emprego ou função. ARROW-LEFT VOLTAR À QUESTÃO 843"
+      "explanation": "A declaração deve ser apresentada em três momentos obrigatórios: na posse, anualmente (atualização) e ao deixar o cargo, emprego ou função."
     }
   ],
   "answer_key": "D",
@@ -907,7 +907,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que concerne ao sistema sancionatório estabelecido pela Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021, considere a hipótese de um agente público condenado por ato de improbidade administrativa que causou enriquecimento ilícito. Sobre a execução das penas e a contagem dos prazos de suspensão de direitos políticos, assinale a alternativa correta: 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+  "question_text": "No que concerne ao sistema sancionatório estabelecido pela Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021, considere a hipótese de um agente público condenado por ato de improbidade administrativa que causou enriquecimento ilícito. Sobre a execução das penas e a contagem dos prazos de suspensão de direitos políticos, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -937,7 +937,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "Para fins de contagem do prazo de suspensão dos direitos políticos, computar-se-á retroativamente o intervalo de tempo transcorrido entre a decisão colegiada e o trânsito em julgado da sentença condenatória.",
       "is_correct": false,
-      "explanation": "Era a regra do art. 12, § 10, declarada inconstitucional pelo STF. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) ARROW-LEFT VOLTAR À QUESTÃO 844"
+      "explanation": "Era a regra do art. 12, § 10, declarada inconstitucional pelo STF."
     }
   ],
   "answer_key": "C",
@@ -981,7 +981,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "C",
-      "text": "A indisponibilidade pode garantir apenas o ressarcimento do dano ao erário, sendo 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) vedado que alcance o patrimônio obtido por enriquecimento ilícito.",
+      "text": "A indisponibilidade pode garantir apenas o ressarcimento do dano ao erário, sendo vedado que alcance o patrimônio obtido por enriquecimento ilícito.",
       "is_correct": false,
       "explanation": "O STF entendeu que a indisponibilidade pode alcançar não só o valor necessário para reparar o dano ao erário, mas também o patrimônio obtido por enriquecimento ilícito."
     },
@@ -995,7 +995,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "A indisponibilidade só pode ser decretada se o autor demonstrar, em todos os casos, perigo concreto de dano irreparável, sendo vedada qualquer forma de presunção da urgência.",
       "is_correct": false,
-      "explanation": "No julgamento das ADIs 7.156 e 7.236, o STF declarou inconstitucionais os trechos do art. 16 que exigiam demonstração concreta de perigo em todos os casos e afastou parcialmente a vedação à presunção de urgência: admite-se, excepcionalmente e por decisão fundamentada, o bloqueio por tutela de evidência ou presunção de urgência. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) ARROW-LEFT VOLTAR À QUESTÃO 845"
+      "explanation": "No julgamento das ADIs 7.156 e 7.236, o STF declarou inconstitucionais os trechos do art. 16 que exigiam demonstração concreta de perigo em todos os casos e afastou parcialmente a vedação à presunção de urgência: admite-se, excepcionalmente e por decisão fundamentada, o bloqueio por tutela de evidência ou presunção de urgência."
     }
   ],
   "answer_key": "B",
@@ -1051,9 +1051,9 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "Pode ser celebrado mesmo sem o ressarcimento integral do dano, desde que o réu confesse o ato. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "Pode ser celebrado mesmo sem o ressarcimento integral do dano, desde que o réu confesse o ato.",
       "is_correct": false,
-      "explanation": "O ressarcimento integral do dano é um requisito obrigatório para a celebração do ANPC. ARROW-LEFT VOLTAR À QUESTÃO 846 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "O ressarcimento integral do dano é um requisito obrigatório para a celebração do ANPC."
     }
   ],
   "answer_key": "B",
@@ -1111,7 +1111,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "Converter a ação de improbidade em ação civil pública comum para fins de anulação do ato ou ressarcimento.",
       "is_correct": true,
-      "explanation": "A conversão permite que o Estado busque a correção da ilegalidade ou ressarcimento sem aplicar as penas de improbidade (como perda de cargo). ARROW-LEFT VOLTAR À QUESTÃO 847"
+      "explanation": "A conversão permite que o Estado busque a correção da ilegalidade ou ressarcimento sem aplicar as penas de improbidade (como perda de cargo)."
     }
   ],
   "answer_key": "E",
@@ -1143,7 +1143,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
   "alternatives": [
     {
       "id": "A",
-      "text": "O magistrado poderá decretar a indisponibilidade de bens de família em qualquer 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) hipótese, uma vez que o interesse público na recomposição do erário prevalece sobre o direito à moradia do agente público.",
+      "text": "O magistrado poderá decretar a indisponibilidade de bens de família em qualquer hipótese, uma vez que o interesse público na recomposição do erário prevalece sobre o direito à moradia do agente público.",
       "is_correct": false,
       "explanation": "O bem de família é, via de regra, impenhorável. A única exceção que permite o seu bloqueio na ação de improbidade é se o imóvel tiver sido comprovadamente adquirido com o proveito do ato ilícito."
     },
@@ -1169,13 +1169,13 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "A indisponibilidade de bens deve ser decretada pelo magistrado sempre que houver indícios de autoria e materialidade, sendo o perigo de dano presumido pela natureza do ato de improbidade.",
       "is_correct": false,
-      "explanation": "A indisponibilidade não é automática nem ’sempre’ decretada: depende de decisão fundamentada. O STF (ADIs 7.156 e 7.236) afastou a exigência de prova concreta de perigo em todos os casos, mas admite o bloqueio por tutela de evidência ou presunção de urgência apenas excepcionalmente. ARROW-LEFT VOLTAR À QUESTÃO 848"
+      "explanation": "A indisponibilidade não é automática nem ’sempre’ decretada: depende de decisão fundamentada. O STF (ADIs 7.156 e 7.236) afastou a exigência de prova concreta de perigo em todos os casos, mas admite o bloqueio por tutela de evidência ou presunção de urgência apenas excepcionalmente."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "O art. 16, § 11, determina que a ordem de indisponibilidade priorize veículos de via 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) terrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves, ações e quotas de sociedades, pedras e metais preciosos e, apenas na inexistência desses, o bloqueio de contas bancárias.",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 16. Na ação por improbidade administrativa poderá ser formulado, em caráter\nterrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves, ações e quotas\nde sociedades simples e empresárias, pedras e metais preciosos e, apenas na inexistência\ncaput deste artigo incluirá a investigação, o exame e o bloqueio de bens, contas bancárias e\n\nArt. 10. Constitui ato de improbidade administrativa que causa lesão ao erário\nimprobidade administrativa, salvo se comprovado ato doloso praticado com essa finalidade.\nDos Atos de Improbidade Administrativa Decorrentes de Concessão ou Aplicação\npatrimônio particular, de pessoa física ou jurídica, de bens, de rendas, de verbas ou de valores\n\nAplicação à questão: O art. 16, § 11, determina que a ordem de indisponibilidade priorize veículos de via 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) terrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves, ações e quotas de sociedades, pedras e metais preciosos e, apenas na inexistência desses, o bloqueio de contas bancárias."
+    "resolution": "O art. 16, § 11, determina que a ordem de indisponibilidade priorize veículos de via terrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves, ações e quotas de sociedades, pedras e metais preciosos e, apenas na inexistência desses, o bloqueio de contas bancárias.",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 16. Na ação por improbidade administrativa poderá ser formulado, em caráter\nterrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves, ações e quotas\nde sociedades simples e empresárias, pedras e metais preciosos e, apenas na inexistência\ncaput deste artigo incluirá a investigação, o exame e o bloqueio de bens, contas bancárias e\n\nArt. 10. Constitui ato de improbidade administrativa que causa lesão ao erário\nimprobidade administrativa, salvo se comprovado ato doloso praticado com essa finalidade.\nDos Atos de Improbidade Administrativa Decorrentes de Concessão ou Aplicação\npatrimônio particular, de pessoa física ou jurídica, de bens, de rendas, de verbas ou de valores\n\nAplicação à questão: O art. 16, § 11, determina que a ordem de indisponibilidade priorize veículos de via terrestre, bens imóveis, bens móveis em geral, semoventes, navios e aeronaves, ações e quotas de sociedades, pedras e metais preciosos e, apenas na inexistência desses, o bloqueio de contas bancárias."
   }
 }
 ```
@@ -1213,7 +1213,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "C",
-      "text": "O bem de família do réu é absolutamente impenhorável e não pode ser objeto de 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) indisponibilidade, ainda que se comprove que o imóvel foi adquirido com proveito do ato ilícito.",
+      "text": "O bem de família do réu é absolutamente impenhorável e não pode ser objeto de indisponibilidade, ainda que se comprove que o imóvel foi adquirido com proveito do ato ilícito.",
       "is_correct": false,
       "explanation": "Embora o bem de família seja geralmente protegido, o Art. 16, § 14, estabelece que a impenhorabilidade do bem de família não se aplica quando o imóvel for fruto de vantagem patrimonial indevida decorrente do ato de improbidade."
     },
@@ -1227,13 +1227,13 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "A indisponibilidade de bens deve alcançar apenas o valor do dano ao erário, sendo vedado que atinja o patrimônio obtido por enriquecimento ilícito.",
       "is_correct": false,
-      "explanation": "O STF (ADIs 7.156 e 7.236) admitiu que a indisponibilidade alcance também o patrimônio obtido por enriquecimento ilícito. ARROW-LEFT VOLTAR À QUESTÃO 849"
+      "explanation": "O STF (ADIs 7.156 e 7.236) admitiu que a indisponibilidade alcance também o patrimônio obtido por enriquecimento ilícito."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "De acordo com o Art. 16, § 13, da Lei nº 8.429/1992 (incluído pela Lei nº 14.230/2021), é vedada a indisponibilidade da quantia de até 40 salários mínimos depositados em caderneta de poupança, outras aplicações financeiras ou em conta corrente, visando 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) preservar o mínimo existencial do réu.",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 16. Na ação por improbidade administrativa poderá ser formulado, em caráter\nsalários mínimos depositados em caderneta de poupança, em outras aplicações financeiras ou\n§ 13. É vedada a decretação de indisponibilidade da quantia de até 40 (quarenta)\naplicações financeiras mantidas pelo indiciado no exterior, nos termos da lei e dos tratados\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n§ 19. Não se aplicam na ação de improbidade administrativa:\nIII - o ajuizamento de mais de uma ação de improbidade administrativa pelo\n\nAplicação à questão: De acordo com o Art. 16, § 13, da Lei nº 8.429/1992 (incluído pela Lei nº 14.230/2021), é vedada a indisponibilidade da quantia de até 40 salários mínimos depositados em caderneta de poupança, outras aplicações financeiras ou em conta corrente, visando 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) preservar o mínimo existencial do réu."
+    "resolution": "De acordo com o Art. 16, § 13, da Lei nº 8.429/1992 (incluído pela Lei nº 14.230/2021), é vedada a indisponibilidade da quantia de até 40 salários mínimos depositados em caderneta de poupança, outras aplicações financeiras ou em conta corrente, visando preservar o mínimo existencial do réu.",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 16. Na ação por improbidade administrativa poderá ser formulado, em caráter\nsalários mínimos depositados em caderneta de poupança, em outras aplicações financeiras ou\n§ 13. É vedada a decretação de indisponibilidade da quantia de até 40 (quarenta)\naplicações financeiras mantidas pelo indiciado no exterior, nos termos da lei e dos tratados\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n§ 19. Não se aplicam na ação de improbidade administrativa:\nIII - o ajuizamento de mais de uma ação de improbidade administrativa pelo\n\nAplicação à questão: De acordo com o Art. 16, § 13, da Lei nº 8.429/1992 (incluído pela Lei nº 14.230/2021), é vedada a indisponibilidade da quantia de até 40 salários mínimos depositados em caderneta de poupança, outras aplicações financeiras ou em conta corrente, visando preservar o mínimo existencial do réu."
   }
 }
 ```
@@ -1283,15 +1283,15 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "A indisponibilidade de bens deve recair, prioritariamente, sobre ativos financeiros 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) mantidos em instituições bancárias, de modo a garantir a liquidez imediata para o ressarcimento ao erário.",
+      "text": "A indisponibilidade de bens deve recair, prioritariamente, sobre ativos financeiros mantidos em instituições bancárias, de modo a garantir a liquidez imediata para o ressarcimento ao erário.",
       "is_correct": false,
-      "explanation": "Segundo a nova sistemática da LIA, o bloqueio de contas bancárias e ativos financeiros é a última prioridade, devendo o magistrado preferir bens como veículos, imóveis e semoventes. ARROW-LEFT VOLTAR À QUESTÃO 850"
+      "explanation": "Segundo a nova sistemática da LIA, o bloqueio de contas bancárias e ativos financeiros é a última prioridade, devendo o magistrado preferir bens como veículos, imóveis e semoventes."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "De acordo com o art. 17, § 16, da LIA, se o juiz não identificar o dolo necessário para a improbidade, mas verificar ilegalidade comum, pode converter a ação em ação civil pública, sem aplicar as sanções da LIA. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\npelo ato de improbidade, observados os impactos econômicos e sociais das sanções, de forma a\nesta Lei deverá deduzir o ressarcimento ocorrido nas instâncias criminal, civil e administrativa\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n§ 17. Da decisão que converter a ação de improbidade em ação civil pública caberá\n§ 19. Não se aplicam na ação de improbidade administrativa:\n\nAplicação à questão: De acordo com o art. 17, § 16, da LIA, se o juiz não identificar o dolo necessário para a improbidade, mas verificar ilegalidade comum, pode converter a ação em ação civil pública, sem aplicar as sanções da LIA. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+    "resolution": "De acordo com o art. 17, § 16, da LIA, se o juiz não identificar o dolo necessário para a improbidade, mas verificar ilegalidade comum, pode converter a ação em ação civil pública, sem aplicar as sanções da LIA.",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\npelo ato de improbidade, observados os impactos econômicos e sociais das sanções, de forma a\nesta Lei deverá deduzir o ressarcimento ocorrido nas instâncias criminal, civil e administrativa\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n§ 17. Da decisão que converter a ação de improbidade em ação civil pública caberá\n§ 19. Não se aplicam na ação de improbidade administrativa:\n\nAplicação à questão: De acordo com o art. 17, § 16, da LIA, se o juiz não identificar o dolo necessário para a improbidade, mas verificar ilegalidade comum, pode converter a ação em ação civil pública, sem aplicar as sanções da LIA."
   }
 }
 ```
@@ -1341,15 +1341,15 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "Proceda à remessa necessária dos autos ao Tribunal de Justiça para fins de confir- mação da sentença de improcedência. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "Proceda à remessa necessária dos autos ao Tribunal de Justiça para fins de confir- mação da sentença de improcedência.",
       "is_correct": false,
-      "explanation": "A Lei nº 14.230/2021 extinguiu expressamente o instituto da remessa necessária (reexame obrigatório) nas sentenças de improcedência de ação de improbidade administrativa. ARROW-LEFT VOLTAR À QUESTÃO 851"
+      "explanation": "A Lei nº 14.230/2021 extinguiu expressamente o instituto da remessa necessária (reexame obrigatório) nas sentenças de improcedência de ação de improbidade administrativa."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021, passou a exigir o dolo específico para a configuração de qualquer ato de improbidade. Para evitar a extinção do processo sem resolução de mérito quanto à ilegalidade verificada, admite-se a conversão da ação de improbidade em ação civil pública comum, permitindo a busca pelo ressarcimento ao erário ou anulação do ato, sem a imposição das sanções típicas da LIA. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\nesta Lei deverá deduzir o ressarcimento ocorrido nas instâncias criminal, civil e administrativa\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\npelo ato de improbidade, observados os impactos econômicos e sociais das sanções, de forma a\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\njudicialmente, caso este venha a responder ação por improbidade administrativa, até que a\n§ 17. Da decisão que converter a ação de improbidade em ação civil pública caberá\n\nAplicação à questão: A Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021, passou a exigir o dolo específico para a configuração de qualquer ato de improbidade. Para evitar a extinção do processo sem resolução de mérito quanto à ilegalidade verificada, admite-se a conversão da ação de improbidade em ação civil pública comum, permitindo a busca pelo ressarcimento ao erário ou anulação do ato, sem a imposição das sanções típicas da LIA. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+    "resolution": "A Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021, passou a exigir o dolo específico para a configuração de qualquer ato de improbidade. Para evitar a extinção do processo sem resolução de mérito quanto à ilegalidade verificada, admite-se a conversão da ação de improbidade em ação civil pública comum, permitindo a busca pelo ressarcimento ao erário ou anulação do ato, sem a imposição das sanções típicas da LIA.",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 12. Independentemente do ressarcimento integral do dano patrimonial, se\nesta Lei deverá deduzir o ressarcimento ocorrido nas instâncias criminal, civil e administrativa\nlegislação específica, está o responsável pelo ato de improbidade sujeito às seguintes\npelo ato de improbidade, observados os impactos econômicos e sociais das sanções, de forma a\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\njudicialmente, caso este venha a responder ação por improbidade administrativa, até que a\n§ 17. Da decisão que converter a ação de improbidade em ação civil pública caberá\n\nAplicação à questão: A Lei nº 8.429/1992, com as alterações da Lei nº 14.230/2021, passou a exigir o dolo específico para a configuração de qualquer ato de improbidade. Para evitar a extinção do processo sem resolução de mérito quanto à ilegalidade verificada, admite-se a conversão da ação de improbidade em ação civil pública comum, permitindo a busca pelo ressarcimento ao erário ou anulação do ato, sem a imposição das sanções típicas da LIA."
   }
 }
 ```
@@ -1401,13 +1401,13 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "Ocorrer o arquivamento do inquérito policial por falta de indícios mínimos de autoria.",
       "is_correct": false,
-      "explanation": "O arquivamento de inquérito não tem o mesmo valor de uma sentença judicial absolutória por inexistência de fato ou negativa de autoria para fins de vinculação. ARROW-LEFT VOLTAR À QUESTÃO 852"
+      "explanation": "O arquivamento de inquérito não tem o mesmo valor de uma sentença judicial absolutória por inexistência de fato ou negativa de autoria para fins de vinculação."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "O STF declarou inconstitucional, nas ADIs 7.156 e 7.236, o art. 21, § 4º, que fazia a absolvição criminal confirmada por colegiado impedir a ação de improbidade por qualquer fundamento. Hoje só vinculam a esfera da improbidade a absolvição por inexistência do fato, por negativa de autoria ou pelo reconhecimento de excludente de ilicitude (lógica do art. 935 do Código Civil e dos arts. 65 e 66 do Código de Processo Penal). Entre as alternativas, a única hipótese vinculante é a da . 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n§ 19. Não se aplicam na ação de improbidade administrativa:\nIII - o ajuizamento de mais de uma ação de improbidade administrativa pelo\n\nArt. 21. A aplicação das sanções previstas nesta Lei independe:\nimprobidade quando concluírem pela inexistência da conduta ou pela negativa da autoria.\n§ 4º A absolvição criminal em ação que discuta os mesmos fatos, confirmada por\noutubro de 1941 (Código de Processo Penal). (Parágrafo acrescido pela Lei nº 14.230, de\n\nAplicação à questão: O STF declarou inconstitucional, nas ADIs 7.156 e 7.236, o art. 21, § 4º, que fazia a absolvição criminal confirmada por colegiado impedir a ação de improbidade por qualquer fundamento. Hoje só vinculam a esfera da improbidade a absolvição por inexistência do fato, por negativa de autoria ou pelo reconhecimento de excludente de ilicitude (lógica do art. 935 do Código Civil e dos arts. 65 e 66 do Código de Processo Penal). Entre as alternativas, a única hipótese vinculante é a da . 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+    "resolution": "O STF declarou inconstitucional, nas ADIs 7.156 e 7.236, o art. 21, § 4º, que fazia a absolvição criminal confirmada por colegiado impedir a ação de improbidade por qualquer fundamento. Hoje só vinculam a esfera da improbidade a absolvição por inexistência do fato, por negativa de autoria ou pelo reconhecimento de excludente de ilicitude (lógica do art. 935 do Código Civil e dos arts. 65 e 66 do Código de Processo Penal). Entre as alternativas, a única hipótese vinculante é a da .",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n§ 19. Não se aplicam na ação de improbidade administrativa:\nIII - o ajuizamento de mais de uma ação de improbidade administrativa pelo\n\nArt. 21. A aplicação das sanções previstas nesta Lei independe:\nimprobidade quando concluírem pela inexistência da conduta ou pela negativa da autoria.\n§ 4º A absolvição criminal em ação que discuta os mesmos fatos, confirmada por\noutubro de 1941 (Código de Processo Penal). (Parágrafo acrescido pela Lei nº 14.230, de\n\nAplicação à questão: O STF declarou inconstitucional, nas ADIs 7.156 e 7.236, o art. 21, § 4º, que fazia a absolvição criminal confirmada por colegiado impedir a ação de improbidade por qualquer fundamento. Hoje só vinculam a esfera da improbidade a absolvição por inexistência do fato, por negativa de autoria ou pelo reconhecimento de excludente de ilicitude (lógica do art. 935 do Código Civil e dos arts. 65 e 66 do Código de Processo Penal). Entre as alternativas, a única hipótese vinculante é a da ."
   }
 }
 ```
@@ -1439,9 +1439,9 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "B",
-      "text": "O prazo prescricional é de 8 anos, contado a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "O prazo prescricional é de 8 anos, contado a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência.",
       "is_correct": true,
-      "explanation": "Reflete o novo caput do Art. 23 da Lei 8.429/92. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "Reflete o novo caput do Art. 23 da Lei 8.429/92."
     },
     {
       "id": "C",
@@ -1459,7 +1459,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "O prazo prescricional para as ações de ressarcimento ao erário fundadas em atos dolosos de improbidade é de 4 anos.",
       "is_correct": false,
-      "explanation": "O STF decidiu (Tema 897) que ações de ressarcimento ao erário fundadas em atos dolosos de improbidade são imprescritíveis, embora a LIA tente estabelecer prazos para as sanções. ARROW-LEFT VOLTAR À QUESTÃO 853"
+      "explanation": "O STF decidiu (Tema 897) que ações de ressarcimento ao erário fundadas em atos dolosos de improbidade são imprescritíveis, embora a LIA tente estabelecer prazos para as sanções."
     }
   ],
   "answer_key": "B",
@@ -1505,11 +1505,11 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "C",
       "text": "As sanções de natureza pecuniária previstas na Lei de Improbidade Administrativa devem ser compensadas com sanções de mesma natureza que tenham sido aplicadas ao agente público pelos mesmos fatos em outras esferas sancionatórias.",
       "is_correct": true,
-      "explanation": "Reflete a regra de compensação do art. 21, § 5º, para evitar a dupla punição pelo mesmo fato. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "Reflete a regra de compensação do art. 21, § 5º, para evitar a dupla punição pelo mesmo fato."
     },
     {
       "id": "D",
-      "text": "A absolvição do agente público em processo administrativo disciplinar, por insufici- ência de provas, impede o prosseguimento da ação de improbidade administrativa fundada nos mesmos fatos, em observância ao princípio da segurança jurídica. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "A absolvição do agente público em processo administrativo disciplinar, por insufici- ência de provas, impede o prosseguimento da ação de improbidade administrativa fundada nos mesmos fatos, em observância ao princípio da segurança jurídica.",
       "is_correct": false,
       "explanation": "Apenas a absolvição criminal que reconheça a inexistência do fato, a negativa de autoria ou excludente de ilicitude vincula as demais esferas. A absolvição administrativa por falta de provas não impede a ação de improbidade."
     },
@@ -1517,7 +1517,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "As sanções de suspensão de direitos políticos e de perda da função pública, por serem de natureza política e administrativa, produzem efeitos imediatos após a prolação da sentença condenatória em primeira instância, independentemente de recurso.",
       "is_correct": false,
-      "explanation": "Conforme o Art. 20 da LIA, a perda da função pública e a suspensão dos direitos políticos só se efetivam com o trânsito em julgado da sentença condenatória. ARROW-LEFT VOLTAR À QUESTÃO 854"
+      "explanation": "Conforme o Art. 20 da LIA, a perda da função pública e a suspensão dos direitos políticos só se efetivam com o trânsito em julgado da sentença condenatória."
     }
   ],
   "answer_key": "C",
@@ -1569,13 +1569,13 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "D",
       "text": "O afastamento cautelar do agente público de suas funções, quando determinado pelo magistrado para garantir a instrução processual, implica a suspensão tempo- rária de sua remuneração até o desfecho da lide.",
       "is_correct": false,
-      "explanation": "O afastamento cautelar do agente público, previsto no Art. 20, § 1º, da LIA, ocorre sem prejuízo da remuneração, sendo vedado o corte de vencimentos durante esse período. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "O afastamento cautelar do agente público, previsto no Art. 20, § 1º, da LIA, ocorre sem prejuízo da remuneração, sendo vedado o corte de vencimentos durante esse período."
     },
     {
       "id": "E",
-      "text": "As sanções de perda da função pública e de suspensão dos direitos políticos produ- zem efeitos imediatos após a prolação da sentença condenatória, independente- mente da interposição de recursos. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) 2.3.2 Questões Difíceis",
+      "text": "As sanções de perda da função pública e de suspensão dos direitos políticos produ- zem efeitos imediatos após a prolação da sentença condenatória, independente- mente da interposição de recursos. 2.3.2 Questões Difíceis",
       "is_correct": false,
-      "explanation": "Conforme o Art. 20, caput, da LIA, a perda da função pública e a suspensão dos direitos políticos só se efetivam com o trânsito em julgado da sentença condenatória. ARROW-LEFT VOLTAR À QUESTÃO 855"
+      "explanation": "Conforme o Art. 20, caput, da LIA, a perda da função pública e a suspensão dos direitos políticos só se efetivam com o trânsito em julgado da sentença condenatória."
     }
   ],
   "answer_key": "C",
@@ -1631,9 +1631,9 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "A responsabilidade dos herdeiros é integral, independentemente do valor transfe- rido na sucessão. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "A responsabilidade dos herdeiros é integral, independentemente do valor transfe- rido na sucessão.",
       "is_correct": false,
-      "explanation": "A responsabilidade é limitada ao valor da herança (intra vires hereditatis). ARROW-LEFT VOLTAR À QUESTÃO 856 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "A responsabilidade é limitada ao valor da herança (intra vires hereditatis)."
     }
   ],
   "answer_key": "B",
@@ -1691,7 +1691,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "Configura, por si só, ato contra os princípios da administração pública, por violar o dever de eficiência.",
       "is_correct": false,
-      "explanation": "O ato contra princípios exige conduta prevista no rol taxativo do art. 11, dolo e fim de obter proveito ou benefício indevido; a simples divergência não o configura por si só. ARROW-LEFT VOLTAR À QUESTÃO 857 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "O ato contra princípios exige conduta prevista no rol taxativo do art. 11, dolo e fim de obter proveito ou benefício indevido; a simples divergência não o configura por si só."
     }
   ],
   "answer_key": "C",
@@ -1719,7 +1719,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Para a configuração de ato de improbidade administrativa que atenta contra os princípios da administração pública (Art. 11), a Lei nº 8.429/1992 exige, além da conduta estar tipificada no rol taxativo: 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+  "question_text": "Para a configuração de ato de improbidade administrativa que atenta contra os princípios da administração pública (Art. 11), a Lei nº 8.429/1992 exige, além da conduta estar tipificada no rol taxativo:",
   "alternatives": [
     {
       "id": "A",
@@ -1749,7 +1749,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "A demonstração de prejuízo financeiro efetivo aos cofres públicos.",
       "is_correct": false,
-      "explanation": "Atos contra princípios (Art. 11) são residuais e não exigem, por definição, prejuízo ao erário (que é o Art. 10). ARROW-LEFT VOLTAR À QUESTÃO 858"
+      "explanation": "Atos contra princípios (Art. 11) são residuais e não exigem, por definição, prejuízo ao erário (que é o Art. 10)."
     }
   ],
   "answer_key": "A",
@@ -1799,7 +1799,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "D",
-      "text": "A existência de divergência interpretativa da lei, baseada em jurisprudência não pacificada, é fundamento suficiente para a condenação do agente por violação ao princípio da moralidade. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "A existência de divergência interpretativa da lei, baseada em jurisprudência não pacificada, é fundamento suficiente para a condenação do agente por violação ao princípio da moralidade.",
       "is_correct": false,
       "explanation": "A divergência interpretativa fundamentada em entendimentos do STF, de tribunais superiores ou, na falta deles, de decisões colegiadas de segunda instância afasta a improbidade; jamais serve de fundamento para condenação."
     },
@@ -1807,13 +1807,13 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "A conduta só será punível se, além de estar taxativamente prevista na lei, for demonstrada a lesividade relevante ao bem jurídico tutelado e o fim de obter proveito ou benefício indevido.",
       "is_correct": true,
-      "explanation": "Reflete os novos requisitos cumulativos para a tipificação da improbidade administrativa por violação a princípios, focando na desonestidade real e relevante. ARROW-LEFT VOLTAR À QUESTÃO 859"
+      "explanation": "Reflete os novos requisitos cumulativos para a tipificação da improbidade administrativa por violação a princípios, focando na desonestidade real e relevante."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A nova sistemática da LIA exige, para os atos do Art. 11 (princípios), que a conduta seja taxativa, apresente lesividade relevante e que o agente tenha agido com o dolo 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) específico de obter proveito ou benefício indevido para si ou para outrem.",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 11. Constitui ato de improbidade administrativa que atenta contra os princípios\n§ 4º Os atos de improbidade de que trata este artigo exigem lesividade relevante ao\nfim de obter proveito ou benefício indevido para si ou para outra pessoa ou entidade.\nXII - praticar, no âmbito da administração pública e com recursos do erário, ato de\n\nArt. 10. Constitui ato de improbidade administrativa que causa lesão ao erário\nDos Atos de Improbidade Administrativa Decorrentes de Concessão ou Aplicação\nVII - conceder benefício administrativo ou fiscal sem a observância das\nimprobidade administrativa, salvo se comprovado ato doloso praticado com essa finalidade.\n\nAplicação à questão: A nova sistemática da LIA exige, para os atos do Art. 11 (princípios), que a conduta seja taxativa, apresente lesividade relevante e que o agente tenha agido com o dolo 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) específico de obter proveito ou benefício indevido para si ou para outrem."
+    "resolution": "A nova sistemática da LIA exige, para os atos do Art. 11 (princípios), que a conduta seja taxativa, apresente lesividade relevante e que o agente tenha agido com o dolo específico de obter proveito ou benefício indevido para si ou para outrem.",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 11. Constitui ato de improbidade administrativa que atenta contra os princípios\n§ 4º Os atos de improbidade de que trata este artigo exigem lesividade relevante ao\nfim de obter proveito ou benefício indevido para si ou para outra pessoa ou entidade.\nXII - praticar, no âmbito da administração pública e com recursos do erário, ato de\n\nArt. 10. Constitui ato de improbidade administrativa que causa lesão ao erário\nDos Atos de Improbidade Administrativa Decorrentes de Concessão ou Aplicação\nVII - conceder benefício administrativo ou fiscal sem a observância das\nimprobidade administrativa, salvo se comprovado ato doloso praticado com essa finalidade.\n\nAplicação à questão: A nova sistemática da LIA exige, para os atos do Art. 11 (princípios), que a conduta seja taxativa, apresente lesividade relevante e que o agente tenha agido com o dolo específico de obter proveito ou benefício indevido para si ou para outrem."
   }
 }
 ```
@@ -1863,15 +1863,15 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "A configuração do ato de improbidade independe da intenção do agente, bastando a voluntariedade da conduta e a desconformidade com o ordenamento jurídico. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "A configuração do ato de improbidade independe da intenção do agente, bastando a voluntariedade da conduta e a desconformidade com o ordenamento jurídico.",
       "is_correct": false,
-      "explanation": "A lei agora exige o dolo específico, ou seja, a vontade livre e consciente de alcançar o resultado ilícito tipificado, não bastando a mera voluntariedade ou ilegalidade objetiva. ARROW-LEFT VOLTAR À QUESTÃO 860"
+      "explanation": "A lei agora exige o dolo específico, ou seja, a vontade livre e consciente de alcançar o resultado ilícito tipificado, não bastando a mera voluntariedade ou ilegalidade objetiva."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "De acordo com o art. 1º, § 8º, da Lei nº 8.429/1992, não configura improbidade a ação ou omissão decorrente de divergência interpretativa da lei baseada em jurisprudência, ainda que não pacificada, mesmo que não venha a prevalecer depois nos tribunais ou nos órgãos de controle. No julgamento das ADIs 7.156 e 7.236 (concluído em 01/07/2026), o STF manteve o dispositivo com ajustes: a jurisprudência que ampara o agente deve ser do STF, de tribunais superiores ou, na ausência deles, de decisões colegiadas de 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) tribunais de segunda instância, requisito atendido no caso.",
-    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 1º O sistema de responsabilização por atos de improbidade administrativa\n§ 8º Não configura improbidade a ação ou omissão decorrente de divergência\ninterpretativa da lei, baseada em jurisprudência, ainda que não pacificada, mesmo que não\nvenha a ser posteriormente prevalecente nas decisões dos órgãos de controle ou dos tribunais\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\njudicialmente, caso este venha a responder ação por improbidade administrativa, até que a\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n§ 19. Não se aplicam na ação de improbidade administrativa:\n\nAplicação à questão: De acordo com o art. 1º, § 8º, da Lei nº 8.429/1992, não configura improbidade a ação ou omissão decorrente de divergência interpretativa da lei baseada em jurisprudência, ainda que não pacificada, mesmo que não venha a prevalecer depois nos tribunais ou nos órgãos de controle. No julgamento das ADIs 7.156 e 7.236 (concluído em 01/07/2026), o STF manteve o dispositivo com ajustes: a jurisprudência que ampara o agente deve ser do STF, de tribunais superiores ou, na ausência deles, de decisões colegiadas de 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) tribunais de segunda instância, requisito atendido no caso."
+    "resolution": "De acordo com o art. 1º, § 8º, da Lei nº 8.429/1992, não configura improbidade a ação ou omissão decorrente de divergência interpretativa da lei baseada em jurisprudência, ainda que não pacificada, mesmo que não venha a prevalecer depois nos tribunais ou nos órgãos de controle. No julgamento das ADIs 7.156 e 7.236 (concluído em 01/07/2026), o STF manteve o dispositivo com ajustes: a jurisprudência que ampara o agente deve ser do STF, de tribunais superiores ou, na ausência deles, de decisões colegiadas de tribunais de segunda instância, requisito atendido no caso.",
+    "theoretical_content": "A Lei nº 8.429/1992, profundamente alterada pela Lei nº 14.230/2021, disciplina a responsabilização por atos de improbidade administrativa e protege a probidade na organização do Estado e a integridade do patrimônio público e social. Após a reforma, a configuração dos atos tipificados nos arts. 9º, 10 e 11 exige conduta dolosa; a mera voluntariedade, o exercício regular da função ou uma ilegalidade isolada não bastam, sem demonstração do elemento subjetivo exigido.\n\nA lei organiza os atos de improbidade em três grandes grupos: enriquecimento ilícito (art. 9º), lesão ao erário (art. 10) e violação a princípios da Administração Pública (art. 11), observados os requisitos legais de cada tipo. A responsabilização exige enquadramento em conduta tipificada e demonstração dos elementos pertinentes. A divergência interpretativa razoável, fundada em jurisprudência, não configura por si só improbidade.\n\nEstude também as sanções, a individualização e proporcionalidade, o ressarcimento, a indisponibilidade de bens, a legitimidade e o procedimento da ação, os acordos, a prescrição e os efeitos das decisões. Não confunda responsabilidade por improbidade com responsabilidade civil, penal ou disciplinar: podem coexistir, mas possuem pressupostos e consequências próprios. Em temas alterados pela reforma, a literalidade da versão normativa fornecida deve ser lida em conjunto com decisões vinculantes do STF mencionadas nos materiais.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 1º O sistema de responsabilização por atos de improbidade administrativa\n§ 8º Não configura improbidade a ação ou omissão decorrente de divergência\ninterpretativa da lei, baseada em jurisprudência, ainda que não pacificada, mesmo que não\nvenha a ser posteriormente prevalecente nas decisões dos órgãos de controle ou dos tribunais\n\nArt. 17. A ação para a aplicação das sanções de que trata esta Lei será proposta pelo\njudicialmente, caso este venha a responder ação por improbidade administrativa, até que a\npoderá, em decisão motivada, converter a ação de improbidade administrativa em ação civil\n§ 19. Não se aplicam na ação de improbidade administrativa:\n\nAplicação à questão: De acordo com o art. 1º, § 8º, da Lei nº 8.429/1992, não configura improbidade a ação ou omissão decorrente de divergência interpretativa da lei baseada em jurisprudência, ainda que não pacificada, mesmo que não venha a prevalecer depois nos tribunais ou nos órgãos de controle. No julgamento das ADIs 7.156 e 7.236 (concluído em 01/07/2026), o STF manteve o dispositivo com ajustes: a jurisprudência que ampara o agente deve ser do STF, de tribunais superiores ou, na ausência deles, de decisões colegiadas de tribunais de segunda instância, requisito atendido no caso."
   }
 }
 ```
@@ -1923,7 +1923,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "As sanções devem ser coordenadas para evitar o bis in idem, considerando-se punições já aplicadas com base na Lei Anticorrupção.",
       "is_correct": true,
-      "explanation": "O art. 12, § 7º, determina que as sanções aplicadas a pessoas jurídicas com base na LIA e na Lei Anticorrupção observem o princípio do non bis in idem. ARROW-LEFT VOLTAR À QUESTÃO 861"
+      "explanation": "O art. 12, § 7º, determina que as sanções aplicadas a pessoas jurídicas com base na LIA e na Lei Anticorrupção observem o princípio do non bis in idem."
     }
   ],
   "answer_key": "E",
@@ -1951,7 +1951,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Sobre a contagem do prazo de suspensão dos direitos políticos na Lei de Improbidade Administrativa, considerando o julgamento das ADIs 7.156 e 7.236 pelo STF, assinale a alternativa correta: 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+  "question_text": "Sobre a contagem do prazo de suspensão dos direitos políticos na Lei de Improbidade Administrativa, considerando o julgamento das ADIs 7.156 e 7.236 pelo STF, assinale a alternativa correta:",
   "alternatives": [
     {
       "id": "A",
@@ -1963,7 +1963,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "B",
       "text": "A suspensão de direitos políticos é perpétua em casos de enriquecimento ilícito que causem dano superior a um milhão de reais.",
       "is_correct": false,
-      "explanation": "Não existe pena perpétua no ordenamento jurídico brasileiro; o prazo máximo na LIA é de 14 anos. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "Não existe pena perpétua no ordenamento jurídico brasileiro; o prazo máximo na LIA é de 14 anos."
     },
     {
       "id": "C",
@@ -1981,7 +1981,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "E",
       "text": "O prazo de suspensão é contado a partir do trânsito em julgado da condenação, sem cômputo retroativo do período entre a decisão colegiada e o trânsito em julgado.",
       "is_correct": true,
-      "explanation": "Sem o § 10, o prazo da suspensão é cumprido integralmente a partir do momento em que a sanção pode produzir efeitos, isto é, do trânsito em julgado. ARROW-LEFT VOLTAR À QUESTÃO 862"
+      "explanation": "Sem o § 10, o prazo da suspensão é cumprido integralmente a partir do momento em que a sanção pode produzir efeitos, isto é, do trânsito em julgado."
     }
   ],
   "answer_key": "E",
@@ -2025,7 +2025,7 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "C",
-      "text": "A aplicação das sanções de improbidade administrativa a pessoas jurídicas exclui a possibilidade de aplicação de sanções previstas na Lei Anticorrupção (Lei nº 12.846/2013). 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)",
+      "text": "A aplicação das sanções de improbidade administrativa a pessoas jurídicas exclui a possibilidade de aplicação de sanções previstas na Lei Anticorrupção (Lei nº 12.846/2013).",
       "is_correct": false,
       "explanation": "A regra é a inversa: pelo art. 3º, § 2º, são as sanções da LIA que não se aplicam à pessoa jurídica quando o ato também for sancionado como ato lesivo pela Lei Anticorrupção; e o art. 12, § 7º, impõe a observância do non bis in idem."
     },
@@ -2033,13 +2033,13 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
       "id": "D",
       "text": "As sanções de suspensão de direitos políticos e de multa civil podem ser objeto de execução provisória logo após a confirmação da sentença por órgão colegiado.",
       "is_correct": false,
-      "explanation": "A execução das sanções da LIA (incluindo multa e suspensão de direitos) exige o trânsito em julgado da sentença condenatória. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "A execução das sanções da LIA (incluindo multa e suspensão de direitos) exige o trânsito em julgado da sentença condenatória."
     },
     {
       "id": "E",
       "text": "Para fins de contagem do prazo de suspensão dos direitos políticos, computa-se retroativamente o período transcorrido entre a decisão colegiada e o trânsito em julgado.",
       "is_correct": false,
-      "explanation": "Essa regra (art. 12, § 10) foi declarada inconstitucional pelo STF nas ADIs 7.156 e 7.236; o prazo conta a partir do trânsito em julgado, sem cômputo retroativo. ARROW-LEFT VOLTAR À QUESTÃO 863"
+      "explanation": "Essa regra (art. 12, § 10) foi declarada inconstitucional pelo STF nas ADIs 7.156 e 7.236; o prazo conta a partir do trânsito em julgado, sem cômputo retroativo."
     }
   ],
   "answer_key": "B",
@@ -2095,9 +2095,9 @@ Material composto por 35 questões, de Legislação sobre a Lei de Improbidade A
     },
     {
       "id": "E",
-      "text": "A sentença de improcedência em improbidade administrativa é considerada inexis- tente se não houver confirmação pelo Tribunal de Justiça. 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa) 2.3.3 Gabaritos e Comentários 829",
+      "text": "A sentença de improcedência em improbidade administrativa é considerada inexis- tente se não houver confirmação pelo Tribunal de Justiça.",
       "is_correct": false,
-      "explanation": "A sentença é válida e eficaz, produzindo todos os seus efeitos após o prazo recursal. ARROW-LEFT VOLTAR À QUESTÃO 864"
+      "explanation": "A sentença é válida e eficaz, produzindo todos os seus efeitos após o prazo recursal."
     }
   ],
   "answer_key": "D",

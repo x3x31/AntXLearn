@@ -67,7 +67,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Competências privativas do Poder Executivo.",
       "is_correct": false,
-      "explanation": "Fundamentos são a base política e jurídica do ente, enquanto competências referem-se às atribuições de fazer ou legislar. ARROW-LEFT VOLTAR À QUESTÃO 750"
+      "explanation": "Fundamentos são a base política e jurídica do ente, enquanto competências referem-se às atribuições de fazer ou legislar."
     }
   ],
   "answer_key": "A",
@@ -113,11 +113,11 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "C",
       "text": "O Município pode adotar logotipos personalizados para cada nova gestão adminis- trativa.",
       "is_correct": false,
-      "explanation": "A LOM proíbe a criação de logotipos de gestão, exigindo o uso do Brasão oficial. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A LOM proíbe a criação de logotipos de gestão, exigindo o uso do Brasão oficial."
     },
     {
       "id": "D",
-      "text": "A Bandeira e o Hino são os únicos símbolos oficiais, sendo o Brasão facultativo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "A Bandeira e o Hino são os únicos símbolos oficiais, sendo o Brasão facultativo.",
       "is_correct": false,
       "explanation": "São três os símbolos oficiais: Bandeira, Hino e Brasão."
     },
@@ -125,7 +125,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "É permitida a fixação de fotografias do Prefeito em todas as repartições públicas municipais.",
       "is_correct": false,
-      "explanation": "Existe proibição expressa de pendurar fotos do Prefeito ou do Presidente da Câmara em repartições públicas. ARROW-LEFT VOLTAR À QUESTÃO 751"
+      "explanation": "Existe proibição expressa de pendurar fotos do Prefeito ou do Presidente da Câmara em repartições públicas."
     }
   ],
   "answer_key": "A",
@@ -183,7 +183,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "O valor total investido na obra ou serviço público anunciado.",
       "is_correct": false,
-      "explanation": "A transparência de gastos é um dever da administração e não é vedada. ARROW-LEFT VOLTAR À QUESTÃO 752 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A transparência de gastos é um dever da administração e não é vedada."
     }
   ],
   "answer_key": "D",
@@ -211,7 +211,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que tange ao provimento de cargos públicos no Município, o prazo de validade do concurso público será de: 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+  "question_text": "No que tange ao provimento de cargos públicos no Município, o prazo de validade do concurso público será de:",
   "alternatives": [
     {
       "id": "A",
@@ -241,7 +241,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Até 4 (quatro) anos, sem possibilidade de prorrogação.",
       "is_correct": false,
-      "explanation": "O prazo inicial é de ’até 2 anos’. Embora o total possa chegar a 4 anos com a prorrogação, a redação técnica correta é a da alternativa A. ARROW-LEFT VOLTAR À QUESTÃO 753"
+      "explanation": "O prazo inicial é de ’até 2 anos’. Embora o total possa chegar a 4 anos com a prorrogação, a redação técnica correta é a da alternativa A."
     }
   ],
   "answer_key": "A",
@@ -297,15 +297,15 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "A Câmara Municipal de Mossoró é composta por 23 vereadores, sendo a idade mínima para o cargo de 18 anos. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "A Câmara Municipal de Mossoró é composta por 23 vereadores, sendo a idade mínima para o cargo de 18 anos.",
       "is_correct": true,
-      "explanation": "Reflete exatamente a composição numérica (23) e o requisito etário (18 anos) previstos para o legislativo local. ARROW-LEFT VOLTAR À QUESTÃO 754"
+      "explanation": "Reflete exatamente a composição numérica (23) e o requisito etário (18 anos) previstos para o legislativo local."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "A Lei Orgânica de Mossoró fixa em 23 o número de vereadores e estabelece a idade mínima de 18 anos para o cargo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\npreencham os requisitos estabelecidos em lei; (Redação dada pela Emenda à Lei Orgânica 04/2016)\nXII - Os vencimentos dos cargos do Poder Legislativo não poderão ser superiores aos pagos pelo Poder\nXXI - Ressalvados os casos específicos na legislação, as obras, os serviços, compras e alienações serão\n\nArt. 19. O Regime Próprio de Previdência Social - RPPS dos servidores titulares de cargos efetivos terá\nanos de idade, na forma da Lei Complementar Federal n° 152, de dezembro de 2015;\nIII – aos 60 (sessenta) anos de idade, se mulher, e aos 65 (sessenta e cinco) anos de idade, se homem,\n§7°. As idades mínimas do servidor exercente do cargo de magistério serão de 58 (cinquenta e oito) anos,\n\nAplicação à questão: A Lei Orgânica de Mossoró fixa em 23 o número de vereadores e estabelece a idade mínima de 18 anos para o cargo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "A Lei Orgânica de Mossoró fixa em 23 o número de vereadores e estabelece a idade mínima de 18 anos para o cargo.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\npreencham os requisitos estabelecidos em lei; (Redação dada pela Emenda à Lei Orgânica 04/2016)\nXII - Os vencimentos dos cargos do Poder Legislativo não poderão ser superiores aos pagos pelo Poder\nXXI - Ressalvados os casos específicos na legislação, as obras, os serviços, compras e alienações serão\n\nArt. 19. O Regime Próprio de Previdência Social - RPPS dos servidores titulares de cargos efetivos terá\nanos de idade, na forma da Lei Complementar Federal n° 152, de dezembro de 2015;\nIII – aos 60 (sessenta) anos de idade, se mulher, e aos 65 (sessenta e cinco) anos de idade, se homem,\n§7°. As idades mínimas do servidor exercente do cargo de magistério serão de 58 (cinquenta e oito) anos,\n\nAplicação à questão: A Lei Orgânica de Mossoró fixa em 23 o número de vereadores e estabelece a idade mínima de 18 anos para o cargo."
   }
 }
 ```
@@ -339,7 +339,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "B",
       "text": "15 dias, aceito por dois terços dos membros.",
       "is_correct": false,
-      "explanation": "Embora o prazo de 15 dias esteja correto, o quórum exigido é maioria absoluta, e não 2/3. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "Embora o prazo de 15 dias esteja correto, o quórum exigido é maioria absoluta, e não 2/3."
     },
     {
       "id": "C",
@@ -357,7 +357,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "30 dias, aceito pela Mesa Diretora.",
       "is_correct": false,
-      "explanation": "O prazo é de 15 dias e a competência para aceitar a justificativa é do Plenário (maioria absoluta), não apenas da Mesa Diretora. ARROW-LEFT VOLTAR À QUESTÃO 755"
+      "explanation": "O prazo é de 15 dias e a competência para aceitar a justificativa é do Plenário (maioria absoluta), não apenas da Mesa Diretora."
     }
   ],
   "answer_key": "A",
@@ -385,7 +385,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que tange à composição e ao funcionamento da Mesa Diretora da Câmara Municipal de Mossoró, assinale a alternativa correta quanto à duração do mandato e à possibilidade de recondução. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+  "question_text": "No que tange à composição e ao funcionamento da Mesa Diretora da Câmara Municipal de Mossoró, assinale a alternativa correta quanto à duração do mandato e à possibilidade de recondução.",
   "alternatives": [
     {
       "id": "A",
@@ -415,7 +415,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Mandato de 2 anos, sendo permitida a reeleição.",
       "is_correct": true,
-      "explanation": "A alternativa descreve fielmente o período de 2 anos e a possibilidade de reeleição prevista na norma municipal. ARROW-LEFT VOLTAR À QUESTÃO 756 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A alternativa descreve fielmente o período de 2 anos e a possibilidade de reeleição prevista na norma municipal."
     }
   ],
   "answer_key": "E",
@@ -471,9 +471,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "35 anos e 5 dias. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "35 anos e 5 dias.",
       "is_correct": false,
-      "explanation": "A idade de 35 anos aplica-se ao cargo de Presidente da República e Senador. ARROW-LEFT VOLTAR À QUESTÃO 757"
+      "explanation": "A idade de 35 anos aplica-se ao cargo de Presidente da República e Senador."
     }
   ],
   "answer_key": "A",
@@ -531,13 +531,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Empresa Pública.",
       "is_correct": false,
-      "explanation": "A empresa pública possui capital exclusivo do Município e pode assumir qualquer forma jurídica, mas visa a exploração de atividade econômica ou serviço público. ARROW-LEFT VOLTAR À QUESTÃO 758"
+      "explanation": "A empresa pública possui capital exclusivo do Município e pode assumir qualquer forma jurídica, mas visa a exploração de atividade econômica ou serviço público."
     }
   ],
   "answer_key": "B",
   "explanation": {
-    "resolution": "Correta. Conforme a estrutura da Administração Indireta, a Fundação Pública é a entidade com personalidade de direito privado, sem fins lucrativos, cuja criação depende 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … de autorização legislativa.",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 98. A Administração Municipal é constituída dos órgãos integrados na estrutura administrativa da\nIV - Fundação pública - a entidade dotada de personalidade jurídica de direito privado, sem fins lucrativos,\nII - Empresa pública - a entidade dotada de personalidade jurídica de direito privado, com patrimônio e\nIII - Sociedade de economia mista - a entidade dotada de personalidade jurídica de direito privado, criada\n\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\nXX - Depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas\npública, sociedade de economia mista, ou fundação pública, cabendo Lei Complementar neste último caso\n§4°. As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos\n\nAplicação à questão: Correta. Conforme a estrutura da Administração Indireta, a Fundação Pública é a entidade com personalidade de direito privado, sem fins lucrativos, cuja criação depende 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … de autorização legislativa."
+    "resolution": "Correta. Conforme a estrutura da Administração Indireta, a Fundação Pública é a entidade com personalidade de direito privado, sem fins lucrativos, cuja criação depende de autorização legislativa.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 98. A Administração Municipal é constituída dos órgãos integrados na estrutura administrativa da\nIV - Fundação pública - a entidade dotada de personalidade jurídica de direito privado, sem fins lucrativos,\nII - Empresa pública - a entidade dotada de personalidade jurídica de direito privado, com patrimônio e\nIII - Sociedade de economia mista - a entidade dotada de personalidade jurídica de direito privado, criada\n\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\nXX - Depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas\npública, sociedade de economia mista, ou fundação pública, cabendo Lei Complementar neste último caso\n§4°. As pessoas jurídicas de direito público e as de direito privado prestadoras de serviços públicos\n\nAplicação à questão: Correta. Conforme a estrutura da Administração Indireta, a Fundação Pública é a entidade com personalidade de direito privado, sem fins lucrativos, cuja criação depende de autorização legislativa."
   }
 }
 ```
@@ -565,7 +565,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "A",
       "text": "5 dias úteis.",
       "is_correct": false,
-      "explanation": "O prazo de 5 dias é comum em processos licitatórios, mas não para certidões gerais conforme o texto. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "O prazo de 5 dias é comum em processos licitatórios, mas não para certidões gerais conforme o texto."
     },
     {
       "id": "B",
@@ -575,7 +575,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "C",
-      "text": "15 dias. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "15 dias.",
       "is_correct": true,
       "explanation": "A alternativa indica o prazo de 15 dias, que é o padrão estabelecido para o dever de informar do Município."
     },
@@ -589,7 +589,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "45 dias.",
       "is_correct": false,
-      "explanation": "O prazo de 45 dias é excessivo e não possui amparo no conteúdo estudado. ARROW-LEFT VOLTAR À QUESTÃO 759"
+      "explanation": "O prazo de 45 dias é excessivo e não possui amparo no conteúdo estudado."
     }
   ],
   "answer_key": "C",
@@ -645,9 +645,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Imposto sobre a Transmissão Inter Vivos, a qualquer título, por ato oneroso, de bens imóveis (ITBI). 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Imposto sobre a Transmissão Inter Vivos, a qualquer título, por ato oneroso, de bens imóveis (ITBI).",
       "is_correct": true,
-      "explanation": "O ITBI (Transmissão de Imóveis) compõe a tríade de impostos municipais junto ao IPTU e ao ISS. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … ARROW-LEFT VOLTAR À QUESTÃO 760"
+      "explanation": "O ITBI (Transmissão de Imóveis) compõe a tríade de impostos municipais junto ao IPTU e ao ISS."
     }
   ],
   "answer_key": "E",
@@ -705,7 +705,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Dia 20 de cada mês.",
       "is_correct": true,
-      "explanation": "O dia 20 é a data limite para o repasse financeiro ao Poder Legislativo. ARROW-LEFT VOLTAR À QUESTÃO 761 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "O dia 20 é a data limite para o repasse financeiro ao Poder Legislativo."
     }
   ],
   "answer_key": "E",
@@ -749,7 +749,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "C",
-      "text": "Suplementar, com prioridade para as entidades com fins lucrativos. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Suplementar, com prioridade para as entidades com fins lucrativos.",
       "is_correct": false,
       "explanation": "A participação é complementar, não suplementar, e a prioridade é para entidades sem fins lucrativos."
     },
@@ -763,7 +763,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Exclusiva, nos casos em que o Poder Público declarar insuficiência de recursos.",
       "is_correct": false,
-      "explanation": "A execução das ações de saúde é dever do Poder Público, sendo a participação privada apenas complementar. ARROW-LEFT VOLTAR À QUESTÃO 762"
+      "explanation": "A execução das ações de saúde é dever do Poder Público, sendo a participação privada apenas complementar."
     }
   ],
   "answer_key": "D",
@@ -821,13 +821,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Patrocínio exclusivo de atletas individuais em competições internacionais.",
       "is_correct": false,
-      "explanation": "Não há previsão de exclusividade para atletas individuais; a prioridade é o caráter educacional do esporte. ARROW-LEFT VOLTAR À QUESTÃO 763"
+      "explanation": "Não há previsão de exclusividade para atletas individuais; a prioridade é o caráter educacional do esporte."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "A Lei Orgânica estabelece que o Município tem o dever de fomentar o esporte, dando prioridade ao desporto educacional no que se refere à aplicação de recursos e incentivos. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 180. É dever do Município fomentar práticas desportivas formais e não formais, como direito de cada\nII - a destinação de recursos públicos para a promoção prioritária do desporto educacional e, casos\n§ 3°- O Município instituirá plano municipal de esporte e lazer, e o executará conforme lei específica.\num, observados: (Redação dada pela Emenda à Lei Orgânica 04/2016)\n\nArt.78. Compete ao Prefeito, entre outras atribuições:\nmatéria assistencial, educacional, cultural ou técnica. (Redação dada pela Emenda à Lei Orgânica 04/2016)\nXIV - Encaminhar aos órgãos competentes os planos de aplicação e as prestações de contas exigidas em lei;\nI - Iniciar o processo legislativo, na forma e casos previstos nesta Lei Orgânica;\n\nAplicação à questão: A Lei Orgânica estabelece que o Município tem o dever de fomentar o esporte, dando prioridade ao desporto educacional no que se refere à aplicação de recursos e incentivos. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "A Lei Orgânica estabelece que o Município tem o dever de fomentar o esporte, dando prioridade ao desporto educacional no que se refere à aplicação de recursos e incentivos.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 180. É dever do Município fomentar práticas desportivas formais e não formais, como direito de cada\nII - a destinação de recursos públicos para a promoção prioritária do desporto educacional e, casos\n§ 3°- O Município instituirá plano municipal de esporte e lazer, e o executará conforme lei específica.\num, observados: (Redação dada pela Emenda à Lei Orgânica 04/2016)\n\nArt.78. Compete ao Prefeito, entre outras atribuições:\nmatéria assistencial, educacional, cultural ou técnica. (Redação dada pela Emenda à Lei Orgânica 04/2016)\nXIV - Encaminhar aos órgãos competentes os planos de aplicação e as prestações de contas exigidas em lei;\nI - Iniciar o processo legislativo, na forma e casos previstos nesta Lei Orgânica;\n\nAplicação à questão: A Lei Orgânica estabelece que o Município tem o dever de fomentar o esporte, dando prioridade ao desporto educacional no que se refere à aplicação de recursos e incentivos."
   }
 }
 ```
@@ -849,7 +849,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A assistência social no Município de Mossoró é regida por princípios que visam a proteção dos cidadãos em situação de vulnerabilidade. Sobre a natureza dessa prestação, é correto 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … afirmar que ela será prestada:",
+  "question_text": "A assistência social no Município de Mossoró é regida por princípios que visam a proteção dos cidadãos em situação de vulnerabilidade. Sobre a natureza dessa prestação, é correto afirmar que ela será prestada:",
   "alternatives": [
     {
       "id": "A",
@@ -861,7 +861,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "B",
       "text": "Apenas aos cidadãos que contribuíram para a seguridade social municipal.",
       "is_correct": false,
-      "explanation": "A assistência social, diferentemente da previdência, não exige contribuição. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A assistência social, diferentemente da previdência, não exige contribuição."
     },
     {
       "id": "C",
@@ -879,7 +879,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "A quem dela necessitar, independentemente de contribuição à seguridade social.",
       "is_correct": true,
-      "explanation": "A universalidade do atendimento aos necessitados sem exigência de contribuição é o pilar da assistência social. ARROW-LEFT VOLTAR À QUESTÃO 764"
+      "explanation": "A universalidade do atendimento aos necessitados sem exigência de contribuição é o pilar da assistência social."
     }
   ],
   "answer_key": "E",
@@ -935,9 +935,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Destinar-se à proteção dos bens, serviços e instalações do Município. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Destinar-se à proteção dos bens, serviços e instalações do Município.",
       "is_correct": true,
-      "explanation": "Esta é a definição exata da finalidade da Guarda Municipal prevista na Lei Orgânica. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … ARROW-LEFT VOLTAR À QUESTÃO 765"
+      "explanation": "Esta é a definição exata da finalidade da Guarda Municipal prevista na Lei Orgânica."
     }
   ],
   "answer_key": "E",
@@ -993,9 +993,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "A metade do valor total da remuneração que o servidor percebia na ativa. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … 2.2.2 Questões de Nível Médio",
+      "text": "A metade do valor total da remuneração que o servidor percebia na ativa.",
       "is_correct": false,
-      "explanation": "Não há previsão legal para incidência sobre metade da remuneração da ativa. ARROW-LEFT VOLTAR À QUESTÃO 766 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "Não há previsão legal para incidência sobre metade da remuneração da ativa."
     }
   ],
   "answer_key": "B",
@@ -1053,7 +1053,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Distritos e bairros possuem a mesma natureza jurídica de divisão administrativa da sede.",
       "is_correct": false,
-      "explanation": "Bairros são divisões geográficas da sede; distritos são divisões administrativas com requisitos de infraestrutura próprios. ARROW-LEFT VOLTAR À QUESTÃO 767"
+      "explanation": "Bairros são divisões geográficas da sede; distritos são divisões administrativas com requisitos de infraestrutura próprios."
     }
   ],
   "answer_key": "A",
@@ -1085,7 +1085,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "alternatives": [
     {
       "id": "A",
-      "text": "I e III, apenas. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "I e III, apenas.",
       "is_correct": true,
       "explanation": "O transporte coletivo e o ordenamento do solo (uso e ocupação) são temas de interesse tipicamente local."
     },
@@ -1111,13 +1111,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "I, III e IV, apenas.",
       "is_correct": false,
-      "explanation": "O item IV é uma competência comum voltada ao zelo social amplo. ARROW-LEFT VOLTAR À QUESTÃO 768"
+      "explanation": "O item IV é uma competência comum voltada ao zelo social amplo."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "As competências privativas referem-se ao interesse local (transporte coletivo e uso do solo). A proteção do patrimônio e o combate à pobreza são competências comuns (compartilhadas com União e Estado). 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 14. Compete ao Município de Mossoró:\nI - Legislar sobre assuntos de interesse local;\npreservando a continuidade e unidade histórico/cultural do ambiente urbano;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\n\nArt. 15.  É de competência comum do Município de Mossoró, da União e do Estado do Rio Grande do\nX - Combater as causas da pobreza e os fatores de marginalização, promovendo a integração social dos\nXIV - Criar e manter serviço de proteção ao incêndio. (Redação dada pela Emenda à Lei Orgânica 04/2016)\nIII - Proteger os documentos, as obras e outros bens de valor histórico e cultural, os monumentos, as\n\nAplicação à questão: As competências privativas referem-se ao interesse local (transporte coletivo e uso do solo). A proteção do patrimônio e o combate à pobreza são competências comuns (compartilhadas com União e Estado). 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "As competências privativas referem-se ao interesse local (transporte coletivo e uso do solo). A proteção do patrimônio e o combate à pobreza são competências comuns (compartilhadas com União e Estado).",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 14. Compete ao Município de Mossoró:\nI - Legislar sobre assuntos de interesse local;\npreservando a continuidade e unidade histórico/cultural do ambiente urbano;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\n\nArt. 15.  É de competência comum do Município de Mossoró, da União e do Estado do Rio Grande do\nX - Combater as causas da pobreza e os fatores de marginalização, promovendo a integração social dos\nXIV - Criar e manter serviço de proteção ao incêndio. (Redação dada pela Emenda à Lei Orgânica 04/2016)\nIII - Proteger os documentos, as obras e outros bens de valor histórico e cultural, os monumentos, as\n\nAplicação à questão: As competências privativas referem-se ao interesse local (transporte coletivo e uso do solo). A proteção do patrimônio e o combate à pobreza são competências comuns (compartilhadas com União e Estado)."
   }
 }
 ```
@@ -1157,7 +1157,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "C",
       "text": "Ensino de Jovens e Adultos (EJA) exclusivamente.",
       "is_correct": false,
-      "explanation": "O EJA faz parte do sistema, mas a prioridade definida em lei abrange o fundamental e infantil como um todo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "O EJA faz parte do sistema, mas a prioridade definida em lei abrange o fundamental e infantil como um todo."
     },
     {
       "id": "D",
@@ -1167,9 +1167,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Ensino Especial para portadores de deficiência, de forma isolada. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Ensino Especial para portadores de deficiência, de forma isolada.",
       "is_correct": false,
-      "explanation": "O ensino especial é um dever, mas a organização prioritária do sistema foca nos níveis infantil e fundamental. ARROW-LEFT VOLTAR À QUESTÃO 769"
+      "explanation": "O ensino especial é um dever, mas a organização prioritária do sistema foca nos níveis infantil e fundamental."
     }
   ],
   "answer_key": "B",
@@ -1227,7 +1227,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Um cargo de professor com outro cargo técnico ou científico.",
       "is_correct": true,
-      "explanation": "Esta é uma das hipóteses taxativas de acumulação permitida pela legislação. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … ARROW-LEFT VOLTAR À QUESTÃO 770"
+      "explanation": "Esta é uma das hipóteses taxativas de acumulação permitida pela legislação."
     }
   ],
   "answer_key": "E",
@@ -1265,7 +1265,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "B",
-      "text": "O Município é isento de responsabilidade se o servidor estiver em estágio probatório no momento do acidente. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "O Município é isento de responsabilidade se o servidor estiver em estágio probatório no momento do acidente.",
       "is_correct": false,
       "explanation": "O vínculo funcional (estável ou não) não afasta a responsabilidade civil do ente público."
     },
@@ -1285,7 +1285,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "A responsabilidade do Município é subsidiária, sendo acionado apenas se o servidor não possuir bens para indenizar.",
       "is_correct": false,
-      "explanation": "A responsabilidade do Município é primária e direta, não subsidiária. ARROW-LEFT VOLTAR À QUESTÃO 771 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A responsabilidade do Município é primária e direta, não subsidiária."
     }
   ],
   "answer_key": "A",
@@ -1341,9 +1341,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Legislar sobre o sistema tributário municipal, arrecadação e aplicação de rendas. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Legislar sobre o sistema tributário municipal, arrecadação e aplicação de rendas.",
       "is_correct": false,
-      "explanation": "Matéria tributária exige lei, portanto, depende de sanção do Prefeito. ARROW-LEFT VOLTAR À QUESTÃO 772"
+      "explanation": "Matéria tributária exige lei, portanto, depende de sanção do Prefeito."
     }
   ],
   "answer_key": "C",
@@ -1401,13 +1401,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "A inviolabilidade parlamentar do vereador é absoluta e protege qualquer declara- ção, mesmo que sem relação com o mandato.",
       "is_correct": false,
-      "explanation": "A inviolabilidade deve ter nexo causal com o exercício do mandato. ARROW-LEFT VOLTAR À QUESTÃO 773"
+      "explanation": "A inviolabilidade deve ter nexo causal com o exercício do mandato."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A imunidade material do vereador (opiniões, palavras e votos) é limitada ao exercício do cargo e ao território do município (circunscrição). 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 39. Os Vereadores são invioláveis, no exercício do mandato e na circunscrição do Município, por suas\nopiniões, palavras e votos.\nrazão do exercício do mandato nem sobre as pessoas que lhes confiaram ou deles receberam informações.\n§ 1°. (Revogado pela Emenda à Lei Orgânica 01/2012)\n\nArt. 14. Compete ao Município de Mossoró:\nII - Suplementar à legislação federal e a estadual, no que couber;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\nXVII - Planejar e controlar o uso, o parcelamento e a ocupação do solo em seu território, especialmente o\n\nAplicação à questão: A imunidade material do vereador (opiniões, palavras e votos) é limitada ao exercício do cargo e ao território do município (circunscrição). 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "A imunidade material do vereador (opiniões, palavras e votos) é limitada ao exercício do cargo e ao território do município (circunscrição).",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 39. Os Vereadores são invioláveis, no exercício do mandato e na circunscrição do Município, por suas\nopiniões, palavras e votos.\nrazão do exercício do mandato nem sobre as pessoas que lhes confiaram ou deles receberam informações.\n§ 1°. (Revogado pela Emenda à Lei Orgânica 01/2012)\n\nArt. 14. Compete ao Município de Mossoró:\nII - Suplementar à legislação federal e a estadual, no que couber;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\nXVII - Planejar e controlar o uso, o parcelamento e a ocupação do solo em seu território, especialmente o\n\nAplicação à questão: A imunidade material do vereador (opiniões, palavras e votos) é limitada ao exercício do cargo e ao território do município (circunscrição)."
   }
 }
 ```
@@ -1433,7 +1433,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "alternatives": [
     {
       "id": "A",
-      "text": "Poderá exercer as duas funções simultaneamente, acumulando os subsídios de vereador e de secretário. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Poderá exercer as duas funções simultaneamente, acumulando os subsídios de vereador e de secretário.",
       "is_correct": false,
       "explanation": "É vedado o exercício simultâneo e o acúmulo de remunerações nesse caso."
     },
@@ -1447,7 +1447,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "C",
       "text": "Ficará impedido de retornar à Câmara Municipal até o final da legislatura, mesmo que deixe o cargo de Secretário.",
       "is_correct": false,
-      "explanation": "O vereador licenciado pode reassumir seu mandato a qualquer tempo, bastando deixar o cargo no Executivo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "O vereador licenciado pode reassumir seu mandato a qualquer tempo, bastando deixar o cargo no Executivo."
     },
     {
       "id": "D",
@@ -1459,7 +1459,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Poderá assumir o cargo de Secretário, licenciando-se do mandato, sendo-lhe facul- tado optar pela remuneração.",
       "is_correct": true,
-      "explanation": "O vereador pode se licenciar para ser Secretário e tem o direito de opção pelo subsídio (remuneração). ARROW-LEFT VOLTAR À QUESTÃO 774"
+      "explanation": "O vereador pode se licenciar para ser Secretário e tem o direito de opção pelo subsídio (remuneração)."
     }
   ],
   "answer_key": "E",
@@ -1515,9 +1515,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "A decisão da Câmara sobre as contas do Prefeito é meramente consultiva, cabendo ao Tribunal de Contas a palavra final. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "A decisão da Câmara sobre as contas do Prefeito é meramente consultiva, cabendo ao Tribunal de Contas a palavra final.",
       "is_correct": false,
-      "explanation": "O julgamento das contas é uma competência política do Legislativo; o parecer do Tribunal é que é técnico/opinativo. ARROW-LEFT VOLTAR À QUESTÃO 775 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "O julgamento das contas é uma competência política do Legislativo; o parecer do Tribunal é que é técnico/opinativo."
     }
   ],
   "answer_key": "B",
@@ -1575,7 +1575,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Voto favorável de dois terços dos membros, em turno único, com sanção posterior do Prefeito.",
       "is_correct": false,
-      "explanation": "São necessários dois turnos e não há sanção do Prefeito em emendas à Lei Orgânica; a promulgação é feita pela Mesa da Câmara. ARROW-LEFT VOLTAR À QUESTÃO 776"
+      "explanation": "São necessários dois turnos e não há sanção do Prefeito em emendas à Lei Orgânica; a promulgação é feita pela Mesa da Câmara."
     }
   ],
   "answer_key": "A",
@@ -1613,7 +1613,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "B",
-      "text": "O silêncio do Prefeito após o prazo de 15 dias úteis importa em veto tácito. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "O silêncio do Prefeito após o prazo de 15 dias úteis importa em veto tácito.",
       "is_correct": false,
       "explanation": "O silêncio do Prefeito importa em sanção tácita (concordância), e não veto."
     },
@@ -1633,13 +1633,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "O Prefeito tem o prazo de 15 dias corridos para exercer o direito de veto.",
       "is_correct": false,
-      "explanation": "O prazo é de 15 dias úteis, não corridos. ARROW-LEFT VOLTAR À QUESTÃO 777"
+      "explanation": "O prazo é de 15 dias úteis, não corridos."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A derrubada de um veto imposto pelo Prefeito exige o voto da maioria absoluta dos membros da Câmara Municipal. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 60. Aprovado o projeto de lei será este enviado ao Prefeito no prazo de dez dias úteis que,\n§ 1°. O Prefeito, considerando o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse\npelo voto da maioria absoluta dos Vereadores. (Redação dada pela Emenda à Lei Orgânica 04/2016)\n§5°. Rejeitado o veto, será o projeto enviado ao Prefeito em quarenta e oito horas para promulgação.\n\nArt. 37. É da competência exclusiva da Câmara Municipal:\nvida pública e particular, mediante aprovação da maioria dos membros da Câmara; (Redação dada pela\nConstituição Federal, nesta Lei Orgânica, na legislação municipal, estadual e federal, aplicável;\nCâmara, dentro de sessenta dias após a abertura da sessão legislativa;\n\nAplicação à questão: A derrubada de um veto imposto pelo Prefeito exige o voto da maioria absoluta dos membros da Câmara Municipal. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "A derrubada de um veto imposto pelo Prefeito exige o voto da maioria absoluta dos membros da Câmara Municipal.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 60. Aprovado o projeto de lei será este enviado ao Prefeito no prazo de dez dias úteis que,\n§ 1°. O Prefeito, considerando o projeto, no todo ou em parte, inconstitucional ou contrário ao interesse\npelo voto da maioria absoluta dos Vereadores. (Redação dada pela Emenda à Lei Orgânica 04/2016)\n§5°. Rejeitado o veto, será o projeto enviado ao Prefeito em quarenta e oito horas para promulgação.\n\nArt. 37. É da competência exclusiva da Câmara Municipal:\nvida pública e particular, mediante aprovação da maioria dos membros da Câmara; (Redação dada pela\nConstituição Federal, nesta Lei Orgânica, na legislação municipal, estadual e federal, aplicável;\nCâmara, dentro de sessenta dias após a abertura da sessão legislativa;\n\nAplicação à questão: A derrubada de um veto imposto pelo Prefeito exige o voto da maioria absoluta dos membros da Câmara Municipal."
   }
 }
 ```
@@ -1679,7 +1679,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "C",
       "text": "Até 15 de abril de cada ano.",
       "is_correct": true,
-      "explanation": "A LDO possui prazo de envio antecipado (15 de abril) para que possa orientar a elaboração da LOA subsequente. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A LDO possui prazo de envio antecipado (15 de abril) para que possa orientar a elaboração da LOA subsequente."
     },
     {
       "id": "D",
@@ -1689,9 +1689,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Até 1º de março de cada ano. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Até 1º de março de cada ano.",
       "is_correct": false,
-      "explanation": "O dia 1º de março é o prazo limite para a prestação de contas anual do Prefeito. ARROW-LEFT VOLTAR À QUESTÃO 778"
+      "explanation": "O dia 1º de março é o prazo limite para a prestação de contas anual do Prefeito."
     }
   ],
   "answer_key": "C",
@@ -1749,7 +1749,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "A nomeação de um interventor pelo Governo do Estado até o fim do mandato.",
       "is_correct": false,
-      "explanation": "A intervenção estadual é medida excepcional e não se aplica como regra de sucessão por vacância. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … ARROW-LEFT VOLTAR À QUESTÃO 779"
+      "explanation": "A intervenção estadual é medida excepcional e não se aplica como regra de sucessão por vacância."
     }
   ],
   "answer_key": "A",
@@ -1787,7 +1787,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "B",
-      "text": "10 dias consecutivos. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "10 dias consecutivos.",
       "is_correct": false,
       "explanation": "O prazo de 10 dias refere-se ao tempo para assumir o cargo na posse, não ao afastamento durante o mandato."
     },
@@ -1807,7 +1807,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "30 dias consecutivos.",
       "is_correct": false,
-      "explanation": "30 dias é um prazo comum em outras esferas, mas para o município em questão, o limite é de 15 dias. ARROW-LEFT VOLTAR À QUESTÃO 780 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "30 dias é um prazo comum em outras esferas, mas para o município em questão, o limite é de 15 dias."
     }
   ],
   "answer_key": "C",
@@ -1863,9 +1863,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "120 dias. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "120 dias.",
       "is_correct": false,
-      "explanation": "Prazo inexistente para esta finalidade específica no ordenamento municipal. ARROW-LEFT VOLTAR À QUESTÃO 781"
+      "explanation": "Prazo inexistente para esta finalidade específica no ordenamento municipal."
     }
   ],
   "answer_key": "C",
@@ -1923,13 +1923,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "15 de março.",
       "is_correct": true,
-      "explanation": "O dia 15 de março é o marco temporal específico definido para a transparência das contas anuais. ARROW-LEFT VOLTAR À QUESTÃO 782"
+      "explanation": "O dia 15 de março é o marco temporal específico definido para a transparência das contas anuais."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Correta. A Lei Orgânica estabelece o prazo de até 15 de março para a publicação das contas da administração do exercício anterior. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 14. Compete ao Município de Mossoró:\nobrigatoriedade de prestar contas e publicar balancetes nos prazos fixados em lei;\nII - Suplementar à legislação federal e a estadual, no que couber;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\n\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\nserviço público, ressalvado o disposto no inciso anterior e no §1°, do art. 19 desta Lei Orgânica;\nMossoró, obedece aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência e\nXVIII - A administração fazendária e seus servidores fiscais terão, dentro de suas áreas de competência e\n\nAplicação à questão: Correta. A Lei Orgânica estabelece o prazo de até 15 de março para a publicação das contas da administração do exercício anterior. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "Correta. A Lei Orgânica estabelece o prazo de até 15 de março para a publicação das contas da administração do exercício anterior.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 14. Compete ao Município de Mossoró:\nobrigatoriedade de prestar contas e publicar balancetes nos prazos fixados em lei;\nII - Suplementar à legislação federal e a estadual, no que couber;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\n\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\nserviço público, ressalvado o disposto no inciso anterior e no §1°, do art. 19 desta Lei Orgânica;\nMossoró, obedece aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência e\nXVIII - A administração fazendária e seus servidores fiscais terão, dentro de suas áreas de competência e\n\nAplicação à questão: Correta. A Lei Orgânica estabelece o prazo de até 15 de março para a publicação das contas da administração do exercício anterior."
   }
 }
 ```
@@ -1969,11 +1969,11 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "C",
       "text": "180 dias e 360 dias.",
       "is_correct": false,
-      "explanation": "A contagem é feita em anos, conforme a regra de memorização do conteúdo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A contagem é feita em anos, conforme a regra de memorização do conteúdo."
     },
     {
       "id": "D",
-      "text": "1 ano e 2 anos. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "1 ano e 2 anos.",
       "is_correct": true,
       "explanation": "Reflete exatamente os prazos de 1 ano (início) e 2 anos (conclusão) previstos na gestão de bens."
     },
@@ -1981,7 +1981,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "1 ano e 3 anos.",
       "is_correct": false,
-      "explanation": "Embora o prazo inicial esteja correto, o prazo de conclusão é de 2 anos, não 3. ARROW-LEFT VOLTAR À QUESTÃO 783"
+      "explanation": "Embora o prazo inicial esteja correto, o prazo de conclusão é de 2 anos, não 3."
     }
   ],
   "answer_key": "D",
@@ -2037,9 +2037,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "As taxas decorrem de atividades de natureza comercial ou industrial e são fixadas por decreto do Prefeito. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "As taxas decorrem de atividades de natureza comercial ou industrial e são fixadas por decreto do Prefeito.",
       "is_correct": false,
-      "explanation": "Esta é a definição de Preço Público (Tarifa), não de Taxa. ARROW-LEFT VOLTAR À QUESTÃO 784 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "Esta é a definição de Preço Público (Tarifa), não de Taxa."
     }
   ],
   "answer_key": "A",
@@ -2097,7 +2097,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "O Prefeito deverá governar por meio de Decretos de Emergência Financeira até que uma nova lei seja aprovada.",
       "is_correct": false,
-      "explanation": "Não há previsão de governo por decreto para substituição da LOA. ARROW-LEFT VOLTAR À QUESTÃO 785"
+      "explanation": "Não há previsão de governo por decreto para substituição da LOA."
     }
   ],
   "answer_key": "B",
@@ -2135,7 +2135,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "B",
-      "text": "Entidade de direito privado, responsável pela gestão dos recursos do Fundo Muni- 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … cipal de Saúde.",
+      "text": "Entidade de direito privado, responsável pela gestão dos recursos do Fundo Municipal de Saúde.",
       "is_correct": false,
       "explanation": "O conselho é um órgão colegiado público, não uma entidade de direito privado."
     },
@@ -2155,13 +2155,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Órgão consultivo, composto exclusivamente por representantes do Poder Executivo.",
       "is_correct": false,
-      "explanation": "O conselho é deliberativo, não apenas consultivo, e deve ser paritário, não exclusivo do governo. ARROW-LEFT VOLTAR À QUESTÃO 786"
+      "explanation": "O conselho é deliberativo, não apenas consultivo, e deve ser paritário, não exclusivo do governo."
     }
   ],
   "answer_key": "A",
   "explanation": {
-    "resolution": "O Conselho Municipal de Saúde possui caráter deliberativo (toma decisões) e paritário (equilíbrio entre governo e sociedade civil). 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 14. Compete ao Município de Mossoró:\nestabelecendo programas de incentivo a projetos de organização comunitária nos campos social e\nprejudicial saúde, à higiene, à segurança, ao sossego e aos bons costumes da sociedade;\nII - Suplementar à legislação federal e a estadual, no que couber;\n\nArt.164. As ações e os serviços de saúde realizados no Município devem observar os princípios e diretrizes\nações de saúde através do Conselho Municipal de caráter deliberativo e paritário. (Redação dada pela\nsaúde e dos representantes governamentais, na formulação, gestão e controle da política municipal e das\nIII - organização de distritos sanitários com alocação de infraestrutura, equipamentos e pessoal, recursos\n\nAplicação à questão: O Conselho Municipal de Saúde possui caráter deliberativo (toma decisões) e paritário (equilíbrio entre governo e sociedade civil). 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "O Conselho Municipal de Saúde possui caráter deliberativo (toma decisões) e paritário (equilíbrio entre governo e sociedade civil).",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 14. Compete ao Município de Mossoró:\nestabelecendo programas de incentivo a projetos de organização comunitária nos campos social e\nprejudicial saúde, à higiene, à segurança, ao sossego e aos bons costumes da sociedade;\nII - Suplementar à legislação federal e a estadual, no que couber;\n\nArt.164. As ações e os serviços de saúde realizados no Município devem observar os princípios e diretrizes\nações de saúde através do Conselho Municipal de caráter deliberativo e paritário. (Redação dada pela\nsaúde e dos representantes governamentais, na formulação, gestão e controle da política municipal e das\nIII - organização de distritos sanitários com alocação de infraestrutura, equipamentos e pessoal, recursos\n\nAplicação à questão: O Conselho Municipal de Saúde possui caráter deliberativo (toma decisões) e paritário (equilíbrio entre governo e sociedade civil)."
   }
 }
 ```
@@ -2195,7 +2195,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "B",
       "text": "Deve aplicar, no mínimo, 30% da receita de impostos especificamente na oferta da educação infantil e do ensino fundamental.",
       "is_correct": true,
-      "explanation": "Conforme o parágrafo único do Art. 173 da LOM, menciona-se o mínimo de 30% para essas etapas específicas. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "Conforme o parágrafo único do Art. 173 da LOM, menciona-se o mínimo de 30% para essas etapas específicas."
     },
     {
       "id": "C",
@@ -2211,9 +2211,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Deve destinar recursos públicos prioritariamente para escolas privadas que ofere- çam bolsas de estudo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Deve destinar recursos públicos prioritariamente para escolas privadas que ofere- çam bolsas de estudo.",
       "is_correct": false,
-      "explanation": "Os recursos públicos devem ser destinados às escolas públicas, conforme regra geral de administração. ARROW-LEFT VOLTAR À QUESTÃO 787"
+      "explanation": "Os recursos públicos devem ser destinados às escolas públicas, conforme regra geral de administração."
     }
   ],
   "answer_key": "B",
@@ -2271,7 +2271,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Isenção de Imposto de Renda para artistas locais cadastrados na Secretaria de Cultura.",
       "is_correct": false,
-      "explanation": "O Município não tem competência para legislar sobre isenção de Imposto de Renda (tributo federal). 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … ARROW-LEFT VOLTAR À QUESTÃO 788"
+      "explanation": "O Município não tem competência para legislar sobre isenção de Imposto de Renda (tributo federal)."
     }
   ],
   "answer_key": "B",
@@ -2309,7 +2309,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "B",
-      "text": "O ensino religioso é de matrícula obrigatória para todos os alunos do ensino fundamental. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "O ensino religioso é de matrícula obrigatória para todos os alunos do ensino fundamental.",
       "is_correct": false,
       "explanation": "O ensino religioso é de matrícula facultativa."
     },
@@ -2329,7 +2329,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "O Município deve priorizar o ensino de línguas estrangeiras em detrimento das artes e folclore locais.",
       "is_correct": false,
-      "explanation": "A lei prioriza a valorização da cultura e patrimônio local no currículo. ARROW-LEFT VOLTAR À QUESTÃO 789 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A lei prioriza a valorização da cultura e patrimônio local no currículo."
     }
   ],
   "answer_key": "D",
@@ -2385,9 +2385,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Estar devidamente cadastrada no Conselho Municipal de Assistência Social. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Estar devidamente cadastrada no Conselho Municipal de Assistência Social.",
       "is_correct": true,
-      "explanation": "O cadastro no Conselho Municipal de Assistência Social é condição ’sine qua non’ para a validade do ajuste. ARROW-LEFT VOLTAR À QUESTÃO 790"
+      "explanation": "O cadastro no Conselho Municipal de Assistência Social é condição ’sine qua non’ para a validade do ajuste."
     }
   ],
   "answer_key": "E",
@@ -2445,13 +2445,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "É permitido de forma definitiva, independentemente do impacto no trânsito local.",
       "is_correct": false,
-      "explanation": "A autorização não é definitiva e deve respeitar o sossego e o trânsito. ARROW-LEFT VOLTAR À QUESTÃO 791"
+      "explanation": "A autorização não é definitiva e deve respeitar o sossego e o trânsito."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A legislação permite essa facilidade ao pequeno empreendedor, mas impõe que a autorização seja precária, temporária e que não cause transtornos à vizinhança. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 14. Compete ao Município de Mossoró:\nII - Suplementar à legislação federal e a estadual, no que couber;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\nc) Dispor sobre concessão, permissão, cessão e autorização de uso de seus bens.\n\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\ntemporária de excepcional interesse público;\nXX - Depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas\nXXI - Ressalvados os casos específicos na legislação, as obras, os serviços, compras e alienações serão\n\nAplicação à questão: A legislação permite essa facilidade ao pequeno empreendedor, mas impõe que a autorização seja precária, temporária e que não cause transtornos à vizinhança. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "A legislação permite essa facilidade ao pequeno empreendedor, mas impõe que a autorização seja precária, temporária e que não cause transtornos à vizinhança.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 14. Compete ao Município de Mossoró:\nII - Suplementar à legislação federal e a estadual, no que couber;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\nc) Dispor sobre concessão, permissão, cessão e autorização de uso de seus bens.\n\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\ntemporária de excepcional interesse público;\nXX - Depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas\nXXI - Ressalvados os casos específicos na legislação, as obras, os serviços, compras e alienações serão\n\nAplicação à questão: A legislação permite essa facilidade ao pequeno empreendedor, mas impõe que a autorização seja precária, temporária e que não cause transtornos à vizinhança."
   }
 }
 ```
@@ -2489,9 +2489,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "C",
-      "text": "IPTU progressivo; Desapropriação; Edificação compulsória. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "IPTU progressivo; Desapropriação; Edificação compulsória.",
       "is_correct": false,
-      "explanation": "A edificação compulsória deve preceder o IPTU progressivo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A edificação compulsória deve preceder o IPTU progressivo."
     },
     {
       "id": "D",
@@ -2503,7 +2503,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Interdição do imóvel; IPTU progressivo; Desapropriação.",
       "is_correct": false,
-      "explanation": "A interdição não faz parte da sequência de sanções para solo subutilizado descrita na política urbana. ARROW-LEFT VOLTAR À QUESTÃO 792"
+      "explanation": "A interdição não faz parte da sequência de sanções para solo subutilizado descrita na política urbana."
     }
   ],
   "answer_key": "B",
@@ -2561,7 +2561,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Empresas estrangeiras com sede em países do Mercosul.",
       "is_correct": false,
-      "explanation": "A prioridade é voltada para pessoas físicas em situação de vulnerabilidade, não para empresas estrangeiras. ARROW-LEFT VOLTAR À QUESTÃO 793 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A prioridade é voltada para pessoas físicas em situação de vulnerabilidade, não para empresas estrangeiras."
     }
   ],
   "answer_key": "C",
@@ -2589,7 +2589,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A gestão de resíduos sólidos é um ponto central da política ambiental municipal. Sobre a responsabilidade pela coleta e destinação final de detritos, assinale a alternativa 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … que descreve corretamente a obrigação referente aos resíduos perigosos e hospitalares (agentes patogênicos).",
+  "question_text": "A gestão de resíduos sólidos é um ponto central da política ambiental municipal. Sobre a responsabilidade pela coleta e destinação final de detritos, assinale a alternativa que descreve corretamente a obrigação referente aos resíduos perigosos e hospitalares (agentes patogênicos).",
   "alternatives": [
     {
       "id": "A",
@@ -2619,7 +2619,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "A responsabilidade é integral e exclusiva do Município, independentemente da origem.",
       "is_correct": false,
-      "explanation": "O Município é responsável apenas pelos resíduos domiciliares comuns. ARROW-LEFT VOLTAR À QUESTÃO 794"
+      "explanation": "O Município é responsável apenas pelos resíduos domiciliares comuns."
     }
   ],
   "answer_key": "B",
@@ -2669,7 +2669,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "D",
-      "text": "Apenas estudantes do ensino fundamental da rede municipal, independentemente 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … da renda.",
+      "text": "Apenas estudantes do ensino fundamental da rede municipal, independentemente da renda.",
       "is_correct": false,
       "explanation": "A lei não limita o benefício apenas ao ensino fundamental, mas exige a comprovação de pobreza."
     },
@@ -2677,13 +2677,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Todos os estudantes matriculados em instituições de ensino superior.",
       "is_correct": false,
-      "explanation": "Estudantes em geral têm direito à meia-passagem (50%), não à gratuidade total. ARROW-LEFT VOLTAR À QUESTÃO 795"
+      "explanation": "Estudantes em geral têm direito à meia-passagem (50%), não à gratuidade total."
     }
   ],
   "answer_key": "C",
   "explanation": {
-    "resolution": "A gratuidade total para estudantes na legislação de Mossoró é vinculada tanto ao tipo de instituição (pública/bolsista) quanto à condição financeira. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 202. O Município na prestação de serviços de transporte público fará obedecer aos seguintes princípios\ngratuidade total aos estudantes da rede pública de ensino ou bolsistas da rede privada, desde que\npobres, na forma da lei, e assegurado o desconto de cinquenta por cento aos estudantes em geral, com\nII - Tarifa Social, assegurada a gratuidade aos maiores de sessenta anos, desde que reconhecidamente\n\nArt. 19. O Regime Próprio de Previdência Social - RPPS dos servidores titulares de cargos efetivos terá\nfinanceira, quanto orçamentária, do Município de Mossoró.\nbenefício por incapacidade temporária e auxílio-reclusão ficam excluídos do rol de benefícios\ndemais dispositivos da legislação aplicável, diretamente pelo Ente Federativo e não correrão à conta do\n\nAplicação à questão: A gratuidade total para estudantes na legislação de Mossoró é vinculada tanto ao tipo de instituição (pública/bolsista) quanto à condição financeira. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "A gratuidade total para estudantes na legislação de Mossoró é vinculada tanto ao tipo de instituição (pública/bolsista) quanto à condição financeira.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 202. O Município na prestação de serviços de transporte público fará obedecer aos seguintes princípios\ngratuidade total aos estudantes da rede pública de ensino ou bolsistas da rede privada, desde que\npobres, na forma da lei, e assegurado o desconto de cinquenta por cento aos estudantes em geral, com\nII - Tarifa Social, assegurada a gratuidade aos maiores de sessenta anos, desde que reconhecidamente\n\nArt. 19. O Regime Próprio de Previdência Social - RPPS dos servidores titulares de cargos efetivos terá\nfinanceira, quanto orçamentária, do Município de Mossoró.\nbenefício por incapacidade temporária e auxílio-reclusão ficam excluídos do rol de benefícios\ndemais dispositivos da legislação aplicável, diretamente pelo Ente Federativo e não correrão à conta do\n\nAplicação à questão: A gratuidade total para estudantes na legislação de Mossoró é vinculada tanto ao tipo de instituição (pública/bolsista) quanto à condição financeira."
   }
 }
 ```
@@ -2717,7 +2717,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "B",
       "text": "Intervenção administrativa direta por parte da Câmara Municipal.",
       "is_correct": false,
-      "explanation": "A intervenção é uma medida extrema e não é a sanção padrão descrita para o descumprimento de normas ambientais neste contexto. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A intervenção é uma medida extrema e não é a sanção padrão descrita para o descumprimento de normas ambientais neste contexto."
     },
     {
       "id": "C",
@@ -2733,9 +2733,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Multa pecuniária diária convertida em cestas básicas. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Multa pecuniária diária convertida em cestas básicas.",
       "is_correct": false,
-      "explanation": "Embora multas possam existir em outras esferas, a sanção específica citada na Lei Orgânica para concessionárias é a não renovação. ARROW-LEFT VOLTAR À QUESTÃO 796"
+      "explanation": "Embora multas possam existir em outras esferas, a sanção específica citada na Lei Orgânica para concessionárias é a não renovação."
     }
   ],
   "answer_key": "A",
@@ -2793,7 +2793,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "O plano deve ser revisado apenas quando houver alteração na Lei de Diretrizes Orçamentárias.",
       "is_correct": false,
-      "explanation": "A periodicidade anual é fixa e determinada pela Lei Orgânica para este plano específico. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … ARROW-LEFT VOLTAR À QUESTÃO 797"
+      "explanation": "A periodicidade anual é fixa e determinada pela Lei Orgânica para este plano específico."
     }
   ],
   "answer_key": "A",
@@ -2821,7 +2821,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Com a atualização promovida pela Emenda nº 11/2022 à Lei Orgânica de Mossoró, o Regime Próprio de Previdência Social (RPPS) sofreu alterações significativas. Sobre as regras de aposentadoria voluntária para os servidores em geral (regra geral), assinale a alternativa que apresenta corretamente as idades mínimas para mulheres e homens, respectivamente. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+  "question_text": "Com a atualização promovida pela Emenda nº 11/2022 à Lei Orgânica de Mossoró, o Regime Próprio de Previdência Social (RPPS) sofreu alterações significativas. Sobre as regras de aposentadoria voluntária para os servidores em geral (regra geral), assinale a alternativa que apresenta corretamente as idades mínimas para mulheres e homens, respectivamente.",
   "alternatives": [
     {
       "id": "A",
@@ -2851,7 +2851,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "62 anos para mulheres e 65 anos para homens.",
       "is_correct": false,
-      "explanation": "A idade para mulheres em Mossoró é de 60 anos, diferindo da regra geral federal da EC 103/19 (que é 62 para mulheres na União). ARROW-LEFT VOLTAR À QUESTÃO 798 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A idade para mulheres em Mossoró é de 60 anos, diferindo da regra geral federal da EC 103/19 (que é 62 para mulheres na União)."
     }
   ],
   "answer_key": "B",
@@ -2907,9 +2907,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "60 anos para professoras e 65 anos para professores. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "60 anos para professoras e 65 anos para professores.",
       "is_correct": false,
-      "explanation": "Estas são as idades da regra geral, não a dos professores. ARROW-LEFT VOLTAR À QUESTÃO 799"
+      "explanation": "Estas são as idades da regra geral, não a dos professores."
     }
   ],
   "answer_key": "A",
@@ -2967,13 +2967,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "É o pagamento em dobro da contribuição previdenciária para o servidor que adiar a aposentadoria por mais de cinco anos.",
       "is_correct": false,
-      "explanation": "O valor é equivalente à contribuição, não o dobro. ARROW-LEFT VOLTAR À QUESTÃO 800"
+      "explanation": "O valor é equivalente à contribuição, não o dobro."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "O abono de permanência visa neutralizar a contribuição previdenciária do servidor que já pode se aposentar mas prefere continuar trabalhando. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 19. O Regime Próprio de Previdência Social - RPPS dos servidores titulares de cargos efetivos terá\n§2°. O servidor público abrangido pelo Regime Próprio de Previdência Social - RPPS municipal será\n§1°. Os benefícios previdenciários a cargo do Regime Próprio de Previdência Social - RPPS municipal se\nRegime Próprio de Previdência Social - RPPS, sendo de inteira e exclusiva responsabilidade, tanto\n\nArt. 1° A Lei Orgânica do Município de Mossoró passa a vigorar com as seguintes alterações:\n§2° O servidor público abrangido pelo Regime Próprio de Previdência Social - RPPS municipal será\n“Art. 19. O Regime Próprio de Previdência Social - RPPS dos servidores titulares de cargos efetivos\n§1° Os benefícios previdenciários a cargo do Regime Próprio de Previdência Social - RPPS municipal se\n\nAplicação à questão: O abono de permanência visa neutralizar a contribuição previdenciária do servidor que já pode se aposentar mas prefere continuar trabalhando. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "O abono de permanência visa neutralizar a contribuição previdenciária do servidor que já pode se aposentar mas prefere continuar trabalhando.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 19. O Regime Próprio de Previdência Social - RPPS dos servidores titulares de cargos efetivos terá\n§2°. O servidor público abrangido pelo Regime Próprio de Previdência Social - RPPS municipal será\n§1°. Os benefícios previdenciários a cargo do Regime Próprio de Previdência Social - RPPS municipal se\nRegime Próprio de Previdência Social - RPPS, sendo de inteira e exclusiva responsabilidade, tanto\n\nArt. 1° A Lei Orgânica do Município de Mossoró passa a vigorar com as seguintes alterações:\n§2° O servidor público abrangido pelo Regime Próprio de Previdência Social - RPPS municipal será\n“Art. 19. O Regime Próprio de Previdência Social - RPPS dos servidores titulares de cargos efetivos\n§1° Os benefícios previdenciários a cargo do Regime Próprio de Previdência Social - RPPS municipal se\n\nAplicação à questão: O abono de permanência visa neutralizar a contribuição previdenciária do servidor que já pode se aposentar mas prefere continuar trabalhando."
   }
 }
 ```
@@ -2999,7 +2999,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "alternatives": [
     {
       "id": "A",
-      "text": "Nas unidades de saúde (hospitais) e nos sistemas de comunicação. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Nas unidades de saúde (hospitais) e nos sistemas de comunicação.",
       "is_correct": true,
       "explanation": "A Lei Orgânica determina a instalação obrigatória de geradores em hospitais (saúde) e sistemas de comunicação para garantir a continuidade desses serviços essenciais."
     },
@@ -3007,7 +3007,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "B",
       "text": "Nos mercados públicos e terminais rodoviários.",
       "is_correct": false,
-      "explanation": "Estes locais não constam como obrigatórios para instalação de geradores na norma citada. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "Estes locais não constam como obrigatórios para instalação de geradores na norma citada."
     },
     {
       "id": "C",
@@ -3025,7 +3025,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Em praças públicas e iluminação de monumentos históricos.",
       "is_correct": false,
-      "explanation": "A iluminação ornamental não é considerada serviço essencial para fins de obrigatoriedade de geradores pela Lei Orgânica. ARROW-LEFT VOLTAR À QUESTÃO 801"
+      "explanation": "A iluminação ornamental não é considerada serviço essencial para fins de obrigatoriedade de geradores pela Lei Orgânica."
     }
   ],
   "answer_key": "A",
@@ -3081,9 +3081,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "O valor do benefício será composto por uma cota familiar acrescida de cotas de 15% por dependente, até o limite de 100%. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "O valor do benefício será composto por uma cota familiar acrescida de cotas de 15% por dependente, até o limite de 100%.",
       "is_correct": true,
-      "explanation": "A legislação de Mossoró prevê 15% por dependente, respeitando o limite máximo de 100%. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … ARROW-LEFT VOLTAR À QUESTÃO 802"
+      "explanation": "A legislação de Mossoró prevê 15% por dependente, respeitando o limite máximo de 100%."
     }
   ],
   "answer_key": "E",
@@ -3141,7 +3141,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "A concessão é automática assim que o servidor atinge os requisitos para a aposen- tadoria voluntária.",
       "is_correct": false,
-      "explanation": "O benefício depende de opção expressa do servidor, não sendo automático. ARROW-LEFT VOLTAR À QUESTÃO 803 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "O benefício depende de opção expressa do servidor, não sendo automático."
     }
   ],
   "answer_key": "C",
@@ -3173,7 +3173,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "alternatives": [
     {
       "id": "A",
-      "text": "É vedada a caracterização da aposentadoria especial exclusivamente por categoria profissional ou ocupação. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "É vedada a caracterização da aposentadoria especial exclusivamente por categoria profissional ou ocupação.",
       "is_correct": true,
       "explanation": "A legislação proíbe expressamente a concessão baseada apenas na categoria profissional, exigindo prova da exposição nociva."
     },
@@ -3199,7 +3199,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "É vedada a concessão de aposentadoria especial para servidores que trabalham em hospitais.",
       "is_correct": false,
-      "explanation": "Servidores de hospitais podem ter direito se comprovada a exposição a agentes biológicos. ARROW-LEFT VOLTAR À QUESTÃO 804"
+      "explanation": "Servidores de hospitais podem ter direito se comprovada a exposição a agentes biológicos."
     }
   ],
   "answer_key": "A",
@@ -3255,15 +3255,15 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "2% do valor total dos ativos líquidos do fundo previdenciário. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … 2.2.3 Questões Difíceis",
+      "text": "2% do valor total dos ativos líquidos do fundo previdenciário. 2.2.3 Questões Difíceis",
       "is_correct": false,
-      "explanation": "A taxa não incide sobre o patrimônio líquido (ativos), mas sobre a folha de pagamentos. ARROW-LEFT VOLTAR À QUESTÃO 805"
+      "explanation": "A taxa não incide sobre o patrimônio líquido (ativos), mas sobre a folha de pagamentos."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A taxa de administração é calculada sobre a base das remunerações do exercício anterior, limitada ao teto de 3%. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 17. A Taxa de Administração para o custeio das despesas correntes e de capital necessárias à\nexercício anterior e cujos recursos serão destinados exclusivamente ao custeio das despesas correntes e de\nAdministrativa, apurados ao final de cada exercício, para pagamento dos benefícios do Regime Próprio de\na constituir reserva com as sobras do custeio das despesas do exercício, cujos valores serão utilizados para\n\nArt. 14. Compete ao Município de Mossoró:\nVII - Dispor sobre administração, utilização e alienação dos bens públicos, atendendo no que couber o art.\nII - Suplementar à legislação federal e a estadual, no que couber;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\n\nAplicação à questão: A taxa de administração é calculada sobre a base das remunerações do exercício anterior, limitada ao teto de 3%. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "A taxa de administração é calculada sobre a base das remunerações do exercício anterior, limitada ao teto de 3%.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 17. A Taxa de Administração para o custeio das despesas correntes e de capital necessárias à\nexercício anterior e cujos recursos serão destinados exclusivamente ao custeio das despesas correntes e de\nAdministrativa, apurados ao final de cada exercício, para pagamento dos benefícios do Regime Próprio de\na constituir reserva com as sobras do custeio das despesas do exercício, cujos valores serão utilizados para\n\nArt. 14. Compete ao Município de Mossoró:\nVII - Dispor sobre administração, utilização e alienação dos bens públicos, atendendo no que couber o art.\nII - Suplementar à legislação federal e a estadual, no que couber;\nVI - Criar, Organizar e suprimir distritos, observada a legislação estadual;\n\nAplicação à questão: A taxa de administração é calculada sobre a base das remunerações do exercício anterior, limitada ao teto de 3%."
   }
 }
 ```
@@ -3297,7 +3297,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "B",
       "text": "Válida, uma vez que o município possui autonomia para gerir seu sistema viário de forma soberana.",
       "is_correct": false,
-      "explanation": "O município possui autonomia, mas não soberania; ele deve respeitar a repartição de competências da Federação. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "O município possui autonomia, mas não soberania; ele deve respeitar a repartição de competências da Federação."
     },
     {
       "id": "C",
@@ -3315,7 +3315,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Inválida, pois o município só pode legislar sobre trânsito se houver convênio com o Estado.",
       "is_correct": false,
-      "explanation": "O erro não está na falta de convênio, mas na incompetência absoluta do município para legislar sobre normas gerais de trânsito. ARROW-LEFT VOLTAR À QUESTÃO 806"
+      "explanation": "O erro não está na falta de convênio, mas na incompetência absoluta do município para legislar sobre normas gerais de trânsito."
     }
   ],
   "answer_key": "A",
@@ -3343,7 +3343,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "Após a atualização das regras previdenciárias pela Emenda à Lei Orgânica nº 11/2022, o servidor público municipal de Mossoró que atua exclusivamente no magistério (professor) poderá se aposentar voluntariamente, desde que cumpridos os requisitos de tempo de contribuição e demais exigências legais, ao atingir a idade mínima de: 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+  "question_text": "Após a atualização das regras previdenciárias pela Emenda à Lei Orgânica nº 11/2022, o servidor público municipal de Mossoró que atua exclusivamente no magistério (professor) poderá se aposentar voluntariamente, desde que cumpridos os requisitos de tempo de contribuição e demais exigências legais, ao atingir a idade mínima de:",
   "alternatives": [
     {
       "id": "A",
@@ -3373,7 +3373,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "62 anos de idade, se homem, e 57 anos de idade, se mulher.",
       "is_correct": false,
-      "explanation": "Valores incorretos para o regime próprio do município. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … ARROW-LEFT VOLTAR À QUESTÃO 807"
+      "explanation": "Valores incorretos para o regime próprio do município."
     }
   ],
   "answer_key": "A",
@@ -3429,9 +3429,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Gozo de férias anuais remuneradas com, pelo menos, um terço a mais do que o salário normal.",
       "is_correct": false,
-      "explanation": "Este direito é idêntico ao previsto no Art. 7º, XVII da CF/88. ARROW-LEFT VOLTAR À QUESTÃO 808 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "Este direito é idêntico ao previsto no Art. 7º, XVII da CF/88."
     }
   ],
   "answer_key": "A",
@@ -3489,7 +3489,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Quando o vereador utilizar-se do mandato para a prática de atos de corrupção ou de improbidade administrativa.",
       "is_correct": false,
-      "explanation": "Atos de corrupção ou improbidade geralmente enquadram-se em quebra de decoro, exigindo decisão do Plenário por maioria absoluta. ARROW-LEFT VOLTAR À QUESTÃO 809"
+      "explanation": "Atos de corrupção ou improbidade geralmente enquadram-se em quebra de decoro, exigindo decisão do Plenário por maioria absoluta."
     }
   ],
   "answer_key": "B",
@@ -3521,7 +3521,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "alternatives": [
     {
       "id": "A",
-      "text": "É válida para qualquer matéria tributária, desde que aprovada por maioria simples em 15 dias. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "É válida para qualquer matéria tributária, desde que aprovada por maioria simples em 15 dias.",
       "is_correct": false,
       "explanation": "A MP em Mossoró não pode ser usada para matéria tributária geral, apenas para os casos de calamidade e crédito extraordinário citados."
     },
@@ -3547,13 +3547,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "É válida, mas restrita a casos de calamidade pública para abertura de crédito extraordinário, perdendo a eficácia se não convertida em lei em 30 dias.",
       "is_correct": true,
-      "explanation": "A alternativa detalha as duas condições cumulativas (objeto restrito e prazo de 30 dias) previstas na norma local. ARROW-LEFT VOLTAR À QUESTÃO 810"
+      "explanation": "A alternativa detalha as duas condições cumulativas (objeto restrito e prazo de 30 dias) previstas na norma local."
     }
   ],
   "answer_key": "E",
   "explanation": {
     "resolution": "2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … A Lei Orgânica de Mossoró prevê excepcionalmente a Medida Provisória apenas para calamidade pública e abertura de crédito extraordinário, com prazo de conversão de 30 dias.",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 37. É da competência exclusiva da Câmara Municipal:\nConstituição Federal, nesta Lei Orgânica, na legislação municipal, estadual e federal, aplicável;\nVI - autorizar o Prefeito a ausentar-se do Município, quando a ausência exceda a quinze dias;\nVIII - tomar e julgar as contas do Prefeito, deliberando sobre o parecer do Tribunal de Contas do Estado, no\n\nArt. 62. O Prefeito Municipal, em caso de calamidade pública, poderá adotar a medida provisória, com\nforça de lei, para a abertura de crédito extraordinário, devendo submetê-lo de imediato à Câmara\nParágrafo único. A medida provisória perderá a eficácia desde a edição, se não for convertida em lei no\nprazo de trinta dias, a partir de sua publicação, devendo a Câmara Municipal disciplinar as relações jurídicas\n\nAplicação à questão: 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … A Lei Orgânica de Mossoró prevê excepcionalmente a Medida Provisória apenas para calamidade pública e abertura de crédito extraordinário, com prazo de conversão de 30 dias."
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 37. É da competência exclusiva da Câmara Municipal:\nConstituição Federal, nesta Lei Orgânica, na legislação municipal, estadual e federal, aplicável;\nVI - autorizar o Prefeito a ausentar-se do Município, quando a ausência exceda a quinze dias;\nVIII - tomar e julgar as contas do Prefeito, deliberando sobre o parecer do Tribunal de Contas do Estado, no\n\nArt. 62. O Prefeito Municipal, em caso de calamidade pública, poderá adotar a medida provisória, com\nforça de lei, para a abertura de crédito extraordinário, devendo submetê-lo de imediato à Câmara\nParágrafo único. A medida provisória perderá a eficácia desde a edição, se não for convertida em lei no\nprazo de trinta dias, a partir de sua publicação, devendo a Câmara Municipal disciplinar as relações jurídicas\n\nAplicação à questão: A Lei Orgânica de Mossoró prevê excepcionalmente a Medida Provisória apenas para calamidade pública e abertura de crédito extraordinário, com prazo de conversão de 30 dias."
   }
 }
 ```
@@ -3603,9 +3603,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Código de Obras; aprovado por maioria absoluta. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Código de Obras; aprovado por maioria absoluta.",
       "is_correct": true,
-      "explanation": "O Código de Obras integra a lista de matérias reservadas à Lei Complementar, cujo quórum de aprovação é a maioria absoluta. ARROW-LEFT VOLTAR À QUESTÃO 811"
+      "explanation": "O Código de Obras integra a lista de matérias reservadas à Lei Complementar, cujo quórum de aprovação é a maioria absoluta."
     }
   ],
   "answer_key": "E",
@@ -3651,7 +3651,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "C",
       "text": "Três quintos dos membros da Câmara.",
       "is_correct": false,
-      "explanation": "O quórum de 3/5 não é previsto para este fim na Lei Orgânica de Mossoró. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "O quórum de 3/5 não é previsto para este fim na Lei Orgânica de Mossoró."
     },
     {
       "id": "D",
@@ -3663,7 +3663,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Maioria absoluta dos membros da Câmara.",
       "is_correct": false,
-      "explanation": "O quórum de maioria absoluta é insuficiente para a destituição de membros da Mesa. ARROW-LEFT VOLTAR À QUESTÃO 812"
+      "explanation": "O quórum de maioria absoluta é insuficiente para a destituição de membros da Mesa."
     }
   ],
   "answer_key": "B",
@@ -3691,7 +3691,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "A participação popular é um pilar da gestão em Mossoró, podendo ocorrer mediante consultas populares sobre temas de relevante interesse. No entanto, a legislação impõe vedações temporais e requisitos de validade para tais mecanismos. Sobre o tema, analise as afirmações abaixo: I. A consulta popular não poderá ser realizada nos 4 meses que antecedem eleições gerais. II. O resultado da consulta popular será considerado vinculante se houver a participação de, pelo menos, 50% dos eleitores envolvidos. III. Podem ser realizadas até 4 consultas populares por ano, desde que autorizadas pela Câmara. Está correto o que se afirma em: 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+  "question_text": "A participação popular é um pilar da gestão em Mossoró, podendo ocorrer mediante consultas populares sobre temas de relevante interesse. No entanto, a legislação impõe vedações temporais e requisitos de validade para tais mecanismos. Sobre o tema, analise as afirmações abaixo: I. A consulta popular não poderá ser realizada nos 4 meses que antecedem eleições gerais. II. O resultado da consulta popular será considerado vinculante se houver a participação de, pelo menos, 50% dos eleitores envolvidos. III. Podem ser realizadas até 4 consultas populares por ano, desde que autorizadas pela Câmara. Está correto o que se afirma em:",
   "alternatives": [
     {
       "id": "A",
@@ -3721,7 +3721,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "I e II, apenas.",
       "is_correct": true,
-      "explanation": "A vedação de 4 meses antes de eleições gerais (I) e o quórum de 50% (II) são regras expressas. ARROW-LEFT VOLTAR À QUESTÃO 813 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A vedação de 4 meses antes de eleições gerais (I) e o quórum de 50% (II) são regras expressas."
     }
   ],
   "answer_key": "E",
@@ -3777,9 +3777,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Os Secretários respondem exclusivamente perante o Prefeito, não possuindo res- ponsabilidade solidária por atos administrativos. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Os Secretários respondem exclusivamente perante o Prefeito, não possuindo res- ponsabilidade solidária por atos administrativos.",
       "is_correct": false,
-      "explanation": "Os auxiliares respondem solidariamente com o Prefeito pelos atos que assinarem ou praticarem. ARROW-LEFT VOLTAR À QUESTÃO 814"
+      "explanation": "Os auxiliares respondem solidariamente com o Prefeito pelos atos que assinarem ou praticarem."
     }
   ],
   "answer_key": "D",
@@ -3837,13 +3837,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Autorização legislativa aprovada pelo quórum qualificado de 2/3 dos membros da Câmara.",
       "is_correct": true,
-      "explanation": "A alternativa reflete a exigência de quórum qualificado (2/3) para a venda de imóveis públicos municipais. ARROW-LEFT VOLTAR À QUESTÃO 815"
+      "explanation": "A alternativa reflete a exigência de quórum qualificado (2/3) para a venda de imóveis públicos municipais."
     }
   ],
   "answer_key": "E",
   "explanation": {
-    "resolution": "Correta. Para a alienação de bens imóveis, a Lei Orgânica exige autorização legislativa 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … com quórum qualificado de 2/3 dos membros da Câmara Municipal.",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\nXX - Depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas\npreencham os requisitos estabelecidos em lei; (Redação dada pela Emenda à Lei Orgânica 04/2016)\nXXI - Ressalvados os casos específicos na legislação, as obras, os serviços, compras e alienações serão\n\nArt. 109. O Poder Executivo Municipal mediante autorização do Poder Legislativo, aprovado por dois terços\n(2/3) dos seus membros, poderá vender qualquer imóvel pertencente ao patrimônio público municipal.\nCâmara Municipal de Mossoró\n§1°. Os recursos oriundos da venda de imóveis mencionados neste artigo deverão ser investidos em\n\nAplicação à questão: Correta. Para a alienação de bens imóveis, a Lei Orgânica exige autorização legislativa 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … com quórum qualificado de 2/3 dos membros da Câmara Municipal."
+    "resolution": "Correta. Para a alienação de bens imóveis, a Lei Orgânica exige autorização legislativa com quórum qualificado de 2/3 dos membros da Câmara Municipal.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt.17. A administração pública direta, indireta ou fundacional, de qualquer dos poderes do Município de\nXX - Depende de autorização legislativa, em cada caso, a criação de subsidiárias das entidades mencionadas\npreencham os requisitos estabelecidos em lei; (Redação dada pela Emenda à Lei Orgânica 04/2016)\nXXI - Ressalvados os casos específicos na legislação, as obras, os serviços, compras e alienações serão\n\nArt. 109. O Poder Executivo Municipal mediante autorização do Poder Legislativo, aprovado por dois terços\n(2/3) dos seus membros, poderá vender qualquer imóvel pertencente ao patrimônio público municipal.\nCâmara Municipal de Mossoró\n§1°. Os recursos oriundos da venda de imóveis mencionados neste artigo deverão ser investidos em\n\nAplicação à questão: Correta. Para a alienação de bens imóveis, a Lei Orgânica exige autorização legislativa com quórum qualificado de 2/3 dos membros da Câmara Municipal."
   }
 }
 ```
@@ -3865,13 +3865,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que concerne às proibições de contratar com o Município de Mossoró, a Lei Orgânica estabelece que o Prefeito, o Vice-Prefeito, os Vereadores e os servidores municipais não podem formalizar contratos com a Administração. Essa proibição estende-se aos parentes dessas autoridades, por consanguinidade ou afinidade, até o: 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+  "question_text": "No que concerne às proibições de contratar com o Município de Mossoró, a Lei Orgânica estabelece que o Prefeito, o Vice-Prefeito, os Vereadores e os servidores municipais não podem formalizar contratos com a Administração. Essa proibição estende-se aos parentes dessas autoridades, por consanguinidade ou afinidade, até o:",
   "alternatives": [
     {
       "id": "A",
       "text": "1º grau, e perdura por 3 meses após a cessação do cargo.",
       "is_correct": false,
-      "explanation": "O grau de parentesco está incompleto (é até o 2º) e o prazo de quarentena está errado (são 6 meses). 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "O grau de parentesco está incompleto (é até o 2º) e o prazo de quarentena está errado (são 6 meses)."
     },
     {
       "id": "B",
@@ -3895,7 +3895,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "2º grau, cessando imediatamente após a saída do cargo.",
       "is_correct": false,
-      "explanation": "A proibição não cessa imediatamente; existe um período de 6 meses de impedimento após o cargo. ARROW-LEFT VOLTAR À QUESTÃO 816"
+      "explanation": "A proibição não cessa imediatamente; existe um período de 6 meses de impedimento após o cargo."
     }
   ],
   "answer_key": "D",
@@ -3947,13 +3947,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "D",
       "text": "As entidades donatárias de terrenos públicos podem receber novas doações a cada 2 anos.",
       "is_correct": false,
-      "explanation": "A entidade que ganha um terreno fica proibida de receber nova doação pelo prazo de 5 anos, não 2. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A entidade que ganha um terreno fica proibida de receber nova doação pelo prazo de 5 anos, não 2."
     },
     {
       "id": "E",
-      "text": "A permissão de serviço público dispensa autorização legislativa, exigindo apenas licitação. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "A permissão de serviço público dispensa autorização legislativa, exigindo apenas licitação.",
       "is_correct": false,
-      "explanation": "Tanto a concessão quanto a permissão de serviço público exigem autorização da Câmara Municipal e licitação. ARROW-LEFT VOLTAR À QUESTÃO 817"
+      "explanation": "Tanto a concessão quanto a permissão de serviço público exigem autorização da Câmara Municipal e licitação."
     }
   ],
   "answer_key": "A",
@@ -4011,7 +4011,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "O crédito é automaticamente extinto, sem qualquer ônus para o servidor, em razão do princípio da segurança jurídica.",
       "is_correct": false,
-      "explanation": "A prescrição extingue o crédito para o contribuinte, mas gera responsabilidade para o agente que deu causa ao prejuízo. ARROW-LEFT VOLTAR À QUESTÃO 818 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A prescrição extingue o crédito para o contribuinte, mas gera responsabilidade para o agente que deu causa ao prejuízo."
     }
   ],
   "answer_key": "B",
@@ -4043,7 +4043,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "alternatives": [
     {
       "id": "A",
-      "text": "Caso a Câmara rejeite a Lei Orçamentária Anual, as emendas impositivas do ano anterior são automaticamente duplicadas para o exercício seguinte. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Caso a Câmara rejeite a Lei Orçamentária Anual, as emendas impositivas do ano anterior são automaticamente duplicadas para o exercício seguinte.",
       "is_correct": false,
       "explanation": "Se a LOA for rejeitada, prevalece o orçamento do exercício em curso atualizado, mas não há previsão de duplicação de emendas."
     },
@@ -4069,7 +4069,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "As emendas impositivas só podem ser destinadas exclusivamente para o pagamento de pessoal e encargos sociais do órgão legislativo.",
       "is_correct": false,
-      "explanation": "As emendas impositivas destinam-se a investimentos e ações de interesse público, havendo inclusive vedações constitucionais para uso em despesas de pessoal. ARROW-LEFT VOLTAR À QUESTÃO 819"
+      "explanation": "As emendas impositivas destinam-se a investimentos e ações de interesse público, havendo inclusive vedações constitucionais para uso em despesas de pessoal."
     }
   ],
   "answer_key": "D",
@@ -4125,15 +4125,15 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "Resolutividade dos serviços. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Resolutividade dos serviços.",
       "is_correct": false,
-      "explanation": "A resolutividade (capacidade de resolver os problemas de saúde) é um critério previsto, portanto não é o gabarito. ARROW-LEFT VOLTAR À QUESTÃO 820"
+      "explanation": "A resolutividade (capacidade de resolver os problemas de saúde) é um critério previsto, portanto não é o gabarito."
     }
   ],
   "answer_key": "C",
   "explanation": {
     "resolution": "2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … A arrecadação tributária não é um critério previsto na LOM para a divisão de distritos sanitários, que foca em aspectos demográficos e operacionais de saúde.",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt.164. As ações e os serviços de saúde realizados no Município devem observar os princípios e diretrizes\nParágrafo Único - Os limites dos distritos sanitários referidos no inciso III constarão do Plano Diretor de\nIII - organização de distritos sanitários com alocação de infraestrutura, equipamentos e pessoal, recursos\nSaúde e serão fiados segundo os seguintes critérios:\n\nArt. 36. Cabe a Câmara Municipal, com a sanção do Prefeito, dispor sobre todas as matérias de\nIX - organização administrativa municipal, criação, transformação e extinção de cargos, empregos e funções\nXI - aprovação do Plano Diretor e demais Planos e Programas de Governo Municipal;\nI - tributos municipais, arrecadação e dispêndio de suas rendas;\n\nAplicação à questão: 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … A arrecadação tributária não é um critério previsto na LOM para a divisão de distritos sanitários, que foca em aspectos demográficos e operacionais de saúde."
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt.164. As ações e os serviços de saúde realizados no Município devem observar os princípios e diretrizes\nParágrafo Único - Os limites dos distritos sanitários referidos no inciso III constarão do Plano Diretor de\nIII - organização de distritos sanitários com alocação de infraestrutura, equipamentos e pessoal, recursos\nSaúde e serão fiados segundo os seguintes critérios:\n\nArt. 36. Cabe a Câmara Municipal, com a sanção do Prefeito, dispor sobre todas as matérias de\nIX - organização administrativa municipal, criação, transformação e extinção de cargos, empregos e funções\nXI - aprovação do Plano Diretor e demais Planos e Programas de Governo Municipal;\nI - tributos municipais, arrecadação e dispêndio de suas rendas;\n\nAplicação à questão: A arrecadação tributária não é um critério previsto na LOM para a divisão de distritos sanitários, que foca em aspectos demográficos e operacionais de saúde."
   }
 }
 ```
@@ -4161,7 +4161,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "A",
       "text": "Apenas I e III.",
       "is_correct": false,
-      "explanation": "A assertiva II também está correta. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A assertiva II também está correta."
     },
     {
       "id": "B",
@@ -4185,7 +4185,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Apenas II.",
       "is_correct": false,
-      "explanation": "As demais alternativas também estão corretas. ARROW-LEFT VOLTAR À QUESTÃO 821"
+      "explanation": "As demais alternativas também estão corretas."
     }
   ],
   "answer_key": "D",
@@ -4223,7 +4223,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "B",
-      "text": "A expedição do habite-se fica condicionada à conclusão da infraestrutura, admitindo- se o habite-se parcial em prédios multifamiliares se as áreas comuns estiverem 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e … prontas.",
+      "text": "A expedição do habite-se fica condicionada à conclusão da infraestrutura, admitindo- se o habite-se parcial em prédios multifamiliares se as áreas comuns estiverem prontas.",
       "is_correct": true,
       "explanation": "Reflete exatamente a norma de controle urbanístico e habitacional do Município."
     },
@@ -4237,13 +4237,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "D",
       "text": "O Município é obrigado a conceder o habite-se parcial para qualquer tipo de residência unifamiliar que tenha o telhado concluído.",
       "is_correct": false,
-      "explanation": "A previsão de habite-se parcial é voltada para prédios multifamiliares, e não para qualquer residência com apenas o telhado pronto. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A previsão de habite-se parcial é voltada para prédios multifamiliares, e não para qualquer residência com apenas o telhado pronto."
     },
     {
       "id": "E",
       "text": "A falta de acessibilidade em prédios novos não impede a concessão do habite-se, desde que haja uma escada de incêndio.",
       "is_correct": false,
-      "explanation": "A acessibilidade é obrigatória em obras públicas e novas edificações conforme as normas vigentes, sendo requisito para a regularidade da obra. ARROW-LEFT VOLTAR À QUESTÃO 822"
+      "explanation": "A acessibilidade é obrigatória em obras públicas e novas edificações conforme as normas vigentes, sendo requisito para a regularidade da obra."
     }
   ],
   "answer_key": "B",
@@ -4299,9 +4299,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "É vedada qualquer forma de recondução para o cargo de Presidente do Conselho Municipal de Turismo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "É vedada qualquer forma de recondução para o cargo de Presidente do Conselho Municipal de Turismo.",
       "is_correct": false,
-      "explanation": "A lei permite uma única recondução para o cargo de presidente. ARROW-LEFT VOLTAR À QUESTÃO 823 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "A lei permite uma única recondução para o cargo de presidente."
     }
   ],
   "answer_key": "A",
@@ -4359,7 +4359,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "O Município é impedido por lei de reajustar tarifas de transporte individual no mesmo exercício financeiro.",
       "is_correct": false,
-      "explanation": "Não há tal impedimento; pelo contrário, há a obrigação de que ocorram juntos. ARROW-LEFT VOLTAR À QUESTÃO 824"
+      "explanation": "Não há tal impedimento; pelo contrário, há a obrigação de que ocorram juntos."
     }
   ],
   "answer_key": "C",
@@ -4387,7 +4387,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
   "subtopic": null,
   "difficulty": "medium",
   "cognitive_skill": "comprehension",
-  "question_text": "No que se refere ao cálculo dos proventos de aposentadoria no Regime Próprio de Previdência Social de Mossoró, após a reforma de 2022, assinale a alternativa que descreve corretamente a base de cálculo e a regra de proporcionalidade. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+  "question_text": "No que se refere ao cálculo dos proventos de aposentadoria no Regime Próprio de Previdência Social de Mossoró, após a reforma de 2022, assinale a alternativa que descreve corretamente a base de cálculo e a regra de proporcionalidade.",
   "alternatives": [
     {
       "id": "A",
@@ -4417,13 +4417,13 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "O valor da última remuneração do cargo efetivo, desde que o servidor tenha 10 anos de carreira e 5 anos no cargo.",
       "is_correct": false,
-      "explanation": "A regra da última remuneração (integralidade) não é mais a regra geral de cálculo para os novos benefícios previdenciários. ARROW-LEFT VOLTAR À QUESTÃO 825"
+      "explanation": "A regra da última remuneração (integralidade) não é mais a regra geral de cálculo para os novos benefícios previdenciários."
     }
   ],
   "answer_key": "D",
   "explanation": {
-    "resolution": "A reforma municipal estabeleceu a base de 85% das maiores remunerações e a regra de 60% + 2% por ano excedente aos marcos de 15/20 anos. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
-    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 10. O servidor público cujas atividades sejam exercidas com efetiva exposição a agentes químicos,\naritmética simples das remunerações adotadas como base para contribuições ao Regime Próprio de\n§1° Para o cálculo dos proventos de aposentadoria especial do caput deste artigo será utilizada a média\n§3° Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o §2°, do\n\nArt. 11-A. O servidor público municipal que tenha ingressado no serviço público em cargo efetivo até a data\naritmética simples das remunerações adotadas como base para contribuições ao Regime Próprio de\n§ 1° Para o cálculo dos proventos de aposentadoria especial do caput deste artigo será utilizada a média\n§ 2° Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o §2°, do\n\nAplicação à questão: A reforma municipal estabeleceu a base de 85% das maiores remunerações e a regra de 60% + 2% por ano excedente aos marcos de 15/20 anos. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+    "resolution": "A reforma municipal estabeleceu a base de 85% das maiores remunerações e a regra de 60% + 2% por ano excedente aos marcos de 15/20 anos.",
+    "theoretical_content": "A Lei Orgânica é a norma fundamental de organização político-administrativa do Município, elaborada no âmbito da autonomia municipal e subordinada à Constituição Federal e à Constituição do Estado. Ela disciplina fundamentos e objetivos municipais, competências locais, organização dos Poderes Executivo e Legislativo, administração pública, servidores, orçamento, políticas públicas e demais matérias de interesse local.\n\nÉ importante distinguir fundamentos, objetivos, competências e princípios. Fundamentos expressam bases estruturantes da organização municipal; objetivos indicam fins a alcançar; competências delimitam atribuições legislativas e administrativas; princípios orientam a atuação dos órgãos e agentes. O Município possui autonomia política, administrativa e financeira, mas não soberania: deve atuar dentro das competências constitucionais.\n\nNa análise de dispositivos da Lei Orgânica, observe o texto consolidado e as emendas que o modificaram. Regras sobre símbolos oficiais, publicidade institucional, processo legislativo, fiscalização, servidores e previdência podem ter redações locais específicas. Para resolver questões, identifique o sujeito competente, a condição exigida, o prazo, a exceção e o efeito jurídico descrito no artigo correspondente.\n\nDispositivos legais diretamente relacionados (transcrição/recorte dos documentos fornecidos):\nArt. 10. O servidor público cujas atividades sejam exercidas com efetiva exposição a agentes químicos,\naritmética simples das remunerações adotadas como base para contribuições ao Regime Próprio de\n§1° Para o cálculo dos proventos de aposentadoria especial do caput deste artigo será utilizada a média\n§3° Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o §2°, do\n\nArt. 11-A. O servidor público municipal que tenha ingressado no serviço público em cargo efetivo até a data\naritmética simples das remunerações adotadas como base para contribuições ao Regime Próprio de\n§ 1° Para o cálculo dos proventos de aposentadoria especial do caput deste artigo será utilizada a média\n§ 2° Os proventos de aposentadoria não poderão ser inferiores ao valor mínimo a que se refere o §2°, do\n\nAplicação à questão: A reforma municipal estabeleceu a base de 85% das maiores remunerações e a regra de 60% + 2% por ano excedente aos marcos de 15/20 anos."
   }
 }
 ```
@@ -4457,7 +4457,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "B",
       "text": "Autorização legislativa aprovada por 2/3 (dois terços) dos membros da Câmara Municipal.",
       "is_correct": true,
-      "explanation": "Conforme as disposições finais da Lei Orgânica, a cessão de terrenos para empresas privadas em troca de obras sociais exige autorização por 2/3 dos membros da Câmara. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …"
+      "explanation": "Conforme as disposições finais da Lei Orgânica, a cessão de terrenos para empresas privadas em troca de obras sociais exige autorização por 2/3 dos membros da Câmara."
     },
     {
       "id": "C",
@@ -4467,7 +4467,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "D",
-      "text": "Autorização legislativa aprovada por 3/5 (três quintos) dos membros da Câmara Municipal. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "Autorização legislativa aprovada por 3/5 (três quintos) dos membros da Câmara Municipal.",
       "is_correct": false,
       "explanation": "O quórum de 3/5 é comum para emendas à constituição, mas para este caso a Lei Orgânica de Mossoró exige 2/3."
     },
@@ -4475,7 +4475,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
       "id": "E",
       "text": "Aprovação por maioria simples dos membros da Câmara Municipal.",
       "is_correct": false,
-      "explanation": "O quórum de maioria simples é insuficiente para este ato de disposição patrimonial. ARROW-LEFT VOLTAR À QUESTÃO 826"
+      "explanation": "O quórum de maioria simples é insuficiente para este ato de disposição patrimonial."
     }
   ],
   "answer_key": "B",
@@ -4531,9 +4531,9 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "A alíquota patronal deve ser, obrigatoriamente, o dobro da alíquota paga pelo servidor ativo. 2. Legislação 2.2. Lei Orgânica do Município de Mossoró/RN e …",
+      "text": "A alíquota patronal deve ser, obrigatoriamente, o dobro da alíquota paga pelo servidor ativo.",
       "is_correct": false,
-      "explanation": "Não há regra de proporcionalidade de ’dobro’ em relação à contribuição do servidor na legislação citada. ARROW-LEFT VOLTAR À QUESTÃO 827 2. Legislação 2.3. Lei Nº 8.429/1992 (Improbidade Administrativa)"
+      "explanation": "Não há regra de proporcionalidade de ’dobro’ em relação à contribuição do servidor na legislação citada."
     }
   ],
   "answer_key": "A",
@@ -4589,7 +4589,7 @@ Material composto por 78 questões, de Legislação sobre a Lei Orgânica do Mun
     },
     {
       "id": "E",
-      "text": "15 anos de efetivo exercício no serviço público e 10 anos no cargo efetivo. 2.2.4 Gabaritos e Comentários 750",
+      "text": "15 anos de efetivo exercício no serviço público e 10 anos no cargo efetivo.",
       "is_correct": false,
       "explanation": "Os prazos estão superestimados em relação ao texto legal."
     }
